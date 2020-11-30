@@ -45431,21 +45431,20 @@ unicode = 123F;
 },
 {
 glyphname = "qa-ethiopic";
-lastChange = "2020-11-30 05:17:02 +0000";
+lastChange = "2020-11-30 06:12:08 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 642, 0}";
+transform = "{1, 0, 0, 1, 652, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 652, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -45476,29 +45475,28 @@ unicode = 1240;
 },
 {
 glyphname = "qu-ethiopic";
-lastChange = "2020-11-29 22:03:48 +0000";
+lastChange = "2020-11-30 06:12:59 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 642, 0}";
+transform = "{1, 0, 0, 1, 662, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 },
 {
 name = hu1.accent;
-transform = "{1, 0, 0, 1, 1563, 548}";
+transform = "{1, 0, 0, 1, 1363, 548}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
-width = 1665;
+width = 1465;
 },
 {
 components = (
@@ -45528,25 +45526,24 @@ unicode = 1241;
 },
 {
 glyphname = "qi-ethiopic";
-lastChange = "2020-11-29 22:04:05 +0000";
+lastChange = "2020-11-30 06:14:06 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 642, 0}";
+transform = "{1, 0, 0, 1, 662, 0}";
 },
 {
 name = hi1.accent;
-transform = "{1, 0, 0, 1, 932, -502}";
+transform = "{1, 0, 0, 1, 952, -502}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -45581,21 +45578,20 @@ unicode = 1242;
 },
 {
 glyphname = "qaa-ethiopic";
-lastChange = "2020-11-29 22:04:21 +0000";
+lastChange = "2020-11-30 06:13:20 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{0.81915, -0.57358, 0.57358, 0.81915, 650, -2}";
+transform = "{0.81915, -0.57358, 0.57358, 0.81915, 660, -2}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 652, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -45626,21 +45622,20 @@ unicode = 1243;
 },
 {
 glyphname = "qee-ethiopic";
-lastChange = "2020-11-29 22:04:34 +0000";
+lastChange = "2020-11-30 06:14:18 +0000";
 layers = (
 {
 components = (
 {
 name = hee1.accent;
-transform = "{1, 0, 0, 1, 962, 0}";
+transform = "{1, 0, 0, 1, 972, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 652, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -45671,7 +45666,7 @@ unicode = 1244;
 },
 {
 glyphname = "qe-ethiopic";
-lastChange = "2020-11-29 22:04:50 +0000";
+lastChange = "2020-11-30 06:13:41 +0000";
 layers = (
 {
 components = (
@@ -45681,7 +45676,6 @@ transform = "{1, 0, 0, 1, 642, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
@@ -45716,21 +45710,20 @@ unicode = 1245;
 },
 {
 glyphname = "qo-ethiopic";
-lastChange = "2020-11-29 22:05:01 +0000";
+lastChange = "2020-11-30 06:13:52 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 642, 0}";
+transform = "{1, 0, 0, 1, 662, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = ho2.accent;
-transform = "{1, 0, 0, 1, 842, 1512}";
+transform = "{1, 0, 0, 1, 862, 1512}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -45761,21 +45754,20 @@ unicode = 1246;
 },
 {
 glyphname = "qwaa-ethiopic";
-lastChange = "2020-11-29 22:07:01 +0000";
+lastChange = "2020-11-30 06:14:32 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 632, 0}";
+transform = "{1, 0, 0, 1, 652, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -45783,10 +45775,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"932 -381 LINE",
-"378 -368 LINE",
-"378 -397 LINE",
-"932 -427 LINE"
+"952 -381 LINE",
+"398 -368 LINE",
+"398 -397 LINE",
+"952 -427 LINE"
 );
 }
 );
@@ -45828,25 +45820,24 @@ unicode = 124B;
 },
 {
 glyphname = "qha-ethiopic";
-lastChange = "2020-11-29 22:08:26 +0000";
+lastChange = "2020-11-30 06:14:45 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 642, 0}";
+transform = "{1, 0, 0, 1, 652, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 652, 1082}";
 },
 {
 name = hat.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 652, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -45881,33 +45872,32 @@ unicode = 1250;
 },
 {
 glyphname = "qhu-ethiopic";
-lastChange = "2020-11-29 22:09:03 +0000";
+lastChange = "2020-11-30 06:14:56 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 642, 0}";
+transform = "{1, 0, 0, 1, 662, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 },
 {
 name = hat.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 },
 {
 name = hu1.accent;
-transform = "{1, 0, 0, 1, 1339, 641}";
+transform = "{1, 0, 0, 1, 1359, 641}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
-width = 1441;
+width = 1461;
 },
 {
 components = (
@@ -45941,29 +45931,28 @@ unicode = 1251;
 },
 {
 glyphname = "qhi-ethiopic";
-lastChange = "2020-11-29 22:09:22 +0000";
+lastChange = "2020-11-30 06:15:07 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 642, 0}";
+transform = "{1, 0, 0, 1, 662, 0}";
 },
 {
 name = hi1.accent;
-transform = "{1, 0, 0, 1, 935, -479}";
+transform = "{1, 0, 0, 1, 955, -479}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 },
 {
 name = hat.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -46002,25 +45991,24 @@ unicode = 1252;
 },
 {
 glyphname = "qhaa-ethiopic";
-lastChange = "2020-11-29 22:09:42 +0000";
+lastChange = "2020-11-30 06:16:16 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{0.81915, -0.57358, 0.57358, 0.81915, 705, -90}";
+transform = "{0.81915, -0.57358, 0.57358, 0.81915, 725, -90}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 },
 {
 name = hat.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -46055,25 +46043,24 @@ unicode = 1253;
 },
 {
 glyphname = "qhee-ethiopic";
-lastChange = "2020-11-29 22:10:29 +0000";
+lastChange = "2020-11-30 06:16:10 +0000";
 layers = (
 {
 components = (
 {
 name = hee1.accent;
-transform = "{1, 0, 0, 1, 986, 0}";
+transform = "{1, 0, 0, 1, 1006, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 },
 {
 name = hat.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -46108,25 +46095,24 @@ unicode = 1254;
 },
 {
 glyphname = "qhe-ethiopic";
-lastChange = "2020-11-29 22:10:45 +0000";
+lastChange = "2020-11-30 06:16:03 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 642, 0}";
+transform = "{1, 0, 0, 1, 662, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{0.76604, 0.64279, -0.64279, 0.76604, 657, 1103}";
+transform = "{0.76604, 0.64279, -0.64279, 0.76604, 677, 1103}";
 },
 {
 name = hat.part;
-transform = "{1, 0, 0, 1, 492, 1082}";
+transform = "{1, 0, 0, 1, 512, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -46161,25 +46147,24 @@ unicode = 1255;
 },
 {
 glyphname = "qho-ethiopic";
-lastChange = "2020-11-30 01:50:45 +0000";
+lastChange = "2020-11-30 06:15:57 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 642, 0}";
+transform = "{1, 0, 0, 1, 682, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = ho2.accent;
-transform = "{1, 0, 0, 1, 835, 1502}";
+transform = "{1, 0, 0, 1, 875, 1502}";
 },
 {
 name = hat.part;
-transform = "{1, 0, 0, 1, 642, 1202}";
+transform = "{1, 0, 0, 1, 682, 1202}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -46214,25 +46199,24 @@ unicode = 1256;
 },
 {
 glyphname = "qhwaa-ethiopic";
-lastChange = "2020-11-30 01:53:50 +0000";
+lastChange = "2020-11-30 06:15:51 +0000";
 layers = (
 {
 components = (
 {
 name = leg.part;
-transform = "{1, 0, 0, 1, 642, 0}";
+transform = "{1, 0, 0, 1, 662, 0}";
 },
 {
 name = wa.base;
-transform = "{1, 0, 0, 1, -280, 0}";
 },
 {
 name = neck.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 },
 {
 name = hat.part;
-transform = "{1, 0, 0, 1, 642, 1082}";
+transform = "{1, 0, 0, 1, 662, 1082}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -46240,10 +46224,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"992 -388 LINE",
-"438 -375 LINE",
-"438 -394 LINE",
-"992 -424 LINE"
+"1012 -388 LINE",
+"458 -375 LINE",
+"458 -394 LINE",
+"1012 -424 LINE"
 );
 }
 );
@@ -51312,13 +51296,13 @@ unicode = 12EB;
 },
 {
 glyphname = "yee-ethiopic";
-lastChange = "2020-11-30 00:17:20 +0000";
+lastChange = "2020-11-30 05:31:33 +0000";
 layers = (
 {
 components = (
 {
 name = hee0.accent;
-transform = "{0.8264, 0, 0, 0.8264, 652, 376}";
+transform = "{0.8264, 0, 0, 0.8264, 732, 346}";
 },
 {
 name = ya.base;
@@ -51332,7 +51316,7 @@ width = 920;
 components = (
 {
 name = hee0.accent;
-transform = "{0.8264, 0, 0, 0.8264, 710, 396}";
+transform = "{0.8264, 0, 0, 0.8264, 730, 376}";
 },
 {
 name = ya.base;
