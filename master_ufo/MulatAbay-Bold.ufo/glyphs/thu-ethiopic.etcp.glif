@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thu-ethiopic.etcp" format="2">
+  <advance width="1941"/>
+  <anchor x="1523" y="0" name="haa"/>
+  <anchor x="1523" y="-16" name="hee"/>
+  <anchor x="1623" y="0" name="hi"/>
+  <anchor x="253" y="2" name="ho"/>
+  <anchor x="1625" y="1081" name="hu"/>
+  <anchor x="1528" y="1" name="hwa"/>
+  <outline>
+    <component base="tha-ethiopic.etcp"/>
+    <component base="_smart.hu" xOffset="1647" yOffset="-113"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tha-ethiopic.etcp</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hu</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

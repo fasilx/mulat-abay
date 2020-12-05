@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xwi-ethiopic" format="2">
+  <advance width="1435"/>
+  <unicode hex="128A"/>
+  <anchor x="418" y="1177" name="hat"/>
+  <anchor x="579" y="1173" name="hat.002"/>
+  <anchor x="1014" y="-56" name="hee"/>
+  <anchor x="1073" y="125" name="hi"/>
+  <anchor x="1112" y="681" name="hu"/>
+  <anchor x="953" y="3" name="hwa"/>
+  <anchor x="559" y="935" name="neck"/>
+  <anchor x="182" y="1235" name="nose"/>
+  <anchor x="436" y="931" name="shoulder"/>
+  <outline>
+    <contour>
+      <point x="1132" y="663" type="line"/>
+      <point x="1132" y="572" type="line"/>
+      <point x="1283" y="572" type="line"/>
+      <point x="1283" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="1218" y="766" type="line"/>
+      <point x="1218" y="371" type="line"/>
+      <point x="1284" y="371" type="line"/>
+      <point x="1284" y="766" type="line"/>
+    </contour>
+    <contour>
+      <point x="1239" y="471" type="line"/>
+      <point x="1239" y="371" type="line"/>
+      <point x="1375" y="371" type="line"/>
+      <point x="1375" y="471" type="line"/>
+    </contour>
+    <component base="ga.base" xOffset="267"/>
+    <component base="_smart.shoulder" xOffset="447" yOffset="1004"/>
+    <component base="_smart.nose" xOffset="12" yOffset="1134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ga.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.shoulder</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.nose</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

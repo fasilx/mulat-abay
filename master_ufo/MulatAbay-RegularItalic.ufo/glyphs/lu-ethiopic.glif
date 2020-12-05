@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lu-ethiopic" format="2">
+  <advance width="1254"/>
+  <unicode hex="1209"/>
+  <anchor x="728" y="12" name="haa"/>
+  <anchor x="11" y="585" name="he"/>
+  <anchor x="733" y="0" name="hee"/>
+  <anchor x="822" y="93" name="hi"/>
+  <anchor x="946" y="667" name="hu"/>
+  <anchor x="717" y="2" name="hwa"/>
+  <outline>
+    <component base="la.base"/>
+    <component base="_smart.hu" xOffset="908" yOffset="-539"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hu</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

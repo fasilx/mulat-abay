@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_nya.hat" format="2">
+  <anchor x="846" y="1085" name="_hu"/>
+  <outline>
+    <contour>
+      <point x="73" y="1748" type="line"/>
+      <point x="49" y="1612" type="line"/>
+      <point x="524" y="1612" type="line"/>
+      <point x="548" y="1748" type="line"/>
+    </contour>
+  </outline>
+</glyph>

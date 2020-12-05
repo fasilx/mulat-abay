@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gaa-ethiopic.etcp" format="2">
+  <advance width="1002"/>
+  <anchor x="490" y="1664" name="hat.cap"/>
+  <anchor x="528" y="-12" name="hee"/>
+  <anchor x="652" y="15" name="hi"/>
+  <anchor x="801" y="998" name="hu"/>
+  <anchor x="471" y="1465" name="neck.cap"/>
+  <outline>
+    <component base="ga-ethiopic.etcp"/>
+    <component base="acute" xOffset="429" yOffset="-1533"/>
+  </outline>
+</glyph>

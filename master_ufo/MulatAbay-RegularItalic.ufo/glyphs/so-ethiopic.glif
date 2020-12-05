@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="so-ethiopic" format="2">
+  <advance width="1130"/>
+  <unicode hex="1236"/>
+  <anchor x="712" y="8" name="haa"/>
+  <anchor x="627" y="1382" name="hat"/>
+  <anchor x="282" y="1371" name="hat.001"/>
+  <anchor x="567" y="329" name="hee"/>
+  <anchor x="849" y="12" name="hi"/>
+  <anchor x="55" y="21" name="ho"/>
+  <anchor x="906" y="673" name="hu"/>
+  <anchor x="719" y="-6" name="hwa"/>
+  <anchor x="595" y="1114" name="neck"/>
+  <outline>
+    <component base="ba.base"/>
+    <component base="_smart.neck" xOffset="789" yOffset="1138"/>
+    <component base="_smart.ho" xOffset="180" yOffset="-329"/>
+  </outline>
+</glyph>

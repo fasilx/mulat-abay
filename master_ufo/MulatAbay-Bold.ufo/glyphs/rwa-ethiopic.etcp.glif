@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rwa-ethiopic.etcp" format="2">
+  <advance width="1149"/>
+  <outline>
+    <contour>
+      <point x="80" y="1298" type="line"/>
+      <point x="552" y="1298" type="line"/>
+      <point x="552" y="1458" type="line"/>
+      <point x="80" y="1458" type="line"/>
+    </contour>
+    <component base="raa-ethiopic.etcp"/>
+  </outline>
+</glyph>

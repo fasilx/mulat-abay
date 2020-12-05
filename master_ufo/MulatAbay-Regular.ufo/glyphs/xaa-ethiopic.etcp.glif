@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xaa-ethiopic.etcp" format="2">
+  <advance width="1223"/>
+  <anchor x="981" y="-33" name="hee"/>
+  <anchor x="1091" y="-4" name="hi"/>
+  <anchor x="1086" y="975" name="hu"/>
+  <outline>
+    <component base="acute" xScale="0.9483" yScale="0.9864" xOffset="568" yOffset="-1515"/>
+    <component base="na-ethiopic.etcp" xOffset="241"/>
+    <component base="dotaccent" xOffset="-69" yOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>na-ethiopic.etcp</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

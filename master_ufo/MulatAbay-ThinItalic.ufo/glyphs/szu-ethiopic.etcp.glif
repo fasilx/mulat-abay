@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="szu-ethiopic.etcp" format="2">
+  <advance width="1817"/>
+  <anchor x="1136" y="7" name="haa"/>
+  <anchor x="1131" y="-23" name="hee"/>
+  <anchor x="1270" y="9" name="hi"/>
+  <anchor x="308" y="6" name="ho"/>
+  <anchor x="1689" y="1086" name="hu"/>
+  <anchor x="1148" y="5" name="hwa"/>
+  <outline>
+    <component base="sza-ethiopic.etcp"/>
+    <component base="_smart.hu" xOffset="1601" yOffset="-121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+    </dict>
+  </lib>
+</glyph>

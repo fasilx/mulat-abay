@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nywa-ethiopic.etcp" format="2">
+  <advance width="1203"/>
+  <outline>
+    <component base="nwa-ethiopic.etcp"/>
+    <component base="_nya.hat" xOffset="593" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_nya.hat</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

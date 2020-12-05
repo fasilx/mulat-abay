@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ten-ethiopic" format="2">
+  <advance width="1150"/>
+  <unicode hex="1372"/>
+  <outline>
+    <contour>
+      <point x="801" y="1458" type="line"/>
+      <point x="770" y="1458" type="line"/>
+      <point x="512" y="1114" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="801" y="0" type="line"/>
+    </contour>
+    <component base="_num.bar"/>
+  </outline>
+</glyph>

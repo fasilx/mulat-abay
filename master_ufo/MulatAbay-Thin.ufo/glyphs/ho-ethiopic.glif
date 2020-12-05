@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ho-ethiopic" format="2">
+  <advance width="1129"/>
+  <unicode hex="1206"/>
+  <outline>
+    <contour>
+      <point x="760" y="783" type="curve" smooth="yes"/>
+      <point x="856" y="783"/>
+      <point x="931" y="857"/>
+      <point x="931" y="953" type="curve" smooth="yes"/>
+      <point x="931" y="1049"/>
+      <point x="856" y="1127"/>
+      <point x="760" y="1127" type="curve" smooth="yes"/>
+      <point x="667" y="1127"/>
+      <point x="589" y="1053"/>
+      <point x="589" y="953" type="curve" smooth="yes"/>
+      <point x="589" y="853"/>
+      <point x="668" y="783"/>
+    </contour>
+    <contour>
+      <point x="760" y="837" type="curve" smooth="yes"/>
+      <point x="692" y="837"/>
+      <point x="643" y="884"/>
+      <point x="643" y="953" type="curve" smooth="yes"/>
+      <point x="643" y="1025"/>
+      <point x="692" y="1073"/>
+      <point x="760" y="1073" type="curve" smooth="yes"/>
+      <point x="828" y="1073"/>
+      <point x="877" y="1025"/>
+      <point x="877" y="953" type="curve" smooth="yes"/>
+      <point x="877" y="884"/>
+      <point x="828" y="837"/>
+    </contour>
+    <component base="ha.base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>

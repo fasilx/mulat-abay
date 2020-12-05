@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyaa-ethiopic" format="2">
+  <advance width="949"/>
+  <unicode hex="129B"/>
+  <anchor x="139" y="1011" name="shoulder"/>
+  <anchor x="593" y="1278" name="hat"/>
+  <anchor x="632" y="-26" name="hwa"/>
+  <anchor x="614" y="-75" name="leg"/>
+  <outline>
+    <component base="naa-ethiopic"/>
+    <component base="_smart.hat" xOffset="227" yOffset="1266"/>
+  </outline>
+</glyph>

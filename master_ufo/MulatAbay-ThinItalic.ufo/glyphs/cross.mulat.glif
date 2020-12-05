@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cross.mulat" format="2">
+  <advance width="642"/>
+  <outline>
+    <contour>
+      <point x="-804" y="-368" type="line"/>
+      <point x="-305" y="-368" type="line"/>
+      <point x="-287" y="-268" type="line"/>
+      <point x="-415" y="-268" type="line"/>
+      <point x="-332" y="6" type="line"/>
+      <point x="-512" y="6" type="line"/>
+      <point x="-568" y="-268" type="line"/>
+      <point x="-786" y="-268" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <advance width="1117"/>
+  <unicode hex="03C5"/>
+  <note>
+uni03C5
+</note>
+  <outline>
+    <contour>
+      <point x="310" y="-20" type="curve" smooth="yes"/>
+      <point x="575" y="-20"/>
+      <point x="772" y="194"/>
+      <point x="830" y="523" type="curve" smooth="yes"/>
+      <point x="865" y="720"/>
+      <point x="869" y="859"/>
+      <point x="830" y="1082" type="curve"/>
+      <point x="764" y="1082" type="line"/>
+      <point x="806" y="899"/>
+      <point x="811" y="711"/>
+      <point x="777" y="520" type="curve" smooth="yes"/>
+      <point x="725" y="224"/>
+      <point x="548" y="34"/>
+      <point x="317" y="34" type="curve" smooth="yes"/>
+      <point x="140" y="34"/>
+      <point x="61" y="152"/>
+      <point x="97" y="375" type="curve" smooth="yes"/>
+      <point x="222" y="1082" type="line"/>
+      <point x="168" y="1082" type="line"/>
+      <point x="45" y="387" type="line" smooth="yes"/>
+      <point x="-1" y="122"/>
+      <point x="90" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 3 values pushed */
+14 19 20 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHB[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+0 26 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+8 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+8 26 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+14 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+14 18 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 2 values pushed */
+3 1 
+PUSHB[ ]	/* 1 value pushed */
+10 
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

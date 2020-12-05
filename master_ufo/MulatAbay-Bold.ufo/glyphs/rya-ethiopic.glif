@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rya-ethiopic" format="2">
+  <advance width="956"/>
+  <unicode hex="1358"/>
+  <anchor x="765" y="606" name="hee"/>
+  <anchor x="540" y="-70" name="hu"/>
+  <outline>
+    <contour>
+      <point x="9" y="1218" type="line"/>
+      <point x="9" y="1082" type="line"/>
+      <point x="549" y="1082" type="line"/>
+      <point x="549" y="1218" type="line"/>
+    </contour>
+    <component base="ri-ethiopic"/>
+  </outline>
+</glyph>

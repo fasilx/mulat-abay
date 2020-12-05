@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ze-ethiopic.etcp" format="2">
+  <advance width="1544"/>
+  <anchor x="1083" y="20" name="haa"/>
+  <anchor x="1080" y="-31" name="hee"/>
+  <anchor x="1203" y="24" name="hi"/>
+  <anchor x="121" y="29" name="ho"/>
+  <anchor x="1382" y="1082" name="hu"/>
+  <anchor x="1105" y="7" name="hwa"/>
+  <outline>
+    <component base="za-ethiopic.etcp" xOffset="84"/>
+    <component base="dotaccent" xOffset="-26" yOffset="132"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>za-ethiopic.etcp</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

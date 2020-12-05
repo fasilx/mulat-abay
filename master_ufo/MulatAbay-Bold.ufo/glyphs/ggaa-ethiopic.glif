@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ggaa-ethiopic" format="2">
+  <advance width="1010"/>
+  <unicode hex="131B"/>
+  <anchor x="227" y="1177" name="hat"/>
+  <anchor x="388" y="1173" name="hat.002"/>
+  <anchor x="823" y="-56" name="hee"/>
+  <anchor x="882" y="125" name="hi"/>
+  <anchor x="921" y="681" name="hu"/>
+  <anchor x="762" y="3" name="hwa"/>
+  <anchor x="368" y="935" name="neck"/>
+  <anchor x="-9" y="1235" name="nose"/>
+  <anchor x="245" y="931" name="shoulder"/>
+  <outline>
+    <component base="ga.base" xOffset="76"/>
+    <component base="_smart.neck" xOffset="367" yOffset="959"/>
+    <component base="_smart.hat.002" xOffset="-153" yOffset="1165"/>
+    <component base="acute" xOffset="306" yOffset="-1530"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ga.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.neck</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.hat.002</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

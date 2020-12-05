@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar.mulat" format="2">
+  <advance width="642"/>
+  <outline>
+    <contour>
+      <point x="1436" y="-288" type="line"/>
+      <point x="1490" y="-288" type="line"/>
+      <point x="1504" y="6" type="line"/>
+      <point x="1444" y="6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

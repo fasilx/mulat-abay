@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pwa-ethiopic.etcp" format="2">
+  <advance width="1222"/>
+  <outline>
+    <contour>
+      <point x="771" y="-289" type="line"/>
+      <point x="953" y="-289" type="line"/>
+      <point x="967" y="3" type="line"/>
+      <point x="623" y="3" type="line"/>
+      <point x="641" y="2" type="line"/>
+      <point x="636" y="266" type="line"/>
+      <point x="586" y="266" type="line"/>
+      <point x="598" y="2" type="line"/>
+      <point x="280" y="2" type="line"/>
+      <point x="280" y="-138" type="line"/>
+      <point x="765" y="-138" type="line"/>
+    </contour>
+    <component base="pa-ethiopic.etcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

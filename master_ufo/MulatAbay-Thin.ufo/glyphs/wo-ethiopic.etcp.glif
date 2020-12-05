@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wo-ethiopic.etcp" format="2">
+  <advance width="1704"/>
+  <anchor x="856.707" y="25.0" name="haa"/>
+  <anchor x="846" y="1681" name="hat.cap"/>
+  <anchor x="876.477" y="-81.0" name="hee"/>
+  <anchor x="952" y="-291" name="hi"/>
+  <anchor x="1340" y="329" name="hu"/>
+  <anchor x="854.824" y="5.0" name="hwa"/>
+  <anchor x="835.996" y="1466.0" name="neck.cap"/>
+  <outline>
+    <component base="wa-ethiopic.etcp"/>
+    <component base="acute" xOffset="500" yOffset="-1600"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

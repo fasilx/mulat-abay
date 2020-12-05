@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question-ethiopic" format="2">
+  <advance width="556"/>
+  <unicode hex="1367"/>
+  <outline>
+    <component base="colon" xOffset="30"/>
+    <component base="dotaccent" xOffset="31" yOffset="-787"/>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nye-ethiopic.etcp" format="2">
+  <advance width="983"/>
+  <outline>
+    <contour>
+      <point x="419" y="1373" type="line"/>
+      <point x="536" y="1373" type="line"/>
+      <point x="536" y="1634" type="line"/>
+      <point x="419" y="1634" type="line"/>
+    </contour>
+    <component base="ne-ethiopic.etcp"/>
+    <component base="_nya.hat" xOffset="260" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ne-ethiopic.etcp</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_nya.hat</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

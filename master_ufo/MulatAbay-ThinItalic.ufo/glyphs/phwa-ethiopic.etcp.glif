@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phwa-ethiopic.etcp" format="2">
+  <advance width="1260"/>
+  <anchor x="925" y="25" name="haa"/>
+  <anchor x="1157" y="1088" name="he"/>
+  <anchor x="874" y="-12" name="hee"/>
+  <anchor x="971" y="22" name="hi"/>
+  <anchor x="0" y="20" name="ho"/>
+  <anchor x="1005" y="638" name="hu"/>
+  <anchor x="911" y="11" name="hwa"/>
+  <anchor x="721" y="1483" name="neck.cap"/>
+  <outline>
+    <component base="tswa-ethiopic.etcp"/>
+    <component base="_smart.neck.cap" xOffset="371" yOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>S</string>
+    </dict>
+  </lib>
+</glyph>

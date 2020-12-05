@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nye-ethiopic.etcp" format="2">
+  <advance width="983"/>
+  <outline>
+    <contour>
+      <point x="470" y="1373" type="line"/>
+      <point x="587" y="1373" type="line"/>
+      <point x="633" y="1634" type="line"/>
+      <point x="516" y="1634" type="line"/>
+    </contour>
+    <component base="ne-ethiopic.etcp"/>
+    <component base="_nya.hat" xOffset="260" yOffset="10"/>
+  </outline>
+</glyph>

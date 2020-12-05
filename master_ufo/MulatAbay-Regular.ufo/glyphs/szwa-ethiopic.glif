@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="szwa-ethiopic" format="2">
+  <advance width="1789"/>
+  <unicode hex="1227"/>
+  <anchor x="1515" y="6" name="haa"/>
+  <anchor x="1533" y="-140" name="hee"/>
+  <anchor x="1644" y="13" name="hi"/>
+  <anchor x="1684" y="664" name="hu"/>
+  <anchor x="1533" y="-2" name="hwa"/>
+  <outline>
+    <component base="sa.base" xOffset="-6"/>
+    <component base="_smart.hwa" xOffset="1533" yOffset="-370"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sa.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hwa</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

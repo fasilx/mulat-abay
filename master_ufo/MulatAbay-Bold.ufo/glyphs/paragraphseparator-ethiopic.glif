@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraphseparator-ethiopic" format="2">
+  <advance width="1337"/>
+  <unicode hex="1368"/>
+  <outline>
+    <contour>
+      <point x="726" y="416" type="curve" smooth="yes"/>
+      <point x="818" y="416"/>
+      <point x="874" y="472"/>
+      <point x="874" y="552" type="curve" smooth="yes"/>
+      <point x="874" y="632"/>
+      <point x="818" y="689"/>
+      <point x="726" y="689" type="curve" smooth="yes"/>
+      <point x="637" y="689"/>
+      <point x="578" y="632"/>
+      <point x="578" y="552" type="curve" smooth="yes"/>
+      <point x="578" y="472"/>
+      <point x="635" y="416"/>
+    </contour>
+    <component base="period" xScale="0.57358" xyScale="-0.81915" yxScale="0.81915" yScale="0.57358" xOffset="73" yOffset="447"/>
+    <component base="period" xScale="0.57358" xyScale="-0.81915" yxScale="0.81915" yScale="0.57358" xOffset="797" yOffset="953"/>
+    <component base="period" xScale="-0.48481" xyScale="-0.87462" yxScale="0.87462" yScale="-0.48481" xOffset="319" yOffset="1029"/>
+    <component base="period" xScale="-0.48481" xyScale="-0.87462" yxScale="0.87462" yScale="-0.48481" xOffset="1091" yOffset="600"/>
+    <component base="period" xOffset="406"/>
+    <component base="period" xOffset="407" yOffset="883"/>
+  </outline>
+</glyph>

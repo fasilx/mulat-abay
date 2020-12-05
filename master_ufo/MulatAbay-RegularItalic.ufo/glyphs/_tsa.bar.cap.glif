@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_tsa.bar.cap" format="2">
+  <advance width="1094"/>
+  <anchor x="503" y="-24" name="_hwa"/>
+  <outline>
+    <component base="minus" xOffset="170" yOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>minus</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

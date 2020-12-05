@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_cha.shoes" format="2">
+  <advance width="1115"/>
+  <anchor x="157" y="-11" name="_ho"/>
+  <outline>
+    <component base="dotaccent" xOffset="1302" yOffset="-1365"/>
+    <component base="dotaccent" xOffset="80" yOffset="-1367"/>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="du-ethiopic.etcp" format="2">
+  <advance width="1708"/>
+  <anchor x="1283" y="-90" name="haa"/>
+  <anchor x="609" y="1657" name="hat.cap"/>
+  <anchor x="1090" y="900" name="he"/>
+  <anchor x="1180.557" y="-30.0" name="hee"/>
+  <anchor x="1280" y="25" name="hi"/>
+  <anchor x="251" y="11" name="ho"/>
+  <anchor x="1094.812" y="329.0" name="hu"/>
+  <anchor x="1284" y="-71" name="hwa"/>
+  <anchor x="673.409" y="1463.0" name="neck.cap"/>
+  <outline>
+    <component base="da-ethiopic.etcp"/>
+    <component base="_smart.hu" xOffset="1387" yOffset="-865"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hu</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+    </dict>
+  </lib>
+</glyph>

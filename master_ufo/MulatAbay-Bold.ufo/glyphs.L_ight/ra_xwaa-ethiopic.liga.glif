@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra_xwaa-ethiopic.liga" format="2">
+  <advance width="555"/>
+  <outline>
+    <contour>
+      <point x="467" y="-200" type="line"/>
+      <point x="518" y="-200" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="442" y="483" type="line" smooth="yes"/>
+      <point x="442" y="584"/>
+      <point x="442" y="584"/>
+      <point x="387" y="584" type="curve" smooth="yes"/>
+      <point x="267" y="584" type="line"/>
+      <point x="267" y="800" type="line"/>
+      <point x="219" y="800" type="line"/>
+      <point x="219" y="714" type="line"/>
+      <point x="158" y="714" type="line"/>
+      <point x="158" y="611" type="line"/>
+      <point x="219" y="611" type="line"/>
+      <point x="219" y="556" type="line" smooth="yes"/>
+      <point x="219" y="526"/>
+      <point x="229" y="504"/>
+      <point x="244" y="504" type="curve" smooth="yes"/>
+      <point x="364" y="504" type="line" smooth="yes"/>
+      <point x="393" y="504"/>
+      <point x="393" y="504"/>
+      <point x="393" y="306" type="curve" smooth="yes"/>
+      <point x="393" y="0" type="line"/>
+      <point x="331" y="0" type="line"/>
+      <point x="331" y="-62" type="line"/>
+      <point x="467" y="-62" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="-1" type="line"/>
+      <point x="262" y="87" type="line"/>
+      <point x="130" y="86" type="line" smooth="yes"/>
+      <point x="91" y="86"/>
+      <point x="83" y="93"/>
+      <point x="83" y="233" type="curve" smooth="yes"/>
+      <point x="83" y="584" type="line"/>
+      <point x="37" y="584" type="line"/>
+      <point x="37" y="147" type="line" smooth="yes"/>
+      <point x="37" y="58"/>
+      <point x="59" y="0"/>
+      <point x="85" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

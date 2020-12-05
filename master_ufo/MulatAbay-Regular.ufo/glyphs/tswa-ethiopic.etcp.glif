@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tswa-ethiopic.etcp" format="2">
+  <advance width="1271"/>
+  <anchor x="989" y="11" name="haa"/>
+  <anchor x="935" y="1088" name="he"/>
+  <anchor x="1005" y="-12" name="hee"/>
+  <anchor x="1097" y="22" name="hi"/>
+  <anchor x="173" y="20" name="ho"/>
+  <anchor x="1002" y="638" name="hu"/>
+  <anchor x="1038" y="11" name="hwa"/>
+  <anchor x="587" y="1483" name="neck.cap"/>
+  <outline>
+    <component base="tsa-ethiopic.etcp"/>
+    <component base="_smart.hwa" xOffset="1038" yOffset="-357"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tsa-ethiopic.etcp</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hwa</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>S</string>
+    </dict>
+  </lib>
+</glyph>

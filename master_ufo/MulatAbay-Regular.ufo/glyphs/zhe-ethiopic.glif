@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-ethiopic" format="2">
+  <advance width="1347"/>
+  <unicode hex="12E5"/>
+  <anchor x="987" y="6" name="haa"/>
+  <anchor x="769" y="328" name="hee"/>
+  <anchor x="1115" y="7" name="hi"/>
+  <anchor x="360" y="-9" name="ho"/>
+  <anchor x="1105" y="681" name="hu"/>
+  <anchor x="1002" y="0" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="107" y="1129" type="line"/>
+      <point x="422" y="1129" type="line"/>
+      <point x="422" y="1231" type="line"/>
+      <point x="107" y="1231" type="line"/>
+    </contour>
+    <component base="za.base" xOffset="95"/>
+    <component base="_zha.ears" xOffset="1210"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>za.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_zha.ears</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

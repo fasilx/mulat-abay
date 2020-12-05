@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xwaa-ethiopic.etcp" format="2">
+  <advance width="1390"/>
+  <anchor x="1032.3890000000001" y="-33.0" name="hee"/>
+  <anchor x="1149.433" y="-4.0" name="hi"/>
+  <anchor x="1144" y="1025" name="hu"/>
+  <outline>
+    <contour>
+      <point x="1198" y="-394" type="line"/>
+      <point x="1240" y="-394" type="line"/>
+      <point x="1250" y="-100" type="line"/>
+      <point x="1248" y="-100" type="line"/>
+      <point x="1248" y="2" type="line"/>
+      <point x="846" y="2" type="line"/>
+      <point x="966" y="-50" type="line"/>
+      <point x="1186" y="-50" type="line"/>
+    </contour>
+    <component base="na-ethiopic.etcp" xOffset="245"/>
+    <component base="dotaccent"/>
+  </outline>
+</glyph>

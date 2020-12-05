@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_hha.neck.cap" format="2">
+  <advance width="1788"/>
+  <outline>
+    <contour>
+      <point x="806" y="678" type="line"/>
+      <point x="975" y="678" type="line"/>
+      <point x="973" y="1572" type="line"/>
+      <point x="809" y="1572" type="line"/>
+    </contour>
+  </outline>
+</glyph>

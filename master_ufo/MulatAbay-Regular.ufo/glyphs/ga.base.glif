@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ga.base" format="2">
+  <advance width="858"/>
+  <anchor x="238" y="1207" name="hat"/>
+  <anchor x="286.612" y="1173" name="hat.002"/>
+  <anchor x="794" y="14" name="hee"/>
+  <anchor x="653" y="15" name="hi"/>
+  <anchor x="715" y="681" name="hu"/>
+  <anchor x="641" y="3" name="hwa"/>
+  <anchor x="299" y="968" name="neck"/>
+  <anchor x="2" y="1235" name="nose"/>
+  <anchor x="156" y="1011" name="shoulder"/>
+  <outline>
+    <contour>
+      <point x="533" y="-1" type="line"/>
+      <point x="719" y="-1" type="line"/>
+      <point x="719" y="557" type="line" smooth="yes"/>
+      <point x="719" y="894"/>
+      <point x="587" y="1082"/>
+      <point x="337" y="1101" type="curve" smooth="yes"/>
+      <point x="231" y="1109"/>
+      <point x="105" y="1049"/>
+      <point x="41" y="1007" type="curve"/>
+      <point x="209" y="943" type="line"/>
+      <point x="230" y="954"/>
+      <point x="266" y="982"/>
+      <point x="337" y="960" type="curve" smooth="yes"/>
+      <point x="473" y="918"/>
+      <point x="529" y="811"/>
+      <point x="534" y="564" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caa-ethiopic.etcp" format="2">
+  <advance width="1217"/>
+  <anchor x="600.533" y="1612.0" name="hat.cap"/>
+  <anchor x="767.845" y="34.0" name="hee"/>
+  <anchor x="743.944" y="29.0" name="hi"/>
+  <anchor x="712.074" y="978.0" name="hu"/>
+  <anchor x="605.512" y="43.0" name="hwa"/>
+  <outline>
+    <component base="taa-ethiopic.etcp"/>
+    <component base="_smart.hat.cap" xOffset="311" yOffset="-80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>taa-ethiopic.etcp</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hat.cap</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

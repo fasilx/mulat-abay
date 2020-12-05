@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xe-ethiopic" format="2">
+  <advance width="715"/>
+  <unicode hex="1285"/>
+  <anchor x="231" y="1277" name="hat"/>
+  <anchor x="287" y="1173" name="hat.002"/>
+  <anchor x="412" y="-56" name="hee"/>
+  <anchor x="469" y="45" name="hi"/>
+  <anchor x="573" y="681" name="hu"/>
+  <anchor x="392" y="3" name="hwa"/>
+  <anchor x="234" y="1058" name="neck"/>
+  <anchor x="28" y="1235" name="nose"/>
+  <anchor x="121" y="1043" name="shoulder"/>
+  <outline>
+    <contour>
+      <point x="-12" y="1141" type="line"/>
+      <point x="-61" y="861" type="line"/>
+      <point x="-10" y="861" type="line"/>
+      <point x="39" y="1141" type="line"/>
+    </contour>
+    <component base="ga.base" xOffset="198"/>
+    <component base="_smart.shoulder" xOffset="251" yOffset="1116"/>
+    <component base="_smart.nose" xOffset="-27" yOffset="1134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ga.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.shoulder</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.nose</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

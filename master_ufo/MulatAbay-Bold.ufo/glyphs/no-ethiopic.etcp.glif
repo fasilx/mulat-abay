@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="no-ethiopic.etcp" format="2">
+  <advance width="1169"/>
+  <outline>
+    <contour>
+      <point x="834" y="-397" type="line"/>
+      <point x="1023" y="-397" type="line"/>
+      <point x="1051" y="-113" type="line"/>
+      <point x="817" y="-113" type="line"/>
+    </contour>
+    <component base="ro-ethiopic.etcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ro-ethiopic.etcp</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

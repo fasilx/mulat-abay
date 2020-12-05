@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prefacecolon-ethiopic" format="2">
+  <advance width="730"/>
+  <unicode hex="1366"/>
+  <outline>
+    <contour>
+      <point x="239" y="547" type="line"/>
+      <point x="519" y="547" type="line"/>
+      <point x="539" y="665" type="line"/>
+      <point x="259" y="665" type="line"/>
+    </contour>
+    <component base="colon" xOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>colon</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

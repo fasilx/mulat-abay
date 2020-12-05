@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ree_ggo-ethiopic.liga" format="2">
+  <advance width="1711"/>
+  <anchor x="1061" y="1207" name="hat"/>
+  <anchor x="1109.612" y="1173.0" name="hat.002"/>
+  <anchor x="817" y="556" name="hee_1"/>
+  <anchor x="1617" y="14" name="hee_2"/>
+  <anchor x="1476" y="15" name="hi"/>
+  <anchor x="650" y="-50" name="hu_1"/>
+  <anchor x="1538" y="681" name="hu_2"/>
+  <anchor x="1464" y="3" name="hwa"/>
+  <anchor x="1122" y="968" name="neck"/>
+  <anchor x="825" y="1235" name="nose"/>
+  <anchor x="979" y="1011" name="shoulder"/>
+  <outline>
+    <component base="ree-ethiopic"/>
+    <component base="ggo-ethiopic" xOffset="744"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ree-ethiopic</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ggo-ethiopic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

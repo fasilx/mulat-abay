@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_tsa.belt" format="2">
+  <outline>
+    <contour>
+      <point x="-1087" y="481" type="line"/>
+      <point x="-233" y="481" type="line"/>
+      <point x="-233" y="656" type="line"/>
+      <point x="-1087" y="656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

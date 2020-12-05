@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="du-ethiopic.etcp" format="2">
+  <advance width="1507"/>
+  <anchor x="1152" y="-50" name="haa"/>
+  <anchor x="606" y="1697" name="hat.cap"/>
+  <anchor x="1045" y="900" name="he"/>
+  <anchor x="1129" y="-30" name="hee"/>
+  <anchor x="1215" y="25" name="hi"/>
+  <anchor x="248" y="11" name="ho"/>
+  <anchor x="1057" y="329" name="hu"/>
+  <anchor x="1132" y="-1" name="hwa"/>
+  <anchor x="644" y="1463" name="neck.cap"/>
+  <outline>
+    <component base="da-ethiopic.etcp"/>
+    <component base="_smart.hu" xOffset="1188" yOffset="-877"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>da-ethiopic.etcp</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hu</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+    </dict>
+  </lib>
+</glyph>

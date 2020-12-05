@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thu-ethiopic.etcp" format="2">
+  <advance width="1788"/>
+  <anchor x="1341" y="0" name="haa"/>
+  <anchor x="1329" y="-16" name="hee"/>
+  <anchor x="1432" y="0" name="hi"/>
+  <anchor x="32" y="2" name="ho"/>
+  <anchor x="1617" y="1081" name="hu"/>
+  <anchor x="1337" y="1" name="hwa"/>
+  <outline>
+    <component base="tha-ethiopic.etcp"/>
+    <component base="_smart.hu" xOffset="1529" yOffset="-126"/>
+  </outline>
+</glyph>

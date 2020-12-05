@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eGlottal-ethiopic" format="2">
+  <advance width="1179"/>
+  <unicode hex="12A5"/>
+  <anchor x="963" y="8" name="haa"/>
+  <anchor x="636" y="1382" name="hat"/>
+  <anchor x="293" y="1371" name="hat.001"/>
+  <anchor x="762" y="329" name="hee"/>
+  <anchor x="1100" y="12" name="hi"/>
+  <anchor x="304" y="21" name="ho"/>
+  <anchor x="1100" y="673" name="hu"/>
+  <anchor x="973" y="-6" name="hwa"/>
+  <anchor x="651" y="1114" name="neck"/>
+  <outline>
+    <contour>
+      <point x="60" y="1709" type="line"/>
+      <point x="60" y="1403" type="line"/>
+      <point x="192" y="1403" type="line"/>
+      <point x="192" y="1709" type="line"/>
+    </contour>
+    <component base="ba.base" xOffset="62"/>
+    <component base="_aa.neck" xOffset="1192"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ba.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_aa.neck</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

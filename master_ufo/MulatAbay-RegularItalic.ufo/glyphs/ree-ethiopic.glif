@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ree-ethiopic" format="2">
+  <advance width="984"/>
+  <unicode hex="122C"/>
+  <anchor x="724" y="556" name="hee"/>
+  <anchor x="450" y="-50" name="hu"/>
+  <outline>
+    <component base="ra.base"/>
+    <component base="_smart.hee" xOffset="857" yOffset="236"/>
+  </outline>
+</glyph>

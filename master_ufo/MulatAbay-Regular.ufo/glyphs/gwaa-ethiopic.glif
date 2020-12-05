@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gwaa-ethiopic" format="2">
+  <advance width="987"/>
+  <unicode hex="1313"/>
+  <anchor x="238" y="1207" name="hat"/>
+  <anchor x="286.612" y="1173.0" name="hat.002"/>
+  <anchor x="794" y="14" name="hee"/>
+  <anchor x="653" y="15" name="hi"/>
+  <anchor x="715" y="681" name="hu"/>
+  <anchor x="641" y="3" name="hwa"/>
+  <anchor x="299" y="968" name="neck"/>
+  <anchor x="2" y="1235" name="nose"/>
+  <anchor x="156" y="1011" name="shoulder"/>
+  <outline>
+    <contour>
+      <point x="779" y="-401" type="line"/>
+      <point x="931" y="-401" type="line"/>
+      <point x="931" y="14" type="line"/>
+      <point x="373" y="12" type="line"/>
+      <point x="373" y="-140" type="line"/>
+      <point x="779" y="-140" type="line"/>
+    </contour>
+    <component base="ga.base"/>
+  </outline>
+</glyph>

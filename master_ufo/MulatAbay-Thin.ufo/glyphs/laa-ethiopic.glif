@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="laa-ethiopic" format="2">
+  <advance width="1128"/>
+  <unicode hex="120B"/>
+  <anchor x="917" y="12" name="haa"/>
+  <anchor x="99" y="585" name="he"/>
+  <anchor x="924" y="-122" name="hee"/>
+  <anchor x="996" y="43" name="hi"/>
+  <anchor x="1039" y="667" name="hu"/>
+  <anchor x="917" y="2" name="hwa"/>
+  <outline>
+    <component base="la.base"/>
+    <component base="_smart.haa" xOffset="918" yOffset="-343"/>
+  </outline>
+</glyph>

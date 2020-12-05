@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xoa-ethiopic" format="2">
+  <advance width="949"/>
+  <unicode hex="1287"/>
+  <anchor x="558" y="1278" name="hat"/>
+  <anchor x="767" y="-26" name="hwa"/>
+  <anchor x="768" y="-15" name="leg"/>
+  <outline>
+    <contour>
+      <point x="484" y="-344" type="line"/>
+      <point x="484" y="-408" type="line"/>
+      <point x="838" y="-408" type="line"/>
+      <point x="838" y="-344" type="line"/>
+    </contour>
+    <component base="xo-ethiopic"/>
+  </outline>
+</glyph>

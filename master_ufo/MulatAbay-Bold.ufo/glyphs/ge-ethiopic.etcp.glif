@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-ethiopic.etcp" format="2">
+  <advance width="1057"/>
+  <anchor x="439.539" y="1664.0" name="hat.cap"/>
+  <anchor x="774" y="-12" name="hee"/>
+  <anchor x="894" y="15" name="hi"/>
+  <anchor x="871" y="998" name="hu"/>
+  <anchor x="455.079" y="1465.0" name="neck.cap"/>
+  <outline>
+    <component base="ga-ethiopic.etcp" xOffset="50"/>
+    <component base="ring" xOffset="-50" yOffset="-220"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ga-ethiopic.etcp</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

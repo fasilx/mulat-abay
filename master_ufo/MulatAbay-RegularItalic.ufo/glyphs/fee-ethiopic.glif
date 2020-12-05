@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fee-ethiopic" format="2">
+  <advance width="984"/>
+  <unicode hex="134C"/>
+  <anchor x="724" y="556" name="hee"/>
+  <anchor x="450" y="-50" name="hu"/>
+  <outline>
+    <component base="ra.base"/>
+    <component base="_smart.hee" xScale="-0.89879" xyScale="0.43837" yxScale="0.43837" yScale="0.89879" xOffset="581" yOffset="371"/>
+    <component base="fa.part" xOffset="984"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hee</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

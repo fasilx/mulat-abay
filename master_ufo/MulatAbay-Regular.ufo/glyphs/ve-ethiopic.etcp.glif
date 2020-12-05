@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ve-ethiopic.etcp" format="2">
+  <advance width="1501"/>
+  <anchor x="1307" y="24" name="haa"/>
+  <anchor x="814" y="1703" name="hat.cap"/>
+  <anchor x="1291" y="-47" name="hee"/>
+  <anchor x="1401" y="6" name="hi"/>
+  <anchor x="404" y="14" name="ho"/>
+  <anchor x="1365" y="1079" name="hu"/>
+  <anchor x="1266" y="21" name="hwa"/>
+  <anchor x="835" y="1468" name="neck.cap"/>
+  <outline>
+    <component base="be-ethiopic.etcp"/>
+    <component base="_smart.hat.cap" xOffset="174" yOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fa.part" format="2">
+  <outline>
+    <contour>
+      <point x="-465" y="62" type="line"/>
+      <point x="-286" y="62" type="line"/>
+      <point x="-285" y="645" type="line" smooth="yes"/>
+      <point x="-285" y="781"/>
+      <point x="-454" y="804"/>
+      <point x="-647" y="804" type="curve" smooth="yes"/>
+      <point x="-755" y="804" type="line"/>
+      <point x="-715" y="757" type="line"/>
+      <point x="-555" y="756" type="line" smooth="yes"/>
+      <point x="-485" y="756"/>
+      <point x="-465" y="664"/>
+      <point x="-465" y="530" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

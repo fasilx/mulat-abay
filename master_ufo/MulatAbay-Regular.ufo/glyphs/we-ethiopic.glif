@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="we-ethiopic" format="2">
+  <advance width="1759"/>
+  <unicode hex="12CD"/>
+  <anchor x="787" y="11" name="haa"/>
+  <anchor x="758" y="1341" name="hat"/>
+  <anchor x="1009" y="-165" name="hee"/>
+  <anchor x="1461.454" y="657.0" name="hu"/>
+  <anchor x="751.231" y="-25.0" name="hwa"/>
+  <anchor x="752.098" y="-25.0" name="leg"/>
+  <anchor x="758.499" y="1102.0" name="neck"/>
+  <outline>
+    <component base="wa.base"/>
+    <component base="dotaccent" xOffset="1324" yOffset="-774"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>wa.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

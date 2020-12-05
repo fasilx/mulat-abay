@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xu-ethiopic.etcp" format="2">
+  <advance width="1080"/>
+  <anchor x="591" y="-33" name="hee"/>
+  <anchor x="713" y="-4" name="hi"/>
+  <anchor x="889" y="1025" name="hu"/>
+  <outline>
+    <component base="nu-ethiopic.etcp"/>
+    <component base="dotaccent" xOffset="-110"/>
+  </outline>
+</glyph>

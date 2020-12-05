@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aaGlottal-ethiopic" format="2">
+  <advance width="1076"/>
+  <unicode hex="12A3"/>
+  <anchor x="730" y="8" name="haa"/>
+  <anchor x="627" y="1382" name="hat"/>
+  <anchor x="286" y="1372" name="hat.001"/>
+  <anchor x="751" y="-1" name="hee"/>
+  <anchor x="850" y="12" name="hi"/>
+  <anchor x="5" y="21" name="ho"/>
+  <anchor x="957" y="673" name="hu"/>
+  <anchor x="738" y="9" name="hwa"/>
+  <anchor x="595" y="1114" name="neck"/>
+  <outline>
+    <component base="ba.base"/>
+    <component base="_aa.neck" xOffset="1130"/>
+    <component base="_smart.haa" xOffset="859" yOffset="-347"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ba.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_aa.neck</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.haa</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

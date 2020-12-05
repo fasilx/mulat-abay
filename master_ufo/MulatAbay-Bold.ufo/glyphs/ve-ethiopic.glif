@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ve-ethiopic" format="2">
+  <advance width="1342"/>
+  <unicode hex="126D"/>
+  <anchor x="1123" y="8" name="haa"/>
+  <anchor x="786" y="1382" name="hat"/>
+  <anchor x="436" y="1372" name="hat.001"/>
+  <anchor x="1123" y="-91" name="hee"/>
+  <anchor x="1250" y="12" name="hi"/>
+  <anchor x="426" y="21" name="ho"/>
+  <anchor x="1250" y="673" name="hu"/>
+  <anchor x="1113" y="-3" name="hwa"/>
+  <anchor x="801" y="1114" name="neck"/>
+  <outline>
+    <component base="ba.base" xOffset="212"/>
+    <component base="_va.hat" xOffset="1342"/>
+    <component base="dotaccent" xOffset="-198" yOffset="-600"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ba.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_va.hat</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

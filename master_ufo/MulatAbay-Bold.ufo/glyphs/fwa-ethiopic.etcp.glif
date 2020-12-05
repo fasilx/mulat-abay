@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fwa-ethiopic.etcp" format="2">
+  <advance width="1119"/>
+  <outline>
+    <contour>
+      <point x="940" y="-392" type="line"/>
+      <point x="930" y="-329" type="line"/>
+      <point x="801" y="-332" type="line"/>
+      <point x="807" y="-14" type="line"/>
+      <point x="663" y="-14" type="line"/>
+      <point x="658" y="-336" type="line"/>
+      <point x="466" y="-339" type="line"/>
+      <point x="466" y="-383" type="line"/>
+    </contour>
+    <component base="re-ethiopic.etcp" xOffset="-58"/>
+    <component base="fa.part" xOffset="1011" yOffset="107"/>
+  </outline>
+</glyph>

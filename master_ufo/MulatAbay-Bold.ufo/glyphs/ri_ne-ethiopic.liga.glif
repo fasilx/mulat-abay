@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ri_ne-ethiopic.liga" format="2">
+  <advance width="1731"/>
+  <note>
+uni1295
+</note>
+  <anchor x="794" y="606" name="hee"/>
+  <anchor x="569" y="-70" name="hu"/>
+  <outline>
+    <component base="ri-ethiopic" xOffset="29"/>
+    <component base="ne-ethiopic" xOffset="667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ri-ethiopic</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ne-ethiopic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

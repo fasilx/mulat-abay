@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iGlottal-ethiopic.etcp" format="2">
+  <advance width="1304"/>
+  <outline>
+    <component base="aGlottal-ethiopic.etcp"/>
+    <component base="dotaccent" xOffset="910" yOffset="-1250"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

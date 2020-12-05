@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bu-ethiopic.etcp" format="2">
+  <advance width="1508"/>
+  <anchor x="1104" y="24" name="haa"/>
+  <anchor x="641" y="1703" name="hat.cap"/>
+  <anchor x="1118" y="-47" name="hee"/>
+  <anchor x="1228" y="6" name="hi"/>
+  <anchor x="231" y="14" name="ho"/>
+  <anchor x="1192" y="1079" name="hu"/>
+  <anchor x="1093" y="21" name="hwa"/>
+  <anchor x="662" y="1468" name="neck.cap"/>
+  <outline>
+    <component base="ba-ethiopic.etcp"/>
+    <component base="_smart.hu" xOffset="1214" yOffset="-115"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ba-ethiopic.etcp</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hu</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

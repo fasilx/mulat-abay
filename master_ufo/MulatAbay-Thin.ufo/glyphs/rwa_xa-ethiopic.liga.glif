@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rwa_xa-ethiopic.liga" format="2">
+  <advance width="1678"/>
+  <note>
+uni1280
+</note>
+  <anchor x="998" y="1277" name="hat"/>
+  <anchor x="1071.55" y="1173.0" name="hat.002"/>
+  <anchor x="921" y="506" name="hee_1"/>
+  <anchor x="1414" y="-56" name="hee_2"/>
+  <anchor x="1453" y="45" name="hi"/>
+  <anchor x="821" y="-40" name="hu_1"/>
+  <anchor x="1445" y="681" name="hu_2"/>
+  <anchor x="1383" y="3" name="hwa"/>
+  <anchor x="1039" y="1058" name="neck"/>
+  <anchor x="802" y="1235" name="nose"/>
+  <anchor x="929" y="1043" name="shoulder"/>
+  <outline>
+    <component base="rwa-ethiopic" xOffset="100"/>
+    <component base="xa-ethiopic" xOffset="814"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>rwa-ethiopic</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>xa-ethiopic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

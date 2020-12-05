@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_tsa.bar.cap" format="2">
+  <advance width="1408"/>
+  <anchor x="503" y="-24" name="_hwa"/>
+  <outline>
+    <component base="minus" xOffset="160" yOffset="230"/>
+  </outline>
+</glyph>

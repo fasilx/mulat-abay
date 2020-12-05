@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xaa-ethiopic.etcp" format="2">
+  <advance width="1320"/>
+  <anchor x="1028.3890000000001" y="-33.0" name="hee"/>
+  <anchor x="1145.433" y="-4.0" name="hi"/>
+  <anchor x="1140" y="1025" name="hu"/>
+  <outline>
+    <component base="acute" xScale="0.9483" yScale="0.9864" xOffset="750" yOffset="-1515"/>
+    <component base="na-ethiopic.etcp" xOffset="241"/>
+    <component base="dotaccent" xOffset="111" yOffset="-20"/>
+  </outline>
+</glyph>

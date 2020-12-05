@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qe-ethiopic.etcp" format="2">
+  <advance width="1810"/>
+  <anchor x="910" y="25" name="haa"/>
+  <anchor x="869" y="1651" name="hat.cap"/>
+  <anchor x="931" y="-81" name="hee"/>
+  <anchor x="989" y="-251" name="hi"/>
+  <anchor x="1481" y="329" name="hu"/>
+  <anchor x="908" y="5" name="hwa"/>
+  <anchor x="888" y="1466" name="neck.cap"/>
+  <outline>
+    <component base="wo-ethiopic.etcp"/>
+    <component base="acute" xScale="-1" xOffset="1103" yOffset="200"/>
+    <component base="_smart.haa" xOffset="911" yOffset="-330"/>
+  </outline>
+</glyph>

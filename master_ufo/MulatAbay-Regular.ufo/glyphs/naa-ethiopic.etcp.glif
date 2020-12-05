@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naa-ethiopic.etcp" format="2">
+  <advance width="1142"/>
+  <outline>
+    <contour>
+      <point x="915" y="-381" type="line"/>
+      <point x="1034" y="-381" type="line"/>
+      <point x="1062" y="-97" type="line"/>
+      <point x="898" y="-97" type="line"/>
+    </contour>
+    <component base="re-ethiopic.etcp"/>
+  </outline>
+</glyph>

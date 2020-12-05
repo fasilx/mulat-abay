@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aGlottal-ethiopic.etcp" format="2">
+  <advance width="1304"/>
+  <outline>
+    <contour>
+      <point x="31" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="657" y="1041" type="line"/>
+      <point x="1071" y="0" type="line"/>
+      <point x="1280" y="0" type="line"/>
+      <point x="741.832" y="1294" type="line"/>
+      <point x="740" y="1446" type="line"/>
+      <point x="318" y="1446" type="line"/>
+      <point x="318" y="1673" type="line"/>
+      <point x="158" y="1673" type="line"/>
+      <point x="158" y="1294" type="line"/>
+      <point x="570.167" y="1294" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

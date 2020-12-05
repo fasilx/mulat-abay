@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mo-ethiopic" format="2">
+  <advance width="1784"/>
+  <unicode hex="121E"/>
+  <anchor x="1539" y="10" name="haa"/>
+  <anchor x="1549" y="-113" name="hee"/>
+  <anchor x="1668" y="72" name="hi"/>
+  <anchor x="713" y="27" name="ho"/>
+  <anchor x="1674" y="661" name="hu"/>
+  <anchor x="1551" y="0" name="hwa"/>
+  <outline>
+    <component base="ma.base" xOffset="-5"/>
+    <component base="_smart.ho" xOffset="709" yOffset="-323"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ma.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.ho</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

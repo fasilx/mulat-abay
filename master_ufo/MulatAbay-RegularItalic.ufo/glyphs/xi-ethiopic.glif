@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xi-ethiopic" format="2">
+  <advance width="858"/>
+  <unicode hex="1282"/>
+  <anchor x="259" y="1207" name="hat"/>
+  <anchor x="302" y="1173" name="hat.002"/>
+  <anchor x="605" y="14" name="hee"/>
+  <anchor x="464" y="15" name="hi"/>
+  <anchor x="643" y="681" name="hu"/>
+  <anchor x="450" y="3" name="hwa"/>
+  <anchor x="278" y="968" name="neck"/>
+  <anchor x="28" y="1235" name="nose"/>
+  <anchor x="142" y="1011" name="shoulder"/>
+  <outline>
+    <component base="ga.base"/>
+    <component base="_smart.shoulder" xOffset="274" yOffset="1084"/>
+    <component base="_smart.nose" xOffset="-52" yOffset="1134"/>
+    <component base="_smart.hi" xOffset="651" yOffset="-100"/>
+  </outline>
+</glyph>

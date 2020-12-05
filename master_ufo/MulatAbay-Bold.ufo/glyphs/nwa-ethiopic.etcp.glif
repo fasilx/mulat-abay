@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nwa-ethiopic.etcp" format="2">
+  <advance width="1203"/>
+  <outline>
+    <contour>
+      <point x="615" y="-499" type="line"/>
+      <point x="1116" y="-499" type="line"/>
+      <point x="1116" y="-366" type="line"/>
+      <point x="1016.056" y="-366" type="line"/>
+      <point x="1041" y="-113" type="line"/>
+      <point x="857" y="-113" type="line"/>
+      <point x="852" y="-366" type="line"/>
+      <point x="615" y="-366" type="line"/>
+    </contour>
+    <component base="ro-ethiopic.etcp"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wee-ethiopic" format="2">
+  <advance width="1437"/>
+  <unicode hex="12CC"/>
+  <anchor x="737.716" y="11.0" name="haa"/>
+  <anchor x="711" y="1331" name="hat"/>
+  <anchor x="916" y="-95" name="hee"/>
+  <anchor x="1369.935" y="657.0" name="hu"/>
+  <anchor x="704.187" y="-25.0" name="hwa"/>
+  <anchor x="705" y="-25" name="leg"/>
+  <anchor x="711" y="1102" name="neck"/>
+  <outline>
+    <component base="wa.base"/>
+    <component base="_smart.hee" xOffset="911" yOffset="-412"/>
+  </outline>
+</glyph>

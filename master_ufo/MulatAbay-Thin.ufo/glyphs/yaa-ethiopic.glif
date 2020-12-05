@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yaa-ethiopic" format="2">
+  <advance width="857"/>
+  <unicode hex="12EB"/>
+  <anchor x="457" y="1326" name="hat"/>
+  <anchor x="729" y="-86" name="hee"/>
+  <anchor x="75" y="11" name="ho"/>
+  <anchor x="262" y="269" name="hu"/>
+  <anchor x="733" y="8" name="hwa"/>
+  <anchor x="463" y="1102" name="neck"/>
+  <outline>
+    <component base="ya.base"/>
+    <component base="acute" xOffset="-213" yOffset="-1530"/>
+  </outline>
+</glyph>

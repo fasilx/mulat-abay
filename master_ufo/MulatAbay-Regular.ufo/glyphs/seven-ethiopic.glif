@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven-ethiopic" format="2">
+  <advance width="1292"/>
+  <unicode hex="136F"/>
+  <outline>
+    <component base="seven" xOffset="77"/>
+    <component base="_bar.part" xOffset="177" yOffset="-100"/>
+    <component base="_num.bar" xOffset="77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>seven</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>seven</string>
+    </dict>
+  </lib>
+</glyph>

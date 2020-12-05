@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gwaa-ethiopic.etcp" format="2">
+  <advance width="1289"/>
+  <anchor x="490" y="1664" name="hat.cap"/>
+  <anchor x="528" y="-12" name="hee"/>
+  <anchor x="652" y="15" name="hi"/>
+  <anchor x="801" y="998" name="hu"/>
+  <anchor x="471" y="1465" name="neck.cap"/>
+  <outline>
+    <contour>
+      <point x="772" y="-340" type="line"/>
+      <point x="824" y="-340" type="line"/>
+      <point x="899" y="2" type="line"/>
+      <point x="755" y="2" type="line"/>
+      <point x="754" y="1" type="line"/>
+      <point x="321" y="1" type="line"/>
+      <point x="312" y="-50" type="line"/>
+      <point x="819" y="-50" type="line"/>
+    </contour>
+    <component base="ga-ethiopic.etcp"/>
+  </outline>
+</glyph>

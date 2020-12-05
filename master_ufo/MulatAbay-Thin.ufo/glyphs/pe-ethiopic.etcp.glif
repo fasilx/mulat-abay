@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-ethiopic.etcp" format="2">
+  <advance width="1222"/>
+  <outline>
+    <component base="pa-ethiopic.etcp"/>
+    <component base="acute" xScale="0.81915" xyScale="0.57358" yxScale="-0.57358" yScale="0.81915" xOffset="1357" yOffset="-1381"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

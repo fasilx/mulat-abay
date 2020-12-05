@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="1168"/>
+  <unicode hex="006F"/>
+  <note>
+uni006F
+</note>
+  <outline>
+    <contour>
+      <point x="584" y="-20" type="curve" smooth="yes"/>
+      <point x="778.667" y="-20"/>
+      <point x="934.833" y="78.167"/>
+      <point x="1015.5" y="245.5" type="curve" smooth="yes"/>
+      <point x="1055.833" y="329.167"/>
+      <point x="1076" y="423.667"/>
+      <point x="1076" y="529" type="curve" smooth="yes"/>
+      <point x="1076" y="542" type="line" smooth="yes"/>
+      <point x="1076" y="880.667"/>
+      <point x="876.667" y="1102"/>
+      <point x="582" y="1102" type="curve" smooth="yes"/>
+      <point x="391.333" y="1102"/>
+      <point x="236.833" y="1006.333"/>
+      <point x="153.5" y="837" type="curve" smooth="yes"/>
+      <point x="111.833" y="752.333"/>
+      <point x="91" y="657"/>
+      <point x="91" y="551" type="curve" smooth="yes"/>
+      <point x="91" y="538" type="line" smooth="yes"/>
+      <point x="91" y="202"/>
+      <point x="290.667" y="-20"/>
+    </contour>
+    <contour>
+      <point x="584" y="131" type="curve" smooth="yes"/>
+      <point x="397.333" y="131"/>
+      <point x="277" y="289"/>
+      <point x="277" y="529" type="curve" smooth="yes"/>
+      <point x="277" y="799.667"/>
+      <point x="399.333" y="950"/>
+      <point x="582" y="950" type="curve" smooth="yes"/>
+      <point x="768.667" y="950"/>
+      <point x="891" y="788.333"/>
+      <point x="891" y="551" type="curve" smooth="yes"/>
+      <point x="891" y="285.667"/>
+      <point x="772" y="131"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 3 values pushed */
+12 28 29 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHB[ ]	/* 1 value pushed */
+12 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 1 value pushed */
+19 
+MDRP[10000]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHB[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+4 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+4 26 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+12 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+12 18 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 2 values pushed */
+19 1 
+PUSHB[ ]	/* 1 value pushed */
+10 
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+4 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHB[ ]	/* 2 values pushed */
+25 1 
+PUSHB[ ]	/* 1 value pushed */
+10 
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

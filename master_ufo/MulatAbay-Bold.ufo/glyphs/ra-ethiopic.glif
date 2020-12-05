@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra-ethiopic" format="2">
+  <advance width="956"/>
+  <unicode hex="1228"/>
+  <anchor x="765" y="606" name="hee"/>
+  <anchor x="540" y="-70" name="hu"/>
+  <outline>
+    <component base="ra.base"/>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="to-ethiopic.etcp" format="2">
+  <advance width="1223"/>
+  <outline>
+    <contour>
+      <point x="328" y="12" type="line"/>
+      <point x="519" y="12" type="line"/>
+      <point x="723" y="1168" type="line"/>
+      <point x="1191" y="1168" type="line"/>
+      <point x="1219" y="1326" type="line"/>
+      <point x="93" y="1326" type="line"/>
+      <point x="65" y="1168" type="line"/>
+      <point x="532" y="1168" type="line"/>
+    </contour>
+    <component base="lowringmod" xOffset="621" yOffset="1740"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>lowringmod</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

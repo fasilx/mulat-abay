@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="700" default="400"/>
+  </axes>
+  <sources>
+    <source filename="MulatAbay-Bold.ufo" name="Mulat Abay Bold" familyname="Mulat Abay" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="MulatAbay-Regular.ufo" name="Mulat Abay Regular" familyname="Mulat Abay" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="MulatAbay-Thin.ufo" name="Mulat Abay Thin" familyname="Mulat Abay" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="MulatAbay-RegularItalic.ufo" name="Mulat Abay Regular Italic" familyname="Mulat Abay" stylename="Regular Italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="MulatAbay-ThinItalic.ufo" name="Mulat Abay Thin Italic" familyname="Mulat Abay" stylename="Thin Italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Mulat Abay Thin" familyname="Mulat Abay" stylename="Thin" filename="../instance_ufo/MulatAbay-Thin.ufo" stylemapfamilyname="Mulat Abay Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Mulat Abay Regular" familyname="Mulat Abay" stylename="Regular" filename="../instance_ufo/MulatAbay-Regular.ufo" stylemapfamilyname="Mulat Abay" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Mulat Abay Bold" familyname="Mulat Abay" stylename="Bold" filename="../instance_ufo/MulatAbay-Bold.ufo" stylemapfamilyname="Mulat Abay" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Mulat Abay Regular Italic" familyname="Mulat Abay" stylename="Regular Italic" filename="../instance_ufo/MulatAbay-RegularItalic.ufo" stylemapfamilyname="Mulat Abay Regular" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Mulat Abay Thin Italic" familyname="Mulat Abay" stylename="Thin Italic" filename="../instance_ufo/MulatAbay-ThinItalic.ufo" stylemapfamilyname="Mulat Abay Thin Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>A9B054E9-1A63-4AEF-9EE1-561B1DFE8422</key>
+        <dict/>
+      </dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>_aa.neck</string>
+        <string>_bar.part</string>
+        <string>_cha.shoes</string>
+        <string>_cha.shoes.cap</string>
+        <string>_da.arms.caps</string>
+        <string>_da.flat</string>
+        <string>_hha.neck.cap</string>
+        <string>_ka.hat.part</string>
+        <string>_kxa.hat</string>
+        <string>_kxa.hat.cap</string>
+        <string>_num.bar</string>
+        <string>_nya.hat</string>
+        <string>_smart.hat.cap</string>
+        <string>_smart.neck.cap</string>
+        <string>_tsa.bar.cap</string>
+        <string>_tsa.belt</string>
+        <string>_va.hat</string>
+        <string>_zha.ears</string>
+        <string>_zha.ears.caps</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

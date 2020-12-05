@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="po-ethiopic" format="2">
+  <advance width="742"/>
+  <unicode hex="1356"/>
+  <outline>
+    <contour>
+      <point x="317" y="0" type="line"/>
+      <point x="497" y="870" type="line"/>
+      <point x="682" y="870" type="line"/>
+      <point x="682" y="1082" type="line"/>
+      <point x="50" y="1082" type="line"/>
+      <point x="50" y="870" type="line"/>
+      <point x="210" y="870" type="line"/>
+      <point x="32" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

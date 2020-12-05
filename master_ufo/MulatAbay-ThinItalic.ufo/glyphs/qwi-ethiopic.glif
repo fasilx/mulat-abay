@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qwi-ethiopic" format="2">
+  <advance width="1437"/>
+  <unicode hex="124A"/>
+  <anchor x="549" y="11" name="haa"/>
+  <anchor x="755" y="1331" name="hat"/>
+  <anchor x="708" y="-95" name="hee"/>
+  <anchor x="1295" y="657" name="hu"/>
+  <anchor x="509" y="-25" name="hwa"/>
+  <anchor x="510" y="-25" name="leg"/>
+  <anchor x="715" y="1102" name="neck"/>
+  <outline>
+    <component base="wa.base"/>
+    <component base="_smart.neck" xOffset="909" yOffset="1126"/>
+    <component base="_smart.leg" xOffset="703" yOffset="-312"/>
+    <component base="comma" xScale="-0.86603" xyScale="0.5" yxScale="0.5" yScale="0.86603" xOffset="1272" yOffset="635"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>wa.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.leg</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>comma</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

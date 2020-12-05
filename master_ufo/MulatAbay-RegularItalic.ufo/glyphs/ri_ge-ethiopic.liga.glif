@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ri_ge-ethiopic.liga" format="2">
+  <advance width="1930"/>
+  <note>
+uni130D
+</note>
+  <anchor x="1097" y="1207" name="hat"/>
+  <anchor x="1140" y="1173" name="hat.002"/>
+  <anchor x="724" y="556" name="hee_1"/>
+  <anchor x="1443" y="14" name="hee_2"/>
+  <anchor x="1302" y="15" name="hi"/>
+  <anchor x="450" y="-50" name="hu_1"/>
+  <anchor x="1481" y="681" name="hu_2"/>
+  <anchor x="1288" y="3" name="hwa"/>
+  <anchor x="1116" y="968" name="neck"/>
+  <anchor x="866" y="1235" name="nose"/>
+  <anchor x="980" y="1011" name="shoulder"/>
+  <outline>
+    <component base="ri-ethiopic"/>
+    <component base="ge-ethiopic" xOffset="744"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ri-ethiopic</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ge-ethiopic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

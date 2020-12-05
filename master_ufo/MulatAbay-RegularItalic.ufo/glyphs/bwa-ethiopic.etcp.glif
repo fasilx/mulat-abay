@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bwa-ethiopic.etcp" format="2">
+  <advance width="1329"/>
+  <anchor x="948" y="24" name="haa"/>
+  <anchor x="751" y="1703" name="hat.cap"/>
+  <anchor x="920" y="-47" name="hee"/>
+  <anchor x="1039" y="6" name="hi"/>
+  <anchor x="44" y="14" name="ho"/>
+  <anchor x="1192" y="1079" name="hu"/>
+  <anchor x="907" y="21" name="hwa"/>
+  <anchor x="731" y="1468" name="neck.cap"/>
+  <outline>
+    <component base="ba-ethiopic.etcp"/>
+    <component base="_smart.hwa" xOffset="1033" yOffset="-347"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

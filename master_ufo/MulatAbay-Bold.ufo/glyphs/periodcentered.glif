@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="534"/>
+  <unicode hex="00B7"/>
+  <note>
+uni00B7
+</note>
+  <outline>
+    <contour>
+      <point x="140" y="697" type="curve" smooth="yes"/>
+      <point x="140" y="607.667"/>
+      <point x="207" y="543"/>
+      <point x="303" y="543" type="curve" smooth="yes"/>
+      <point x="396.333" y="543"/>
+      <point x="467" y="605"/>
+      <point x="467" y="697" type="curve" smooth="yes"/>
+      <point x="467" y="789"/>
+      <point x="397.667" y="852"/>
+      <point x="303" y="852" type="curve" smooth="yes"/>
+      <point x="208.333" y="852"/>
+      <point x="140" y="789"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 3 values pushed */
+3 10 11 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHB[ ]	/* 1 value pushed */
+2 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHB[ ]	/* 1 value pushed */
+8 
+PUSHB[ ]	/* 1 value pushed */
+10 
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MDRP[11100]	/* MoveDirectRelPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

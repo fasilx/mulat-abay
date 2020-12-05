@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyi-ethiopic.etcp" format="2">
+  <advance width="1080"/>
+  <anchor x="787.389" y="-33.0" name="hee"/>
+  <anchor x="904.433" y="-4.0" name="hi"/>
+  <anchor x="899" y="1025" name="hu"/>
+  <outline>
+    <component base="ni-ethiopic.etcp"/>
+    <component base="_smart.hi" xOffset="858" yOffset="-131"/>
+    <component base="_nya.hat"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_nya.hat</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

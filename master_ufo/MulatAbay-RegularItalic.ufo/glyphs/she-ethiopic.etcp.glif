@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="she-ethiopic.etcp" format="2">
+  <advance width="1343"/>
+  <anchor x="947" y="24" name="haa"/>
+  <anchor x="750" y="1703" name="hat.cap"/>
+  <anchor x="919" y="-47" name="hee"/>
+  <anchor x="1038" y="6" name="hi"/>
+  <anchor x="43" y="14" name="ho"/>
+  <anchor x="1191" y="1079" name="hu"/>
+  <anchor x="906" y="21" name="hwa"/>
+  <anchor x="730" y="1468" name="neck.cap"/>
+  <outline>
+    <component base="se-ethiopic.etcp"/>
+    <component base="_smart.hat.cap" xOffset="-300" yOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hat.cap</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

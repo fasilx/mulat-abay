@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha-ethiopic" format="2">
+  <advance width="1129"/>
+  <unicode hex="1200"/>
+  <anchor x="771.684" y="572" name="_hu"/>
+  <anchor x="867.769" y="693" name="hu"/>
+  <outline>
+    <component base="ha.base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>

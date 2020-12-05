@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gge-ethiopic.etcp" format="2">
+  <advance width="1022"/>
+  <anchor x="426" y="1664" name="hat.cap"/>
+  <anchor x="749" y="-2" name="hee"/>
+  <anchor x="865" y="25" name="hi"/>
+  <anchor x="842" y="1008" name="hu"/>
+  <anchor x="441" y="1465" name="neck.cap"/>
+  <outline>
+    <component base="ge-ethiopic.etcp"/>
+    <component base="_smart.neck.cap" xOffset="-186" yOffset="3"/>
+    <component base="_smart.hat.cap" xOffset="-214" yOffset="-28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ge-ethiopic.etcp</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.neck.cap</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.hat.cap</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

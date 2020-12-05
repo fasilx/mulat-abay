@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kxe-ethiopic" format="2">
+  <advance width="1304"/>
+  <unicode hex="12BD"/>
+  <anchor x="1085" y="8" name="haa"/>
+  <anchor x="748" y="1382" name="hat"/>
+  <anchor x="398" y="1372" name="hat.001"/>
+  <anchor x="1085" y="-91" name="hee"/>
+  <anchor x="1212" y="12" name="hi"/>
+  <anchor x="388" y="21" name="ho"/>
+  <anchor x="1212" y="673" name="hu"/>
+  <anchor x="1075" y="-3" name="hwa"/>
+  <anchor x="763" y="1114" name="neck"/>
+  <outline>
+    <component base="ba.base" xOffset="174"/>
+    <component base="_ka.part" xOffset="1304"/>
+    <component base="_smart.hat.001" xOffset="-153" yOffset="1360"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ba.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_ka.part</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.hat.001</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

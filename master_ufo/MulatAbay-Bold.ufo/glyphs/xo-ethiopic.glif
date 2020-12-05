@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xo-ethiopic" format="2">
+  <advance width="1243"/>
+  <unicode hex="1286"/>
+  <anchor x="700" y="1278" name="hat"/>
+  <anchor x="909" y="-36" name="hwa"/>
+  <anchor x="910" y="-45" name="leg"/>
+  <outline>
+    <component base="ro-ethiopic" xOffset="142"/>
+    <component base="_leg.part" xOffset="911"/>
+    <component base="dotaccent" xOffset="-198" yOffset="-700"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ro-ethiopic</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_leg.part</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

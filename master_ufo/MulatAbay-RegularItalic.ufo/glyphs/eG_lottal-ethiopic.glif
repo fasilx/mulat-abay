@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eGlottal-ethiopic" format="2">
+  <advance width="1179"/>
+  <unicode hex="12A5"/>
+  <anchor x="774" y="8" name="haa"/>
+  <anchor x="689" y="1382" name="hat"/>
+  <anchor x="344" y="1371" name="hat.001"/>
+  <anchor x="629" y="329" name="hee"/>
+  <anchor x="911" y="12" name="hi"/>
+  <anchor x="117" y="21" name="ho"/>
+  <anchor x="968" y="673" name="hu"/>
+  <anchor x="781" y="-6" name="hwa"/>
+  <anchor x="657" y="1114" name="neck"/>
+  <outline>
+    <contour>
+      <point x="171" y="1709" type="line"/>
+      <point x="117" y="1403" type="line"/>
+      <point x="249" y="1403" type="line"/>
+      <point x="303" y="1709" type="line"/>
+    </contour>
+    <component base="ba.base" xOffset="62"/>
+    <component base="_aa.neck" xOffset="1192"/>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gwaa-ethiopic" format="2">
+  <advance width="697"/>
+  <unicode hex="1313"/>
+  <anchor x="33" y="1277" name="hat"/>
+  <anchor x="89" y="1173" name="hat.002"/>
+  <anchor x="214" y="-56" name="hee"/>
+  <anchor x="271" y="45" name="hi"/>
+  <anchor x="375" y="681" name="hu"/>
+  <anchor x="194" y="3" name="hwa"/>
+  <anchor x="36" y="1058" name="neck"/>
+  <anchor x="-170" y="1235" name="nose"/>
+  <anchor x="-77" y="1043" name="shoulder"/>
+  <outline>
+    <contour>
+      <point x="406" y="-340" type="line"/>
+      <point x="461" y="-340" type="line"/>
+      <point x="520" y="-5" type="line"/>
+      <point x="139" y="-5" type="line"/>
+      <point x="130" y="-59" type="line"/>
+      <point x="457" y="-59" type="line"/>
+    </contour>
+    <component base="ga.base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ga.base</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

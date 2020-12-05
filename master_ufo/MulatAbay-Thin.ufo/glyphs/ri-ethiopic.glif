@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ri-ethiopic" format="2">
+  <advance width="1014"/>
+  <unicode hex="122A"/>
+  <anchor x="821" y="506" name="hee"/>
+  <anchor x="721" y="-40" name="hu"/>
+  <outline>
+    <component base="ra.base"/>
+    <component base="acute" yScale="-1" xOffset="605" yOffset="1806"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ra.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

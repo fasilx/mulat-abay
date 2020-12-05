@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hhe-ethiopic.etcp" format="2">
+  <advance width="1788"/>
+  <anchor x="1562" y="0" name="haa"/>
+  <anchor x="1523" y="-16" name="hee"/>
+  <anchor x="1623" y="0" name="hi"/>
+  <anchor x="253" y="2" name="ho"/>
+  <anchor x="1617" y="1081" name="hu"/>
+  <anchor x="1528" y="1" name="hwa"/>
+  <outline>
+    <component base="hha-ethiopic.etcp"/>
+    <component base="acute" xScale="-1" xOffset="953" yOffset="200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hha-ethiopic.etcp</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>M</string>
+    </dict>
+  </lib>
+</glyph>

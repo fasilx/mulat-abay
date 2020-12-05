@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ri_gga-ethiopic.liga" format="2">
+  <advance width="425"/>
+  <outline>
+    <contour>
+      <point x="342" y="0" type="curve"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="437" type="line" smooth="yes"/>
+      <point x="388" y="538"/>
+      <point x="367" y="584"/>
+      <point x="340" y="584" type="curve" smooth="yes"/>
+      <point x="263" y="584" type="line"/>
+      <point x="263" y="750" type="line"/>
+      <point x="314" y="750" type="line"/>
+      <point x="314" y="800" type="line"/>
+      <point x="190" y="800" type="line"/>
+      <point x="190" y="750" type="line"/>
+      <point x="241" y="750" type="line"/>
+      <point x="241" y="585" type="line"/>
+      <point x="164" y="585" type="line"/>
+      <point x="163" y="497" type="line"/>
+      <point x="295" y="498" type="line" smooth="yes"/>
+      <point x="329" y="498"/>
+      <point x="343" y="497"/>
+      <point x="343" y="351" type="curve" smooth="yes"/>
+      <point x="343" y="241"/>
+      <point x="342" y="58"/>
+    </contour>
+    <contour>
+      <point x="169" y="-193" type="line"/>
+      <point x="210" y="-193" type="line"/>
+      <point x="210" y="-1" type="line"/>
+      <point x="262" y="-1" type="line"/>
+      <point x="261" y="87" type="line"/>
+      <point x="131" y="86" type="line" smooth="yes"/>
+      <point x="99" y="86"/>
+      <point x="83" y="87"/>
+      <point x="83" y="233" type="curve" smooth="yes"/>
+      <point x="83" y="343"/>
+      <point x="84" y="526"/>
+      <point x="84" y="584" type="curve"/>
+      <point x="37" y="584" type="line"/>
+      <point x="37" y="147" type="line" smooth="yes"/>
+      <point x="37" y="43"/>
+      <point x="59" y="0"/>
+      <point x="86" y="0" type="curve" smooth="yes"/>
+      <point x="169" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

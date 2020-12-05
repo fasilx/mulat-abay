@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yaa-ethiopic.etcp" format="2">
+  <advance width="1352"/>
+  <outline>
+    <component base="acute" xScale="-1" yScale="-1" xOffset="286" yOffset="1272"/>
+    <component base="P" xOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+    </dict>
+  </lib>
+</glyph>

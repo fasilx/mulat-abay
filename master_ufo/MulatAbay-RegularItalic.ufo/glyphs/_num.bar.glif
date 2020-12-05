@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_num.bar" format="2">
+  <advance width="1126"/>
+  <outline>
+    <contour>
+      <point x="1183" y="1488" type="line"/>
+      <point x="1210" y="1637" type="line"/>
+      <point x="84" y="1637" type="line"/>
+      <point x="57" y="1488" type="line"/>
+    </contour>
+    <contour>
+      <point x="896" y="-172" type="line"/>
+      <point x="922" y="-23" type="line"/>
+      <point x="-204" y="-23" type="line"/>
+      <point x="-230" y="-172" type="line"/>
+    </contour>
+  </outline>
+</glyph>

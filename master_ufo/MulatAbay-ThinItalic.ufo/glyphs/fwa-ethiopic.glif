@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fwa-ethiopic" format="2">
+  <advance width="949"/>
+  <unicode hex="134F"/>
+  <anchor x="593" y="1278" name="hat"/>
+  <anchor x="572" y="-26" name="hwa"/>
+  <anchor x="575" y="-15" name="leg"/>
+  <outline>
+    <component base="re-ethiopic"/>
+    <component base="fa.part" xOffset="949"/>
+    <component base="_smart.hwa" xOffset="567" yOffset="-394"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.hwa</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

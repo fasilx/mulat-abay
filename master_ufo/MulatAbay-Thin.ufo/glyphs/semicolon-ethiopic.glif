@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon-ethiopic" format="2">
+  <advance width="556"/>
+  <unicode hex="1364"/>
+  <outline>
+    <contour>
+      <point x="90" y="-272" type="line"/>
+      <point x="414" y="-272" type="line"/>
+      <point x="414" y="-204" type="line"/>
+      <point x="90" y="-204" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="1215" type="line"/>
+      <point x="418" y="1215" type="line"/>
+      <point x="418" y="1273" type="line"/>
+      <point x="98" y="1273" type="line"/>
+    </contour>
+    <component base="colon" xOffset="30"/>
+  </outline>
+</glyph>

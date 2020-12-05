@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two-ethiopic" format="2">
+  <advance width="1623"/>
+  <unicode hex="136A"/>
+  <outline>
+    <contour>
+      <point x="313" y="1074" type="line"/>
+      <point x="160" y="383" type="line"/>
+      <point x="215" y="383" type="line"/>
+      <point x="367" y="1074" type="line"/>
+    </contour>
+    <component base="_num.bar" xOffset="180"/>
+    <component base="three" xOffset="180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>eight</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>eight</string>
+    </dict>
+  </lib>
+</glyph>

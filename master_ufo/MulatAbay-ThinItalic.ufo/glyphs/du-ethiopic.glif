@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="du-ethiopic" format="2">
+  <advance width="927"/>
+  <unicode hex="12F1"/>
+  <anchor x="562" y="1326" name="hat"/>
+  <anchor x="585" y="-86" name="hee"/>
+  <anchor x="-52" y="11" name="ho"/>
+  <anchor x="181" y="269" name="hu"/>
+  <anchor x="606" y="8" name="hwa"/>
+  <anchor x="529" y="1102" name="neck"/>
+  <outline>
+    <component base="ya.base" xOffset="62"/>
+    <component base="_da.flat" xOffset="919"/>
+    <component base="_smart.hu" xOffset="547" yOffset="-838"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ya.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_da.flat</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.hu</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

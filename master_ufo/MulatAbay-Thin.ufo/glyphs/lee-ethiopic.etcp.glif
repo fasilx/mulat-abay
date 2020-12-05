@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lee-ethiopic.etcp" format="2">
+  <advance width="1334"/>
+  <anchor x="1146" y="23" name="haa"/>
+  <anchor x="1204.078" y="-19.0" name="hee"/>
+  <anchor x="1308.425" y="5.0" name="hi"/>
+  <anchor x="845.003" y="1089.0" name="hu"/>
+  <anchor x="1151" y="13" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="356" y="-88" type="curve" smooth="yes"/>
+      <point x="452" y="-88"/>
+      <point x="527" y="-14"/>
+      <point x="527" y="82" type="curve" smooth="yes"/>
+      <point x="527" y="178"/>
+      <point x="452" y="256"/>
+      <point x="356" y="256" type="curve" smooth="yes"/>
+      <point x="263" y="256"/>
+      <point x="185" y="182"/>
+      <point x="185" y="82" type="curve" smooth="yes"/>
+      <point x="185" y="-18"/>
+      <point x="264" y="-88"/>
+    </contour>
+    <contour>
+      <point x="336" y="-34" type="curve" smooth="yes"/>
+      <point x="268" y="-34"/>
+      <point x="219" y="13"/>
+      <point x="219" y="82" type="curve" smooth="yes"/>
+      <point x="219" y="154"/>
+      <point x="268" y="202"/>
+      <point x="336" y="202" type="curve" smooth="yes"/>
+      <point x="404" y="202"/>
+      <point x="453" y="154"/>
+      <point x="453" y="82" type="curve" smooth="yes"/>
+      <point x="453" y="13"/>
+      <point x="404" y="-34"/>
+    </contour>
+    <component base="la-ethiopic.etcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

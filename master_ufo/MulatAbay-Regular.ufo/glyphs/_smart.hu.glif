@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.hu" format="2">
+  <anchor x="-4" y="1206" name="_hu"/>
+  <outline>
+    <contour>
+      <point x="119" y="843" type="curve" smooth="yes"/>
+      <point x="186" y="843"/>
+      <point x="243" y="898"/>
+      <point x="243" y="966" type="curve" smooth="yes"/>
+      <point x="243" y="1033"/>
+      <point x="186" y="1090"/>
+      <point x="119" y="1090" type="curve" smooth="yes"/>
+      <point x="51" y="1090"/>
+      <point x="-4" y="1033"/>
+      <point x="-4" y="966" type="curve" smooth="yes"/>
+      <point x="-4" y="898"/>
+      <point x="51" y="843"/>
+    </contour>
+  </outline>
+</glyph>

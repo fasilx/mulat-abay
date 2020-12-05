@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="so-ethiopic.etcp" format="2">
+  <advance width="1328"/>
+  <anchor x="1104" y="24" name="haa"/>
+  <anchor x="641" y="1703" name="hat.cap"/>
+  <anchor x="1118" y="-47" name="hee"/>
+  <anchor x="1228" y="6" name="hi"/>
+  <anchor x="231" y="14" name="ho"/>
+  <anchor x="1192" y="1079" name="hu"/>
+  <anchor x="1093" y="21" name="hwa"/>
+  <anchor x="662" y="1468" name="neck.cap"/>
+  <outline>
+    <component base="sa-ethiopic.etcp"/>
+    <component base="_smart.ho" xOffset="227" yOffset="-336"/>
+    <component base="_smart.neck.cap" xOffset="379" yOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sa-ethiopic.etcp</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.ho</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.neck.cap</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

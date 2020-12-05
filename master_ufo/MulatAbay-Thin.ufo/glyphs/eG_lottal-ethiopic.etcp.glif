@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eGlottal-ethiopic.etcp" format="2">
+  <advance width="1271"/>
+  <outline>
+    <contour>
+      <point x="33" y="1511" type="line"/>
+      <point x="83" y="1511" type="line"/>
+      <point x="83" y="1739" type="line"/>
+      <point x="33" y="1739" type="line"/>
+    </contour>
+    <component base="aGlottal-ethiopic.etcp" xOffset="46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

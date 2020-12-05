@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fu-ethiopic" format="2">
+  <advance width="984"/>
+  <unicode hex="1349"/>
+  <anchor x="724" y="556" name="hee"/>
+  <anchor x="450" y="-50" name="hu"/>
+  <outline>
+    <component base="ra.base"/>
+    <component base="fa.part" xOffset="984"/>
+    <component base="acute" xOffset="-130" yOffset="-1530"/>
+  </outline>
+</glyph>

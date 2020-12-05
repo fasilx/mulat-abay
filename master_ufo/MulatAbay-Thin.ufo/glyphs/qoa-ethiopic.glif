@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qoa-ethiopic" format="2">
+  <advance width="1437"/>
+  <unicode hex="1247"/>
+  <anchor x="737.716" y="11.0" name="haa"/>
+  <anchor x="711" y="1331" name="hat"/>
+  <anchor x="916" y="-95" name="hee"/>
+  <anchor x="1369.935" y="657.0" name="hu"/>
+  <anchor x="704.187" y="-25.0" name="hwa"/>
+  <anchor x="705" y="-25" name="leg"/>
+  <anchor x="711" y="1102" name="neck"/>
+  <outline>
+    <contour>
+      <point x="562" y="-297" type="line"/>
+      <point x="562" y="-420" type="line"/>
+      <point x="640" y="-420" type="line"/>
+      <point x="640" y="-297" type="line"/>
+    </contour>
+    <component base="wa.base"/>
+    <component base="_smart.neck" xOffset="710" yOffset="1126"/>
+    <component base="_smart.leg" xOffset="703" yOffset="-312"/>
+  </outline>
+</glyph>

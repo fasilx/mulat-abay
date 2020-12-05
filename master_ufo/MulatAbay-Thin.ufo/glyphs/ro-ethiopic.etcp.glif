@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ro-ethiopic.etcp" format="2">
+  <advance width="1120"/>
+  <outline>
+    <component base="re-ethiopic.etcp"/>
+    <component base="ring" xOffset="592" yOffset="-196"/>
+  </outline>
+</glyph>

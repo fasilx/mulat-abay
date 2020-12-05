@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lwa-ethiopic" format="2">
+  <advance width="1121"/>
+  <unicode hex="120F"/>
+  <anchor x="910" y="12" name="haa"/>
+  <anchor x="92" y="585" name="he"/>
+  <anchor x="917" y="0" name="hee"/>
+  <anchor x="989" y="93" name="hi"/>
+  <anchor x="1032" y="667" name="hu"/>
+  <anchor x="900" y="2" name="hwa"/>
+  <outline>
+    <component base="la.base" xOffset="-7"/>
+    <component base="_smart.hwa" xOffset="900" yOffset="-366"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>la.base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hwa</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

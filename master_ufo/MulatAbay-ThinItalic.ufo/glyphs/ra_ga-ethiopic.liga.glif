@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra_ga-ethiopic.liga" format="2">
+  <advance width="1578"/>
+  <anchor x="747" y="1277" name="hat"/>
+  <anchor x="803" y="1173" name="hat.002"/>
+  <anchor x="719" y="506" name="hee_1"/>
+  <anchor x="928" y="-56" name="hee_2"/>
+  <anchor x="985" y="45" name="hi"/>
+  <anchor x="523" y="-40" name="hu_1"/>
+  <anchor x="1089" y="681" name="hu_2"/>
+  <anchor x="908" y="3" name="hwa"/>
+  <anchor x="750" y="1058" name="neck"/>
+  <anchor x="544" y="1235" name="nose"/>
+  <anchor x="637" y="1043" name="shoulder"/>
+  <outline>
+    <component base="ra-ethiopic"/>
+    <component base="ga-ethiopic" xOffset="714"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ra-ethiopic</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ga-ethiopic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
