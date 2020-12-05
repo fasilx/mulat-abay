@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="bar.mulat.001" format="2">
-  <advance width="1033"/>
-  <outline>
-    <component base="bar.mulat" xOffset="-868" yOffset="1700"/>
-  </outline>
-</glyph>

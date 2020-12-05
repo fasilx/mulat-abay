@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="fe-ethiopic.etcp" format="2">
-  <advance width="1115"/>
-  <outline>
-    <component base="re-ethiopic.etcp"/>
-    <component base="fa.part" xOffset="1115"/>
-  </outline>
-</glyph>

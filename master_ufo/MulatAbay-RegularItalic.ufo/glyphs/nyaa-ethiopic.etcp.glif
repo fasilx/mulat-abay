@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="nyaa-ethiopic.etcp" format="2">
-  <advance width="1142"/>
-  <outline>
-    <component base="naa-ethiopic.etcp"/>
-    <component base="_nya.hat" xOffset="1142"/>
-  </outline>
-</glyph>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="_smart.he" format="2">
-  <anchor x="-194" y="3" name="_he"/>
-  <outline>
-    <component base="dotaccent" xOffset="-50" yOffset="-1390"/>
-  </outline>
-</glyph>
