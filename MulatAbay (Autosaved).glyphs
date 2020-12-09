@@ -1,5 +1,6 @@
 {
 .appVersion = "3039";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 "/_smart.zha ዠ",
@@ -1996,9 +1997,6 @@ automatic = 1;
 code = "languagesystem DFLT dflt;
 
 languagesystem latn dflt;
-languagesystem latn ROM;
-languagesystem latn MOL;
-languagesystem latn CAT;
 ";
 name = Languagesystems;
 }
@@ -2011,17 +2009,16 @@ feature frac;
 feature ordn;
 feature ss01;
 feature calt;
-feature locl;
 ";
 tag = aalt;
 },
 {
 automatic = 1;
 code = "lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb dblgravecomb gravecomb hookabovecomb tildecomb];
+	@CombiningTopAccents = [acutecomb dblgravecomb gravecomb tildecomb];
 	@CombiningNonTopAccents = [dotbelowcomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	sub [i]' @CombiningTopAccents by [idotless];
+	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
 } ccmp_Other_1;
 
 lookup ccmp_latn_1 {
@@ -2045,13 +2042,9 @@ tag = sups;
 },
 {
 automatic = 1;
-code = "sub one slash eight by oneeighth;
-sub one slash four by onequarter;
-sub three slash eight by threeeighths;
+code = "sub one slash four by onequarter;
 sub one slash two by onehalf;
-sub five slash eight by fiveeighths;
 sub three slash four by threequarters;
-sub seven slash eight by seveneighths;
 ";
 tag = frac;
 },
@@ -2059,7 +2052,6 @@ tag = frac;
 automatic = 1;
 code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-sub N o period by numero;
 ";
 tag = ordn;
 },
@@ -2986,44 +2978,6 @@ sub period-ethiopic space po-ethiopic' by po-ethiopic.etcp;
 sub period-ethiopic space pwa-ethiopic' by pwa-ethiopic.etcp;
 ";
 tag = calt;
-},
-{
-automatic = 1;
-code = "lookup locl_latn_0 {
-	script latn;
-	language ROM;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
-	language MOL;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
-} locl_latn_0;
-
-lookup locl_latn_1 {
-	script latn;
-	language CAT;
-	sub  l' periodcentered' l by ldot;
-	sub  L' periodcentered' L by Ldot;
-} locl_latn_1;
-";
-tag = locl;
-},
-{
-automatic = 1;
-code = "sub longs t by longs_t;
-";
-tag = hlig;
-},
-{
-automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub longs t by longs_t;
-";
-tag = dlig;
 }
 );
 fontMaster = (
