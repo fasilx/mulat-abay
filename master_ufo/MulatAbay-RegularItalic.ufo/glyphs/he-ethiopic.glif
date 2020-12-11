@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="he-ethiopic" format="2">
+  <advance width="1174"/>
+  <unicode hex="1205"/>
+  <anchor x="678" y="0" name="haa"/>
+  <anchor x="106" y="739" name="he"/>
+  <anchor x="319.283" y="783.0" name="he.left.inner"/>
+  <anchor x="687" y="0" name="hee"/>
+  <anchor x="671" y="-262" name="hi"/>
+  <anchor x="1121" y="1042" name="ho.ring"/>
+  <anchor x="898" y="570" name="hu"/>
+  <anchor x="694" y="0" name="hwa"/>
+  <outline>
+    <component base="ha.base"/>
+    <component base="_smart.he.left.inner" xOffset="319" yOffset="824"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.he</key>
+      <integer>1</integer>
+      <key>_smart.he.left.inner</key>
+      <integer>1</integer>
+      <key>_smart.he.left.outer</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

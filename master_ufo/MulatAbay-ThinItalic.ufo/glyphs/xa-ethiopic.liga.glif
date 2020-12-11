@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xa-ethiopic.liga" format="2">
+  <advance width="953"/>
+  <anchor x="530" y="8" name="haa.acute"/>
+  <anchor x="332" y="1695" name="hat.caps"/>
+  <anchor x="302" y="1305" name="he.ring.uniq"/>
+  <anchor x="730" y="11" name="hee"/>
+  <anchor x="639" y="55" name="hi"/>
+  <anchor x="526" y="1464" name="ho"/>
+  <anchor x="562" y="1315" name="ho.ring"/>
+  <anchor x="824" y="955" name="hu"/>
+  <anchor x="501" y="1463" name="neck.caps"/>
+  <anchor x="119" y="1442" name="neck.left.caps"/>
+  <anchor x="67" y="1625" name="nose"/>
+  <outline>
+    <component base="ga.base.cap"/>
+    <component base="_smart.neck.left.caps" xOffset="313" yOffset="1466"/>
+    <component base="_smart.nose" xOffset="-13" yOffset="1524"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck.left.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.nose.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

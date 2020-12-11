@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xwaa-ethiopic.liga" format="2">
+  <advance width="706"/>
+  <anchor x="530" y="8" name="haa.acute"/>
+  <anchor x="332" y="1695" name="hat.caps"/>
+  <anchor x="302" y="1305" name="he.ring.uniq"/>
+  <anchor x="730" y="11" name="hee"/>
+  <anchor x="639" y="55" name="hi"/>
+  <anchor x="526" y="1464" name="ho"/>
+  <anchor x="562" y="1315" name="ho.ring"/>
+  <anchor x="824" y="955" name="hu"/>
+  <anchor x="501" y="1463" name="neck.caps"/>
+  <anchor x="119" y="1442" name="neck.left.caps"/>
+  <anchor x="67" y="1625" name="nose"/>
+  <outline>
+    <component base="ga.base.cap"/>
+    <component base="_smart.haa.acute" xScale="0.80902" xyScale="0.58779" yxScale="-0.58779" yScale="0.80902" xOffset="518" yOffset="29"/>
+    <component base="_smart.neck.left.caps" xOffset="313" yOffset="1466"/>
+    <component base="_smart.nose" xOffset="-13" yOffset="1524"/>
+    <component base="_smart.hat.left" xOffset="298" yOffset="-105"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute.cap</key>
+      <integer>1</integer>
+      <key>_smart.hat.left</key>
+      <integer>1</integer>
+      <key>_smart.neck.left.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.nose.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.haa.acute</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>4</integer>
+          <key>name</key>
+          <string>_smart.hat.left</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

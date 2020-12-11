@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shortRikrik-ethiopic" format="2">
+  <advance width="496"/>
+  <unicode hex="1393"/>
+  <outline>
+    <component base="period" xOffset="180" yOffset="-10"/>
+    <component base="period" xOffset="181" yOffset="873"/>
+  </outline>
+</glyph>

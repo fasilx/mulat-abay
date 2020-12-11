@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.he.left.inner" format="2">
+  <anchor x="0" y="-41" name="_he.left.inner"/>
+  <outline>
+    <contour>
+      <point x="44" y="-113" type="curve" smooth="yes"/>
+      <point x="75" y="-113"/>
+      <point x="104" y="-89"/>
+      <point x="110" y="-58" type="curve" smooth="yes"/>
+      <point x="115" y="-27"/>
+      <point x="94" y="-2"/>
+      <point x="63" y="-2" type="curve" smooth="yes" name="❌"/>
+      <point x="33" y="-2"/>
+      <point x="4" y="-27"/>
+      <point x="-1" y="-58" type="curve" smooth="yes"/>
+      <point x="-7" y="-89"/>
+      <point x="13" y="-113"/>
+    </contour>
+  </outline>
+</glyph>

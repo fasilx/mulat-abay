@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five-ethiopic" format="2">
+  <advance width="1237"/>
+  <unicode hex="136D"/>
+  <outline>
+    <contour>
+      <point x="116" y="0" type="line"/>
+      <point x="1144" y="0" type="line"/>
+      <point x="1144" y="234" type="line"/>
+      <point x="420" y="234" type="line"/>
+      <point x="434" y="1456" type="line"/>
+      <point x="129" y="1456" type="line"/>
+    </contour>
+    <component base="_num.bar" xOffset="55"/>
+    <component base="_bar.part" xOffset="175" yOffset="830"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four</string>
+    </dict>
+  </lib>
+</glyph>

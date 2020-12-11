@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="di-ethiopic.liga" format="2">
+  <advance width="1231"/>
+  <anchor x="271.324" y="10.0" name="da.caps"/>
+  <anchor x="910" y="14" name="haa"/>
+  <anchor x="620" y="1721" name="hat.caps"/>
+  <anchor x="1267" y="1009" name="he"/>
+  <anchor x="230.18" y="1466.0" name="he.left.outer"/>
+  <anchor x="783" y="32" name="hee"/>
+  <anchor x="934" y="35" name="hi"/>
+  <anchor x="226.497" y="36.0" name="ho.caps"/>
+  <anchor x="864" y="319" name="hu"/>
+  <anchor x="855" y="8" name="hwa"/>
+  <anchor x="610.24" y="1480.0" name="neck.caps"/>
+  <outline>
+    <component base="ya.base.cap"/>
+    <component base="_smart.da.caps" xOffset="-1" yOffset="-27"/>
+    <component base="_smart.hi" xOffset="957" yOffset="-92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.da.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.hi.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bu-ethiopic.liga" format="2">
+  <advance width="1373"/>
+  <anchor x="1133" y="39" name="haa.caps"/>
+  <anchor x="940" y="1648" name="hat.caps"/>
+  <anchor x="257" y="1595" name="hat.left"/>
+  <anchor x="619" y="1481" name="he.acute.top"/>
+  <anchor x="313" y="772" name="he.left.inner"/>
+  <anchor x="76.942" y="764.0" name="he.left.outer"/>
+  <anchor x="1070" y="49" name="hee"/>
+  <anchor x="1170" y="93" name="hi"/>
+  <anchor x="224" y="26" name="ho.caps"/>
+  <anchor x="1142.14" y="866.0" name="hu"/>
+  <anchor x="1115" y="-22" name="hwa"/>
+  <anchor x="283" y="1456" name="ka.caps"/>
+  <anchor x="661.045" y="1475.0" name="neck.caps"/>
+  <outline>
+    <component base="ba.base.cap"/>
+    <component base="_smart.hu" xOffset="1146" yOffset="-101"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

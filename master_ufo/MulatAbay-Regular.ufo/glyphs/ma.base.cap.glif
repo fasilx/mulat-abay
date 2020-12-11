@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ma.base.cap" format="2">
+  <advance width="1833"/>
+  <anchor x="1554" y="0" name="haa"/>
+  <anchor x="595" y="-1" name="he.acute.bottom"/>
+  <anchor x="1495" y="0" name="hee"/>
+  <anchor x="1601" y="-274" name="hi"/>
+  <anchor x="547" y="0" name="ho"/>
+  <anchor x="1590" y="831" name="hu"/>
+  <anchor x="1528" y="0" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="617" y="0" type="line"/>
+      <point x="893" y="939" type="line"/>
+      <point x="1200" y="0" type="line"/>
+      <point x="1618" y="0" type="line"/>
+      <point x="1618" y="1456" type="line"/>
+      <point x="1011" y="1456" type="line"/>
+      <point x="889" y="1082" type="line"/>
+      <point x="767" y="1456" type="line"/>
+      <point x="169" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="128" type="line"/>
+      <point x="361" y="1313" type="line"/>
+      <point x="660" y="1313" type="line"/>
+      <point x="761" y="962" type="line"/>
+      <point x="516" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="1444" y="128" type="line"/>
+      <point x="1306" y="128" type="line"/>
+      <point x="1024" y="962" type="line"/>
+      <point x="1125" y="1331" type="line"/>
+      <point x="1444" y="1331" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>M</string>
+    </dict>
+  </lib>
+</glyph>

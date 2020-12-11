@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oGlottal-ethiopic.liga" format="2">
+  <advance width="1349"/>
+  <anchor x="1215" y="6" name="haa"/>
+  <anchor x="240" y="1677" name="hat"/>
+  <anchor x="240" y="1677" name="hat.left"/>
+  <anchor x="1119" y="-1" name="hee"/>
+  <anchor x="115" y="-12" name="ho"/>
+  <anchor x="867" y="965" name="hu"/>
+  <anchor x="1157" y="9" name="hwa"/>
+  <anchor x="1283" y="0" name="ni"/>
+  <outline>
+    <component base="aGl.base.cap"/>
+    <component base="_smart.ho" xOffset="111" yOffset="-362"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

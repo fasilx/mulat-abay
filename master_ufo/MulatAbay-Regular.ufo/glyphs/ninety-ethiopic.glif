@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ninety-ethiopic" format="2">
+  <advance width="1150"/>
+  <unicode hex="137A"/>
+  <outline>
+    <contour>
+      <point x="821" y="-4" type="line"/>
+      <point x="985" y="-4" type="line"/>
+      <point x="750" y="635" type="line"/>
+      <point x="1061" y="1331" type="line"/>
+      <point x="1061" y="1435" type="line"/>
+      <point x="77" y="1435" type="line"/>
+      <point x="77" y="1283" type="line"/>
+      <point x="865" y="1283" type="line"/>
+      <point x="567" y="637" type="line"/>
+    </contour>
+    <component base="_num.bar"/>
+  </outline>
+</glyph>

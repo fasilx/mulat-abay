@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="618"/>
+  <unicode hex="203A"/>
+  <note>
+uni203A
+</note>
+  <outline>
+    <contour>
+      <point x="80" y="124" type="line"/>
+      <point x="267" y="124" type="line"/>
+      <point x="547" y="514" type="line"/>
+      <point x="547" y="533" type="line"/>
+      <point x="267" y="923" type="line"/>
+      <point x="80" y="923" type="line"/>
+      <point x="320" y="523" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHB[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHB[ ]	/* 3 values pushed */
+3 7 0 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHB[ ]	/* 1 value pushed */
+3 
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mo-ethiopic.liga" format="2">
+  <advance width="1833"/>
+  <anchor x="1554" y="0" name="haa"/>
+  <anchor x="595" y="-1" name="he.acute.bottom"/>
+  <anchor x="1495" y="0" name="hee"/>
+  <anchor x="1601" y="-274" name="hi"/>
+  <anchor x="547" y="0" name="ho"/>
+  <anchor x="1590" y="831" name="hu"/>
+  <anchor x="1528" y="0" name="hwa"/>
+  <outline>
+    <component base="ma.base.cap"/>
+    <component base="_smart.ho" xOffset="543" yOffset="-350"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

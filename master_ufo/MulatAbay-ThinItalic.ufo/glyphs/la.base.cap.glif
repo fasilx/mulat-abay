@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="la.base.cap" format="2">
+  <advance width="1222"/>
+  <anchor x="1013" y="12" name="haa"/>
+  <anchor x="866" y="87" name="hee"/>
+  <anchor x="1024" y="56" name="hi"/>
+  <anchor x="1113" y="1076" name="ho.ring"/>
+  <anchor x="-145" y="41" name="ho.ring.uniq"/>
+  <anchor x="781" y="1081" name="hu"/>
+  <anchor x="969" y="9" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="-158" y="0" type="line"/>
+      <point x="-99" y="0" type="line"/>
+      <point x="638" y="1242" type="line"/>
+      <point x="937" y="0" type="line"/>
+      <point x="996" y="0" type="line"/>
+      <point x="681" y="1296" type="line"/>
+      <point x="566" y="1583" type="line"/>
+      <point x="542" y="1530" type="line"/>
+      <point x="607" y="1296" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.hi" format="2">
+  <anchor x="-6" y="115" name="_hi"/>
+  <outline>
+    <contour>
+      <point x="146" y="-22" type="curve" smooth="yes"/>
+      <point x="238" y="-22"/>
+      <point x="294" y="34"/>
+      <point x="294" y="114" type="curve" smooth="yes"/>
+      <point x="294" y="194"/>
+      <point x="238" y="251"/>
+      <point x="146" y="251" type="curve" smooth="yes"/>
+      <point x="57" y="251"/>
+      <point x="-2" y="194"/>
+      <point x="-2" y="114" type="curve" smooth="yes"/>
+      <point x="-2" y="34"/>
+      <point x="55" y="-22"/>
+    </contour>
+  </outline>
+</glyph>

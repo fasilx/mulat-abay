@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.he.acute.top" format="2">
+  <anchor x="-9" y="1082" name="_he.acute.top"/>
+  <outline>
+    <contour>
+      <point x="21" y="1080" type="line" name="❌"/>
+      <point x="-215" y="1346" type="line"/>
+      <point x="-281" y="1346" type="line"/>
+      <point x="-39" y="1080" type="line" name="❌"/>
+    </contour>
+  </outline>
+</glyph>

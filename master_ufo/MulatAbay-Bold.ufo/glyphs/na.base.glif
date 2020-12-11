@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="na.base" format="2">
+  <advance width="1040"/>
+  <anchor x="740" y="-17" name="haa"/>
+  <anchor x="527" y="1278" name="hat"/>
+  <anchor x="96" y="815" name="he.left"/>
+  <anchor x="139" y="568" name="he.left.outer"/>
+  <anchor x="1018" y="954" name="ho.ring"/>
+  <anchor x="746" y="-20" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="508" y="-20" type="curve" smooth="yes"/>
+      <point x="865" y="-20" type="line"/>
+      <point x="865" y="234" type="line"/>
+      <point x="578" y="212" type="line" smooth="yes"/>
+      <point x="518" y="207"/>
+      <point x="349" y="217"/>
+      <point x="349" y="520" type="curve" smooth="yes"/>
+      <point x="349" y="824"/>
+      <point x="474" y="868"/>
+      <point x="546" y="868" type="curve" smooth="yes"/>
+      <point x="790" y="869" type="line"/>
+      <point x="790" y="1102" type="line"/>
+      <point x="506" y="1102" type="line" smooth="yes"/>
+      <point x="238" y="1102"/>
+      <point x="66" y="890"/>
+      <point x="66" y="562" type="curve" smooth="yes"/>
+      <point x="66" y="190"/>
+      <point x="237" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>c</string>
+    </dict>
+  </lib>
+</glyph>

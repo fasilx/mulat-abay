@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="la-ethiopic.liga" format="2">
+  <advance width="1405"/>
+  <anchor x="1204" y="12" name="haa"/>
+  <anchor x="1178" y="71" name="hee"/>
+  <anchor x="1240" y="135" name="hi"/>
+  <anchor x="1266" y="1076" name="ho.ring"/>
+  <anchor x="174" y="163" name="ho.ring.uniq"/>
+  <anchor x="864" y="1081" name="hu"/>
+  <anchor x="1207" y="-6" name="hwa"/>
+  <outline>
+    <component base="la.base.cap"/>
+  </outline>
+</glyph>

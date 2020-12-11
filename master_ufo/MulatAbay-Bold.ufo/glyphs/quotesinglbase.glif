@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="508"/>
+  <unicode hex="201A"/>
+  <note>
+uni201A
+</note>
+  <outline>
+    <contour>
+      <point x="202" y="-305" type="line"/>
+      <point x="311.333" y="-207.667"/>
+      <point x="382.667" y="-55.667"/>
+      <point x="384" y="63" type="curve" smooth="yes"/>
+      <point x="385" y="229" type="line"/>
+      <point x="147" y="229" type="line"/>
+      <point x="147" y="48" type="line" smooth="yes"/>
+      <point x="145" y="-50.667"/>
+      <point x="118" y="-142"/>
+      <point x="66" y="-226" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 3 values pushed */
+8 9 10 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHB[ ]	/* 1 value pushed */
+4 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHB[ ]	/* 1 value pushed */
+0 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHB[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

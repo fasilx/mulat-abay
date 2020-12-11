@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.ho" format="2">
+  <anchor x="-4" y="350" name="_ho"/>
+  <outline>
+    <contour>
+      <point x="-30" y="-4" type="line" name="❌"/>
+      <point x="25" y="-4" type="line" name="❌"/>
+      <point x="28" y="350" type="line"/>
+      <point x="-32" y="350" type="line"/>
+    </contour>
+  </outline>
+</glyph>

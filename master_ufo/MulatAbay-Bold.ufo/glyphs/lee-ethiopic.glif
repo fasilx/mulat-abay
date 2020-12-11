@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lee-ethiopic" format="2">
+  <advance width="1217"/>
+  <unicode hex="120C"/>
+  <anchor x="917" y="0" name="haa"/>
+  <anchor x="326" y="0" name="he.ring.uniq"/>
+  <anchor x="866" y="80" name="hee"/>
+  <anchor x="991" y="140" name="hi"/>
+  <anchor x="1161" y="1305" name="ho.ring"/>
+  <anchor x="989" y="647" name="hu"/>
+  <anchor x="907" y="0" name="hwa"/>
+  <outline>
+    <component base="la.base"/>
+    <component base="_smart.hee" xOffset="865" yOffset="-269"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

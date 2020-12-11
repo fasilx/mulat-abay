@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zo-ethiopic.liga" format="2">
+  <advance width="1505"/>
+  <anchor x="1228" y="43" name="haa"/>
+  <anchor x="1151" y="67" name="hee"/>
+  <anchor x="1268" y="59" name="hi"/>
+  <anchor x="247" y="11" name="ho.caps"/>
+  <anchor x="1280" y="1001" name="hu"/>
+  <anchor x="1194" y="-27" name="hwa"/>
+  <anchor x="1088" y="1455" name="zha.caps"/>
+  <outline>
+    <component base="za.base.cap"/>
+    <component base="_smart.ho.caps" xOffset="243" yOffset="-339"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho.cap</key>
+      <integer>1</integer>
+      <key>_smart.ho.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

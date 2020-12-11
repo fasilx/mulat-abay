@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phwa-ethiopic.liga" format="2">
+  <advance width="1193"/>
+  <anchor x="911" y="18" name="haa.caps"/>
+  <anchor x="703" y="1704" name="hat.caps"/>
+  <anchor x="1227" y="1164" name="he"/>
+  <anchor x="906" y="67" name="hee"/>
+  <anchor x="944" y="24" name="hi"/>
+  <anchor x="-75" y="7" name="ho.caps"/>
+  <anchor x="1001" y="647" name="hu"/>
+  <anchor x="877" y="63" name="hwa"/>
+  <anchor x="655" y="1465" name="neck.caps"/>
+  <outline>
+    <component base="tsa.base.cap"/>
+    <component base="_smart.hwa" xOffset="1003" yOffset="-305"/>
+    <component base="_smart.hat.caps" xOffset="544" yOffset="1"/>
+    <component base="_smart.neck.caps" xOffset="718" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.hwa.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>S</string>
+    </dict>
+  </lib>
+</glyph>

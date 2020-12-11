@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.da" format="2">
+  <anchor x="-66" y="156" name="_da"/>
+  <outline>
+    <contour>
+      <point x="-174" y="-3" type="line" name="❌"/>
+      <point x="494" y="-3" type="line" name="❌"/>
+      <point x="520" y="148" type="line"/>
+      <point x="-148" y="148" type="line"/>
+    </contour>
+  </outline>
+</glyph>

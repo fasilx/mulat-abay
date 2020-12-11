@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sectionmark-ethiopic" format="2">
+  <advance width="1203"/>
+  <unicode hex="1360"/>
+  <outline>
+    <component base="period" xOffset="315" yOffset="151"/>
+    <component base="period" xScale="0" xyScale="-1" yxScale="0.7823" yScale="0" xOffset="179" yOffset="790"/>
+    <component base="period" xScale="0" xyScale="-1" yxScale="0.7823" yScale="0" xOffset="856" yOffset="683"/>
+    <component base="period" xOffset="616" yOffset="905"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.hat.caps" format="2">
+  <anchor x="349" y="1637" name="_hat.cap"/>
+  <anchor x="92" y="1652" name="_hat.caps"/>
+  <outline>
+    <contour>
+      <point x="-325" y="1642" type="line"/>
+      <point x="349" y="1642" type="line"/>
+      <point x="374" y="1785" type="line"/>
+      <point x="-300" y="1785" type="line"/>
+    </contour>
+  </outline>
+</glyph>

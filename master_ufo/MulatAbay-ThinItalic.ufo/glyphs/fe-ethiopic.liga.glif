@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fe-ethiopic.liga" format="2">
+  <advance width="1267"/>
+  <anchor x="637" y="98" name="fa"/>
+  <anchor x="886" y="-17" name="haa"/>
+  <anchor x="559" y="1278" name="hat"/>
+  <anchor x="988" y="1554" name="hat.caps"/>
+  <anchor x="128" y="815" name="he.left"/>
+  <anchor x="1273" y="1232" name="ho.ring"/>
+  <anchor x="847" y="-20" name="hwa"/>
+  <anchor x="259" y="1451" name="nose"/>
+  <outline>
+    <component base="na.base.cap"/>
+    <component base="_smart.fa" xOffset="204" yOffset="44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.fa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="baa-ethiopic" format="2">
+  <advance width="1122"/>
+  <unicode hex="1263"/>
+  <anchor x="264" y="768" name="aGl"/>
+  <anchor x="781" y="0" name="haa"/>
+  <anchor x="569.428" y="1382.0" name="hat"/>
+  <anchor x="272" y="1232" name="hat.left"/>
+  <anchor x="559" y="1134" name="he.acute.top"/>
+  <anchor x="168" y="560" name="he.left.inner"/>
+  <anchor x="131.941" y="634.0" name="he.left.outer"/>
+  <anchor x="622" y="110" name="hee"/>
+  <anchor x="822" y="40" name="hi"/>
+  <anchor x="1" y="1" name="ho"/>
+  <anchor x="987.075" y="673.0" name="hu"/>
+  <anchor x="737" y="10" name="hwa"/>
+  <anchor x="540.659" y="1040.0" name="ka"/>
+  <anchor x="584.309" y="1114.0" name="neck"/>
+  <outline>
+    <component base="ba.base"/>
+    <component base="_smart.haa" xOffset="773" yOffset="-336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

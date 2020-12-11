@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hoa-ethiopic.liga" format="2">
+  <advance width="1373"/>
+  <anchor x="901" y="0" name="haa"/>
+  <anchor x="419" y="1083" name="he.left.inner"/>
+  <anchor x="258" y="1081" name="he.left.outer"/>
+  <anchor x="879" y="6" name="hee"/>
+  <anchor x="858" y="-290" name="hi"/>
+  <anchor x="1391" y="1407" name="ho.ring"/>
+  <anchor x="1266" y="1086" name="hu"/>
+  <outline>
+    <component base="ha.base.cap"/>
+    <component base="_smart.ho.ring" xOffset="1279" yOffset="336"/>
+    <component base="_smart.he.left.outer" xOffset="258" yOffset="1122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.he</key>
+      <integer>1</integer>
+      <key>_smart.he.left.outer</key>
+      <integer>1</integer>
+      <key>_smart.he.left.outer.cap</key>
+      <integer>1</integer>
+      <key>_smart.ho.ring</key>
+      <integer>1</integer>
+      <key>_smart.ho.ring.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

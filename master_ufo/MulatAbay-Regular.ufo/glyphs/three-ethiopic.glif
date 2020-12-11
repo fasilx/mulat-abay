@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three-ethiopic" format="2">
+  <advance width="1150"/>
+  <unicode hex="136B"/>
+  <outline>
+    <contour>
+      <point x="89" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="285" y="1304" type="line"/>
+      <point x="1073" y="1304" type="line"/>
+      <point x="1073" y="1456" type="line"/>
+      <point x="89" y="1456" type="line"/>
+    </contour>
+    <component base="_num.bar"/>
+  </outline>
+</glyph>

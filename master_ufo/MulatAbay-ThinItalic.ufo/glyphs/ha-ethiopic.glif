@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha-ethiopic" format="2">
+  <advance width="1122"/>
+  <unicode hex="1200"/>
+  <anchor x="678" y="0" name="haa"/>
+  <anchor x="57" y="781" name="he"/>
+  <anchor x="318" y="783" name="he.left.inner"/>
+  <anchor x="689" y="0" name="hee"/>
+  <anchor x="622" y="-310" name="hi"/>
+  <anchor x="945" y="1047" name="ho.ring"/>
+  <anchor x="927" y="605" name="hu"/>
+  <anchor x="701" y="0" name="hwa"/>
+  <outline>
+    <component base="ha.base"/>
+  </outline>
+</glyph>

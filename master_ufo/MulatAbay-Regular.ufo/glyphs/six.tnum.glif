@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.tnum" format="2">
+  <advance width="1150"/>
+  <note>
+glyph00603
+</note>
+  <outline>
+    <component base="six"/>
+  </outline>
+</glyph>

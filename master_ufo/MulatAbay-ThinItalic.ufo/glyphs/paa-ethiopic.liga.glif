@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paa-ethiopic.liga" format="2">
+  <advance width="1224"/>
+  <anchor x="612" y="103" name="haa"/>
+  <anchor x="410" y="16" name="haa.acute"/>
+  <anchor x="734" y="1766" name="hat.caps"/>
+  <anchor x="692" y="1562" name="he.acute.top"/>
+  <anchor x="565" y="92" name="hee"/>
+  <anchor x="520" y="44" name="hi"/>
+  <anchor x="939" y="1641" name="ho.ring"/>
+  <anchor x="709.159" y="983.0" name="hu"/>
+  <anchor x="421" y="8" name="hwa"/>
+  <anchor x="692" y="1532" name="neck.caps"/>
+  <outline>
+    <component base="pa.base.cap"/>
+    <component base="_smart.haa.acute" xScale="0.76604" xyScale="-0.64279" yxScale="0.64279" yScale="0.76604" xOffset="478" yOffset="51"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.haa.acute</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

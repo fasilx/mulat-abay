@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ree-ethiopic" format="2">
+  <advance width="952"/>
+  <unicode hex="122C"/>
+  <anchor x="548" y="41" name="fa"/>
+  <anchor x="581" y="-13" name="haa"/>
+  <anchor x="559" y="-11" name="haa.acute"/>
+  <anchor x="440" y="1044" name="hat"/>
+  <anchor x="814" y="636" name="hee"/>
+  <anchor x="720" y="907" name="ho.ring"/>
+  <anchor x="470" y="4" name="hwa"/>
+  <outline>
+    <component base="ra.base"/>
+    <component base="_smart.ho.ring" xOffset="822" yOffset="-734"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.ho.ring</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

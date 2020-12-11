@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra.base.cap" format="2">
+  <advance width="1057"/>
+  <anchor x="665" y="91" name="fa"/>
+  <anchor x="614" y="3" name="haa"/>
+  <anchor x="603" y="-4" name="haa.acute"/>
+  <anchor x="303.096" y="1360" name="hat.left"/>
+  <anchor x="990" y="20" name="hee"/>
+  <outline>
+    <contour>
+      <point x="200" y="0" type="line"/>
+      <point x="1002" y="0" type="line"/>
+      <point x="1002" y="54" type="line"/>
+      <point x="255" y="54" type="line"/>
+      <point x="255" y="1456" type="line"/>
+      <point x="200" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

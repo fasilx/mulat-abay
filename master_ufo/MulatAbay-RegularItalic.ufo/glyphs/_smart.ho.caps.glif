@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.ho.caps" format="2">
+  <anchor x="-35" y="350" name="_ho.caps"/>
+  <outline>
+    <contour>
+      <point x="-161" y="-5" type="line"/>
+      <point x="-42" y="-5" type="line"/>
+      <point x="39" y="349" type="line"/>
+      <point x="-115" y="349" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ba.base.cap" format="2">
+  <advance width="1366"/>
+  <anchor x="1153" y="39" name="haa.caps"/>
+  <anchor x="588" y="1678" name="hat.caps"/>
+  <anchor x="279" y="1555" name="hat.left"/>
+  <anchor x="681" y="1481" name="he.acute.top"/>
+  <anchor x="280.395" y="772" name="he.left.inner"/>
+  <anchor x="79.086" y="764" name="he.left.outer"/>
+  <anchor x="1015" y="119" name="hee"/>
+  <anchor x="1198" y="53" name="hi"/>
+  <anchor x="212" y="26" name="ho.caps"/>
+  <anchor x="1204" y="866" name="hu"/>
+  <anchor x="1152" y="23" name="hwa"/>
+  <anchor x="591.02" y="1480" name="ka.caps"/>
+  <anchor x="679.462" y="1475" name="neck.caps"/>
+  <outline>
+    <contour>
+      <point x="185" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="239" y="984" type="line" smooth="yes"/>
+      <point x="239" y="1253"/>
+      <point x="415" y="1422"/>
+      <point x="683" y="1422" type="curve" smooth="yes"/>
+      <point x="951" y="1422"/>
+      <point x="1126" y="1254"/>
+      <point x="1126" y="983" type="curve" smooth="yes"/>
+      <point x="1126" y="0" type="line"/>
+      <point x="1180" y="0" type="line"/>
+      <point x="1180" y="986" type="line" smooth="yes"/>
+      <point x="1180" y="1294"/>
+      <point x="988" y="1476"/>
+      <point x="683" y="1476" type="curve" smooth="yes"/>
+      <point x="378" y="1476"/>
+      <point x="185" y="1293"/>
+      <point x="185" y="990" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>
