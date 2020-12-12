@@ -13,11 +13,17 @@
   <anchor x="136" y="1442" name="neck.left.caps"/>
   <anchor x="38" y="1625" name="nose"/>
   <outline>
+    <contour>
+      <point x="860" y="-465" type="line"/>
+      <point x="967" y="-361" type="line"/>
+      <point x="967" y="36" type="line" name="❌"/>
+      <point x="312" y="36" type="line"/>
+      <point x="312" y="-78" type="line"/>
+      <point x="860" y="-78" type="line"/>
+    </contour>
     <component base="ga.base.cap"/>
-    <component base="_smart.haa.acute" xScale="0.71934" xyScale="0.69466" yxScale="-0.69466" yScale="0.71934" xOffset="867" yOffset="-45"/>
     <component base="_smart.neck.left.caps" xOffset="135" yOffset="1466"/>
     <component base="_smart.nose" xOffset="-215" yOffset="1524"/>
-    <component base="_smart.hat.left" xOffset="627" yOffset="-100"/>
   </outline>
   <lib>
     <dict>
@@ -29,25 +35,6 @@
       <integer>1</integer>
       <key>_smart.nose.cap</key>
       <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>_smart.haa.acute</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>4</integer>
-          <key>name</key>
-          <string>_smart.hat.left</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

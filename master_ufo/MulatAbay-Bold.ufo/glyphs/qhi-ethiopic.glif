@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="qhi-ethiopic" format="2">
-  <advance width="1828"/>
+  <advance width="1762"/>
   <unicode hex="1252"/>
   <anchor x="883.658" y="0.0" name="haa"/>
   <anchor x="844" y="-110" name="haa.acute"/>

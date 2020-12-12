@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="na.base" format="2">
-  <advance width="969"/>
+  <advance width="857"/>
   <anchor x="768" y="-17" name="haa"/>
   <anchor x="558" y="1278" name="hat"/>
   <anchor x="127" y="815" name="he.left"/>
@@ -33,6 +33,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>x</string>
     </dict>
   </lib>
 </glyph>

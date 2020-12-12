@@ -3,8 +3,8 @@
   <anchor x="1" y="-24" name="_neck.left"/>
   <outline>
     <contour>
-      <point x="-109" y="-23" type="line"/>
-      <point x="126" y="-23" type="line"/>
+      <point x="-111" y="-23" type="line"/>
+      <point x="130" y="-23" type="line"/>
       <point x="130" y="367" type="line"/>
       <point x="-111" y="367" type="line"/>
     </contour>

@@ -17,6 +17,12 @@
   <anchor x="541.142" y="1040.0" name="ka"/>
   <anchor x="584.83" y="1114.0" name="neck"/>
   <outline>
+    <contour>
+      <point x="92" y="1611" type="line"/>
+      <point x="92" y="1405" type="line"/>
+      <point x="135" y="1405" type="line"/>
+      <point x="135" y="1611" type="line"/>
+    </contour>
     <component base="ba.base"/>
     <component base="_smart.aGl" xOffset="1136" yOffset="-32"/>
   </outline>

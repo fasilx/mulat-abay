@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nya-ethiopic" format="2">
-  <advance width="903"/>
+  <advance width="858"/>
   <unicode hex="1298"/>
   <anchor x="825" y="10" name="haa"/>
   <anchor x="604" y="0" name="haa.acute"/>

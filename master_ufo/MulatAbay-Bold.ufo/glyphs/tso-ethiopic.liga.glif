@@ -1,24 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tso-ethiopic.liga" format="2">
-  <advance width="1254"/>
-  <anchor x="995.581" y="18.0" name="haa.caps"/>
+  <advance width="1187"/>
+  <anchor x="995.581" y="18.0" name="haa"/>
   <anchor x="573.244" y="1654.0" name="hat.caps"/>
   <anchor x="1339" y="1164" name="he"/>
   <anchor x="916.583" y="67.0" name="hee"/>
   <anchor x="1120.155" y="4.0" name="hi"/>
-  <anchor x="185" y="7" name="ho.caps"/>
+  <anchor x="185" y="7" name="ho"/>
   <anchor x="1006.722" y="647.0" name="hu"/>
   <anchor x="984.44" y="63.0" name="hwa"/>
   <anchor x="585.398" y="1465.0" name="neck.caps"/>
   <outline>
     <component base="tsa.base.cap"/>
-    <component base="_smart.ho.caps" xOffset="181" yOffset="-343"/>
+    <component base="_smart.ho" xOffset="181" yOffset="-343"/>
   </outline>
   <lib>
     <dict>
       <key>_smart.ho.cap</key>
-      <integer>1</integer>
-      <key>_smart.ho.caps.cap</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>S</string>

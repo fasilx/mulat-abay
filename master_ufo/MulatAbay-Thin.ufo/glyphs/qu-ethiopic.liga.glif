@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="qu-ethiopic.liga" format="2">
-  <advance width="1661"/>
+  <advance width="1660"/>
   <anchor x="829" y="-34" name="haa"/>
   <anchor x="828" y="-96" name="haa.acute"/>
   <anchor x="810" y="1648" name="hat.caps"/>

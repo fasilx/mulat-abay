@@ -3,14 +3,16 @@
   <anchor x="0" y="368" name="_hwa"/>
   <outline>
     <contour>
-      <point x="-223" y="0" type="line"/>
-      <point x="185" y="0" type="line"/>
-      <point x="185" y="91" type="line"/>
+      <point x="-263" y="-20" type="line"/>
+      <point x="115" y="-20" type="line"/>
+      <point x="115" y="-116" type="line"/>
+      <point x="289" y="-116" type="line"/>
+      <point x="289" y="91" type="line"/>
       <point x="119" y="91" type="line"/>
-      <point x="121" y="386" type="line"/>
+      <point x="119" y="386" type="line"/>
       <point x="-109" y="386" type="line"/>
-      <point x="-107" y="91" type="line"/>
-      <point x="-223" y="91" type="line"/>
+      <point x="-109" y="91" type="line"/>
+      <point x="-263" y="91" type="line"/>
     </contour>
   </outline>
 </glyph>

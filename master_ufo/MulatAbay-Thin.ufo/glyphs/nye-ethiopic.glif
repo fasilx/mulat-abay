@@ -16,10 +16,14 @@
   <anchor x="86" y="1037" name="neck.left"/>
   <anchor x="-4" y="1235" name="nose"/>
   <outline>
+    <contour>
+      <point x="622" y="-255" type="line"/>
+      <point x="676" y="-255" type="line"/>
+      <point x="676" y="275" type="line"/>
+      <point x="622" y="237" type="line"/>
+    </contour>
     <component base="ga.base"/>
-    <component base="_smart.neck.left" xOffset="627" yOffset="-239"/>
     <component base="_smart.hat.left" xOffset="326" yOffset="1164"/>
-    <component base="acute" xScale="0.81915" xyScale="0.57358" yxScale="-0.57358" yScale="0.81915" xOffset="1270" yOffset="-1191"/>
   </outline>
   <lib>
     <dict>
@@ -34,14 +38,6 @@
           <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
-          <key>name</key>
-          <string>_smart.neck.left</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
           <key>name</key>
           <string>_smart.hat.left</string>
         </dict>

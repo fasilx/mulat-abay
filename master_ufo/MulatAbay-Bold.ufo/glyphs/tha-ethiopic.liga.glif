@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tha-ethiopic.liga" format="2">
-  <advance width="1861"/>
+  <advance width="1794"/>
   <anchor x="888" y="5" name="cha.caps"/>
+  <anchor x="1538" y="-32" name="haa"/>
   <anchor x="1116" y="6" name="haa.acute"/>
-  <anchor x="1523" y="0" name="haa.caps"/>
   <anchor x="678" y="1440" name="he.acute.top"/>
   <anchor x="1494" y="64" name="hee"/>
   <anchor x="1623" y="110" name="hi"/>
-  <anchor x="147.465" y="2.0" name="ho.caps"/>
+  <anchor x="243" y="-48" name="ho"/>
   <anchor x="1625" y="1081" name="hu"/>
-  <anchor x="1528" y="1" name="hwa"/>
+  <anchor x="1528" y="-29" name="hwa"/>
   <anchor x="921" y="1082" name="neck.hha.caps"/>
   <outline>
     <component base="hha.base.cap"/>

@@ -9,7 +9,7 @@
   <anchor x="755" y="114" name="hi"/>
   <anchor x="850" y="1701" name="ho.ring"/>
   <anchor x="734.072" y="983.0" name="hu"/>
-  <anchor x="598.248" y="8.0" name="hwa"/>
+  <anchor x="589" y="-52" name="hwa"/>
   <anchor x="612.764" y="1532.0" name="neck.caps"/>
   <outline>
     <contour>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ga.base.cap" format="2">
-  <advance width="1048"/>
+  <advance width="981"/>
   <anchor x="649" y="8" name="haa.acute"/>
   <anchor x="218" y="1633" name="hat.caps"/>
   <anchor x="80.324" y="1305" name="he.ring.uniq"/>
@@ -29,6 +29,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
     </dict>
   </lib>
 </glyph>

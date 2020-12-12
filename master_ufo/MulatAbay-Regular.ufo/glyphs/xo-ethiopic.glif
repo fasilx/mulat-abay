@@ -10,7 +10,7 @@
   <anchor x="807" y="-20" name="hwa"/>
   <outline>
     <component base="na.base"/>
-    <component base="_smart.haa" xOffset="851" yOffset="-371"/>
+    <component base="_smart.haa" xOffset="851" yOffset="-361"/>
     <component base="_smart.ho.ring" xOffset="1002" yOffset="-361"/>
     <component base="_smart.he.left.outer" xOffset="270" yOffset="1067"/>
   </outline>

@@ -19,10 +19,9 @@ glyph00544
       <point x="489" y="204" type="line"/>
     </contour>
     <contour>
-      <point x="135" y="253" type="line"/>
-      <point x="445" y="656" type="line"/>
-      <point x="489" y="727" type="line"/>
       <point x="489" y="253" type="line"/>
+      <point x="135" y="253" type="line"/>
+      <point x="489" y="727" type="line"/>
     </contour>
   </outline>
   <lib>

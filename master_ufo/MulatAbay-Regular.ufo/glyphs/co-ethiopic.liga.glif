@@ -9,7 +9,7 @@
   <anchor x="699" y="114" name="hi"/>
   <anchor x="868" y="1521" name="ho.ring"/>
   <anchor x="708" y="983" name="hu"/>
-  <anchor x="616" y="-22" name="hwa"/>
+  <anchor x="616" y="-52" name="hwa"/>
   <anchor x="601" y="1532" name="neck.caps"/>
   <outline>
     <component base="pa.base.cap"/>

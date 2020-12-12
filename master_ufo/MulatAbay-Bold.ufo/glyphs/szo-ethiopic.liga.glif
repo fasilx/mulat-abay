@@ -8,7 +8,7 @@
   <anchor x="1421" y="-288" name="hi"/>
   <anchor x="471" y="11" name="ho"/>
   <anchor x="1606" y="956" name="hu"/>
-  <anchor x="1319" y="49" name="hwa"/>
+  <anchor x="1319" y="-81" name="hwa"/>
   <outline>
     <component base="sa.base.cap"/>
     <component base="_smart.haa.acute" xOffset="671"/>

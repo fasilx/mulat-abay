@@ -17,8 +17,8 @@
   <outline>
     <contour>
       <point x="541" y="0" type="line"/>
-      <point x="595" y="0" type="line"/>
-      <point x="595" y="706" type="line" smooth="yes"/>
+      <point x="596" y="0" type="line"/>
+      <point x="596" y="706" type="line" smooth="yes"/>
       <point x="595" y="971"/>
       <point x="483" y="1102"/>
       <point x="251" y="1102" type="curve" smooth="yes"/>
@@ -38,6 +38,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
     </dict>
   </lib>
 </glyph>

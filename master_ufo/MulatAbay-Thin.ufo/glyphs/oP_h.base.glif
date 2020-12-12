@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oPh.base" format="2">
-  <advance width="1128"/>
+  <advance width="1127"/>
   <anchor x="867" y="0" name="haa"/>
   <anchor x="561.57" y="-22" name="haa.acute"/>
   <anchor x="836" y="-39" name="hee"/>
@@ -50,6 +50,8 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o</string>
     </dict>
   </lib>

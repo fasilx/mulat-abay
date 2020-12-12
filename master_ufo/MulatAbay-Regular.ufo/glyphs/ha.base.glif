@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ha.base" format="2">
-  <advance width="1173"/>
+  <advance width="1128"/>
   <anchor x="867" y="0" name="haa"/>
   <anchor x="132" y="782" name="he"/>
   <anchor x="319" y="783" name="he.left.inner"/>
@@ -34,6 +34,8 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>u</string>
     </dict>
   </lib>

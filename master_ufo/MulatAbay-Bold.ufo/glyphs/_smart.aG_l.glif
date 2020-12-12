@@ -3,8 +3,8 @@
   <anchor x="-877" y="753" name="_aGl"/>
   <outline>
     <contour>
-      <point x="-1019" y="751" type="line"/>
-      <point x="-732" y="751" type="line"/>
+      <point x="-1021" y="711" type="line"/>
+      <point x="-732" y="711" type="line"/>
       <point x="-732" y="1120" type="line"/>
       <point x="-473" y="1293" type="line"/>
       <point x="-473" y="1367" type="line"/>
@@ -13,7 +13,7 @@
       <point x="-1015" y="1556" type="line"/>
       <point x="-1015" y="1295" type="line"/>
       <point x="-749" y="1295" type="line"/>
-      <point x="-1019" y="1120" type="line"/>
+      <point x="-1021" y="1120" type="line"/>
     </contour>
   </outline>
 </glyph>

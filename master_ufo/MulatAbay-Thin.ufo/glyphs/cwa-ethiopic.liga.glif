@@ -9,11 +9,11 @@
   <anchor x="670" y="54" name="hi"/>
   <anchor x="819" y="1641" name="ho.ring"/>
   <anchor x="709.159" y="983.0" name="hu"/>
-  <anchor x="608" y="8" name="hwa"/>
+  <anchor x="614" y="-32" name="hwa"/>
   <anchor x="602" y="1532" name="neck.caps"/>
   <outline>
     <component base="pa.base.cap"/>
-    <component base="_smart.hwa" xOffset="608" yOffset="-360"/>
+    <component base="_smart.hwa" xOffset="614" yOffset="-400"/>
     <component base="_smart.neck.caps" xOffset="617" yOffset="93"/>
     <component base="_smart.hat.caps" xOffset="567" yOffset="82"/>
   </outline>

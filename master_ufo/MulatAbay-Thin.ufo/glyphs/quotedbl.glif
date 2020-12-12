@@ -8,14 +8,14 @@ uni0022
   <outline>
     <contour>
       <point x="351" y="1122" type="line"/>
-      <point x="391" y="1122" type="line"/>
+      <point x="381" y="1122" type="line"/>
       <point x="411" y="1393" type="line"/>
       <point x="411" y="1536" type="line"/>
       <point x="351" y="1536" type="line"/>
     </contour>
     <contour>
       <point x="150" y="1122" type="line"/>
-      <point x="190" y="1122" type="line"/>
+      <point x="180" y="1122" type="line"/>
       <point x="210" y="1393" type="line"/>
       <point x="210" y="1536" type="line"/>
       <point x="150" y="1536" type="line"/>

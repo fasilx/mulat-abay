@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yaa-ethiopic.liga" format="2">
-  <advance width="1231"/>
+  <advance width="1230"/>
   <anchor x="271.324" y="10.0" name="da.caps"/>
   <anchor x="1051" y="14" name="haa"/>
   <anchor x="620" y="1682" name="hat.caps"/>
@@ -8,7 +8,7 @@
   <anchor x="220" y="1526" name="he.left.outer"/>
   <anchor x="933" y="102" name="hee"/>
   <anchor x="1124" y="15" name="hi"/>
-  <anchor x="226.497" y="36.0" name="ho.caps"/>
+  <anchor x="226" y="-25" name="ho"/>
   <anchor x="975" y="339" name="hu"/>
   <anchor x="1057" y="-2" name="hwa"/>
   <anchor x="610.24" y="1480.0" name="neck.caps"/>

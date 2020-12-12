@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="shwa-ethiopic.liga" format="2">
-  <advance width="1415"/>
-  <anchor x="1109" y="39" name="haa.caps"/>
+  <advance width="1348"/>
+  <anchor x="1113" y="-25" name="haa"/>
   <anchor x="650" y="1648" name="hat.caps"/>
   <anchor x="223" y="1656" name="hat.left"/>
   <anchor x="674" y="1476" name="he.acute.top"/>
@@ -9,16 +9,17 @@
   <anchor x="78.101" y="764.0" name="he.left.outer"/>
   <anchor x="1074" y="59" name="hee"/>
   <anchor x="1175" y="133" name="hi"/>
-  <anchor x="229" y="26" name="ho.caps"/>
+  <anchor x="231" y="-40" name="ho"/>
+  <anchor x="219.605" y="26.0" name="ho.caps"/>
   <anchor x="1159.341" y="866.0" name="hu"/>
-  <anchor x="1111" y="23" name="hwa"/>
+  <anchor x="1111" y="-38" name="hwa"/>
   <anchor x="474" y="1387" name="ka.caps"/>
   <anchor x="671" y="1475" name="neck.caps"/>
   <outline>
     <component base="ba.base.cap"/>
     <component base="_smart.neck.caps" xOffset="678" yOffset="13"/>
     <component base="_smart.hat.caps" xOffset="614" yOffset="11"/>
-    <component base="_smart.hwa" xOffset="1111" yOffset="-345"/>
+    <component base="_smart.hwa" xOffset="1111" yOffset="-406"/>
   </outline>
   <lib>
     <dict>

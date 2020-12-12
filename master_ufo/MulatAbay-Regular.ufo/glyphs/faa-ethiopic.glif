@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="faa-ethiopic" format="2">
-  <advance width="1131"/>
+  <advance width="1048"/>
   <unicode hex="134B"/>
   <anchor x="712" y="101" name="fa"/>
   <anchor x="583.102" y="-13.0" name="haa"/>
@@ -12,7 +12,7 @@
   <outline>
     <component base="ra.base"/>
     <component base="_smart.fa" xOffset="279" yOffset="47"/>
-    <component base="_smart.haa" xOffset="583" yOffset="-367"/>
+    <component base="_smart.haa" xOffset="583" yOffset="-357"/>
   </outline>
   <lib>
     <dict>

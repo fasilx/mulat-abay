@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="si-ethiopic.liga" format="2">
-  <advance width="1366"/>
-  <anchor x="1153" y="39" name="haa.caps"/>
+  <advance width="1365"/>
+  <anchor x="1153" y="-25" name="haa"/>
   <anchor x="588" y="1678" name="hat.caps"/>
   <anchor x="279" y="1555" name="hat.left"/>
   <anchor x="681" y="1481" name="he.acute.top"/>
@@ -9,7 +9,8 @@
   <anchor x="79.086" y="764.0" name="he.left.outer"/>
   <anchor x="1015" y="119" name="hee"/>
   <anchor x="1198" y="53" name="hi"/>
-  <anchor x="212" y="26" name="ho.caps"/>
+  <anchor x="213" y="-19" name="ho"/>
+  <anchor x="224" y="26" name="ho.caps"/>
   <anchor x="1204" y="866" name="hu"/>
   <anchor x="1152" y="23" name="hwa"/>
   <anchor x="591.02" y="1480.0" name="ka.caps"/>

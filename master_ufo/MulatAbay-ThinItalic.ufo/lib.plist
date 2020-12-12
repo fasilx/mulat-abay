@@ -333,6 +333,33 @@
       <string>/hha.base.cap/cho-ethiopic.liga</string>
       <string>/seven-ethiopic</string>
       <string>/summation</string>
+      <string>/ba.base</string>
+      <string>/ga.base</string>
+      <string>/ha.base</string>
+      <string>/hha.base</string>
+      <string>/la.base</string>
+      <string>/ma.base</string>
+      <string>/na.base</string>
+      <string>/pa.base</string>
+      <string>/ra.base</string>
+      <string>/sa.base</string>
+      <string>/tsa.base</string>
+      <string>/na.base.cap</string>
+      <string>/tsa.base.cap</string>
+      <string>/_smart.ho.caps</string>
+      <string>/_smart.ho</string>
+      <string>/_smart.ka.caps</string>
+      <string>/_smart.ka</string>
+      <string>/four.frac0</string>
+      <string>/_leg.part</string>
+      <string>/_smart.da</string>
+      <string>/_smart.neck</string>
+      <string>/_smart.neck.caps</string>
+      <string>/_smart.neck.left</string>
+      <string>/_smart.neck.hha.caps</string>
+      <string>/_smart.neck.left.caps</string>
+      <string>/_smart.hat.caps</string>
+      <string>/_smart.hat.left</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.MakeOTF Compatibility Mode</key>
     <integer>1</integer>

@@ -4,11 +4,11 @@
   <outline>
     <contour>
       <point x="-695" y="1056" type="line"/>
-      <point x="-604" y="1109" type="line"/>
-      <point x="-1010" y="1106" type="line"/>
-      <point x="-1003" y="1324" type="line"/>
-      <point x="-1079" y="1324" type="line"/>
-      <point x="-1085" y="1058" type="line"/>
+      <point x="-604" y="1099" type="line"/>
+      <point x="-1021" y="1099" type="line"/>
+      <point x="-1021" y="1324" type="line"/>
+      <point x="-1085" y="1324" type="line"/>
+      <point x="-1085" y="1056" type="line"/>
     </contour>
   </outline>
 </glyph>

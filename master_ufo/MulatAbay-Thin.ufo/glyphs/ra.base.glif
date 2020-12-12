@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ra.base" format="2">
-  <advance width="1107"/>
+  <advance width="1037"/>
   <anchor x="695" y="71" name="fa"/>
   <anchor x="593.84" y="-13" name="haa"/>
   <anchor x="568.453" y="-11" name="haa.acute"/>
@@ -32,6 +32,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>r</string>
     </dict>
   </lib>
 </glyph>

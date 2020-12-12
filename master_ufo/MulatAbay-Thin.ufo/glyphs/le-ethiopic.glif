@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="le-ethiopic" format="2">
-  <advance width="1122"/>
+  <advance width="1121"/>
   <unicode hex="120D"/>
-  <anchor x="927" y="0" name="haa"/>
+  <anchor x="927" y="-40" name="haa"/>
   <anchor x="326" y="0" name="he.ring.uniq"/>
   <anchor x="796" y="110" name="hee"/>
   <anchor x="991" y="50" name="hi"/>
   <anchor x="1058" y="1248" name="ho.ring"/>
   <anchor x="989" y="667" name="hu"/>
-  <anchor x="931" y="5" name="hwa"/>
+  <anchor x="931" y="-34" name="hwa"/>
   <outline>
     <component base="la.base"/>
-    <component base="_smart.ho.ring.uniq" xOffset="1122"/>
+    <component base="_smart.ho.ring.uniq" xOffset="1121"/>
   </outline>
   <lib>
     <dict>

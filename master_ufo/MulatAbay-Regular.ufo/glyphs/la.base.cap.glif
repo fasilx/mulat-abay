@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="la.base.cap" format="2">
-  <advance width="1349"/>
+  <advance width="1304"/>
   <anchor x="1215" y="-8" name="haa"/>
   <anchor x="1152" y="47" name="hee"/>
   <anchor x="1249" y="109" name="hi"/>
   <anchor x="1195" y="1076" name="ho.ring"/>
   <anchor x="132" y="145" name="ho.ring.uniq"/>
   <anchor x="813" y="1081" name="hu"/>
-  <anchor x="1188" y="-21" name="hwa"/>
+  <anchor x="1188" y="-32" name="hwa"/>
   <outline>
     <contour>
       <point x="28" y="0" type="line"/>
@@ -24,6 +24,8 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>A</string>
     </dict>
   </lib>

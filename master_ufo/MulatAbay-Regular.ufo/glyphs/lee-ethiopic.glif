@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lee-ethiopic" format="2">
-  <advance width="1173"/>
+  <advance width="1128"/>
   <unicode hex="120C"/>
-  <anchor x="929" y="0" name="haa"/>
+  <anchor x="929" y="-26" name="haa"/>
   <anchor x="326" y="0" name="he.ring.uniq"/>
   <anchor x="846" y="65" name="hee"/>
   <anchor x="991" y="110" name="hi"/>
   <anchor x="1082" y="1128" name="ho.ring"/>
   <anchor x="989" y="667" name="hu"/>
-  <anchor x="901" y="0" name="hwa"/>
+  <anchor x="901" y="-30" name="hwa"/>
   <outline>
     <component base="la.base"/>
     <component base="_smart.hee" xOffset="925" yOffset="-274"/>

@@ -130,12 +130,14 @@
     <string>_ka.hat.part.glif</string>
     <key>_kxa.hat</key>
     <string>_kxa.hat.glif</string>
-    <key>_leg.part</key>
-    <string>_leg.part.glif</string>
     <key>_num.bar</key>
     <string>_num.bar.glif</string>
     <key>_nya.hat</key>
     <string>_nya.hat.glif</string>
+    <key>_qhwaa.spare</key>
+    <string>_qhwaa.spare.glif</string>
+    <key>_qoa.spare</key>
+    <string>_qoa.spare.glif</string>
     <key>_smart.aGl</key>
     <string>_smart.aG_l.glif</string>
     <key>_smart.cha</key>
@@ -152,8 +154,6 @@
     <string>_smart.haa.glif</string>
     <key>_smart.haa.acute</key>
     <string>_smart.haa.acute.glif</string>
-    <key>_smart.haa.caps</key>
-    <string>_smart.haa.caps.glif</string>
     <key>_smart.hat</key>
     <string>_smart.hat.glif</string>
     <key>_smart.hat.002</key>
@@ -182,8 +182,6 @@
     <string>_smart.hi.glif</string>
     <key>_smart.ho</key>
     <string>_smart.ho.glif</string>
-    <key>_smart.ho.caps</key>
-    <string>_smart.ho.caps.glif</string>
     <key>_smart.ho.ring</key>
     <string>_smart.ho.ring.glif</string>
     <key>_smart.ho.ring.uniq</key>
@@ -196,8 +194,6 @@
     <string>_smart.ka.glif</string>
     <key>_smart.ka.caps</key>
     <string>_smart.ka.caps.glif</string>
-    <key>_smart.leg</key>
-    <string>_smart.leg.glif</string>
     <key>_smart.neck</key>
     <string>_smart.neck.glif</string>
     <key>_smart.neck.caps</key>
@@ -210,8 +206,6 @@
     <string>_smart.neck.left.caps.glif</string>
     <key>_smart.nose</key>
     <string>_smart.nose.glif</string>
-    <key>_smart.shoulder</key>
-    <string>_smart.shoulder.glif</string>
     <key>_smart.tsa.belt</key>
     <string>_smart.tsa.belt.glif</string>
     <key>_smart.tsa.belt.caps</key>
@@ -548,10 +542,6 @@
     <string>eight-ethiopic.glif</string>
     <key>eight.frac0</key>
     <string>eight.frac0.glif</string>
-    <key>eight.lnum</key>
-    <string>eight.lnum.glif</string>
-    <key>eight.tnum</key>
-    <string>eight.tnum.glif</string>
     <key>eighty-ethiopic</key>
     <string>eighty-ethiopic.glif</string>
     <key>ellipsis</key>
@@ -716,6 +706,8 @@
     <string>go-ethiopic.glif</string>
     <key>go-ethiopic.liga</key>
     <string>go-ethiopic.liga.glif</string>
+    <key>goa-ethiopic</key>
+    <string>goa-ethiopic.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>gravecomb</key>
@@ -736,10 +728,20 @@
     <string>guilsinglleft.glif</string>
     <key>guilsinglright</key>
     <string>guilsinglright.glif</string>
+    <key>gwa-ethiopic</key>
+    <string>gwa-ethiopic.glif</string>
     <key>gwaa-ethiopic</key>
     <string>gwaa-ethiopic.glif</string>
     <key>gwaa-ethiopic.liga</key>
     <string>gwaa-ethiopic.liga.glif</string>
+    <key>gwaa.spare</key>
+    <string>gwaa.spare.glif</string>
+    <key>gwe-ethiopic</key>
+    <string>gwe-ethiopic.glif</string>
+    <key>gwee-ethiopic</key>
+    <string>gwee-ethiopic.glif</string>
+    <key>gwi-ethiopic</key>
+    <string>gwi-ethiopic.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>ha-ethiopic</key>
@@ -914,16 +916,28 @@
     <string>ko-ethiopic.glif</string>
     <key>ko-ethiopic.liga</key>
     <string>ko-ethiopic.liga.glif</string>
+    <key>koa-ethiopic</key>
+    <string>koa-ethiopic.glif</string>
     <key>ku-ethiopic</key>
     <string>ku-ethiopic.glif</string>
     <key>ku-ethiopic.liga</key>
     <string>ku-ethiopic.liga.glif</string>
     <key>kurt-ethiopic</key>
     <string>kurt-ethiopic.glif</string>
+    <key>kwa-ethiopic</key>
+    <string>kwa-ethiopic.glif</string>
     <key>kwaa-ethiopic</key>
     <string>kwaa-ethiopic.glif</string>
     <key>kwaa-ethiopic.liga</key>
     <string>kwaa-ethiopic.liga.glif</string>
+    <key>kwaa.spare</key>
+    <string>kwaa.spare.glif</string>
+    <key>kwe-ethiopic</key>
+    <string>kwe-ethiopic.glif</string>
+    <key>kwee-ethiopic</key>
+    <string>kwee-ethiopic.glif</string>
+    <key>kwi-ethiopic</key>
+    <string>kwi-ethiopic.glif</string>
     <key>kxa-ethiopic</key>
     <string>kxa-ethiopic.glif</string>
     <key>kxa-ethiopic.liga</key>
@@ -952,10 +966,20 @@
     <string>kxu-ethiopic.glif</string>
     <key>kxu-ethiopic.liga</key>
     <string>kxu-ethiopic.liga.glif</string>
+    <key>kxwa-ethiopic</key>
+    <string>kxwa-ethiopic.glif</string>
     <key>kxwaa-ethiopic</key>
     <string>kxwaa-ethiopic.glif</string>
     <key>kxwaa-ethiopic.liga</key>
     <string>kxwaa-ethiopic.liga.glif</string>
+    <key>kxwaa.spare</key>
+    <string>kxwaa.spare.glif</string>
+    <key>kxwe-ethiopic</key>
+    <string>kxwe-ethiopic.glif</string>
+    <key>kxwee-ethiopic</key>
+    <string>kxwee-ethiopic.glif</string>
+    <key>kxwi-ethiopic</key>
+    <string>kxwi-ethiopic.glif</string>
     <key>l</key>
     <string>l.glif</string>
     <key>la-ethiopic</key>
@@ -1336,10 +1360,18 @@
     <string>qhu-ethiopic.glif</string>
     <key>qhu-ethiopic.liga</key>
     <string>qhu-ethiopic.liga.glif</string>
+    <key>qhwa-ethiopic</key>
+    <string>qhwa-ethiopic.glif</string>
     <key>qhwaa-ethiopic</key>
     <string>qhwaa-ethiopic.glif</string>
     <key>qhwaa-ethiopic.liga</key>
     <string>qhwaa-ethiopic.liga.glif</string>
+    <key>qhwe-ethiopic</key>
+    <string>qhwe-ethiopic.glif</string>
+    <key>qhwee-ethiopic</key>
+    <string>qhwee-ethiopic.glif</string>
+    <key>qhwi-ethiopic</key>
+    <string>qhwi-ethiopic.glif</string>
     <key>qi-ethiopic</key>
     <string>qi-ethiopic.glif</string>
     <key>qi-ethiopic.liga</key>
@@ -1378,8 +1410,18 @@
     <string>quotesinglbase.glif</string>
     <key>quotesingle</key>
     <string>quotesingle.glif</string>
+    <key>qwa-ethiopic</key>
+    <string>qwa-ethiopic.glif</string>
+    <key>qwaa-ethiopic</key>
+    <string>qwaa-ethiopic.glif</string>
     <key>qwaa-ethiopic.liga</key>
     <string>qwaa-ethiopic.liga.glif</string>
+    <key>qwe-ethiopic</key>
+    <string>qwe-ethiopic.glif</string>
+    <key>qwee-ethiopic</key>
+    <string>qwee-ethiopic.glif</string>
+    <key>qwi-ethiopic</key>
+    <string>qwi-ethiopic.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>ra-ethiopic</key>
@@ -1512,10 +1554,6 @@
     <string>six-ethiopic.glif</string>
     <key>six.frac0</key>
     <string>six.frac0.glif</string>
-    <key>six.lnum</key>
-    <string>six.lnum.glif</string>
-    <key>six.tnum</key>
-    <string>six.tnum.glif</string>
     <key>sixperemspace</key>
     <string>sixperemspace.glif</string>
     <key>sixty-ethiopic</key>
@@ -1886,14 +1924,26 @@
     <string>xo-ethiopic.glif</string>
     <key>xo-ethiopic.liga</key>
     <string>xo-ethiopic.liga.glif</string>
+    <key>xoa-ethiopic</key>
+    <string>xoa-ethiopic.glif</string>
     <key>xu-ethiopic</key>
     <string>xu-ethiopic.glif</string>
     <key>xu-ethiopic.liga</key>
     <string>xu-ethiopic.liga.glif</string>
+    <key>xwa-ethiopic</key>
+    <string>xwa-ethiopic.glif</string>
     <key>xwaa-ethiopic</key>
     <string>xwaa-ethiopic.glif</string>
     <key>xwaa-ethiopic.liga</key>
     <string>xwaa-ethiopic.liga.glif</string>
+    <key>xwaa.spare</key>
+    <string>xwaa.spare.glif</string>
+    <key>xwe-ethiopic</key>
+    <string>xwe-ethiopic.glif</string>
+    <key>xwee-ethiopic</key>
+    <string>xwee-ethiopic.glif</string>
+    <key>xwi-ethiopic</key>
+    <string>xwi-ethiopic.glif</string>
     <key>y</key>
     <string>y.glif</string>
     <key>ya-ethiopic</key>

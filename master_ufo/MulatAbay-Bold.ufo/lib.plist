@@ -222,119 +222,42 @@
     </dict>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
+      <string>/_smart.aGl/eGlottal-ethiopic</string>
+      <string>/kxwaa-ethiopic</string>
+      <string>/kxwi-ethiopic</string>
+      <string>/ba.base</string>
+      <string>/ga.base</string>
+      <string>/ha.base</string>
+      <string>/hha.base</string>
+      <string>/la.base</string>
+      <string>/ma.base</string>
+      <string>/na.base</string>
+      <string>/oPh.base</string>
+      <string>/pa.base</string>
+      <string>/ra.base</string>
+      <string>/sa.base</string>
+      <string>/tsa.base</string>
+      <string>/wa.base</string>
+      <string>/xwaa.spare</string>
+      <string>/ya.base</string>
+      <string>/za.base</string>
+      <string>/aGl.base.cap</string>
+      <string>/ba.base.cap</string>
+      <string>/ga.base.cap</string>
+      <string>/ha.base.cap</string>
+      <string>/hha.base.cap</string>
+      <string>/la.base.cap</string>
+      <string>/ma.base.cap</string>
+      <string>/na.base.cap</string>
+      <string>/oPh.base.cap</string>
       <string>/pa.base.cap</string>
       <string>/ra.base.cap</string>
-      <string>/_smart.aGl/eGlottal-ethiopic</string>
-      <string>/aGl.base.cap</string>
-      <string>/_smart.hat.left/waGlottal-ethiopic.liga</string>
-      <string>/eGlottal-ethiopic.liga</string>
-      <string>/_smart.hwa/chwa-ethiopic.liga</string>
-      <string>/_smart.hwa</string>
-      <string>/chaa-ethiopic.liga/hi-ethiopic/haa-ethiopic/laa-ethiopic/hhaa-ethiopic/mi-ethiopic/maa-ethiopic/szi-ethiopic/szaa-ethiopic/saa-ethiopic/shaa-ethiopic/qa-ethiopic/qu-ethiopic/qi-ethiopic/qe-ethiopic/qo-ethiopic/qha-ethiopic/qhu-ethiopic/qhi-ethiopic/qhe-ethiopic/qho-ethiopic/baa-ethiopic/vaa-ethiopic/xo-ethiopic/naa-ethiopic/no-ethiopic/nyaa-ethiopic/nyo-ethiopic/nywa-ethiopic/aaGlottal-ethiopic/kaa-ethiopic/kxaa-ethiopic/wi-ethiopic/waa-ethiopic/iPharyngeal-ethiopic/aaPharyngeal-ethiopic/zaa-ethiopic/zhaa-ethiopic/daa-ethiopic/ddaa-ethiopic/jaa-ethiopic/gwaa-ethiopic/thaa-ethiopic/chaa-ethiopic/phaa-ethiopic/tsaa-ethiopic/tzi-ethiopic/tzaa-ethiopic/faa-ethiopic/pe-ethiopic/hi-ethiopic.liga/haa-ethiopic.liga/laa-ethiopic.liga/hhaa-ethiopic.liga/mi-ethiopic.liga/maa-ethiopic.liga/szi-ethiopic.liga/szaa-ethiopic.liga/ru-ethiopic.liga/saa-ethiopic.liga/shaa-ethiopic.liga/qa-ethiopic.liga/qu-ethiopic.liga/qi-ethiopic.liga/qe-ethiopic.liga/qha-ethiopic.liga/qhu-ethiopic.liga/qhi-ethiopic.liga/qhe-ethiopic.liga/baa-ethiopic.liga/vaa-ethiopic.liga/xo-ethiopic.liga/naa-ethiopic.liga/no-ethiopic.liga/nyaa-ethiopic.liga/nyo-ethiopic.liga/aaGlottal-ethiopic.liga/kaa-ethiopic.liga/kxaa-ethiopic.liga/wi-ethiopic.liga/waa-ethiopic.liga/iPharyngeal-ethiopic.liga/aaPharyngeal-ethiopic.liga/zaa-ethiopic.liga/zhaa-ethiopic.liga/daa-ethiopic.liga/ddaa-ethiopic.liga/jaa-ethiopic.liga/gwaa-ethiopic.liga/ggwaa-ethiopic.liga/thaa-ethiopic.liga/phaa-ethiopic.liga/tsaa-ethiopic.liga/tzi-ethiopic.liga/tzaa-ethiopic.liga/faa-ethiopic.liga/pe-ethiopic.liga</string>
-      <string>/hha.base.cap/chwa-ethiopic.liga</string>
-      <string>/hha.base/chwa-ethiopic</string>
-      <string>/_smart.cha/chwa-ethiopic</string>
-      <string>/hha.base/chwa-ethiopic</string>
-      <string>/_smart.hwa/chwa-ethiopic</string>
-      <string>/_smart.cha/chwa-ethiopic</string>
-      <string>/_smart.hwa/chwa-ethiopic</string>
-      <string>/hha.base.cap/chaa-ethiopic.liga</string>
-      <string>/_smart.haa/chaa-ethiopic</string>
-      <string>/la.base/laa-ethiopic</string>
-      <string>/ba.base/baa-ethiopic</string>
-      <string>/hha.base.cap/hhaa-ethiopic.liga</string>
-      <string>/hha.base/chaa-ethiopic</string>
-      <string>/_smart.cha/chaa-ethiopic</string>
-      <string>/hha.base/chee-ethiopic</string>
-      <string>/la.base/lwa-ethiopic</string>
-      <string>/hhwa-ethiopic</string>
-      <string>/vwa-ethiopic</string>
-      <string>/pa.base/twa-ethiopic</string>
-      <string>/za.base/zwa-ethiopic</string>
-      <string>/_smart.hwa/jwa-ethiopic</string>
-      <string>/ya.base/jwa-ethiopic</string>
-      <string>/tsa.base/phwa-ethiopic</string>
-      <string>/_smart.haa/chaa-ethiopic.liga</string>
-      <string>/hha.base/cha-ethiopic</string>
-      <string>/_smart.haa.caps/chaa-ethiopic.liga</string>
-      <string>/hha-ethiopic.liga</string>
-      <string>/hha.base.cap/hhaa-ethiopic.liga</string>
-      <string>/hha.base.cap/hhaa-ethiopic.liga</string>
-      <string>/_smart.haa.caps</string>
-      <string>/_smart.haa.caps/hhaa-ethiopic.liga</string>
-      <string>/szaa-ethiopic.liga</string>
-      <string>/hha.base.cap/hhaa-ethiopic.liga</string>
-      <string>/thaa-ethiopic.liga</string>
-      <string>/ba.base.cap/saa-ethiopic.liga</string>
-      <string>/kxi-ethiopic.liga</string>
-      <string>/tsa.base.cap/phaa-ethiopic.liga</string>
-      <string>/tsa.base.cap/phaa-ethiopic.liga</string>
-      <string>/tsa.base.cap/tsaa-ethiopic.liga</string>
-      <string>/hha.base.cap/chaa-ethiopic.liga</string>
-      <string>/eight-ethiopic</string>
-      <string>/hha.base.cap/chee-ethiopic.liga</string>
-      <string>/chee-ethiopic.liga</string>
-      <string>/hha.base.cap/cho-ethiopic.liga</string>
-      <string></string>
-      <string>/hha.base.cap/hho-ethiopic.liga</string>
-      <string>/_smart.ho/hho-ethiopic.liga</string>
-      <string>/hha.base.cap/hho-ethiopic.liga</string>
-      <string>/_smart.ho.caps/hho-ethiopic.liga</string>
-      <string>/ba.base.cap/bo-ethiopic.liga</string>
-      <string>/ba.base.cap/vo-ethiopic.liga</string>
-      <string>/ba.base.cap/bo-ethiopic.liga</string>
-      <string>/ba.base.cap/ba.base.cap/bo-ethiopic.liga</string>
-      <string>/ko-ethiopic.liga</string>
-      <string>/kxo-ethiopic.liga</string>
-      <string>/tho-ethiopic.liga</string>
-      <string>/za.base.cap/zo-ethiopic.liga</string>
-      <string>/zo-ethiopic.liga</string>
-      <string>/zho-ethiopic.liga</string>
-      <string>/ya.base.cap/do-ethiopic.liga</string>
-      <string>/do-ethiopic.liga</string>
+      <string>/sa.base.cap</string>
+      <string>/tsa.base.cap</string>
+      <string>/tsa.belt.cap</string>
+      <string>/wa.base.cap</string>
       <string>/ya.base.cap</string>
-      <string>/ddo-ethiopic.liga</string>
-      <string>/ya.base.cap/jo-ethiopic.liga</string>
-      <string>/tsa.base.cap/tso-ethiopic.liga</string>
-      <string>/pho-ethiopic.liga</string>
-      <string>/hha.base.cap/cho-ethiopic.liga</string>
-      <string>/hha.base.cap/cho-ethiopic.liga</string>
-      <string>/hha.base/cho-ethiopic</string>
-      <string>/ba.base.cap</string>
-      <string>/lwa-ethiopic</string>
-      <string>/hha.base.cap/hhwa-ethiopic.liga</string>
-      <string>/ma.base.cap/mwa-ethiopic.liga</string>
-      <string>/mwa-ethiopic.liga</string>
-      <string>/ba.base.cap/bwa-ethiopic.liga</string>
-      <string>/pa.base.cap/twa-ethiopic.liga</string>
-      <string>/aGl.base.cap/oGlottal-ethiopic.liga</string>
-      <string>/kwaa-ethiopic.liga</string>
-      <string>/za.base.cap/zwa-ethiopic.liga</string>
-      <string>/ya.base.cap/dwa-ethiopic.liga</string>
-      <string>/thwa-ethiopic.liga</string>
-      <string>/tsa.base.cap/tswa-ethiopic.liga</string>
-      <string>/ga.base.cap/ggo-ethiopic.liga</string>
-      <string>/pe-ethiopic.liga</string>
-      <string>/nye-ethiopic.liga</string>
-      <string>/la.base.cap/laa-ethiopic.liga</string>
-      <string>/la.base.cap/li-ethiopic.liga</string>
-      <string>/la.base.cap/li-ethiopic.liga</string>
-      <string>/lee-ethiopic.liga</string>
-      <string>/le-ethiopic.liga</string>
-      <string>/la.base.cap/lwa-ethiopic.liga</string>
-      <string>/la.base.cap</string>
-      <string>/hha.base.cap/cho-ethiopic.liga</string>
-      <string>/nine-ethiopic</string>
-      <string>/ninety-ethiopic</string>
-      <string>/rya-ethiopic</string>
-      <string>/hha.base.cap/cho-ethiopic.liga</string>
-      <string>/_smart.cha/chaa-ethiopic</string>
-      <string>/gaa-ethiopic</string>
-      <string>/_smart.ho/cho-ethiopic</string>
-      <string>/_smart.cha.caps/cho-ethiopic.liga</string>
-      <string>/hha.base.cap/cho-ethiopic.liga</string>
-      <string>/seven-ethiopic</string>
-      <string>/summation</string>
+      <string>/za.base.cap</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.MakeOTF Compatibility Mode</key>
     <integer>1</integer>
@@ -3137,6 +3060,8 @@ DELTAC1[ ]	/* DeltaExceptionC1 */</string>
       <string>uni130E</string>
       <key>go-ethiopic.liga</key>
       <string>uni130E.liga</string>
+      <key>goa-ethiopic</key>
+      <string>uni130F</string>
       <key>gu-ethiopic</key>
       <string>uni1309</string>
       <key>gu-ethiopic.liga</key>
@@ -3145,10 +3070,18 @@ DELTAC1[ ]	/* DeltaExceptionC1 */</string>
       <string>guillemotleft</string>
       <key>guillemetright</key>
       <string>guillemotright</string>
+      <key>gwa-ethiopic</key>
+      <string>uni1310</string>
       <key>gwaa-ethiopic</key>
       <string>uni1313</string>
       <key>gwaa-ethiopic.liga</key>
       <string>uni1313.liga</string>
+      <key>gwe-ethiopic</key>
+      <string>uni1315</string>
+      <key>gwee-ethiopic</key>
+      <string>uni1314</string>
+      <key>gwi-ethiopic</key>
+      <string>uni1312</string>
       <key>ha-ethiopic</key>
       <string>uni1200</string>
       <key>ha-ethiopic.liga</key>
@@ -3291,16 +3224,26 @@ DELTAC1[ ]	/* DeltaExceptionC1 */</string>
       <string>uni12AE</string>
       <key>ko-ethiopic.liga</key>
       <string>uni12AE.liga</string>
+      <key>koa-ethiopic</key>
+      <string>uni12AF</string>
       <key>ku-ethiopic</key>
       <string>uni12A9</string>
       <key>ku-ethiopic.liga</key>
       <string>uni12A9.liga</string>
       <key>kurt-ethiopic</key>
       <string>uni1399</string>
+      <key>kwa-ethiopic</key>
+      <string>uni12B0</string>
       <key>kwaa-ethiopic</key>
       <string>uni12B3</string>
       <key>kwaa-ethiopic.liga</key>
       <string>uni12B3.liga</string>
+      <key>kwe-ethiopic</key>
+      <string>uni12B5</string>
+      <key>kwee-ethiopic</key>
+      <string>uni12B4</string>
+      <key>kwi-ethiopic</key>
+      <string>uni12B2</string>
       <key>kxa-ethiopic</key>
       <string>uni12B8</string>
       <key>kxa-ethiopic.liga</key>
@@ -3329,10 +3272,18 @@ DELTAC1[ ]	/* DeltaExceptionC1 */</string>
       <string>uni12B9</string>
       <key>kxu-ethiopic.liga</key>
       <string>uni12B9.liga</string>
+      <key>kxwa-ethiopic</key>
+      <string>uni12C0</string>
       <key>kxwaa-ethiopic</key>
       <string>uni12C3</string>
       <key>kxwaa-ethiopic.liga</key>
       <string>uni12C3.liga</string>
+      <key>kxwe-ethiopic</key>
+      <string>uni12C5</string>
+      <key>kxwee-ethiopic</key>
+      <string>uni12C4</string>
+      <key>kxwi-ethiopic</key>
+      <string>uni12C2</string>
       <key>la-ethiopic</key>
       <string>uni1208</string>
       <key>la-ethiopic.liga</key>
@@ -3601,10 +3552,18 @@ DELTAC1[ ]	/* DeltaExceptionC1 */</string>
       <string>uni1251</string>
       <key>qhu-ethiopic.liga</key>
       <string>uni1251.liga</string>
+      <key>qhwa-ethiopic</key>
+      <string>uni1258</string>
       <key>qhwaa-ethiopic</key>
       <string>uni125B</string>
       <key>qhwaa-ethiopic.liga</key>
       <string>uni125B.liga</string>
+      <key>qhwe-ethiopic</key>
+      <string>uni125D</string>
+      <key>qhwee-ethiopic</key>
+      <string>uni125C</string>
+      <key>qhwi-ethiopic</key>
+      <string>uni125A</string>
       <key>qi-ethiopic</key>
       <string>uni1242</string>
       <key>qi-ethiopic.liga</key>
@@ -3621,8 +3580,18 @@ DELTAC1[ ]	/* DeltaExceptionC1 */</string>
       <string>uni1241.liga</string>
       <key>question-ethiopic</key>
       <string>uni1367</string>
+      <key>qwa-ethiopic</key>
+      <string>uni1248</string>
+      <key>qwaa-ethiopic</key>
+      <string>uni124B</string>
       <key>qwaa-ethiopic.liga</key>
       <string>uni124B.liga</string>
+      <key>qwe-ethiopic</key>
+      <string>uni124D</string>
+      <key>qwee-ethiopic</key>
+      <string>uni124C</string>
+      <key>qwi-ethiopic</key>
+      <string>uni124A</string>
       <key>ra-ethiopic</key>
       <string>uni1228</string>
       <key>ra-ethiopic.liga</key>
@@ -4027,14 +3996,24 @@ DELTAC1[ ]	/* DeltaExceptionC1 */</string>
       <string>uni1286</string>
       <key>xo-ethiopic.liga</key>
       <string>uni1286.liga</string>
+      <key>xoa-ethiopic</key>
+      <string>uni1287</string>
       <key>xu-ethiopic</key>
       <string>uni1281</string>
       <key>xu-ethiopic.liga</key>
       <string>uni1281.liga</string>
+      <key>xwa-ethiopic</key>
+      <string>uni1288</string>
       <key>xwaa-ethiopic</key>
       <string>uni128B</string>
       <key>xwaa-ethiopic.liga</key>
       <string>uni128B.liga</string>
+      <key>xwe-ethiopic</key>
+      <string>uni128D</string>
+      <key>xwee-ethiopic</key>
+      <string>uni128C</string>
+      <key>xwi-ethiopic</key>
+      <string>uni128A</string>
       <key>ya-ethiopic</key>
       <string>uni12E8</string>
       <key>ya-ethiopic.liga</key>

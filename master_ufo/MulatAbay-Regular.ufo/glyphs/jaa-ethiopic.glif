@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jaa-ethiopic" format="2">
-  <advance width="1037"/>
+  <advance width="927"/>
   <unicode hex="1303"/>
   <anchor x="195" y="154" name="da"/>
   <anchor x="702" y="0" name="haa"/>
@@ -20,7 +20,7 @@
     <component base="_smart.da" xOffset="191" yOffset="-2"/>
     <component base="_smart.neck" xOffset="517" yOffset="1136"/>
     <component base="_smart.hat" xOffset="476" yOffset="1329"/>
-    <component base="_smart.haa" xOffset="702" yOffset="-354"/>
+    <component base="_smart.haa" xOffset="702" yOffset="-344"/>
   </outline>
   <lib>
     <dict>

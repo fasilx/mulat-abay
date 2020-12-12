@@ -11,7 +11,7 @@ uni201B
       <point x="243" y="1183" type="line"/>
       <point x="189" y="1252.333"/>
       <point x="159.667" y="1324"/>
-      <point x="155" y="1398" type="curve"/>
+      <point x="154" y="1398" type="curve"/>
       <point x="154" y="1536" type="line"/>
       <point x="100" y="1536" type="line"/>
       <point x="100" y="1419" type="line" smooth="yes"/>

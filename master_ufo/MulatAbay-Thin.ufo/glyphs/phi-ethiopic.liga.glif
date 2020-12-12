@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="phi-ethiopic.liga" format="2">
-  <advance width="1165"/>
-  <anchor x="1053" y="18" name="haa.caps"/>
+  <advance width="1164"/>
+  <anchor x="1053" y="18" name="haa"/>
   <anchor x="562.137" y="1654.0" name="hat.caps"/>
   <anchor x="1209" y="1164" name="he"/>
   <anchor x="898.823" y="67.0" name="hee"/>
   <anchor x="1108" y="54" name="hi"/>
-  <anchor x="123" y="7" name="ho.caps"/>
+  <anchor x="123" y="7" name="ho"/>
   <anchor x="987.215" y="647.0" name="hu"/>
   <anchor x="1055" y="63" name="hwa"/>
   <anchor x="574.055" y="1465.0" name="neck.caps"/>

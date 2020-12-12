@@ -11,7 +11,7 @@ uni201A
       <point x="311.333" y="-207.667"/>
       <point x="382.667" y="-55.667"/>
       <point x="384" y="63" type="curve" smooth="yes"/>
-      <point x="385" y="229" type="line"/>
+      <point x="384" y="229" type="line"/>
       <point x="147" y="229" type="line"/>
       <point x="147" y="48" type="line" smooth="yes"/>
       <point x="145" y="-50.667"/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ga.base" format="2">
-  <advance width="903"/>
+  <advance width="858"/>
   <anchor x="825" y="10" name="haa"/>
   <anchor x="604" y="0" name="haa.acute"/>
   <anchor x="291" y="1367" name="hat"/>
@@ -38,6 +38,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
     </dict>
   </lib>
 </glyph>

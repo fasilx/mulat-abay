@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uPharyngeal-ethiopic" format="2">
-  <advance width="1213"/>
+  <advance width="1168"/>
   <unicode hex="12D1"/>
   <anchor x="827" y="0" name="haa"/>
   <anchor x="582" y="-22" name="haa.acute"/>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tsa.belt.cap" format="2">
   <advance width="1365"/>
-  <anchor x="563.587" y="-22" name="_haa.acute"/>
+  <anchor x="465.557" y="550" name="_tsa.belt"/>
   <outline>
     <contour>
       <point x="263" y="721" type="line"/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="szi-ethiopic.liga" format="2">
-  <advance width="1862"/>
+  <advance width="1817"/>
   <anchor x="1361" y="27" name="haa"/>
   <anchor x="655" y="12" name="he.acute.bottom"/>
   <anchor x="1266" y="20" name="hee"/>
@@ -8,11 +8,11 @@
   <anchor x="1442" y="-288" name="hi"/>
   <anchor x="491" y="11" name="ho"/>
   <anchor x="1670" y="956" name="hu"/>
-  <anchor x="1358" y="49" name="hwa"/>
+  <anchor x="1340" y="-44" name="hwa"/>
   <outline>
     <component base="sa.base.cap"/>
     <component base="_smart.hi" xOffset="1442" yOffset="-403"/>
-    <component base="_smart.haa" xOffset="1361" yOffset="-327"/>
+    <component base="_smart.haa" xOffset="1361" yOffset="-317"/>
   </outline>
   <lib>
     <dict>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dde-ethiopic" format="2">
-  <advance width="1037"/>
+  <advance width="927"/>
   <unicode hex="12FD"/>
   <anchor x="195" y="154" name="da"/>
   <anchor x="702" y="0" name="haa"/>

@@ -18,17 +18,7 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="MulatAbay-RegularItalic.ufo" name="Mulat Abay Regular Italic" familyname="Mulat Abay" stylename="Regular Italic">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-      </location>
-    </source>
     <source filename="MulatAbay-Thin.ufo" name="Mulat Abay Thin" familyname="Mulat Abay" stylename="Thin">
-      <location>
-        <dimension name="Weight" xvalue="100"/>
-      </location>
-    </source>
-    <source filename="MulatAbay-ThinItalic.ufo" name="Mulat Abay Thin Italic" familyname="Mulat Abay" stylename="Thin Italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -41,17 +31,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>Variable SubfamilyName</string>
-              <string>Thin</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
     <instance name="Mulat Abay Regular" familyname="Mulat Abay" stylename="Regular" filename="instance_ufo/MulatAbay-Regular.ufo" stylemapfamilyname="Mulat Abay" stylemapstylename="regular">
       <location>
@@ -66,31 +45,6 @@
       </location>
       <kerning/>
       <info/>
-    </instance>
-    <instance name="Mulat Abay Italic" familyname="Mulat Abay" stylename="Italic" filename="instance_ufo/MulatAbay-Italic.ufo" stylemapfamilyname="Mulat Abay" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance name="Mulat Abay Thin Italic" familyname="Mulat Abay" stylename="Thin Italic" filename="instance_ufo/MulatAbay-ThinItalic.ufo" stylemapfamilyname="Mulat Abay Thin" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>Variable SubfamilyName</string>
-              <string>Thin</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
   </instances>
   <lib>

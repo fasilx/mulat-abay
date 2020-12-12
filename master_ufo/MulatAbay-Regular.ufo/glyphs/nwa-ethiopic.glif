@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nwa-ethiopic" format="2">
-  <advance width="1097"/>
+  <advance width="958"/>
   <unicode hex="1297"/>
   <anchor x="851" y="-17" name="haa"/>
   <anchor x="568" y="1278" name="hat"/>

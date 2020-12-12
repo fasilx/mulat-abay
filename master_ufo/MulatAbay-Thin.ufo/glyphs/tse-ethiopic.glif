@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tse-ethiopic" format="2">
-  <advance width="986"/>
+  <advance width="985"/>
   <unicode hex="133D"/>
   <anchor x="832" y="4" name="haa"/>
   <anchor x="527.575" y="1353.0" name="hat"/>
@@ -13,5 +13,12 @@
   <anchor x="471" y="1105" name="neck"/>
   <outline>
     <component base="tsa.base"/>
+    <component base="_smart.he" xOffset="958" yOffset="841"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.he</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

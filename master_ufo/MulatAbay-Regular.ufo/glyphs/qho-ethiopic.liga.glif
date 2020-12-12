@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="qho-ethiopic.liga" format="2">
-  <advance width="1855"/>
+  <advance width="1810"/>
   <anchor x="904" y="-4" name="haa"/>
   <anchor x="891" y="-116" name="haa.acute"/>
   <anchor x="1193" y="1638" name="hat.caps"/>
@@ -16,11 +16,13 @@
   <outline>
     <component base="wa.base.cap"/>
     <component base="_smart.ho.ring" xOffset="1051" yOffset="413"/>
-    <component base="_smart.hwa" xOffset="989" yOffset="-342"/>
     <component base="_smart.hat.caps" xOffset="899" yOffset="1"/>
+    <component base="_smart.haa" xOffset="904" yOffset="-348"/>
   </outline>
   <lib>
     <dict>
+      <key>_smart.haa.cap</key>
+      <integer>1</integer>
       <key>_smart.hat.caps.cap</key>
       <integer>1</integer>
       <key>_smart.ho.ring.cap</key>

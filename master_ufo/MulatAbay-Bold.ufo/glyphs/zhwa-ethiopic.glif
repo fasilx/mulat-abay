@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zhwa-ethiopic" format="2">
-  <advance width="1194"/>
+  <advance width="1148"/>
   <unicode hex="12E7"/>
-  <anchor x="895" y="6" name="haa"/>
-  <anchor x="857" y="64" name="hee"/>
-  <anchor x="1020" y="127" name="hi"/>
-  <anchor x="197" y="-1" name="ho"/>
-  <anchor x="1010" y="681" name="hu"/>
-  <anchor x="887" y="0" name="hwa"/>
-  <anchor x="555" y="740" name="zha"/>
+  <anchor x="916" y="6" name="haa"/>
+  <anchor x="878" y="64" name="hee"/>
+  <anchor x="1041" y="127" name="hi"/>
+  <anchor x="218" y="-1" name="ho"/>
+  <anchor x="1031" y="681" name="hu"/>
+  <anchor x="908" y="0" name="hwa"/>
+  <anchor x="576" y="740" name="zha"/>
   <outline>
     <component base="za.base"/>
-    <component base="_smart.hwa" xOffset="887" yOffset="-368"/>
-    <component base="_smart.zha" xOffset="562" yOffset="-216"/>
+    <component base="_smart.hwa" xOffset="908" yOffset="-368"/>
+    <component base="_smart.zha" xOffset="583" yOffset="-216"/>
   </outline>
   <lib>
     <dict>

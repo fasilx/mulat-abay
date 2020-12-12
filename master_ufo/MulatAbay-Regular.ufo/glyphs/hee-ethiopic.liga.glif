@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hee-ethiopic.liga" format="2">
-  <advance width="1373"/>
+  <advance width="1328"/>
   <anchor x="1115" y="-2" name="haa"/>
   <anchor x="299" y="1083" name="he.left.inner"/>
   <anchor x="168.311" y="1081.0" name="he.left.outer"/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kxwaa-ethiopic" format="2">
-  <advance width="1123"/>
+  <advance width="1122"/>
   <unicode hex="12C3"/>
   <anchor x="259" y="721" name="aGl"/>
   <anchor x="928" y="2" name="haa"/>
@@ -18,15 +18,15 @@
   <anchor x="584.83" y="1114.0" name="neck"/>
   <outline>
     <component base="ba.base"/>
+    <component base="_smart.hwa" xOffset="925" yOffset="-368"/>
     <component base="_smart.ka" xOffset="1161" yOffset="5"/>
     <component base="_smart.hat.left" xOffset="227" yOffset="1220"/>
-    <component base="_smart.hwa" xOffset="925" yOffset="-368"/>
   </outline>
   <lib>
     <dict>
       <key>_smart.hat.left</key>
       <integer>1</integer>
-      <key>_smart.hwa</key>
+      <key>_smart.hwa.cap</key>
       <integer>1</integer>
       <key>_smart.ka</key>
       <integer>1</integer>

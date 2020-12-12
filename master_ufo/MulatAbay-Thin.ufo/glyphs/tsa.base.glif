@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tsa.base" format="2">
-  <advance width="986"/>
+  <advance width="985"/>
   <anchor x="832" y="4" name="haa"/>
   <anchor x="527.575" y="1353" name="hat"/>
   <anchor x="959.038" y="788" name="he"/>
@@ -13,7 +13,7 @@
   <outline>
     <contour>
       <point x="108" y="0" type="line"/>
-      <point x="162" y="0" type="line"/>
+      <point x="163" y="0" type="line"/>
       <point x="163" y="285" type="line" smooth="yes"/>
       <point x="163" y="403"/>
       <point x="275" y="530"/>
@@ -61,6 +61,8 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>s</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>s</string>
     </dict>
   </lib>

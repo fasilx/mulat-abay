@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wa.base" format="2">
-  <advance width="1578"/>
+  <advance width="1535"/>
   <anchor x="771" y="0" name="haa"/>
   <anchor x="689" y="-130" name="haa.acute"/>
   <anchor x="758" y="1363" name="hat"/>
@@ -75,6 +75,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>p</string>
     </dict>
   </lib>
 </glyph>

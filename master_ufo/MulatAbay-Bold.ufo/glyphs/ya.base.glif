@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ya.base" format="2">
-  <advance width="1048"/>
+  <advance width="937"/>
   <anchor x="195" y="234" name="da"/>
   <anchor x="639" y="10" name="haa"/>
   <anchor x="205" y="5" name="haa.acute"/>
@@ -16,20 +16,20 @@
   <anchor x="503" y="1112" name="neck"/>
   <outline>
     <contour>
-      <point x="113" y="0" type="line"/>
-      <point x="403" y="0" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
       <point x="400" y="393" type="line"/>
       <point x="447" y="379"/>
-      <point x="530" y="365"/>
+      <point x="531" y="352"/>
       <point x="632" y="375" type="curve" smooth="yes"/>
-      <point x="761" y="388"/>
+      <point x="780" y="409"/>
       <point x="913" y="552"/>
       <point x="913" y="725" type="curve" smooth="yes"/>
       <point x="913" y="908"/>
       <point x="800" y="1103"/>
       <point x="531" y="1103" type="curve" smooth="yes"/>
       <point x="292" y="1103"/>
-      <point x="110" y="948"/>
+      <point x="111" y="948"/>
       <point x="111" y="755" type="curve" smooth="yes"/>
     </contour>
     <contour>
@@ -50,6 +50,8 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>r</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>r</string>
     </dict>
   </lib>

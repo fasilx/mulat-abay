@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bee-ethiopic" format="2">
-  <advance width="1123"/>
+  <advance width="1122"/>
   <unicode hex="1264"/>
   <anchor x="259" y="721" name="aGl"/>
   <anchor x="928" y="2" name="haa"/>

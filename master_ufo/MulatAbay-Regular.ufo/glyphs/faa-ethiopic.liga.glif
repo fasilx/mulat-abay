@@ -9,7 +9,7 @@
   <outline>
     <component base="ra.base.cap"/>
     <component base="_smart.fa" xOffset="279" yOffset="97"/>
-    <component base="_smart.haa" xOffset="746" yOffset="-351"/>
+    <component base="_smart.haa" xOffset="746" yOffset="-341"/>
   </outline>
   <lib>
     <dict>

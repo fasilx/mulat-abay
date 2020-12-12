@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="qo-ethiopic" format="2">
-  <advance width="1578"/>
+  <advance width="1535"/>
   <unicode hex="1246"/>
   <anchor x="771" y="0" name="haa"/>
   <anchor x="689" y="-130" name="haa.acute"/>
@@ -15,7 +15,7 @@
   <outline>
     <component base="wa.base"/>
     <component base="_smart.ho.ring" xOffset="885" yOffset="39"/>
-    <component base="_smart.haa" xOffset="771" yOffset="-354"/>
+    <component base="_smart.haa" xOffset="771" yOffset="-344"/>
   </outline>
   <lib>
     <dict>

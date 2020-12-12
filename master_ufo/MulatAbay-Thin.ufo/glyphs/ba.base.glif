@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ba.base" format="2">
-  <advance width="1123"/>
+  <advance width="1122"/>
   <anchor x="259" y="721" name="aGl"/>
   <anchor x="928" y="2" name="haa"/>
   <anchor x="569.936" y="1382" name="hat"/>
@@ -40,6 +40,8 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>n</string>
     </dict>
   </lib>

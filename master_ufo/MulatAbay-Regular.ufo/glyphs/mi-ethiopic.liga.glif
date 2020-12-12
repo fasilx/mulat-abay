@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="mi-ethiopic.liga" format="2">
-  <advance width="1833"/>
+  <advance width="1788"/>
   <anchor x="1554" y="0" name="haa"/>
   <anchor x="595" y="-1" name="he.acute.bottom"/>
   <anchor x="1495" y="0" name="hee"/>
@@ -11,7 +11,7 @@
   <outline>
     <component base="ma.base.cap"/>
     <component base="_smart.hi" xOffset="1601" yOffset="-389"/>
-    <component base="_smart.haa" xOffset="1554" yOffset="-354"/>
+    <component base="_smart.haa" xOffset="1554" yOffset="-344"/>
   </outline>
   <lib>
     <dict>

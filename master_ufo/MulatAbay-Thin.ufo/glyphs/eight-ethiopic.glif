@@ -3,8 +3,20 @@
   <advance width="1397"/>
   <unicode hex="1370"/>
   <outline>
-    <component base="_bar.part" xScale="0.70711" xyScale="0.70711" yxScale="-0.70711" yScale="0.70711" xOffset="640" yOffset="-400"/>
-    <component base="one" xOffset="77"/>
+    <contour>
+      <point x="709" y="0" type="line"/>
+      <point x="1044" y="0" type="line"/>
+      <point x="1044" y="54" type="line"/>
+      <point x="709" y="54" type="line"/>
+    </contour>
+    <contour>
+      <point x="682" y="0" type="line"/>
+      <point x="736" y="0" type="line"/>
+      <point x="736" y="1460" type="line" name="❌"/>
+      <point x="264" y="1460" type="line"/>
+      <point x="264" y="1408" type="line"/>
+      <point x="682" y="1408" type="line"/>
+    </contour>
     <component base="_num.bar" xOffset="77"/>
   </outline>
   <lib>

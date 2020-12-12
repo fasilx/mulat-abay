@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="paa-ethiopic.liga" format="2">
   <advance width="1267"/>
+  <anchor x="546.172" y="163.586" name="_haa.acute"/>
   <anchor x="939" y="15" name="haa"/>
   <anchor x="571" y="16" name="haa.acute"/>
   <anchor x="559" y="1606" name="hat.caps"/>
@@ -9,27 +10,21 @@
   <anchor x="755" y="114" name="hi"/>
   <anchor x="850" y="1701" name="ho.ring"/>
   <anchor x="734.072" y="983.0" name="hu"/>
-  <anchor x="598.248" y="8.0" name="hwa"/>
+  <anchor x="589" y="-52" name="hwa"/>
   <anchor x="612.764" y="1532.0" name="neck.caps"/>
   <outline>
+    <contour>
+      <point x="68" y="166" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="690" y="0" type="line" name="❌"/>
+      <point x="607" y="166" type="line" name="❌"/>
+    </contour>
     <component base="pa.base.cap"/>
-    <component base="_smart.haa.acute" xScale="0.70711" xyScale="-0.70711" yxScale="0.70711" yScale="0.70711" xOffset="549" yOffset="165"/>
   </outline>
   <lib>
     <dict>
       <key>_smart.haa.acute.cap</key>
       <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>_smart.haa.acute</string>
-        </dict>
-      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>T</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

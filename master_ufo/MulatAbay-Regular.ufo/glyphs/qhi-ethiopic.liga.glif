@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="qhi-ethiopic.liga" format="2">
-  <advance width="1855"/>
+  <advance width="1810"/>
   <anchor x="904" y="-4" name="haa"/>
   <anchor x="891" y="-116" name="haa.acute"/>
   <anchor x="1193" y="1638" name="hat.caps"/>
@@ -16,7 +16,7 @@
   <outline>
     <component base="wa.base.cap"/>
     <component base="_smart.neck.caps" xOffset="927" yOffset="-16"/>
-    <component base="_smart.haa" xOffset="904" yOffset="-358"/>
+    <component base="_smart.haa" xOffset="904" yOffset="-348"/>
     <component base="_smart.hat.caps" xOffset="899" yOffset="1"/>
     <component base="_smart.hi" xOffset="963" yOffset="-368"/>
   </outline>

@@ -3,7 +3,7 @@
   <advance width="1397"/>
   <unicode hex="136F"/>
   <outline>
-    <component base="_bar.part" xOffset="125" yOffset="-190"/>
+    <component base="_bar.part" xOffset="115" yOffset="-199"/>
     <component base="seven" xOffset="75"/>
     <component base="_num.bar" xOffset="77"/>
   </outline>

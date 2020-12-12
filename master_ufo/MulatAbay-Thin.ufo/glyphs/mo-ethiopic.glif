@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="mo-ethiopic" format="2">
-  <advance width="1836"/>
+  <advance width="1860"/>
   <unicode hex="121E"/>
-  <anchor x="1544" y="0" name="haa"/>
-  <anchor x="766" y="-101" name="he.acute.bottom"/>
-  <anchor x="1515" y="0" name="hee"/>
-  <anchor x="1611" y="-314" name="hi"/>
-  <anchor x="718" y="0" name="ho"/>
-  <anchor x="1700" y="661" name="hu"/>
-  <anchor x="1549" y="0" name="hwa"/>
+  <anchor x="1558" y="0" name="haa"/>
+  <anchor x="780" y="-101" name="he.acute.bottom"/>
+  <anchor x="1529" y="0" name="hee"/>
+  <anchor x="1625" y="-314" name="hi"/>
+  <anchor x="732" y="0" name="ho"/>
+  <anchor x="1714" y="661" name="hu"/>
+  <anchor x="1563" y="0" name="hwa"/>
   <outline>
     <component base="ma.base"/>
-    <component base="_smart.ho" xOffset="722" yOffset="-350"/>
+    <component base="_smart.ho" xOffset="736" yOffset="-350"/>
   </outline>
   <lib>
     <dict>
