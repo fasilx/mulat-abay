@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ne-ethiopic.liga" format="2">
-  <advance width="957"/>
+  <advance width="1057"/>
   <anchor x="681.466" y="8.0" name="haa.acute"/>
   <anchor x="269" y="1665" name="hat.caps"/>
   <anchor x="74.961" y="1305.0" name="he.ring.uniq"/>
@@ -25,6 +25,8 @@
     <dict>
       <key>_smart.neck.left.caps.cap</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
     </dict>
   </lib>
 </glyph>

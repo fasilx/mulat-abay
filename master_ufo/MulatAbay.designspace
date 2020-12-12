@@ -54,6 +54,27 @@
         <key>A9B054E9-1A63-4AEF-9EE1-561B1DFE8422</key>
         <dict/>
       </dict>
+      <key>com.github.googlei18n.ufo2ft.featureWriters</key>
+      <array>
+        <dict>
+          <key>class</key>
+          <string>KernFeatureWriter</string>
+          <key>options</key>
+          <dict>
+            <key>mode</key>
+            <string>append</string>
+          </dict>
+        </dict>
+        <dict>
+          <key>class</key>
+          <string>MarkFeatureWriter</string>
+          <key>options</key>
+          <dict>
+            <key>mode</key>
+            <string>skip</string>
+          </dict>
+        </dict>
+      </array>
       <key>public.skipExportGlyphs</key>
       <array>
         <string>_bar.part</string>

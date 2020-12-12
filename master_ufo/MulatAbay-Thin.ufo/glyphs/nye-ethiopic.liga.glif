@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nye-ethiopic.liga" format="2">
-  <advance width="957"/>
-  <anchor x="681.466" y="8.0" name="haa.acute"/>
-  <anchor x="269" y="1665" name="hat.caps"/>
-  <anchor x="74.961" y="1305.0" name="he.ring.uniq"/>
-  <anchor x="655.181" y="11.0" name="hee"/>
-  <anchor x="830" y="65" name="hi"/>
-  <anchor x="378.701" y="1464.0" name="ho"/>
-  <anchor x="426.449" y="1315.0" name="ho.ring"/>
-  <anchor x="782.713" y="955.0" name="hu"/>
-  <anchor x="344.627" y="1463.0" name="neck.caps"/>
-  <anchor x="84" y="1442" name="neck.left.caps"/>
-  <anchor x="-24" y="1625" name="nose"/>
+  <advance width="1065"/>
+  <anchor x="689.466" y="8.0" name="haa.acute"/>
+  <anchor x="277" y="1665" name="hat.caps"/>
+  <anchor x="82.961" y="1305.0" name="he.ring.uniq"/>
+  <anchor x="663.181" y="11.0" name="hee"/>
+  <anchor x="838" y="65" name="hi"/>
+  <anchor x="386.701" y="1464.0" name="ho"/>
+  <anchor x="434.449" y="1315.0" name="ho.ring"/>
+  <anchor x="790.713" y="955.0" name="hu"/>
+  <anchor x="352.627" y="1463.0" name="neck.caps"/>
+  <anchor x="92" y="1442" name="neck.left.caps"/>
+  <anchor x="-16" y="1625" name="nose"/>
   <outline>
     <contour>
-      <point x="862" y="-377" type="line"/>
-      <point x="906" y="-374" type="line"/>
-      <point x="847" y="298" type="line"/>
-      <point x="803" y="301" type="line"/>
+      <point x="870" y="-377" type="line"/>
+      <point x="914" y="-374" type="line"/>
+      <point x="855" y="298" type="line"/>
+      <point x="811" y="301" type="line"/>
     </contour>
-    <component base="ga.base.cap"/>
-    <component base="_smart.hat.caps" xOffset="350" yOffset="-100"/>
+    <component base="ga.base.cap" xOffset="8"/>
+    <component base="_smart.hat.caps" xOffset="358" yOffset="-100"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
       <integer>1</integer>
       <key>_smart.neck.left.caps.cap</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
     </dict>
   </lib>
 </glyph>

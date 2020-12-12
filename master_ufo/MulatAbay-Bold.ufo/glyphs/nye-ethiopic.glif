@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nye-ethiopic" format="2">
-  <advance width="951"/>
+  <advance width="1081"/>
   <unicode hex="129D"/>
   <anchor x="869" y="17" name="haa"/>
   <anchor x="646" y="2" name="haa.acute"/>
@@ -42,6 +42,8 @@
           <string>_smart.hat.left</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>x</string>
     </dict>
   </lib>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="gee-ethiopic.liga" format="2">
   <advance width="982"/>
   <anchor x="700" y="8" name="haa.acute"/>
-  <anchor x="668" y="1663" name="hat.caps"/>
+  <anchor x="538" y="1663" name="hat.caps"/>
   <anchor x="77" y="1305" name="he.ring.uniq"/>
   <anchor x="673" y="11" name="hee"/>
   <anchor x="821" y="88" name="hi"/>

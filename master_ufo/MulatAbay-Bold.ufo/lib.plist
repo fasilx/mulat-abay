@@ -258,6 +258,16 @@
       <string>/wa.base.cap</string>
       <string>/ya.base.cap</string>
       <string>/za.base.cap</string>
+      <string>/xu-ethiopic</string>
+      <string>/ne-ethiopic</string>
+      <string>/nye-ethiopic</string>
+      <string>/ne-ethiopic.liga</string>
+      <string>/nye-ethiopic.liga</string>
+      <string>/hu-ethiopic</string>
+      <string>/shu-ethiopic.liga</string>
+      <string>/ga.base.cap/nya-ethiopic.liga</string>
+      <string>/iGlottal-ethiopic.liga</string>
+      <string>/eGlottal-ethiopic.liga</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.MakeOTF Compatibility Mode</key>
     <integer>1</integer>

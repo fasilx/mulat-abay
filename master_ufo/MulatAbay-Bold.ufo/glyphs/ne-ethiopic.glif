@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ne-ethiopic" format="2">
-  <advance width="951"/>
+  <advance width="1081"/>
   <unicode hex="1295"/>
   <anchor x="873" y="-383" name="_neck.left"/>
   <anchor x="869" y="17" name="haa"/>
@@ -29,6 +29,8 @@
     <dict>
       <key>_smart.neck.left</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>x</string>
     </dict>
   </lib>
 </glyph>
