@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ga-ethiopic.liga" format="2">
-  <advance width="953"/>
-  <anchor x="530" y="8" name="haa.acute"/>
-  <anchor x="332" y="1695" name="hat.caps"/>
-  <anchor x="302" y="1305" name="he.ring.uniq"/>
-  <anchor x="730" y="11" name="hee"/>
-  <anchor x="639" y="55" name="hi"/>
-  <anchor x="526" y="1464" name="ho"/>
-  <anchor x="562" y="1315" name="ho.ring"/>
-  <anchor x="824" y="955" name="hu"/>
-  <anchor x="501" y="1463" name="neck.caps"/>
-  <anchor x="119" y="1442" name="neck.left.caps"/>
-  <anchor x="67" y="1625" name="nose"/>
+  <advance width="955"/>
+  <anchor x="492" y="8" name="haa.acute"/>
+  <anchor x="372" y="1665" name="hat.caps"/>
+  <anchor x="114" y="1305" name="he.ring.uniq"/>
+  <anchor x="466" y="11" name="hee"/>
+  <anchor x="651" y="65" name="hi"/>
+  <anchor x="446" y="1464" name="ho"/>
+  <anchor x="468" y="1315" name="ho.ring"/>
+  <anchor x="760" y="955" name="hu"/>
+  <anchor x="412" y="1463" name="neck.caps"/>
+  <anchor x="147" y="1442" name="neck.left.caps"/>
+  <anchor x="72" y="1625" name="nose"/>
   <outline>
     <component base="ga.base.cap"/>
   </outline>

@@ -27,11 +27,11 @@ uni0051
       <point x="112" y="962"/>
       <point x="90" y="837" type="curve" smooth="yes"/>
       <point x="53" y="627" type="line" smooth="yes"/>
-      <point x="12" y="396"/>
-      <point x="56" y="215"/>
-      <point x="164" y="104" type="curve" smooth="yes"/>
-      <point x="241" y="24"/>
-      <point x="352" y="-20"/>
+      <point x="14" y="405"/>
+      <point x="52" y="228"/>
+      <point x="152" y="116" type="curve" smooth="yes"/>
+      <point x="229" y="28"/>
+      <point x="345" y="-20"/>
       <point x="489" y="-20" type="curve" smooth="yes"/>
       <point x="552" y="-20"/>
       <point x="615" y="-10"/>
@@ -39,8 +39,8 @@ uni0051
     </contour>
     <contour>
       <point x="498" y="34" type="curve" smooth="yes"/>
-      <point x="173" y="34"/>
-      <point x="50" y="293"/>
+      <point x="170" y="34"/>
+      <point x="49" y="296"/>
       <point x="106" y="619" type="curve" smooth="yes"/>
       <point x="144" y="832" type="line" smooth="yes"/>
       <point x="208" y="1196"/>

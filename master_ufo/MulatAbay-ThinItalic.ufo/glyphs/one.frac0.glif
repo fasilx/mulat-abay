@@ -6,12 +6,12 @@ glyph00454
 </note>
   <outline>
     <contour>
-      <point x="-3" y="0" type="line"/>
-      <point x="51" y="0" type="line"/>
-      <point x="331" y="794" type="line"/>
-      <point x="-5" y="694" type="line"/>
-      <point x="-25" y="641" type="line"/>
-      <point x="253" y="722" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="382" y="794" type="line"/>
+      <point x="63" y="694" type="line"/>
+      <point x="53" y="641" type="line"/>
+      <point x="316" y="722" type="line"/>
     </contour>
   </outline>
   <lib>

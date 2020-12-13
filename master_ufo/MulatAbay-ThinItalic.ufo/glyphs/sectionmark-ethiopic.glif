@@ -4,8 +4,8 @@
   <unicode hex="1360"/>
   <outline>
     <component base="period" xOffset="325"/>
-    <component base="period" xScale="0" xyScale="-1" yxScale="0.7823" yScale="0" xOffset="179" yOffset="547"/>
-    <component base="period" xScale="0" xyScale="-1" yxScale="0.7823" yScale="0" xOffset="802" yOffset="447"/>
-    <component base="period" xOffset="634" yOffset="828"/>
+    <component base="period" xScale="0" xyScale="-1" yxScale="0.7823" yScale="0" xOffset="179" yOffset="800"/>
+    <component base="period" xOffset="326" yOffset="883"/>
+    <component base="period" xScale="0" xyScale="-1" yxScale="0.7823" yScale="0" xOffset="870" yOffset="799"/>
   </outline>
 </glyph>

@@ -4,10 +4,10 @@
   <unicode hex="1375"/>
   <outline>
     <contour>
-      <point x="447" y="507" type="line"/>
-      <point x="501" y="507" type="line"/>
-      <point x="662" y="1423" type="line"/>
-      <point x="608" y="1423" type="line"/>
+      <point x="667" y="507" type="line"/>
+      <point x="721" y="507" type="line"/>
+      <point x="882" y="1423" type="line"/>
+      <point x="828" y="1423" type="line"/>
     </contour>
     <component base="fifty-ethiopic"/>
   </outline>

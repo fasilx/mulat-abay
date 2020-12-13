@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hha.base" format="2">
-  <advance width="1838"/>
-  <anchor x="900.389" y="7" name="cha"/>
-  <anchor x="1507" y="1" name="haa"/>
-  <anchor x="1651" y="663" name="he"/>
-  <anchor x="890" y="-3" name="he.acute.bottom"/>
-  <anchor x="909" y="1159" name="he.acute.top"/>
-  <anchor x="1350" y="120" name="hee"/>
-  <anchor x="1617" y="0" name="hi"/>
-  <anchor x="-10" y="2" name="ho"/>
-  <anchor x="1651" y="663" name="hu"/>
-  <anchor x="1465" y="10" name="hwa"/>
-  <anchor x="876" y="1106" name="neck"/>
+  <advance width="1836"/>
+  <anchor x="702" y="7" name="cha"/>
+  <anchor x="1462" y="-28" name="haa"/>
+  <anchor x="1596" y="663" name="he"/>
+  <anchor x="839" y="-3" name="he.acute.bottom"/>
+  <anchor x="792" y="1179" name="he.acute.top"/>
+  <anchor x="1343" y="140" name="hee"/>
+  <anchor x="1536" y="60" name="hi"/>
+  <anchor x="-1" y="10" name="ho"/>
+  <anchor x="1636" y="663" name="hu"/>
+  <anchor x="1458" y="-30" name="hwa"/>
+  <anchor x="880" y="1106" name="neck"/>
   <outline>
     <contour>
       <point x="-30" y="0" type="line"/>
@@ -52,6 +52,8 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>m</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>m</string>
     </dict>
   </lib>

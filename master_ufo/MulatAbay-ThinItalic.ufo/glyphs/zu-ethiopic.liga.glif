@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zu-ethiopic.liga" format="2">
-  <advance width="1439"/>
-  <anchor x="1080" y="43" name="haa"/>
-  <anchor x="965" y="17" name="hee"/>
-  <anchor x="1248.893" y="59.0" name="hi"/>
-  <anchor x="34" y="11" name="ho.caps"/>
-  <anchor x="1260.712" y="1001.0" name="hu"/>
-  <anchor x="1024" y="13" name="hwa"/>
-  <anchor x="1071.605" y="1455.0" name="zha.caps"/>
+  <advance width="1438"/>
+  <anchor x="1014" y="-27" name="haa"/>
+  <anchor x="928" y="77" name="hee"/>
+  <anchor x="1069" y="59" name="hi"/>
+  <anchor x="24" y="-58" name="ho"/>
+  <anchor x="1246" y="1001" name="hu"/>
+  <anchor x="1010" y="-37" name="hwa"/>
+  <anchor x="1137" y="1455" name="zha.caps"/>
   <outline>
     <component base="za.base.cap"/>
-    <component base="_smart.hu" xOffset="1263" yOffset="-81"/>
+    <component base="_smart.hu" xOffset="1270" yOffset="34"/>
   </outline>
   <lib>
     <dict>

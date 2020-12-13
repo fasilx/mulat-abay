@@ -7,16 +7,16 @@ uni2017
 </note>
   <outline>
     <contour>
-      <point x="-165" y="-288" type="line"/>
-      <point x="681" y="-288" type="line"/>
-      <point x="691" y="-234" type="line"/>
-      <point x="-155" y="-234" type="line"/>
-    </contour>
-    <contour>
       <point x="-123" y="-54" type="line"/>
       <point x="723" y="-54" type="line"/>
       <point x="732" y="0" type="line"/>
       <point x="-114" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-165" y="-288" type="line"/>
+      <point x="681" y="-288" type="line"/>
+      <point x="691" y="-234" type="line"/>
+      <point x="-155" y="-234" type="line"/>
     </contour>
   </outline>
 </glyph>

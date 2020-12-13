@@ -5,10 +5,10 @@
   <note>
 uni004C
 </note>
-  <anchor x="529" y="0" name="bottom"/>
-  <anchor x="529" y="728" name="center"/>
-  <anchor x="529" y="1456" name="top"/>
-  <anchor x="1037" y="1456" name="topright"/>
+  <anchor x="338" y="0" name="bottom"/>
+  <anchor x="467" y="728" name="center"/>
+  <anchor x="595" y="1456" name="top"/>
+  <anchor x="1103" y="1456" name="topright"/>
   <outline>
     <contour>
       <point x="9" y="0" type="line"/>

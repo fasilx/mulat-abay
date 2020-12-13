@@ -4,7 +4,7 @@
   <unicode hex="136E"/>
   <outline>
     <component base="lowringmod" xScale="1.2743" yScale="1.2743" xOffset="406" yOffset="516"/>
-    <component base="seven" xOffset="77"/>
+    <component base="seven" xOffset="87" yOffset="-20"/>
     <component base="_num.bar" xOffset="77"/>
   </outline>
   <lib>

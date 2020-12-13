@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_zha.ears.caps" format="2">
+  <advance width="1460"/>
+  <anchor x="67" y="29" name="_ho"/>
+  <outline>
+    <component base="dotaccent" xOffset="-190"/>
+    <component base="dotaccent" xOffset="1110" yOffset="-10"/>
+  </outline>
+</glyph>

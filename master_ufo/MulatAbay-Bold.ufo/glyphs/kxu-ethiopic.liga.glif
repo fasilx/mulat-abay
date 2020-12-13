@@ -11,7 +11,7 @@
   <anchor x="1175" y="133" name="hi"/>
   <anchor x="231" y="-40" name="ho"/>
   <anchor x="219.605" y="26.0" name="ho.caps"/>
-  <anchor x="1159.341" y="866.0" name="hu"/>
+  <anchor x="1199" y="866" name="hu"/>
   <anchor x="1111" y="-38" name="hwa"/>
   <anchor x="474" y="1387" name="ka.caps"/>
   <anchor x="671" y="1475" name="neck.caps"/>
@@ -19,7 +19,7 @@
     <component base="ba.base.cap"/>
     <component base="_smart.ka.caps" xOffset="1294" yOffset="-8"/>
     <component base="_smart.hat.left" xOffset="218" yOffset="1644"/>
-    <component base="_smart.hu" xOffset="1161" yOffset="-102"/>
+    <component base="_smart.hu" xOffset="1201" yOffset="-102"/>
   </outline>
   <lib>
     <dict>

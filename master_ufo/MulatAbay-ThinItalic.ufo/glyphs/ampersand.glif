@@ -48,7 +48,7 @@ uni0026
       <point x="40" y="352" type="curve" smooth="yes"/>
       <point x="62" y="473"/>
       <point x="157" y="587"/>
-      <point x="339" y="723" type="curve" smooth="yes"/>
+      <point x="339" y="723" type="curve"/>
       <point x="398" y="764" type="line"/>
       <point x="784" y="217" type="line"/>
       <point x="662" y="100"/>

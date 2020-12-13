@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eeGlottal-ethiopic" format="2">
+  <advance width="1130"/>
+  <unicode hex="12A4"/>
+  <anchor x="194" y="765" name="aGl"/>
+  <anchor x="733" y="-30" name="haa"/>
+  <anchor x="627" y="1382" name="hat"/>
+  <anchor x="276" y="1322" name="hat.left"/>
+  <anchor x="567" y="1154" name="he.acute.top"/>
+  <anchor x="229" y="560" name="he.left.inner"/>
+  <anchor x="54" y="634" name="he.left.outer"/>
+  <anchor x="666" y="60" name="hee"/>
+  <anchor x="820" y="110" name="hi"/>
+  <anchor x="33" y="10" name="ho"/>
+  <anchor x="923" y="673" name="hu"/>
+  <anchor x="703" y="-39" name="hwa"/>
+  <anchor x="538" y="1040" name="ka"/>
+  <anchor x="595" y="1114" name="neck"/>
+  <outline>
+    <component base="ba.base"/>
+    <component base="_smart.aGl" xOffset="1129" yOffset="12"/>
+    <component base="_smart.hee" xOffset="876" yOffset="-279"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.aPh</key>
+      <integer>1</integer>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

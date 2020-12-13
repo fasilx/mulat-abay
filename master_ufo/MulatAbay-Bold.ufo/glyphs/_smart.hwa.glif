@@ -3,10 +3,10 @@
   <anchor x="0" y="368" name="_hwa"/>
   <outline>
     <contour>
-      <point x="-263" y="-20" type="line"/>
-      <point x="115" y="-20" type="line"/>
-      <point x="115" y="-116" type="line"/>
-      <point x="289" y="-116" type="line"/>
+      <point x="-263" y="-100" type="line"/>
+      <point x="115" y="-100" type="line"/>
+      <point x="115" y="-196" type="line"/>
+      <point x="289" y="-196" type="line"/>
       <point x="289" y="91" type="line"/>
       <point x="119" y="91" type="line"/>
       <point x="119" y="386" type="line"/>

@@ -83,8 +83,19 @@ sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 feature calt {
 # notes:
 # name: ethperiodCap
+# after abesha period, capitalize
 sub period-ethiopic space @Ethsmall' by @Ethcap;
+# after english period, capitalize
 sub period space @Ethsmall' by @Ethcap;
+# when 4 to 8 spaces, capitalize
+sub space space space space @Ethsmall' by @Ethcap;
+sub space space space space space @Ethsmall' by @Ethcap;
+sub space space space space space space @Ethsmall' by @Ethcap;
+sub space space space space space space space @Ethsmall' by @Ethcap;
+sub space space space space space space space space @Ethsmall' by @Ethcap;
+
+
+
 
 #sub period-ethiopic space hu-ethiopic' by hu-ethiopic.liga;
 #sub period-ethiopic space hi-ethiopic' by hi-ethiopic.liga;

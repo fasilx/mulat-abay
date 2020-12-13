@@ -29,7 +29,7 @@ uni00BF
       <point x="446" y="695" type="curve"/>
       <point x="392" y="695" type="line"/>
       <point x="362" y="547"/>
-      <point x="323" y="502"/>
+      <point x="324" y="502"/>
       <point x="249" y="445" type="curve" smooth="yes"/>
       <point x="15" y="267"/>
       <point x="-57" y="146"/>

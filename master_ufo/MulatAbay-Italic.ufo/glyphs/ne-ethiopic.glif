@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ne-ethiopic" format="2">
+  <advance width="938"/>
+  <unicode hex="1295"/>
+  <anchor x="507" y="-353" name="_neck.left"/>
+  <anchor x="635" y="10" name="haa"/>
+  <anchor x="412" y="0" name="haa.acute"/>
+  <anchor x="340" y="1367" name="hat"/>
+  <anchor x="273" y="1316" name="hat.left"/>
+  <anchor x="702" y="91" name="he.left.outer"/>
+  <anchor x="468" y="40" name="hee"/>
+  <anchor x="549" y="110" name="hi"/>
+  <anchor x="386" y="691" name="ho.ring"/>
+  <anchor x="644" y="638" name="hu"/>
+  <anchor x="443" y="0" name="hwa"/>
+  <anchor x="330" y="1102" name="neck"/>
+  <anchor x="106" y="1007" name="neck.left"/>
+  <anchor x="43" y="1235" name="nose"/>
+  <outline>
+    <contour>
+      <point x="457" y="-353" type="line"/>
+      <point x="590" y="-353" type="line"/>
+      <point x="724" y="355" type="line"/>
+      <point x="556" y="208" type="line"/>
+    </contour>
+    <component base="ga.base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck.left</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>x</string>
+    </dict>
+  </lib>
+</glyph>

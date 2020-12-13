@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="he-ethiopic.liga" format="2">
-  <advance width="1366"/>
-  <anchor x="959" y="50" name="haa"/>
+  <advance width="1365"/>
+  <anchor x="934" y="30" name="haa"/>
   <anchor x="256" y="1083" name="he.left.inner"/>
-  <anchor x="163" y="1081" name="he.left.outer"/>
-  <anchor x="868" y="-1" name="hee"/>
-  <anchor x="897" y="-270" name="hi"/>
-  <anchor x="1243" y="1457" name="ho.ring"/>
-  <anchor x="1250" y="1086" name="hu"/>
+  <anchor x="153" y="1081" name="he.left.outer"/>
+  <anchor x="837" y="-1" name="hee"/>
+  <anchor x="949" y="-270" name="hi"/>
+  <anchor x="1264" y="1467" name="ho.ring"/>
+  <anchor x="1251" y="1086" name="hu"/>
   <outline>
     <component base="ha.base.cap"/>
-    <component base="_smart.he.left.inner" xOffset="256" yOffset="1124"/>
+    <component base="_smart.he.left.inner" xOffset="454" yOffset="1124"/>
   </outline>
   <lib>
     <dict>

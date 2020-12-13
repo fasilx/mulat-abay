@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.aGl" format="2">
+  <anchor x="-935" y="753" name="_aGl"/>
+  <outline>
+    <contour>
+      <point x="-1054" y="710" type="line"/>
+      <point x="-871" y="710" type="line"/>
+      <point x="-800" y="1112" type="line"/>
+      <point x="-538" y="1213" type="line"/>
+      <point x="-513" y="1357" type="line"/>
+      <point x="-833" y="1357" type="line"/>
+      <point x="-797" y="1556" type="line"/>
+      <point x="-969" y="1556" type="line"/>
+      <point x="-1019" y="1275" type="line"/>
+      <point x="-633" y="1275" type="line"/>
+      <point x="-976" y="1160" type="line"/>
+    </contour>
+  </outline>
+</glyph>

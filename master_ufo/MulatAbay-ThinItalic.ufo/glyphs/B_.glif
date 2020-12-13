@@ -17,7 +17,7 @@ uni0042
       <point x="745" y="753" type="curve"/>
       <point x="913" y="785"/>
       <point x="1028" y="907"/>
-      <point x="1059" y="1083" type="curve" smooth="yes" name="❌"/>
+      <point x="1059" y="1083" type="curve" smooth="yes"/>
       <point x="1102" y="1326"/>
       <point x="962" y="1456"/>
       <point x="649" y="1456" type="curve" smooth="yes"/>

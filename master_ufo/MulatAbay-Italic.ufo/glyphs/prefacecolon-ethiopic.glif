@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prefacecolon-ethiopic" format="2">
+  <advance width="730"/>
+  <unicode hex="1366"/>
+  <outline>
+    <contour>
+      <point x="239" y="547" type="line"/>
+      <point x="519" y="547" type="line"/>
+      <point x="539" y="665" type="line"/>
+      <point x="259" y="665" type="line"/>
+    </contour>
+    <component base="period" xOffset="20"/>
+    <component base="period" xOffset="241" yOffset="843"/>
+  </outline>
+</glyph>

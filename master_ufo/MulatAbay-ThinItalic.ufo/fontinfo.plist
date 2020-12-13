@@ -24,19 +24,6 @@
     <string>fasil fikreab</string>
     <key>openTypeNameManufacturer</key>
     <string>Mulat.org</string>
-    <key>openTypeOS2Panose</key>
-    <array>
-      <integer>2</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-    </array>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>512</integer>
     <key>openTypeOS2StrikeoutSize</key>
@@ -65,8 +52,6 @@
       <integer>62</integer>
       <integer>75</integer>
     </array>
-    <key>openTypeOS2VendorID</key>
-    <string>MULT</string>
     <key>openTypeOS2WinAscent</key>
     <integer>2163</integer>
     <key>openTypeOS2WinDescent</key>

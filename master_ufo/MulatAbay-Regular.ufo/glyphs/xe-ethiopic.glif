@@ -16,9 +16,15 @@
   <anchor x="120" y="1007" name="neck.left"/>
   <anchor x="17" y="1235" name="nose"/>
   <outline>
+    <contour>
+      <point x="-172" y="1109" type="line"/>
+      <point x="-172" y="658" type="line"/>
+      <point x="-61" y="658" type="line"/>
+      <point x="-61" y="1109" type="line"/>
+    </contour>
     <component base="ga.base"/>
-    <component base="_smart.neck.left" xOffset="119" yOffset="1031"/>
-    <component base="_smart.nose" xOffset="-236" yOffset="1134"/>
+    <component base="_smart.neck.left" xOffset="122" yOffset="1032"/>
+    <component base="_smart.nose" xOffset="-276" yOffset="1174"/>
   </outline>
   <lib>
     <dict>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ma.base.cap" format="2">
-  <advance width="1757"/>
-  <anchor x="1384" y="0" name="haa"/>
-  <anchor x="286" y="-1" name="he.acute.bottom"/>
-  <anchor x="1365" y="0" name="hee"/>
-  <anchor x="1341" y="-274" name="hi"/>
-  <anchor x="278" y="0" name="ho"/>
-  <anchor x="1550" y="791" name="hu"/>
-  <anchor x="1330" y="0" name="hwa"/>
+  <advance width="1755"/>
+  <anchor x="1333" y="0" name="haa"/>
+  <anchor x="325" y="-1" name="he.acute.bottom"/>
+  <anchor x="1324" y="0" name="hee"/>
+  <anchor x="1335" y="-314" name="hi"/>
+  <anchor x="277" y="0" name="ho"/>
+  <anchor x="1559" y="791" name="hu"/>
+  <anchor x="1328" y="0" name="hwa"/>
   <outline>
     <contour>
       <point x="9" y="0" type="line"/>
@@ -15,23 +15,23 @@
       <point x="845" y="907" type="line"/>
       <point x="1050" y="0" type="line"/>
       <point x="1365" y="0" type="line"/>
-      <point x="1622" y="1456" type="line"/>
+      <point x="1622" y="1459" type="line"/>
       <point x="1119" y="1459" type="line"/>
       <point x="855" y="999" type="line"/>
       <point x="703" y="1459" type="line"/>
-      <point x="266" y="1456" type="line"/>
+      <point x="266" y="1459" type="line"/>
     </contour>
     <contour>
-      <point x="73" y="57" type="line"/>
+      <point x="72" y="50" type="line"/>
       <point x="310" y="1397" type="line"/>
       <point x="647" y="1397" type="line"/>
       <point x="815" y="935" type="line"/>
-      <point x="277" y="57" type="line"/>
+      <point x="276" y="50" type="line"/>
     </contour>
     <contour>
       <point x="1320" y="50" type="line"/>
-      <point x="1099" y="48" type="line"/>
-      <point x="886" y="925" type="line"/>
+      <point x="1098" y="50" type="line"/>
+      <point x="886" y="935" type="line"/>
       <point x="1159" y="1397" type="line"/>
       <point x="1558" y="1397" type="line"/>
     </contour>
@@ -39,6 +39,8 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>M</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>M</string>
     </dict>
   </lib>

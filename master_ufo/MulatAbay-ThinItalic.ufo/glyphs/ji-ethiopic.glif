@@ -1,26 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ji-ethiopic" format="2">
-  <advance width="1033"/>
+  <advance width="911"/>
   <unicode hex="1302"/>
-  <anchor x="2" y="54" name="da"/>
-  <anchor x="566" y="10" name="haa"/>
-  <anchor x="9" y="5" name="haa.acute"/>
-  <anchor x="492" y="1341" name="hat"/>
-  <anchor x="950" y="756" name="he"/>
-  <anchor x="205" y="480" name="he.left.outer"/>
-  <anchor x="552" y="51" name="hee"/>
-  <anchor x="714" y="11" name="hha"/>
-  <anchor x="525" y="-60" name="hi"/>
-  <anchor x="-78" y="3" name="ho"/>
-  <anchor x="518" y="139" name="hu"/>
-  <anchor x="518" y="10" name="hwa"/>
-  <anchor x="524" y="1112" name="neck"/>
+  <anchor x="14" y="54" name="da"/>
+  <anchor x="543" y="10" name="haa"/>
+  <anchor x="61" y="-15" name="haa.acute"/>
+  <anchor x="566" y="1341" name="hat"/>
+  <anchor x="955" y="756" name="he"/>
+  <anchor x="108" y="480" name="he.left.outer"/>
+  <anchor x="541" y="51" name="hee"/>
+  <anchor x="701" y="11" name="hha"/>
+  <anchor x="545" y="-50" name="hi"/>
+  <anchor x="-51" y="0" name="ho"/>
+  <anchor x="578" y="159" name="hu"/>
+  <anchor x="543" y="10" name="hwa"/>
+  <anchor x="558" y="1112" name="neck"/>
+  <anchor x="79" y="57" name="ye"/>
   <outline>
     <component base="ya.base"/>
-    <component base="_smart.hi" xOffset="548" yOffset="-187"/>
-    <component base="_smart.da" xOffset="68" yOffset="-102"/>
-    <component base="_smart.neck" xOffset="718" yOffset="1136"/>
-    <component base="_smart.hat" xOffset="492" yOffset="1229"/>
+    <component base="_smart.hi" xOffset="712" yOffset="-177"/>
+    <component base="_smart.da" xOffset="243" yOffset="-102"/>
+    <component base="_smart.neck" xOffset="752" yOffset="1136"/>
+    <component base="_smart.hat" xOffset="756" yOffset="1229"/>
   </outline>
   <lib>
     <dict>

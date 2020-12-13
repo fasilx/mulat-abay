@@ -18,7 +18,7 @@
   <anchor x="589" y="1114" name="neck"/>
   <outline>
     <component base="ba.base"/>
-    <component base="_smart.ka" xOffset="1165" yOffset="5"/>
+    <component base="_smart.ka" xOffset="1165" yOffset="2"/>
     <component base="_smart.hat.left" xOffset="229" yOffset="1310"/>
     <component base="_smart.hwa" xOffset="901" yOffset="-407"/>
   </outline>

@@ -11,13 +11,13 @@
   <anchor x="1170" y="93" name="hi"/>
   <anchor x="225" y="-29" name="ho"/>
   <anchor x="213.086" y="26.0" name="ho.caps"/>
-  <anchor x="1142.14" y="866.0" name="hu"/>
+  <anchor x="1201" y="866" name="hu"/>
   <anchor x="1115" y="-22" name="hwa"/>
-  <anchor x="283" y="1456" name="ka.caps"/>
+  <anchor x="283" y="1455" name="ka.caps"/>
   <anchor x="661.045" y="1475.0" name="neck.caps"/>
   <outline>
     <component base="ba.base.cap"/>
-    <component base="_smart.ka.caps" xOffset="1314" yOffset="-3"/>
+    <component base="_smart.ka.caps" xOffset="1314" yOffset="-4"/>
     <component base="_smart.hi" xOffset="1170" yOffset="-22"/>
   </outline>
   <lib>

@@ -3,7 +3,7 @@
   <advance width="1397"/>
   <unicode hex="136E"/>
   <outline>
-    <component base="lowringmod" xScale="1.3269" yScale="1.3269" xOffset="251" yOffset="422"/>
+    <component base="lowringmod" xScale="1.3269" yScale="1.3269" xOffset="231" yOffset="422"/>
     <component base="seven" xOffset="77"/>
     <component base="_num.bar" xOffset="77"/>
   </outline>

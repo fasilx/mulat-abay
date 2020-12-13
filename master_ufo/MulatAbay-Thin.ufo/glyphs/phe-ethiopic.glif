@@ -4,7 +4,7 @@
   <unicode hex="1335"/>
   <anchor x="832" y="4" name="haa"/>
   <anchor x="527.575" y="1353.0" name="hat"/>
-  <anchor x="959.038" y="788.0" name="he"/>
+  <anchor x="989" y="788" name="he"/>
   <anchor x="734" y="70" name="hee"/>
   <anchor x="877" y="50" name="hi"/>
   <anchor x="139" y="2" name="ho"/>
@@ -14,7 +14,7 @@
   <outline>
     <component base="tsa.base"/>
     <component base="_smart.neck" xOffset="470" yOffset="1129"/>
-    <component base="_smart.he" xOffset="958" yOffset="841"/>
+    <component base="_smart.he" xOffset="988" yOffset="841"/>
   </outline>
   <lib>
     <dict>

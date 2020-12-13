@@ -1,22 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bwa-ethiopic.liga" format="2">
-  <advance width="1293"/>
-  <anchor x="1014" y="39" name="haa.caps"/>
-  <anchor x="806" y="1708" name="hat.caps"/>
-  <anchor x="397" y="1555" name="hat.left"/>
-  <anchor x="768" y="1481" name="he.acute.top"/>
-  <anchor x="208" y="772" name="he.left.inner"/>
-  <anchor x="7" y="764" name="he.left.outer"/>
-  <anchor x="859" y="100" name="hee"/>
-  <anchor x="1025" y="43" name="hi"/>
-  <anchor x="16" y="-6" name="ho.caps"/>
-  <anchor x="1191" y="866" name="hu"/>
-  <anchor x="975" y="23" name="hwa"/>
-  <anchor x="520" y="1480" name="ka.caps"/>
-  <anchor x="757" y="1475" name="neck.caps"/>
+  <advance width="1365"/>
+  <anchor x="958" y="-25" name="haa"/>
+  <anchor x="693" y="1678" name="hat.caps"/>
+  <anchor x="362" y="1555" name="hat.left"/>
+  <anchor x="751" y="1481" name="he.acute.top"/>
+  <anchor x="226" y="772" name="he.left.inner"/>
+  <anchor x="23" y="764" name="he.left.outer"/>
+  <anchor x="845" y="119" name="hee"/>
+  <anchor x="1017" y="53" name="hi"/>
+  <anchor x="19" y="-19" name="ho"/>
+  <anchor x="38" y="26" name="ho.caps"/>
+  <anchor x="1166" y="866" name="hu"/>
+  <anchor x="965" y="23" name="hwa"/>
+  <anchor x="661" y="1480" name="ka.caps"/>
+  <anchor x="749" y="1475" name="neck.caps"/>
   <outline>
     <component base="ba.base.cap"/>
-    <component base="_smart.hwa" xOffset="1101" yOffset="-345"/>
+    <component base="_smart.hwa" xOffset="1091" yOffset="-345"/>
   </outline>
   <lib>
     <dict>

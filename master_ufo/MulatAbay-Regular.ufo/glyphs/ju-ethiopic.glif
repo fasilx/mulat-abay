@@ -4,7 +4,7 @@
   <unicode hex="1301"/>
   <anchor x="195" y="154" name="da"/>
   <anchor x="702" y="0" name="haa"/>
-  <anchor x="208" y="5" name="haa.acute"/>
+  <anchor x="288" y="-5" name="haa.acute"/>
   <anchor x="481" y="1341" name="hat"/>
   <anchor x="1054" y="756" name="he"/>
   <anchor x="140" y="480" name="he.left.outer"/>
@@ -15,6 +15,7 @@
   <anchor x="693" y="249" name="hu"/>
   <anchor x="676" y="0" name="hwa"/>
   <anchor x="518" y="1112" name="neck"/>
+  <anchor x="343" y="64" name="ye"/>
   <outline>
     <component base="ya.base"/>
     <component base="_smart.hu" xOffset="697" yOffset="-718"/>

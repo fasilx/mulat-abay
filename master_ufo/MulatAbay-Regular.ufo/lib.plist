@@ -180,7 +180,7 @@
       <integer>137</integer>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3039</string>
+    <string>1286</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
     <array>
       <dict>
@@ -190,20 +190,10 @@
         <string>wght</string>
       </dict>
       <dict>
-        <key>Hidden</key>
-        <integer>1</integer>
         <key>Name</key>
         <string>Width</string>
         <key>Tag</key>
         <string>wdth</string>
-      </dict>
-      <dict>
-        <key>Hidden</key>
-        <integer>1</integer>
-        <key>Name</key>
-        <string>Optical size</string>
-        <key>Tag</key>
-        <string>opsz</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
@@ -264,6 +254,87 @@
       <string>/ga.base.cap/nya-ethiopic.liga</string>
       <string>/iGlottal-ethiopic.liga</string>
       <string>/eGlottal-ethiopic.liga</string>
+      <string>0</string>
+      <string>/yi-ethiopic.liga</string>
+      <string>/ya.base.cap/yaa-ethiopic.liga</string>
+      <string>/yaa-ethiopic.liga</string>
+      <string>/xe-ethiopic.liga</string>
+      <string>/ree-ethiopic</string>
+      <string>/one-ethiopic</string>
+      <string>3/two-ethiopic</string>
+      <string>/five-ethiopic</string>
+      <string>/six-ethiopic</string>
+      <string>/eighty-ethiopic</string>
+      <string>/hundred-ethiopic</string>
+      <string>/tenthousand-ethiopic</string>
+      <string>/raa-ethiopic</string>
+      <string>/rwa-ethiopic</string>
+      <string>/xe-ethiopic</string>
+      <string>/yoa-ethiopic</string>
+      <string>/fee-ethiopic</string>
+      <string>/ha.base.cap/hi-ethiopic.liga</string>
+      <string>/ha.base.cap/hi-ethiopic.liga</string>
+      <string>/raa-ethiopic.liga</string>
+      <string>/chee-ethiopic.liga</string>
+      <string>/ba.base/waGlottal-ethiopic</string>
+      <string>/waGlottal-ethiopic</string>
+      <string>/ya.base/yaa-ethiopic</string>
+      <string>/_smart.ye/ye-ethiopic</string>
+      <string>/ya.base/ye-ethiopic</string>
+      <string>/_smart.ye</string>
+      <string>/rwa-ethiopic.liga</string>
+      <string>/ri-ethiopic.liga</string>
+      <string>/_smart.ye/ye-ethiopic</string>
+      <string>/ya.base/ye-ethiopic</string>
+      <string>/_smart.ye/ye-ethiopic</string>
+      <string>/nine-ethiopic</string>
+      <string>/seventy-ethiopic</string>
+      <string>/ba.base/eGlottal-ethiopic</string>
+      <string>/ba.base/eGlottal-ethiopic</string>
+      <string>'</string>
+      <string>/_smart.ye/ye-ethiopic</string>
+      <string>/ya.base/ye-ethiopic</string>
+      <string>3/two-ethiopic</string>
+      <string>3/two-ethiopic</string>
+      <string>/forty-ethiopic</string>
+      <string>/_smart.aGl/eGlottal-ethiopic</string>
+      <string>/ba.base/eGlottal-ethiopic</string>
+      <string>/ma.base/ma-ethiopic</string>
+      <string>3/two-ethiopic</string>
+      <string>/_num.bar/two-ethiopic</string>
+      <string>/_num.bar/two-ethiopic</string>
+      <string>/two-ethiopic</string>
+      <string>/hha.base/hhe-ethiopic</string>
+      <string>/eGlottal-ethiopic</string>
+      <string>/_smart.hwa/qwee-ethiopic</string>
+      <string>/qhwaa-ethiopic</string>
+      <string>/tsa.base/phe-ethiopic</string>
+      <string>/ba.base.cap/ku-ethiopic.liga</string>
+      <string>/xaa-ethiopic</string>
+      <string>/xwaa-ethiopic.liga</string>
+      <string></string>
+      <string></string>
+      <string>/xwaa-ethiopic</string>
+      <string>/threeperemspace</string>
+      <string></string>
+      <string>/_smart.da.caps</string>
+      <string>/ba.base/aGlottal-ethiopic</string>
+      <string>/aGl.base.cap/aGlottal-ethiopic.liga</string>
+      <string>/ba.base/ka-ethiopic</string>
+      <string>/ba.base/ka-ethiopic</string>
+      <string>/_smart.ka/ka-ethiopic</string>
+      <string>/ba.base/ka-ethiopic</string>
+      <string>/ka-ethiopic</string>
+      <string>/ba.base.cap/ka-ethiopic.liga</string>
+      <string>/_smart.cha/cha-ethiopic</string>
+      <string>/ga.base/goa-ethiopic</string>
+      <string>/szi-ethiopic</string>
+      <string>/xa-ethiopic</string>
+      <string>/thirty-ethiopic</string>
+      <string>/ha.base/hoa-ethiopic</string>
+      <string>/ha.base/hoa-ethiopic</string>
+      <string>/ha.base/hoa-ethiopic</string>
+      <string>/_smart.cha/cha-ethiopic</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.MakeOTF Compatibility Mode</key>
     <integer>1</integer>
@@ -1256,6 +1327,8 @@ PUSHW[ ]	/* 2 values pushed */
 WCVTP[ ]	/* WriteCVTInPixels */
 EIF[ ]	/* EndIf */
 ENDF[ ]	/* EndFunctionDefinition */</string>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.Master Icon Glyph Name</key>
+    <string></string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.Prep Table Assembly</key>
     <string>PUSHB[ ]	/* 1 value pushed */
 12 
@@ -4132,6 +4205,7 @@ DELTAC1[ ]	/* DeltaExceptionC1 */</string>
       <string>_smart.cha</string>
       <string>_smart.cha.caps</string>
       <string>_smart.hat.cap</string>
+      <string>_smart.ye</string>
       <string>_va.hat</string>
       <string>_zha.ears.caps</string>
     </array>

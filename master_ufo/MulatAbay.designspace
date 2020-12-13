@@ -23,11 +23,21 @@
         <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
-  </sources>
-  <instances>
-    <instance name="Mulat Abay Thin" familyname="Mulat Abay" stylename="Thin" filename="instance_ufo/MulatAbay-Thin.ufo" stylemapfamilyname="Mulat Abay Thin" stylemapstylename="regular">
+    <source filename="MulatAbay-Italic.ufo" name="Mulat Abay Italic" familyname="Mulat Abay" stylename="Italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="MulatAbay-ThinItalic.ufo" name="Mulat Abay Thin Italic" familyname="Mulat Abay" stylename="Thin Italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Mulat Abay Bold" familyname="Mulat Abay" stylename="Bold" filename="instance_ufo/MulatAbay-Bold.ufo" stylemapfamilyname="Mulat Abay" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
       </location>
       <kerning/>
       <info/>
@@ -39,9 +49,23 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Mulat Abay Bold" familyname="Mulat Abay" stylename="Bold" filename="instance_ufo/MulatAbay-Bold.ufo" stylemapfamilyname="Mulat Abay" stylemapstylename="bold">
+    <instance name="Mulat Abay Thin" familyname="Mulat Abay" stylename="Thin" filename="instance_ufo/MulatAbay-Thin.ufo" stylemapfamilyname="Mulat Abay Thin" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Mulat Abay Italic" familyname="Mulat Abay" stylename="Italic" filename="instance_ufo/MulatAbay-Italic.ufo" stylemapfamilyname="Mulat Abay" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Mulat Abay Thin Italic" familyname="Mulat Abay" stylename="Thin Italic" filename="instance_ufo/MulatAbay-ThinItalic.ufo" stylemapfamilyname="Mulat Abay Thin" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
       </location>
       <kerning/>
       <info/>
@@ -86,6 +110,7 @@
         <string>_smart.cha</string>
         <string>_smart.cha.caps</string>
         <string>_smart.hat.cap</string>
+        <string>_smart.ye</string>
         <string>_va.hat</string>
         <string>_zha.ears.caps</string>
       </array>

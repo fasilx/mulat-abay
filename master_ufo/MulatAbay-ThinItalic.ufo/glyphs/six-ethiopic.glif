@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="six-ethiopic" format="2">
-  <advance width="1666"/>
+  <advance width="1397"/>
   <unicode hex="136E"/>
   <outline>
-    <component base="lowringmod" xScale="1.3269" yScale="1.3269" xOffset="605" yOffset="422"/>
-    <component base="seven" xOffset="331"/>
-    <component base="_num.bar" xOffset="331"/>
+    <component base="lowringmod" xScale="1.3269" yScale="1.3269" xOffset="361" yOffset="422"/>
+    <component base="seven" xOffset="77"/>
+    <component base="_num.bar" xOffset="77"/>
   </outline>
   <lib>
     <dict>

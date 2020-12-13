@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fa-ethiopic" format="2">
-  <advance width="1023"/>
+  <advance width="1036"/>
   <unicode hex="1348"/>
-  <anchor x="548" y="41" name="fa"/>
-  <anchor x="581" y="-13" name="haa"/>
-  <anchor x="559" y="-11" name="haa.acute"/>
-  <anchor x="440" y="1044" name="hat"/>
-  <anchor x="814" y="636" name="hee"/>
-  <anchor x="720" y="907" name="ho.ring"/>
-  <anchor x="470" y="4" name="hwa"/>
+  <anchor x="516" y="71" name="fa"/>
+  <anchor x="400" y="-13" name="haa"/>
+  <anchor x="375" y="-11" name="haa.acute"/>
+  <anchor x="439" y="1051" name="hat"/>
+  <anchor x="794" y="590" name="hee"/>
+  <anchor x="685" y="985" name="ho.ring"/>
+  <anchor x="445" y="4" name="hwa"/>
   <outline>
     <component base="ra.base"/>
-    <component base="_smart.fa" xOffset="115" yOffset="-13"/>
+    <component base="_smart.fa" xOffset="264" yOffset="17"/>
   </outline>
   <lib>
     <dict>

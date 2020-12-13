@@ -4,7 +4,7 @@
   <anchor x="272" y="17" name="_da.caps"/>
   <outline>
     <contour>
-      <point x="1023" y="1" type="line" name="❌"/>
+      <point x="1023" y="1" type="curve" name="❌"/>
       <point x="1262" y="-3" type="line" name="❌"/>
       <point x="1266" y="148"/>
       <point x="1163" y="452"/>
@@ -14,7 +14,6 @@
       <point x="728" y="267" type="line" smooth="yes"/>
       <point x="1008" y="267"/>
       <point x="1023" y="97"/>
-      <point x="1023" y="2" type="curve" smooth="yes" name="❌"/>
     </contour>
   </outline>
 </glyph>

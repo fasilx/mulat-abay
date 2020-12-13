@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yu-ethiopic.liga" format="2">
   <advance width="1230"/>
-  <anchor x="271.324" y="10.0" name="da.caps"/>
-  <anchor x="910" y="14" name="haa"/>
-  <anchor x="620" y="1721" name="hat.caps"/>
-  <anchor x="1267" y="1009" name="he"/>
-  <anchor x="230.18" y="1466.0" name="he.left.outer"/>
-  <anchor x="783" y="32" name="hee"/>
-  <anchor x="934" y="35" name="hi"/>
-  <anchor x="226.497" y="36.0" name="ho.caps"/>
-  <anchor x="864" y="319" name="hu"/>
-  <anchor x="855" y="8" name="hwa"/>
-  <anchor x="610.24" y="1480.0" name="neck.caps"/>
+  <anchor x="82" y="10" name="da.caps"/>
+  <anchor x="863" y="14" name="haa"/>
+  <anchor x="726" y="1682" name="hat.caps"/>
+  <anchor x="1274" y="1009" name="he"/>
+  <anchor x="298" y="1526" name="he.left.outer"/>
+  <anchor x="760" y="102" name="hee"/>
+  <anchor x="936" y="8" name="hi"/>
+  <anchor x="31" y="-25" name="ho"/>
+  <anchor x="844" y="339" name="hu"/>
+  <anchor x="866" y="-2" name="hwa"/>
+  <anchor x="680" y="1480" name="neck.caps"/>
   <outline>
     <component base="ya.base.cap"/>
-    <component base="acute" xScale="0.70711" xyScale="-0.70711" yxScale="0.70711" yScale="0.70711" xOffset="-831" yOffset="-410"/>
+    <component base="acute" xScale="0.70711" xyScale="-0.70711" yxScale="0.70711" yScale="0.70711" xOffset="-718" yOffset="-460"/>
   </outline>
   <lib>
     <dict>

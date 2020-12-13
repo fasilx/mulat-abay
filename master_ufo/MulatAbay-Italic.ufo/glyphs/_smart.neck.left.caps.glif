@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.neck.left.caps" format="2">
+  <anchor x="-194" y="-24" name="_neck.left.caps"/>
+  <outline>
+    <contour>
+      <point x="-276" y="-24" type="line"/>
+      <point x="-107" y="-24" type="line"/>
+      <point x="-43" y="340" type="line"/>
+      <point x="-212" y="340" type="line"/>
+    </contour>
+  </outline>
+</glyph>

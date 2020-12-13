@@ -9,7 +9,7 @@
       <point x="510" y="1439" type="line"/>
       <point x="191" y="1439" type="line"/>
     </contour>
-    <component base="period" xOffset="240"/>
-    <component base="period" xOffset="241" yOffset="883"/>
+    <component base="period" xOffset="20" yOffset="100"/>
+    <component base="period" xOffset="21" yOffset="983"/>
   </outline>
 </glyph>

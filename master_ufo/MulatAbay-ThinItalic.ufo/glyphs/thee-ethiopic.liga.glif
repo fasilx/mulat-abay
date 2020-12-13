@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="thee-ethiopic.liga" format="2">
-  <advance width="1757"/>
-  <anchor x="707" y="13" name="cha.caps"/>
-  <anchor x="806" y="6" name="haa.acute"/>
-  <anchor x="1381" y="0" name="haa.caps"/>
-  <anchor x="841" y="1420" name="he.acute.top"/>
-  <anchor x="1229" y="124" name="hee"/>
-  <anchor x="1402" y="40" name="hi"/>
-  <anchor x="32" y="2" name="ho.caps"/>
+  <advance width="1756"/>
+  <anchor x="534" y="20" name="cha.caps"/>
+  <anchor x="1296" y="-27" name="haa"/>
+  <anchor x="786" y="6" name="haa.acute"/>
+  <anchor x="813" y="1420" name="he.acute.top"/>
+  <anchor x="1262" y="54" name="hee"/>
+  <anchor x="1431" y="50" name="hi"/>
+  <anchor x="23" y="-48" name="ho"/>
   <anchor x="1617" y="1081" name="hu"/>
-  <anchor x="1337" y="1" name="hwa"/>
-  <anchor x="856" y="1087" name="neck.hha.caps"/>
+  <anchor x="1336" y="-9" name="hwa"/>
+  <anchor x="857" y="1087" name="neck.hha.caps"/>
   <outline>
     <component base="hha.base.cap"/>
-    <component base="_smart.hee" xOffset="1227" yOffset="-193"/>
+    <component base="_smart.hee" xOffset="1390" yOffset="-274"/>
   </outline>
   <lib>
     <dict>

@@ -16,8 +16,14 @@
   <anchor x="86" y="1037" name="neck.left"/>
   <anchor x="-4" y="1235" name="nose"/>
   <outline>
+    <contour>
+      <point x="-61" y="1141" type="line"/>
+      <point x="-61" y="797" type="line"/>
+      <point x="-20" y="797" type="line"/>
+      <point x="-20" y="1141" type="line"/>
+    </contour>
     <component base="ga.base"/>
-    <component base="_smart.neck.left" xOffset="57" yOffset="1061"/>
+    <component base="_smart.neck.left" xOffset="55" yOffset="1065"/>
     <component base="_smart.nose" xOffset="-257" yOffset="1134"/>
   </outline>
   <lib>
