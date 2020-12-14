@@ -1,21 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="xwe-ethiopic" format="2">
-  <advance width="762"/>
+  <advance width="883"/>
   <unicode hex="128D"/>
-  <anchor x="690" y="21" name="haa"/>
-  <anchor x="564" y="0" name="haa.acute"/>
-  <anchor x="337" y="1367" name="hat"/>
-  <anchor x="231" y="1176" name="hat.left"/>
-  <anchor x="741.876" y="91.0" name="he.left.outer"/>
-  <anchor x="572" y="40" name="hee"/>
-  <anchor x="629" y="50" name="hi"/>
-  <anchor x="390" y="868" name="ho.ring"/>
-  <anchor x="621" y="638" name="hu"/>
-  <anchor x="594" y="0" name="hwa"/>
-  <anchor x="244" y="1102" name="neck"/>
-  <anchor x="86" y="1037" name="neck.left"/>
-  <anchor x="-4" y="1235" name="nose"/>
+  <anchor x="750" y="21" name="haa"/>
+  <anchor x="624" y="0" name="haa.acute"/>
+  <anchor x="397" y="1367" name="hat"/>
+  <anchor x="291" y="1176" name="hat.left"/>
+  <anchor x="802" y="91" name="he.left.outer"/>
+  <anchor x="632" y="40" name="hee"/>
+  <anchor x="689" y="50" name="hi"/>
+  <anchor x="450" y="868" name="ho.ring"/>
+  <anchor x="60" y="1093" name="ho.ring.uniq"/>
+  <anchor x="681" y="638" name="hu"/>
+  <anchor x="654" y="0" name="hwa"/>
+  <anchor x="304" y="1102" name="neck"/>
+  <anchor x="144" y="1041" name="neck.left"/>
+  <anchor x="56" y="1235" name="nose"/>
+  <anchor x="518" y="1010" name="ring"/>
+  <anchor x="452" y="1" name="xwaa"/>
   <outline>
-    <component base="xwaa.spare"/>
+    <component base="ga.base"/>
+    <component base="_smart.xwaa" xOffset="82" yOffset="-18"/>
+    <component base="_smart.neck.left" xOffset="115" yOffset="1065"/>
+    <component base="_smart.nose" xOffset="-197" yOffset="1134"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck.left</key>
+      <integer>1</integer>
+      <key>_smart.nose</key>
+      <integer>1</integer>
+      <key>_smart.xwaa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

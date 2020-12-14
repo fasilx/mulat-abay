@@ -11,10 +11,10 @@
   <anchor x="1089" y="0" name="ni"/>
   <outline>
     <contour>
-      <point x="75" y="1737" type="line"/>
-      <point x="137" y="1446" type="line"/>
-      <point x="260" y="1496" type="line"/>
-      <point x="198" y="1787" type="line"/>
+      <point x="122" y="1761" type="line"/>
+      <point x="81" y="1467" type="line"/>
+      <point x="213" y="1472" type="line"/>
+      <point x="254" y="1766" type="line"/>
     </contour>
     <component base="aGl.base.cap"/>
   </outline>

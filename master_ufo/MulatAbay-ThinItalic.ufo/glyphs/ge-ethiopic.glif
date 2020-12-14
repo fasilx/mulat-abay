@@ -1,39 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ge-ethiopic" format="2">
-  <advance width="763"/>
+  <advance width="883"/>
   <unicode hex="130D"/>
-  <anchor x="503" y="21" name="haa"/>
-  <anchor x="373" y="0" name="haa.acute"/>
-  <anchor x="387" y="1367" name="hat"/>
-  <anchor x="248" y="1176" name="hat.left"/>
-  <anchor x="567" y="91" name="he.left.outer"/>
-  <anchor x="388" y="40" name="hee"/>
-  <anchor x="447" y="50" name="hi"/>
-  <anchor x="352" y="868" name="ho.ring"/>
-  <anchor x="543" y="638" name="hu"/>
-  <anchor x="403" y="0" name="hwa"/>
-  <anchor x="248" y="1102" name="neck"/>
-  <anchor x="78" y="1037" name="neck.left"/>
-  <anchor x="23" y="1235" name="nose"/>
+  <anchor x="563" y="21" name="haa"/>
+  <anchor x="433" y="0" name="haa.acute"/>
+  <anchor x="447" y="1367" name="hat"/>
+  <anchor x="308" y="1176" name="hat.left"/>
+  <anchor x="627" y="91" name="he.left.outer"/>
+  <anchor x="448" y="40" name="hee"/>
+  <anchor x="507" y="50" name="hi"/>
+  <anchor x="412" y="868" name="ho.ring"/>
+  <anchor x="110" y="1152" name="ho.ring.uniq"/>
+  <anchor x="603" y="638" name="hu"/>
+  <anchor x="463" y="0" name="hwa"/>
+  <anchor x="308" y="1102" name="neck"/>
+  <anchor x="137" y="1041" name="neck.left"/>
+  <anchor x="83" y="1235" name="nose"/>
+  <anchor x="478" y="1060" name="ring"/>
+  <anchor x="452" y="1" name="xwaa"/>
   <outline>
     <component base="ga.base"/>
-    <component base="_smart.ho.ring" xOffset="382" yOffset="-216"/>
+    <component base="_smart.ho.ring.uniq" xOffset="1221" yOffset="1019"/>
   </outline>
   <lib>
     <dict>
-      <key>_smart.ho.ring</key>
+      <key>_smart.ho.ring.uniq</key>
       <integer>1</integer>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>_smart.ho.ring</string>
-        </dict>
-      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>n</string>
     </dict>

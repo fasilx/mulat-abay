@@ -1,30 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="paa-ethiopic" format="2">
-  <advance width="679"/>
+  <advance width="799"/>
   <unicode hex="1353"/>
-  <anchor x="492" y="42" name="haa"/>
-  <anchor x="270" y="0" name="haa.acute"/>
-  <anchor x="282" y="1339" name="hat"/>
-  <anchor x="275" y="1167" name="he.acute.top"/>
-  <anchor x="331" y="40" name="hee"/>
-  <anchor x="404" y="110" name="hi"/>
-  <anchor x="549" y="1274" name="ho.ring"/>
-  <anchor x="393" y="669" name="hu"/>
-  <anchor x="301" y="-40" name="hwa"/>
-  <anchor x="293" y="1082" name="neck"/>
+  <anchor x="568" y="42" name="haa"/>
+  <anchor x="346" y="0" name="haa.acute"/>
+  <anchor x="358" y="1339" name="hat"/>
+  <anchor x="351" y="1167" name="he.acute.top"/>
+  <anchor x="407" y="40" name="hee"/>
+  <anchor x="480" y="110" name="hi"/>
+  <anchor x="625" y="1274" name="ho.ring"/>
+  <anchor x="469" y="669" name="hu"/>
+  <anchor x="377" y="-10" name="hwa"/>
+  <anchor x="369" y="1082" name="neck"/>
   <outline>
     <contour>
-      <point x="65" y="0" type="line"/>
-      <point x="337" y="0" type="line"/>
-      <point x="337" y="112" type="line"/>
-      <point x="65" y="112" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="342" y="112" type="line"/>
+      <point x="70" y="112" type="line"/>
     </contour>
-    <component base="pa.base"/>
+    <component base="pa.base" xOffset="15"/>
   </outline>
   <lib>
     <dict>
       <key>_smart.haa.acute</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>pa-ethiopic</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>pa-ethiopic</string>
     </dict>
   </lib>
 </glyph>

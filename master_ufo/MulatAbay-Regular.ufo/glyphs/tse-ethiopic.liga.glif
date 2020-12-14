@@ -3,7 +3,7 @@
   <advance width="1172"/>
   <anchor x="1033" y="18" name="haa"/>
   <anchor x="816" y="1654" name="hat.caps"/>
-  <anchor x="1256" y="1164" name="he"/>
+  <anchor x="1307" y="1164" name="he"/>
   <anchor x="905" y="67" name="hee"/>
   <anchor x="1106" y="94" name="hi"/>
   <anchor x="164" y="7" name="ho"/>
@@ -12,7 +12,7 @@
   <anchor x="578" y="1465" name="neck.caps"/>
   <outline>
     <component base="tsa.base.cap"/>
-    <component base="_smart.he" xOffset="1256" yOffset="1205"/>
+    <component base="_smart.he" xOffset="1307" yOffset="1205"/>
   </outline>
   <lib>
     <dict>

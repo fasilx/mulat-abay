@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pee-ethiopic" format="2">
-  <advance width="615"/>
+  <advance width="735"/>
   <unicode hex="1354"/>
-  <anchor x="393" y="42" name="haa"/>
-  <anchor x="262" y="1" name="haa.acute"/>
-  <anchor x="263" y="1339" name="hat"/>
-  <anchor x="196" y="1167" name="he.acute.top"/>
-  <anchor x="312" y="0" name="hee"/>
-  <anchor x="325" y="50" name="hi"/>
-  <anchor x="472" y="1275" name="ho.ring"/>
-  <anchor x="314" y="669" name="hu"/>
-  <anchor x="265" y="20" name="hwa"/>
-  <anchor x="235" y="1082" name="neck"/>
+  <anchor x="453" y="42" name="haa"/>
+  <anchor x="322" y="1" name="haa.acute"/>
+  <anchor x="323" y="1339" name="hat"/>
+  <anchor x="256" y="1167" name="he.acute.top"/>
+  <anchor x="372" y="0" name="hee"/>
+  <anchor x="385" y="50" name="hi"/>
+  <anchor x="532" y="1275" name="ho.ring"/>
+  <anchor x="374" y="669" name="hu"/>
+  <anchor x="325" y="20" name="hwa"/>
+  <anchor x="295" y="1082" name="neck"/>
   <outline>
     <component base="pa.base"/>
-    <component base="_smart.hee" xOffset="307" yOffset="-328"/>
+    <component base="_smart.hee" xOffset="367" yOffset="-328"/>
   </outline>
   <lib>
     <dict>

@@ -7,7 +7,7 @@
   <anchor x="1482" y="1009" name="he"/>
   <anchor x="259.536" y="1466.0" name="he.left.outer"/>
   <anchor x="1209" y="-8" name="hee"/>
-  <anchor x="1245" y="105" name="hi"/>
+  <anchor x="1285" y="105" name="hi"/>
   <anchor x="249" y="-26" name="ho"/>
   <anchor x="1154.341" y="319.0" name="hu"/>
   <anchor x="1162" y="-2" name="hwa"/>
@@ -15,7 +15,7 @@
   <outline>
     <component base="ya.base.cap"/>
     <component base="_smart.da.caps" xOffset="19" yOffset="-7"/>
-    <component base="_smart.hi" xOffset="1251" yOffset="-10"/>
+    <component base="_smart.hi" xOffset="1291" yOffset="-10"/>
   </outline>
   <lib>
     <dict>

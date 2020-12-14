@@ -4,6 +4,13 @@
   <dict>
     <key>GSCornerRadius</key>
     <integer>20</integer>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.abesha.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>140</integer>
+      <key>rsb</key>
+      <integer>137</integer>
+    </dict>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.ba.base</key>
     <dict>
       <key>lsb</key>
@@ -219,11 +226,206 @@
       <string>/ya.base/daa-ethiopic</string>
       <string>/ka-ethiopic.liga/ku-ethiopic.liga/ki-ethiopic.liga/kaa-ethiopic.liga/kee-ethiopic.liga/ke-ethiopic.liga/ko-ethiopic.liga/kwaa-ethiopic.liga/kxa-ethiopic.liga/kxu-ethiopic.liga/kxi-ethiopic.liga/kxaa-ethiopic.liga/kxee-ethiopic.liga/kxe-ethiopic.liga/kxo-ethiopic.liga/kxwaa-ethiopic.liga</string>
       <string>/ka-ethiopic.liga/ku-ethiopic.liga/ki-ethiopic.liga/kaa-ethiopic.liga/kee-ethiopic.liga/ke-ethiopic.liga/ko-ethiopic.liga/kwaa-ethiopic.liga/kxa-ethiopic.liga/kxu-ethiopic.liga/kxi-ethiopic.liga/kxaa-ethiopic.liga/kxee-ethiopic.liga/kxe-ethiopic.liga/kxo-ethiopic.liga/kxwaa-ethiopic.liga</string>
-      <string>/kee-ethiopic/ka-ethiopic/ku-ethiopic/ki-ethiopic/kaa-ethiopic/ke-ethiopic/ko-ethiopic/koa-ethiopic/kwa-ethiopic/kwi-ethiopic/kwaa-ethiopic/kwee-ethiopic/kwe-ethiopic/kxa-ethiopic/kxu-ethiopic/kxi-ethiopic/kxaa-ethiopic/kxee-ethiopic/kxe-ethiopic/kxo-ethiopic/kxwa-ethiopic/kxwi-ethiopic/kxwaa-ethiopic/kxwee-ethiopic/kxwe-ethiopic/kwaa.spare/kxwaa.spare</string>
+      <string>/kee-ethiopic/ka-ethiopic/ku-ethiopic/ki-ethiopic/kaa-ethiopic/ke-ethiopic/ko-ethiopic/koa-ethiopic/kwa-ethiopic/kwi-ethiopic/kwaa-ethiopic/kwee-ethiopic/kwe-ethiopic/kxa-ethiopic/kxu-ethiopic/kxi-ethiopic/kxaa-ethiopic/kxee-ethiopic/kxe-ethiopic/kxo-ethiopic/kxwa-ethiopic/kxwi-ethiopic/kxwaa-ethiopic/kxwee-ethiopic/kxwe-ethiopic</string>
       <string>/_smart.ka.caps/ku-ethiopic.liga</string>
-      <string>/ge-ethiopic</string>
+      <string>/ga.base/ge-ethiopic</string>
       <string>/nye-ethiopic</string>
       <string>/_smart.hwa</string>
+      <string>/ha.base/hha.base</string>
+      <string>/wa.base.cap</string>
+      <string>/ba.base/ga.base/ha.base/hha.base/la.base/ma.base/na.base/oPh.base/pa.base/ra.base/sa.base/tsa.base/wa.base/ya.base/za.base</string>
+      <string>/na.base</string>
+      <string>/ha.base/hi-ethiopic</string>
+      <string>/haa-ethiopic</string>
+      <string>/ga.base</string>
+      <string>/space</string>
+      <string>/ra.base/fee-ethiopic</string>
+      <string>/fee-ethiopic</string>
+      <string>/_smart.hwa/phwa-ethiopic.liga</string>
+      <string>/_smart.hwa/phwa-ethiopic.liga</string>
+      <string>/_smart.hwa/tswa-ethiopic.liga</string>
+      <string>/hha.base/the-ethiopic</string>
+      <string>/ya.base/di-ethiopic</string>
+      <string>/_smart.di/di-ethiopic</string>
+      <string>/_smart.di/di-ethiopic</string>
+      <string>/_smart.du/du-ethiopic</string>
+      <string>/pa.base</string>
+      <string>/wordspace-ethiopic</string>
+      <string>/ba.base</string>
+      <string>/pe-ethiopic</string>
+      <string>/hha.base/thwa-ethiopic</string>
+      <string>/ba.base/bwa-ethiopic</string>
+      <string>/twa-ethiopic/_smart.hwa/lwa-ethiopic/hhwa-ethiopic/mwa-ethiopic/szwa-ethiopic/swa-ethiopic/shwa-ethiopic/qoa-ethiopic/qwa-ethiopic/qwi-ethiopic/qwaa-ethiopic/qwee-ethiopic/qwe-ethiopic/qhwa-ethiopic/qhwi-ethiopic/qhwaa-ethiopic/qhwee-ethiopic/qhwe-ethiopic/bwa-ethiopic/vwa-ethiopic/cwa-ethiopic/nwa-ethiopic/nywa-ethiopic/koa-ethiopic/kwa-ethiopic/kwi-ethiopic/kwaa-ethiopic/kwee-ethiopic/kwe-ethiopic/kxwa-ethiopic/kxwi-ethiopic/kxwaa-ethiopic/kxwee-ethiopic/kxwe-ethiopic/woa-ethiopic/zwa-ethiopic/zhwa-ethiopic/dwa-ethiopic/ddwa-ethiopic/jwa-ethiopic/thwa-ethiopic/chwa-ethiopic/phwa-ethiopic/tswa-ethiopic/tzoa-ethiopic/fwa-ethiopic/pwa-ethiopic/lwa-ethiopic.liga/hhwa-ethiopic.liga/mwa-ethiopic.liga/szwa-ethiopic.liga/swa-ethiopic.liga/shwa-ethiopic.liga/qwaa-ethiopic.liga/qhwaa-ethiopic.liga/bwa-ethiopic.liga/vwa-ethiopic.liga/twa-ethiopic.liga/cwa-ethiopic.liga/nwa-ethiopic.liga/nywa-ethiopic.liga/kwaa-ethiopic.liga/kxwaa-ethiopic.liga/wa-ethiopic.liga/woa-ethiopic.liga/zwa-ethiopic.liga/zhwa-ethiopic.liga/dwa-ethiopic.liga/ddwa-ethiopic.liga/jwa-ethiopic.liga/thwa-ethiopic.liga/chwa-ethiopic.liga/phwa-ethiopic.liga/tswa-ethiopic.liga/tzoa-ethiopic.liga/fwa-ethiopic.liga/pwa-ethiopic.liga</string>
+      <string>/_smart.hwa/twa-ethiopic</string>
+      <string>/twa-ethiopic/_smart.hwa/lwa-ethiopic/hhwa-ethiopic/mwa-ethiopic/szwa-ethiopic/swa-ethiopic/shwa-ethiopic/qoa-ethiopic/qwa-ethiopic/qwi-ethiopic/qwaa-ethiopic/qwee-ethiopic/qwe-ethiopic/qhwa-ethiopic/qhwi-ethiopic/qhwaa-ethiopic/qhwee-ethiopic/qhwe-ethiopic/bwa-ethiopic/vwa-ethiopic/cwa-ethiopic/nwa-ethiopic/nywa-ethiopic/koa-ethiopic/kwa-ethiopic/kwi-ethiopic/kwaa-ethiopic/kwee-ethiopic/kwe-ethiopic/kxwa-ethiopic/kxwi-ethiopic/kxwaa-ethiopic/kxwee-ethiopic/kxwe-ethiopic/woa-ethiopic/zwa-ethiopic/zhwa-ethiopic/dwa-ethiopic/ddwa-ethiopic/jwa-ethiopic/thwa-ethiopic/chwa-ethiopic/phwa-ethiopic/tswa-ethiopic/tzoa-ethiopic/fwa-ethiopic/pwa-ethiopic/lwa-ethiopic.liga/hhwa-ethiopic.liga/mwa-ethiopic.liga/szwa-ethiopic.liga/swa-ethiopic.liga/shwa-ethiopic.liga/qwaa-ethiopic.liga/qhwaa-ethiopic.liga/bwa-ethiopic.liga/vwa-ethiopic.liga/twa-ethiopic.liga/cwa-ethiopic.liga/nwa-ethiopic.liga/nywa-ethiopic.liga/kwaa-ethiopic.liga/kxwaa-ethiopic.liga/wa-ethiopic.liga/woa-ethiopic.liga/zwa-ethiopic.liga/zhwa-ethiopic.liga/dwa-ethiopic.liga/ddwa-ethiopic.liga/jwa-ethiopic.liga/thwa-ethiopic.liga/chwa-ethiopic.liga/phwa-ethiopic.liga/tswa-ethiopic.liga/tzoa-ethiopic.liga/fwa-ethiopic.liga/pwa-ethiopic.liga</string>
+      <string>/ra.base/ree-ethiopic</string>
+      <string>/pa.base/cwa-ethiopic</string>
+      <string>/_smart.da/jwa-ethiopic</string>
+      <string>/ya.base/jwa-ethiopic</string>
+      <string>/aGlottal-ethiopic</string>
+      <string>/nbspace</string>
+      <string>/ra.base/ri-ethiopic</string>
+      <string>/ra.base/ri-ethiopic</string>
+      <string>/tsa.base.cap/phi-ethiopic.liga</string>
+      <string>/tsa.base.cap/tse-ethiopic.liga</string>
+      <string>/hha.base.cap/chu-ethiopic.liga</string>
+      <string>/ya.base.cap/ji-ethiopic.liga</string>
+      <string>/za.base.cap/zi-ethiopic.liga</string>
+      <string>/oPh.base.cap/uPharyngeal-ethiopic.liga</string>
+      <string>/uPharyngeal-ethiopic.liga</string>
+      <string>/ba.base.cap/kxu-ethiopic.liga</string>
+      <string>/ra.base/rya-ethiopic</string>
+      <string>/ya.base/je-ethiopic</string>
+      <string>/ba.base/be-ethiopic</string>
+      <string>/ra.base/raa-ethiopic</string>
+      <string>/ra-ethiopic</string>
+      <string>/ru-ethiopic</string>
+      <string>/ro-ethiopic</string>
+      <string>/ra.base/rwa-ethiopic</string>
+      <string>/ree-ethiopic</string>
+      <string>/ba.base/eGlottal-ethiopic</string>
+      <string>/ya.base/ya-ethiopic</string>
+      <string>/ye-ethiopic</string>
+      <string>/ya.base/yoa-ethiopic</string>
+      <string>/ha.base</string>
+      <string>/hha.base</string>
+      <string>/la.base</string>
+      <string>/ma.base</string>
+      <string>/oPh.base</string>
+      <string>/_smart.raa/ra.base</string>
+      <string>/sa.base</string>
+      <string>/tsa.base</string>
+      <string>/wa.base</string>
+      <string>/ya.base</string>
+      <string>/za.base</string>
+      <string>/tsa.base.cap</string>
+      <string>/ba.base.cap</string>
+      <string>/yee-ethiopic</string>
+      <string>/ya.base/di-ethiopic</string>
+      <string>/gge-ethiopic</string>
+      <string>/_smart.ring/ggo-ethiopic</string>
+      <string>/gi-ethiopic</string>
+      <string>/go-ethiopic</string>
+      <string>/hha.base/the-ethiopic</string>
+      <string>/hha.base/the-ethiopic</string>
+      <string>/ha-ethiopic/hu-ethiopic/hi-ethiopic/haa-ethiopic/hee-ethiopic/he-ethiopic/ho-ethiopic/hoa-ethiopic/la-ethiopic/lu-ethiopic/li-ethiopic/laa-ethiopic/lee-ethiopic/le-ethiopic/lo-ethiopic/lwa-ethiopic/hha-ethiopic/hhu-ethiopic/hhi-ethiopic/hhaa-ethiopic/hhee-ethiopic/hhe-ethiopic/hho-ethiopic/hhwa-ethiopic/ma-ethiopic/mu-ethiopic/mi-ethiopic/maa-ethiopic/mee-ethiopic/me-ethiopic/mo-ethiopic/mwa-ethiopic/sza-ethiopic/szu-ethiopic/szi-ethiopic/szaa-ethiopic/szee-ethiopic/sze-ethiopic/szo-ethiopic/szwa-ethiopic/ra-ethiopic/ru-ethiopic/ri-ethiopic/raa-ethiopic/ree-ethiopic/re-ethiopic/ro-ethiopic/rwa-ethiopic/sa-ethiopic/su-ethiopic/si-ethiopic/saa-ethiopic/see-ethiopic/se-ethiopic/so-ethiopic/swa-ethiopic/sha-ethiopic/shu-ethiopic/shi-ethiopic/shaa-ethiopic/shee-ethiopic/she-ethiopic/sho-ethiopic/shwa-ethiopic/qa-ethiopic/qu-ethiopic/qi-ethiopic/qaa-ethiopic/qee-ethiopic/qe-ethiopic/qo-ethiopic/qoa-ethiopic/qwa-ethiopic/qwi-ethiopic/qwaa-ethiopic/qwee-ethiopic/qwe-ethiopic/qha-ethiopic/qhu-ethiopic/qhi-ethiopic/qhaa-ethiopic/qhee-ethiopic/qhe-ethiopic/qho-ethiopic/qhwa-ethiopic/qhwi-ethiopic/qhwaa-ethiopic/qhwee-ethiopic/qhwe-ethiopic/ba-ethiopic/bu-ethiopic/bi-ethiopic/baa-ethiopic/bee-ethiopic/be-ethiopic/bo-ethiopic/bwa-ethiopic/va-ethiopic/vu-ethiopic/vi-ethiopic/vaa-ethiopic/vee-ethiopic/ve-ethiopic/vo-ethiopic/vwa-ethiopic/ta-ethiopic/tu-ethiopic/ti-ethiopic/taa-ethiopic/tee-ethiopic/te-ethiopic/to-ethiopic/twa-ethiopic/ca-ethiopic/cu-ethiopic/ci-ethiopic/caa-ethiopic/cee-ethiopic/ce-ethiopic/co-ethiopic/cwa-ethiopic/xa-ethiopic/xu-ethiopic/xi-ethiopic/xaa-ethiopic/xee-ethiopic/xe-ethiopic/xo-ethiopic/xoa-ethiopic/xwa-ethiopic/xwi-ethiopic/xwaa-ethiopic/xwee-ethiopic/xwe-ethiopic/na-ethiopic/nu-ethiopic/ni-ethiopic/naa-ethiopic/nee-ethiopic/ne-ethiopic/no-ethiopic/nwa-ethiopic/nya-ethiopic/nyu-ethiopic/nyi-ethiopic/nyaa-ethiopic/nyee-ethiopic/nye-ethiopic/nyo-ethiopic/nywa-ethiopic/aGlottal-ethiopic/uGlottal-ethiopic/iGlottal-ethiopic/aaGlottal-ethiopic/eeGlottal-ethiopic/eGlottal-ethiopic/oGlottal-ethiopic/waGlottal-ethiopic/ka-ethiopic/ku-ethiopic/ki-ethiopic/kaa-ethiopic/kee-ethiopic/ke-ethiopic/ko-ethiopic/koa-ethiopic/kwa-ethiopic/kwi-ethiopic/kwaa-ethiopic/kwee-ethiopic/kwe-ethiopic/kxa-ethiopic/kxu-ethiopic/kxi-ethiopic/kxaa-ethiopic/kxee-ethiopic/kxe-ethiopic/kxo-ethiopic/kxwa-ethiopic/kxwi-ethiopic/kxwaa-ethiopic/kxwee-ethiopic/kxwe-ethiopic/wa-ethiopic/wu-ethiopic/wi-ethiopic/waa-ethiopic/wee-ethiopic/we-ethiopic/wo-ethiopic/woa-ethiopic/aPharyngeal-ethiopic/uPharyngeal-ethiopic/iPharyngeal-ethiopic/aaPharyngeal-ethiopic/eePharyngeal-ethiopic/ePharyngeal-ethiopic/oPharyngeal-ethiopic/za-ethiopic/zu-ethiopic/zi-ethiopic/zaa-ethiopic/zee-ethiopic/ze-ethiopic/zo-ethiopic/zwa-ethiopic/zha-ethiopic/zhu-ethiopic/zhi-ethiopic/zhaa-ethiopic/zhee-ethiopic/zhe-ethiopic/zho-ethiopic/zhwa-ethiopic/ya-ethiopic/yu-ethiopic/yi-ethiopic/yaa-ethiopic/yee-ethiopic/ye-ethiopic/yo-ethiopic/yoa-ethiopic/da-ethiopic/du-ethiopic/di-ethiopic/daa-ethiopic/dee-ethiopic/de-ethiopic/do-ethiopic/dwa-ethiopic/dda-ethiopic/ddu-ethiopic/ddi-ethiopic/ddaa-ethiopic/ddee-ethiopic/dde-ethiopic/ddo-ethiopic/ddwa-ethiopic/ja-ethiopic/ju-ethiopic/ji-ethiopic/jaa-ethiopic/jee-ethiopic/je-ethiopic/jo-ethiopic/jwa-ethiopic/ga-ethiopic/gu-ethiopic/gi-ethiopic/gaa-ethiopic/gee-ethiopic/ge-ethiopic/go-ethiopic/goa-ethiopic/gwa-ethiopic/gwi-ethiopic/gwaa-ethiopic/gwee-ethiopic/gwe-ethiopic/gga-ethiopic/ggu-ethiopic/ggi-ethiopic/ggaa-ethiopic/ggee-ethiopic/gge-ethiopic/ggo-ethiopic/ggwaa-ethiopic/tha-ethiopic/thu-ethiopic/thi-ethiopic/thaa-ethiopic/thee-ethiopic/the-ethiopic/tho-ethiopic/thwa-ethiopic/cha-ethiopic/chu-ethiopic/chi-ethiopic/chaa-ethiopic/chee-ethiopic/che-ethiopic/cho-ethiopic/chwa-ethiopic/pha-ethiopic/phu-ethiopic/phi-ethiopic/phaa-ethiopic/phee-ethiopic/phe-ethiopic/pho-ethiopic/phwa-ethiopic/tsa-ethiopic/tsu-ethiopic/tsi-ethiopic/tsaa-ethiopic/tsee-ethiopic/tse-ethiopic/tso-ethiopic/tswa-ethiopic/tza-ethiopic/tzu-ethiopic/tzi-ethiopic/tzaa-ethiopic/tzee-ethiopic/tze-ethiopic/tzo-ethiopic/tzoa-ethiopic/fa-ethiopic/fu-ethiopic/fi-ethiopic/faa-ethiopic/fee-ethiopic/fe-ethiopic/fo-ethiopic/fwa-ethiopic/pa-ethiopic/pu-ethiopic/pi-ethiopic/paa-ethiopic/pee-ethiopic/pe-ethiopic/po-ethiopic/pwa-ethiopic</string>
+      <string>/ha-ethiopic/hu-ethiopic/hi-ethiopic/haa-ethiopic/hee-ethiopic/he-ethiopic/ho-ethiopic/hoa-ethiopic/la-ethiopic/lu-ethiopic/li-ethiopic/laa-ethiopic/lee-ethiopic/le-ethiopic/lo-ethiopic/lwa-ethiopic/hha-ethiopic/hhu-ethiopic/hhi-ethiopic/hhaa-ethiopic/hhee-ethiopic/hhe-ethiopic/hho-ethiopic/hhwa-ethiopic/ma-ethiopic/mu-ethiopic/mi-ethiopic/maa-ethiopic/mee-ethiopic/me-ethiopic/mo-ethiopic/mwa-ethiopic/sza-ethiopic/szu-ethiopic/szi-ethiopic/szaa-ethiopic/szee-ethiopic/sze-ethiopic/szo-ethiopic/szwa-ethiopic/ra-ethiopic/ru-ethiopic/ri-ethiopic/raa-ethiopic/ree-ethiopic/re-ethiopic/ro-ethiopic/rwa-ethiopic/sa-ethiopic/su-ethiopic/si-ethiopic/saa-ethiopic/see-ethiopic/se-ethiopic/so-ethiopic/swa-ethiopic/sha-ethiopic/shu-ethiopic/shi-ethiopic/shaa-ethiopic/shee-ethiopic/she-ethiopic/sho-ethiopic/shwa-ethiopic/qa-ethiopic/qu-ethiopic/qi-ethiopic/qaa-ethiopic/qee-ethiopic/qe-ethiopic/qo-ethiopic/qoa-ethiopic/qwa-ethiopic/qwi-ethiopic/qwaa-ethiopic/qwee-ethiopic/qwe-ethiopic/qha-ethiopic/qhu-ethiopic/qhi-ethiopic/qhaa-ethiopic/qhee-ethiopic/qhe-ethiopic/qho-ethiopic/qhwa-ethiopic/qhwi-ethiopic/qhwaa-ethiopic/qhwee-ethiopic/qhwe-ethiopic/ba-ethiopic/bu-ethiopic/bi-ethiopic/baa-ethiopic/bee-ethiopic/be-ethiopic/bo-ethiopic/bwa-ethiopic/va-ethiopic/vu-ethiopic/vi-ethiopic/vaa-ethiopic/vee-ethiopic/ve-ethiopic/vo-ethiopic/vwa-ethiopic/ta-ethiopic/tu-ethiopic/ti-ethiopic/taa-ethiopic/tee-ethiopic/te-ethiopic/to-ethiopic/twa-ethiopic/ca-ethiopic/cu-ethiopic/ci-ethiopic/caa-ethiopic/cee-ethiopic/ce-ethiopic/co-ethiopic/cwa-ethiopic/xa-ethiopic/xu-ethiopic/xi-ethiopic/xaa-ethiopic/xee-ethiopic/xe-ethiopic/xo-ethiopic/xoa-ethiopic/xwa-ethiopic/xwi-ethiopic/xwaa-ethiopic/xwee-ethiopic/xwe-ethiopic/na-ethiopic/nu-ethiopic/ni-ethiopic/naa-ethiopic/nee-ethiopic/ne-ethiopic/no-ethiopic/nwa-ethiopic/nya-ethiopic/nyu-ethiopic/nyi-ethiopic/nyaa-ethiopic/nyee-ethiopic/nye-ethiopic/nyo-ethiopic/nywa-ethiopic/aGlottal-ethiopic/uGlottal-ethiopic/iGlottal-ethiopic/aaGlottal-ethiopic/eeGlottal-ethiopic/eGlottal-ethiopic/oGlottal-ethiopic/waGlottal-ethiopic/ka-ethiopic/ku-ethiopic/ki-ethiopic/kaa-ethiopic/kee-ethiopic/ke-ethiopic/ko-ethiopic/koa-ethiopic/kwa-ethiopic/kwi-ethiopic/kwaa-ethiopic/kwee-ethiopic/kwe-ethiopic/kxa-ethiopic/kxu-ethiopic/kxi-ethiopic/kxaa-ethiopic/kxee-ethiopic/kxe-ethiopic/kxo-ethiopic/kxwa-ethiopic/kxwi-ethiopic/kxwaa-ethiopic/kxwee-ethiopic/kxwe-ethiopic/wa-ethiopic/wu-ethiopic/wi-ethiopic/waa-ethiopic/wee-ethiopic/we-ethiopic/wo-ethiopic/woa-ethiopic/aPharyngeal-ethiopic/uPharyngeal-ethiopic/iPharyngeal-ethiopic/aaPharyngeal-ethiopic/eePharyngeal-ethiopic/ePharyngeal-ethiopic/oPharyngeal-ethiopic/za-ethiopic/zu-ethiopic/zi-ethiopic/zaa-ethiopic/zee-ethiopic/ze-ethiopic/zo-ethiopic/zwa-ethiopic/zha-ethiopic/zhu-ethiopic/zhi-ethiopic/zhaa-ethiopic/zhee-ethiopic/zhe-ethiopic/zho-ethiopic/zhwa-ethiopic/ya-ethiopic/yu-ethiopic/yi-ethiopic/yaa-ethiopic/yee-ethiopic/ye-ethiopic/yo-ethiopic/yoa-ethiopic/da-ethiopic/du-ethiopic/di-ethiopic/daa-ethiopic/dee-ethiopic/de-ethiopic/do-ethiopic/dwa-ethiopic/dda-ethiopic/ddu-ethiopic/ddi-ethiopic/ddaa-ethiopic/ddee-ethiopic/dde-ethiopic/ddo-ethiopic/ddwa-ethiopic/ja-ethiopic/ju-ethiopic/ji-ethiopic/jaa-ethiopic/jee-ethiopic/je-ethiopic/jo-ethiopic/jwa-ethiopic/ga-ethiopic/gu-ethiopic/gi-ethiopic/gaa-ethiopic/gee-ethiopic/ge-ethiopic/go-ethiopic/goa-ethiopic/gwa-ethiopic/gwi-ethiopic/gwaa-ethiopic/gwee-ethiopic/gwe-ethiopic/gga-ethiopic/ggu-ethiopic/ggi-ethiopic/ggaa-ethiopic/ggee-ethiopic/gge-ethiopic/ggo-ethiopic/ggwaa-ethiopic/tha-ethiopic/thu-ethiopic/thi-ethiopic/thaa-ethiopic/thee-ethiopic/the-ethiopic/tho-ethiopic/thwa-ethiopic/cha-ethiopic/chu-ethiopic/chi-ethiopic/chaa-ethiopic/chee-ethiopic/che-ethiopic/cho-ethiopic/chwa-ethiopic/pha-ethiopic/phu-ethiopic/phi-ethiopic/phaa-ethiopic/phee-ethiopic/phe-ethiopic/pho-ethiopic/phwa-ethiopic/tsa-ethiopic/tsu-ethiopic/tsi-ethiopic/tsaa-ethiopic/tsee-ethiopic/tse-ethiopic/tso-ethiopic/tswa-ethiopic/tza-ethiopic/tzu-ethiopic/tzi-ethiopic/tzaa-ethiopic/tzee-ethiopic/tze-ethiopic/tzo-ethiopic/tzoa-ethiopic/fa-ethiopic/fu-ethiopic/fi-ethiopic/faa-ethiopic/fee-ethiopic/fe-ethiopic/fo-ethiopic/fwa-ethiopic/pa-ethiopic/pu-ethiopic/pi-ethiopic/paa-ethiopic/pee-ethiopic/pe-ethiopic/po-ethiopic/pwa-ethiopic/rya-ethiopic</string>
+      <string>/_smart.ri/ra.base</string>
+      <string>/_smart.raa</string>
+      <string>/xwaa-ethiopic</string>
+      <string>/_smart.raa/raa-ethiopic</string>
+      <string>/ra.base</string>
+      <string>/_smart.ri</string>
+      <string>/ga.base/xoa-ethiopic</string>
+      <string>/_smart.xwaa</string>
+      <string></string>
+      <string>/_smart.ho.ring.uniq</string>
+      <string>/_smart.eGl/eGlottal-ethiopic</string>
+      <string>/ba.base/eGlottal-ethiopic</string>
+      <string>/_smart.eGl</string>
+      <string>/la.base/eGlottal-ethiopic</string>
+      <string>/kxwi-ethiopic</string>
+      <string>/yo-ethiopic</string>
+      <string>/ya.base/yoa-ethiopic</string>
+      <string>/ya.base/yoa-ethiopic</string>
+      <string>/_smart.du</string>
+      <string>/_smart.du/du-ethiopic</string>
+      <string>/ga.base/ggo-ethiopic</string>
+      <string>/ga.base/ggo-ethiopic</string>
+      <string>/ga.base/ggo-ethiopic</string>
+      <string>/ggo-ethiopic</string>
+      <string>´/yu-ethiopic</string>
+      <string>/yi-ethiopic</string>
+      <string>/yaa-ethiopic</string>
+      <string>/ma.base/mi-ethiopic</string>
+      <string>/sa.base/szi-ethiopic</string>
+      <string>/paa-ethiopic</string>
+      <string>/hha.base/hhe-ethiopic</string>
+      <string>/hha.base/hhe-ethiopic</string>
+      <string>/aGlottal-ethiopic</string>
+      <string>/aGlottal-ethiopic</string>
+      <string>/aGlottal-ethiopic</string>
+      <string>/aGlottal-ethiopic</string>
+      <string>/la.base/aGlottal-ethiopic</string>
+      <string>/_smart.aGlhat/aGlottal-ethiopic</string>
+      <string>/la.base/aGlottal-ethiopic</string>
+      <string>/la.base/oGlottal-ethiopic</string>
+      <string>/la.base/oGlottal-ethiopic</string>
+      <string>/la.base/oGlottal-ethiopic</string>
+      <string>/la.base/eGlottal-ethiopic</string>
+      <string>/la.base/lo-ethiopic</string>
+      <string>/ra.base/fi-ethiopic</string>
+      <string>/fi-ethiopic</string>
+      <string>/ra.base/fo-ethiopic</string>
+      <string>/fo-ethiopic</string>
+      <string></string>
+      <string>/eight-ethiopic</string>
+      <string>/sa.base/szaa-ethiopic</string>
+      <string>/sa.base/sze-ethiopic</string>
+      <string>/ma.base/mwa-ethiopic</string>
+      <string>/ma.base/mi-ethiopic</string>
+      <string>/ha.base/hi-ethiopic</string>
+      <string>/sa.base/szwa-ethiopic</string>
+      <string>/thwa-ethiopic</string>
+      <string>/ga.base.cap/nyee-ethiopic.liga</string>
+      <string>/caron</string>
+      <string>/f_f_i.liga</string>
+      <string>/rya-ethiopic</string>
+      <string>/la.base/waGlottal-ethiopic</string>
+      <string>/la.base/waGlottal-ethiopic</string>
+      <string>/xe-ethiopic</string>
+      <string>/la.base/waGlottal-ethiopic</string>
+      <string>/la.base/uGlottal-ethiopic</string>
+      <string>/la.base/uGlottal-ethiopic</string>
+      <string>/_smart.tsa.belt/tza-ethiopic</string>
+      <string>/_smart.tsa.belt/tza-ethiopic</string>
+      <string>/oPh.base.cap/tza-ethiopic.liga</string>
+      <string>/_smart.tsa.belt.caps/tza-ethiopic.liga</string>
+      <string>/_smart.xwaa/xwa-ethiopic</string>
+      <string>/ga.base/xwa-ethiopic</string>
+      <string>/ga.base/xwa-ethiopic</string>
+      <string>/kxwaa-ethiopic</string>
+      <string>/la.base/uGlottal-ethiopic</string>
+      <string>/la.base/uGlottal-ethiopic</string>
+      <string>/ga.base/ggwaa-ethiopic</string>
+      <string>/aaGlottal-ethiopic</string>
+      <string>/eGlottal-ethiopic.liga</string>
+      <string>/la.base/eeGlottal-ethiopic</string>
+      <string>/ga.base/ggwaa-ethiopic</string>
+      <string>/_smart.di</string>
+      <string>/ma.base/mwa-ethiopic</string>
+      <string>/la.base/uGlottal-ethiopic</string>
+      <string>/_smart.di/di-ethiopic</string>
+      <string>/_smart.di/di-ethiopic</string>
+      <string>/ga.base/xoa-ethiopic</string>
+      <string>´/yu-ethiopic</string>
+      <string>/acute.yu/yu-ethiopic</string>
+      <string>/acute.yu/yu-ethiopic</string>
+      <string>/ya-ethiopic</string>
+      <string>/la.base/eeGlottal-ethiopic</string>
+      <string>/xwa-ethiopic</string>
+      <string>/la.base/eeGlottal-ethiopic</string>
+      <string>/la.base/waGlottal-ethiopic</string>
+      <string>/la.base/eeGlottal-ethiopic</string>
+      <string>/la.base/eeGlottal-ethiopic</string>
+      <string>/_smart.hee/eeGlottal-ethiopic</string>
+      <string>/la.base/waGlottal-ethiopic</string>
+      <string>/la.base/lwa-ethiopic</string>
+      <string>/la.base/waGlottal-ethiopic</string>
+      <string>/la.base/eeGlottal-ethiopic</string>
+      <string>/la.base/eeGlottal-ethiopic</string>
+      <string>/la.base/eeGlottal-ethiopic</string>
+      <string>/la.base/eeGlottal-ethiopic</string>
+      <string>/la.base/waGlottal-ethiopic</string>
+      <string>/_smart.hwa/waGlottal-ethiopic</string>
+      <string>/da-ethiopic/du-ethiopic/di-ethiopic/daa-ethiopic/dee-ethiopic/de-ethiopic/do-ethiopic/dwa-ethiopic/dda-ethiopic/ddu-ethiopic/ddi-ethiopic/ddaa-ethiopic/ddee-ethiopic/dde-ethiopic/ddo-ethiopic/ddwa-ethiopic/ja-ethiopic/ju-ethiopic/ji-ethiopic/jaa-ethiopic/jee-ethiopic/je-ethiopic/jo-ethiopic/jwa-ethiopic</string>
+      <string>/_smart.du/du-ethiopic</string>
+      <string>/_smart.du/du-ethiopic</string>
+      <string>/_smart.du/du-ethiopic</string>
+      <string>/_smart.da/du-ethiopic</string>
+      <string>/_smart.du/du-ethiopic</string>
+      <string>/abesha.base</string>
+      <string>/abesha.base/eGlottal-ethiopic</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Get Hints From Master</key>
     <string>m002</string>
@@ -3488,5 +3690,12 @@ add_part('_smart.hi', True)
       <key>zwa-ethiopic.liga</key>
       <string>uni12DF.liga</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>_smart.aGlhat</string>
+      <string>_smart.eGl</string>
+      <string>_smart.ring</string>
+      <string>_smart.xwaa</string>
+    </array>
   </dict>
 </plist>

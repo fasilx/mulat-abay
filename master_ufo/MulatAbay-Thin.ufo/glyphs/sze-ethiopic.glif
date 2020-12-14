@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sze-ethiopic" format="2">
-  <advance width="1856"/>
+  <advance width="1976"/>
   <unicode hex="1225"/>
-  <anchor x="1528" y="0" name="haa"/>
-  <anchor x="825" y="-94" name="he.acute.bottom"/>
-  <anchor x="1514" y="0" name="hee"/>
-  <anchor x="1618" y="-306" name="hi"/>
-  <anchor x="228" y="5" name="ho"/>
-  <anchor x="1711" y="701" name="hu"/>
-  <anchor x="1546" y="0" name="hwa"/>
+  <anchor x="1588" y="0" name="haa"/>
+  <anchor x="885" y="-94" name="he.acute.bottom"/>
+  <anchor x="1574" y="0" name="hee"/>
+  <anchor x="1678" y="-306" name="hi"/>
+  <anchor x="288" y="5" name="ho"/>
+  <anchor x="1771" y="701" name="hu"/>
+  <anchor x="1626" y="0" name="hwa"/>
   <outline>
     <component base="sa.base"/>
-    <component base="_smart.ho" xOffset="232" yOffset="-345"/>
+    <component base="_smart.ho" xOffset="292" yOffset="-345"/>
   </outline>
   <lib>
     <dict>

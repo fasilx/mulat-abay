@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.eGl" format="2">
+  <anchor x="231" y="1360" name="_eGl"/>
+  <anchor x="726" y="60" name="_hee"/>
+  <anchor x="1062.5" y="673" name="_hu"/>
+  <outline>
+    <contour>
+      <point x="68" y="1343" type="line"/>
+      <point x="197" y="1418" type="line"/>
+      <point x="327" y="1832" type="line"/>
+      <point x="133" y="1720" type="line"/>
+    </contour>
+  </outline>
+</glyph>

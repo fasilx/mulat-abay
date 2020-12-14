@@ -1,35 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="za.base" format="2">
-  <advance width="1123"/>
-  <anchor x="740" y="6" name="haa"/>
-  <anchor x="626" y="124" name="hee"/>
-  <anchor x="804" y="37" name="hi"/>
-  <anchor x="2" y="-11" name="ho"/>
-  <anchor x="977" y="681" name="hu"/>
-  <anchor x="744" y="0" name="hwa"/>
-  <anchor x="533" y="970" name="zha"/>
+  <advance width="1243"/>
+  <anchor x="800" y="6" name="haa"/>
+  <anchor x="686" y="124" name="hee"/>
+  <anchor x="864" y="37" name="hi"/>
+  <anchor x="62" y="-11" name="ho"/>
+  <anchor x="1037" y="681" name="hu"/>
+  <anchor x="804" y="0" name="hwa"/>
+  <anchor x="593" y="970" name="zha"/>
   <outline>
     <contour>
-      <point x="-19" y="0" type="line"/>
-      <point x="35" y="0" type="line"/>
-      <point x="143" y="611" type="line"/>
-      <point x="819" y="611" type="line"/>
-      <point x="711" y="0" type="line"/>
-      <point x="765" y="0" type="line"/>
-      <point x="956" y="1082" type="line"/>
-      <point x="902" y="1082" type="line"/>
-      <point x="828" y="665" type="line"/>
-      <point x="152" y="665" type="line"/>
-      <point x="226" y="1082" type="line"/>
-      <point x="172" y="1082" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="203" y="611" type="line"/>
+      <point x="879" y="611" type="line"/>
+      <point x="771" y="0" type="line"/>
+      <point x="825" y="0" type="line"/>
+      <point x="1016" y="1082" type="line"/>
+      <point x="962" y="1082" type="line"/>
+      <point x="888" y="665" type="line"/>
+      <point x="212" y="665" type="line"/>
+      <point x="286" y="1082" type="line"/>
+      <point x="232" y="1082" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>n</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="thee-ethiopic" format="2">
-  <advance width="1775"/>
+  <advance width="1895"/>
   <unicode hex="1324"/>
-  <anchor x="680" y="7" name="cha"/>
-  <anchor x="1378" y="-30" name="haa"/>
-  <anchor x="1566" y="663" name="he"/>
-  <anchor x="776" y="-3" name="he.acute.bottom"/>
-  <anchor x="690" y="1159" name="he.acute.top"/>
-  <anchor x="1319" y="-72" name="hee"/>
-  <anchor x="1465" y="110" name="hi"/>
-  <anchor x="30" y="-2" name="ho"/>
-  <anchor x="1566" y="663" name="hu"/>
-  <anchor x="1350" y="-30" name="hwa"/>
-  <anchor x="878" y="1106" name="neck"/>
+  <anchor x="740" y="7" name="cha"/>
+  <anchor x="1438" y="-30" name="haa"/>
+  <anchor x="1626" y="663" name="he"/>
+  <anchor x="906" y="-3" name="he.acute.bottom"/>
+  <anchor x="810" y="1319" name="he.acute.top"/>
+  <anchor x="1379" y="-72" name="hee"/>
+  <anchor x="1525" y="110" name="hi"/>
+  <anchor x="90" y="-2" name="ho"/>
+  <anchor x="1626" y="663" name="hu"/>
+  <anchor x="1418" y="-20" name="hwa"/>
+  <anchor x="938" y="1106" name="neck"/>
   <outline>
     <component base="hha.base"/>
-    <component base="_smart.hee" xOffset="1529" yOffset="-411"/>
+    <component base="_smart.hee" xOffset="1589" yOffset="-411"/>
   </outline>
   <lib>
     <dict>

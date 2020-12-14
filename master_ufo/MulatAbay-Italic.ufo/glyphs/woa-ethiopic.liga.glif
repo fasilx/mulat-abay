@@ -15,7 +15,7 @@
   <anchor x="979" y="1446" name="neck.caps"/>
   <outline>
     <component base="wa.base.cap"/>
-    <component base="_smart.hwa" xOffset="930" yOffset="-342"/>
+    <component base="_smart.hwa" xOffset="913" yOffset="-382"/>
   </outline>
   <lib>
     <dict>

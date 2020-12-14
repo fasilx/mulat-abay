@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kxwee-ethiopic" format="2">
-  <advance width="1122"/>
+  <advance width="1242"/>
   <unicode hex="12C4"/>
   <anchor x="259" y="721" name="aGl"/>
   <anchor x="928" y="2" name="haa"/>
@@ -16,10 +16,11 @@
   <anchor x="925" y="0" name="hwa"/>
   <anchor x="541.142" y="1040" name="ka"/>
   <anchor x="584.83" y="1114" name="neck"/>
+  <anchor x="29.478" y="1465.0" name="eGl"/>
   <outline>
     <component base="ba.base"/>
-    <component base="_smart.ka" xOffset="1161" yOffset="5"/>
-    <component base="_smart.hat.left" xOffset="227" yOffset="1220"/>
-    <component base="_smart.hwa" xOffset="925" yOffset="-368"/>
+    <component base="_smart.ka" xOffset="1221" yOffset="5"/>
+    <component base="_smart.hat.left" xOffset="287" yOffset="1220"/>
+    <component base="_smart.hwa" xOffset="987" yOffset="-342"/>
   </outline>
 </glyph>

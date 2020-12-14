@@ -11,7 +11,7 @@
   <anchor x="327" y="1451" name="nose"/>
   <outline>
     <component base="na.base.cap"/>
-    <component base="_smart.hwa" xOffset="928" yOffset="-388"/>
+    <component base="_smart.hwa" xOffset="911" yOffset="-428"/>
   </outline>
   <lib>
     <dict>

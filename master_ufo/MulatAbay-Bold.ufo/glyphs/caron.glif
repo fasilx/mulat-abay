@@ -9,13 +9,11 @@ uni02C7
     <contour>
       <point x="387" y="1245" type="line"/>
       <point x="570" y="1245" type="line"/>
-      <point x="872" y="1526" type="line"/>
       <point x="872" y="1537" type="line" name="❌"/>
       <point x="625" y="1537" type="line" name="❌"/>
       <point x="479" y="1394" type="line"/>
       <point x="332" y="1537" type="line" name="❌"/>
       <point x="85" y="1537" type="line" name="❌"/>
-      <point x="85" y="1528" type="line"/>
     </contour>
   </outline>
   <lib>

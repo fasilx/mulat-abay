@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hu-ethiopic" format="2">
-  <advance width="1144"/>
+  <advance width="1264"/>
   <unicode hex="1201"/>
-  <anchor x="869" y="0" name="haa"/>
-  <anchor x="137" y="675" name="he"/>
-  <anchor x="323.808" y="783.0" name="he.left.inner"/>
-  <anchor x="890" y="0" name="hee"/>
-  <anchor x="982" y="-280" name="hi"/>
-  <anchor x="1099" y="1163" name="ho.ring"/>
-  <anchor x="969" y="659" name="hu"/>
-  <anchor x="880" y="0" name="hwa"/>
+  <anchor x="929" y="0" name="haa"/>
+  <anchor x="197" y="675" name="he"/>
+  <anchor x="384" y="783" name="he.left.inner"/>
+  <anchor x="950" y="0" name="hee"/>
+  <anchor x="1052" y="-280" name="hi"/>
+  <anchor x="1159" y="1163" name="ho.ring"/>
+  <anchor x="1029" y="659" name="hu"/>
+  <anchor x="940" y="0" name="hwa"/>
   <outline>
     <component base="ha.base"/>
-    <component base="_smart.hu" xOffset="971" yOffset="-309"/>
+    <component base="_smart.hu" xOffset="1031" yOffset="-309"/>
   </outline>
   <lib>
     <dict>

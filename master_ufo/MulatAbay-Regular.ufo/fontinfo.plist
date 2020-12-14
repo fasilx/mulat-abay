@@ -22,6 +22,8 @@
     <integer>-500</integer>
     <key>openTypeNameDesigner</key>
     <string>fasil fikreab</string>
+    <key>openTypeNameLicense</key>
+    <string>SIL</string>
     <key>openTypeNameManufacturer</key>
     <string>Mulat.org</string>
     <key>openTypeOS2StrikeoutPosition</key>

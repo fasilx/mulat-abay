@@ -10,7 +10,7 @@
   <anchor x="1337" y="0" name="hwa"/>
   <outline>
     <component base="ma.base.cap"/>
-    <component base="_smart.hwa" xOffset="1463" yOffset="-368"/>
+    <component base="_smart.hwa" xOffset="1446" yOffset="-408"/>
   </outline>
   <lib>
     <dict>

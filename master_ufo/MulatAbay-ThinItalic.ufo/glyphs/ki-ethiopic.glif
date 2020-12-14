@@ -1,25 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ki-ethiopic" format="2">
-  <advance width="1121"/>
+  <advance width="1241"/>
   <unicode hex="12AA"/>
-  <anchor x="195" y="721" name="aGl"/>
-  <anchor x="738" y="2" name="haa"/>
-  <anchor x="741" y="1382" name="hat"/>
-  <anchor x="258" y="1232" name="hat.left"/>
-  <anchor x="523" y="1154" name="he.acute.top"/>
-  <anchor x="197" y="560" name="he.left.inner"/>
-  <anchor x="53" y="634" name="he.left.outer"/>
-  <anchor x="643" y="80" name="hee"/>
-  <anchor x="834" y="60" name="hi"/>
-  <anchor x="11" y="10" name="ho"/>
-  <anchor x="916" y="673" name="hu"/>
-  <anchor x="734" y="0" name="hwa"/>
-  <anchor x="534" y="1040" name="ka"/>
-  <anchor x="590" y="1114" name="neck"/>
+  <anchor x="255" y="721" name="aGl"/>
+  <anchor x="29.454" y="1465.0" name="eGl"/>
+  <anchor x="798" y="-8" name="haa"/>
+  <anchor x="801" y="1382" name="hat"/>
+  <anchor x="318" y="1232" name="hat.left"/>
+  <anchor x="583" y="1154" name="he.acute.top"/>
+  <anchor x="257" y="560" name="he.left.inner"/>
+  <anchor x="113" y="634" name="he.left.outer"/>
+  <anchor x="703" y="80" name="hee"/>
+  <anchor x="894" y="60" name="hi"/>
+  <anchor x="71" y="10" name="ho"/>
+  <anchor x="976" y="673" name="hu"/>
+  <anchor x="805" y="43" name="hwa"/>
+  <anchor x="594" y="1040" name="ka"/>
+  <anchor x="650" y="1114" name="neck"/>
   <outline>
     <component base="ba.base"/>
-    <component base="_smart.hi" xOffset="1001" yOffset="-67"/>
-    <component base="_smart.ka" xOffset="1162" yOffset="5"/>
+    <component base="_smart.hi" xOffset="1061" yOffset="-67"/>
+    <component base="_smart.ka" xOffset="1222" yOffset="5"/>
   </outline>
   <lib>
     <dict>

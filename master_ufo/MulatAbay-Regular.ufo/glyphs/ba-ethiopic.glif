@@ -1,21 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ba-ethiopic" format="2">
-  <advance width="1130"/>
+  <advance width="1251"/>
   <unicode hex="1260"/>
-  <anchor x="251" y="765" name="aGl"/>
-  <anchor x="929" y="-30" name="haa"/>
-  <anchor x="574" y="1382" name="hat"/>
-  <anchor x="234" y="1322" name="hat.left"/>
-  <anchor x="554" y="1154" name="he.acute.top"/>
-  <anchor x="321" y="560" name="he.left.inner"/>
-  <anchor x="133" y="634" name="he.left.outer"/>
-  <anchor x="846" y="60" name="hee"/>
-  <anchor x="991" y="110" name="hi"/>
-  <anchor x="222" y="10" name="ho"/>
-  <anchor x="995" y="673" name="hu"/>
-  <anchor x="901" y="-39" name="hwa"/>
-  <anchor x="545" y="1037" name="ka"/>
-  <anchor x="589" y="1114" name="neck"/>
+  <anchor x="311" y="765" name="aGl"/>
+  <anchor x="29.691" y="1465.0" name="eGl"/>
+  <anchor x="989" y="-30" name="haa"/>
+  <anchor x="634" y="1382" name="hat"/>
+  <anchor x="294" y="1322" name="hat.left"/>
+  <anchor x="614" y="1154" name="he.acute.top"/>
+  <anchor x="391" y="560" name="he.left.inner"/>
+  <anchor x="193" y="634" name="he.left.outer"/>
+  <anchor x="906" y="60" name="hee"/>
+  <anchor x="1051" y="110" name="hi"/>
+  <anchor x="282" y="10" name="ho"/>
+  <anchor x="1055" y="673" name="hu"/>
+  <anchor x="961" y="-19" name="hwa"/>
+  <anchor x="605" y="1037" name="ka"/>
+  <anchor x="649" y="1114" name="neck"/>
   <outline>
     <component base="ba.base"/>
   </outline>

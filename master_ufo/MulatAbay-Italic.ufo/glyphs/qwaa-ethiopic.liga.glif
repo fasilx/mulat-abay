@@ -16,7 +16,7 @@
   <outline>
     <component base="wa.base.cap"/>
     <component base="_smart.ho.ring" xOffset="1125" yOffset="413"/>
-    <component base="_smart.hwa" xOffset="930" yOffset="-342"/>
+    <component base="_smart.hwa" xOffset="913" yOffset="-382"/>
   </outline>
   <lib>
     <dict>

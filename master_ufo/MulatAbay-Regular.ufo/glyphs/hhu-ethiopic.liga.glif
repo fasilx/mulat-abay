@@ -8,13 +8,13 @@
   <anchor x="1483" y="54" name="hee"/>
   <anchor x="1623" y="110" name="hi"/>
   <anchor x="253" y="-48" name="ho"/>
-  <anchor x="1619" y="1081" name="hu"/>
+  <anchor x="1621" y="1081" name="hu"/>
   <anchor x="1524" y="-48" name="hwa"/>
   <anchor x="940" y="1082" name="neck.hha.caps"/>
   <outline>
     <component base="hha.base.cap"/>
     <component base="_smart.neck.hha.caps" xOffset="1788"/>
-    <component base="_smart.hu" xOffset="1623" yOffset="114"/>
+    <component base="_smart.hu" xOffset="1625" yOffset="114"/>
   </outline>
   <lib>
     <dict>

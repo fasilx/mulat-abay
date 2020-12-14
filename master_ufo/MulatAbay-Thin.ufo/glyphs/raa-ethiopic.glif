@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="raa-ethiopic" format="2">
-  <advance width="1106"/>
+  <advance width="1157"/>
   <unicode hex="122B"/>
-  <anchor x="695" y="71" name="fa"/>
-  <anchor x="593.84" y="-13.0" name="haa"/>
-  <anchor x="568.453" y="-11.0" name="haa.acute"/>
-  <anchor x="445" y="1051" name="hat"/>
-  <anchor x="882" y="590" name="hee"/>
-  <anchor x="703" y="985" name="ho.ring"/>
-  <anchor x="636" y="4" name="hwa"/>
+  <anchor x="755" y="71" name="fa"/>
+  <anchor x="654" y="-13" name="haa"/>
+  <anchor x="628" y="-11" name="haa.acute"/>
+  <anchor x="505" y="1051" name="hat"/>
+  <anchor x="361.562" y="1041.0" name="hat.left"/>
+  <anchor x="942" y="590" name="hee"/>
+  <anchor x="763" y="985" name="ho.ring"/>
+  <anchor x="696" y="4" name="hwa"/>
+  <anchor x="1000.323" y="305.0" name="ra"/>
+  <anchor x="970" y="254" name="ri"/>
   <outline>
     <component base="ra.base"/>
-    <component base="acute" xScale="0.96126" xyScale="0.27564" yxScale="-0.27564" yScale="0.96126" xOffset="1008" yOffset="-1075"/>
+    <component base="_smart.raa" xOffset="1157"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.raa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

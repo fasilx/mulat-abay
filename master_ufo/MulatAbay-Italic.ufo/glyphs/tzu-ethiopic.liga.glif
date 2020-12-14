@@ -5,14 +5,14 @@
   <anchor x="387" y="-22" name="haa.acute"/>
   <anchor x="689" y="-39" name="hee"/>
   <anchor x="728" y="-242" name="hi"/>
-  <anchor x="1237" y="971" name="hu"/>
+  <anchor x="1267" y="971" name="hu"/>
   <anchor x="692" y="0" name="hwa"/>
   <anchor x="749" y="1401" name="neck"/>
   <anchor x="405" y="550" name="tsa.belt"/>
   <anchor x="595" y="757" name="tsa.belt.caps"/>
   <outline>
     <component base="oPh.base.cap"/>
-    <component base="_smart.hu" xOffset="1261" yOffset="4"/>
+    <component base="_smart.hu" xOffset="1291" yOffset="4"/>
     <component base="_smart.tsa.belt.caps" xOffset="636" yOffset="2"/>
   </outline>
   <lib>

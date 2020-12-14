@@ -1,18 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi-ethiopic" format="2">
-  <advance width="1106"/>
+  <advance width="1156"/>
   <unicode hex="134A"/>
-  <anchor x="516" y="71" name="fa"/>
-  <anchor x="400" y="-13" name="haa"/>
-  <anchor x="375" y="-11" name="haa.acute"/>
-  <anchor x="439" y="1051" name="hat"/>
-  <anchor x="794" y="590" name="hee"/>
-  <anchor x="685" y="985" name="ho.ring"/>
-  <anchor x="445" y="4" name="hwa"/>
+  <anchor x="576" y="71" name="fa"/>
+  <anchor x="460" y="-13" name="haa"/>
+  <anchor x="435" y="-11" name="haa.acute"/>
+  <anchor x="499" y="1051" name="hat"/>
+  <anchor x="361.25" y="1041.0" name="hat.left"/>
+  <anchor x="854" y="590" name="hee"/>
+  <anchor x="745" y="985" name="ho.ring"/>
+  <anchor x="505" y="4" name="hwa"/>
+  <anchor x="999.458" y="305.0" name="ra"/>
+  <anchor x="869" y="294" name="ri"/>
   <outline>
     <component base="ra.base"/>
-    <component base="_smart.hi" xOffset="802" yOffset="225"/>
-    <component base="_smart.fa" xOffset="264" yOffset="17"/>
+    <component base="_smart.hi" xOffset="892" yOffset="225"/>
+    <component base="_smart.fa" xOffset="324" yOffset="17"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +34,10 @@
           <string>_smart.hi</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ra-ethiopic</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ra-ethiopic</string>
     </dict>
   </lib>
 </glyph>

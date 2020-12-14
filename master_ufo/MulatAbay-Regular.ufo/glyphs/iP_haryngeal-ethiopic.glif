@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iPharyngeal-ethiopic" format="2">
-  <advance width="1168"/>
+  <advance width="1285"/>
   <unicode hex="12D2"/>
-  <anchor x="827" y="0" name="haa"/>
-  <anchor x="582" y="-22" name="haa.acute"/>
-  <anchor x="856" y="-39" name="hee"/>
-  <anchor x="879" y="-242" name="hi"/>
-  <anchor x="1029" y="671" name="hu"/>
-  <anchor x="852" y="0" name="hwa"/>
-  <anchor x="571" y="1101" name="neck"/>
-  <anchor x="562" y="550" name="tsa.belt"/>
+  <anchor x="886" y="0" name="haa"/>
+  <anchor x="641" y="-22" name="haa.acute"/>
+  <anchor x="915" y="-39" name="hee"/>
+  <anchor x="938" y="-242" name="hi"/>
+  <anchor x="1088" y="671" name="hu"/>
+  <anchor x="911" y="0" name="hwa"/>
+  <anchor x="630" y="1101" name="neck"/>
+  <anchor x="621" y="550" name="tsa.belt"/>
   <outline>
     <component base="oPh.base"/>
-    <component base="_smart.hi" xOffset="879" yOffset="-357"/>
-    <component base="_smart.haa" xOffset="827" yOffset="-344"/>
+    <component base="_smart.hi" xOffset="938" yOffset="-357"/>
+    <component base="_smart.haa" xOffset="886" yOffset="-344"/>
   </outline>
   <lib>
     <dict>

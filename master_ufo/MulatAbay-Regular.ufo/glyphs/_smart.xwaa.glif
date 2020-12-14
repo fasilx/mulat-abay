@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.xwaa" format="2">
+  <advance width="858"/>
+  <anchor x="416.614" y="19" name="_xwaa"/>
+  <outline>
+    <contour>
+      <point x="213" y="-74" type="line"/>
+      <point x="675" y="-74" type="line"/>
+      <point x="675" y="-358" type="line"/>
+      <point x="844" y="-358" type="line"/>
+      <point x="844" y="8" type="line"/>
+      <point x="213" y="8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

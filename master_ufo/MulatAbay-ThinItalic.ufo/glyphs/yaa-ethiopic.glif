@@ -1,31 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yaa-ethiopic" format="2">
-  <advance width="1040"/>
+  <advance width="1160"/>
   <unicode hex="12EB"/>
-  <anchor x="-310" y="44" name="da"/>
-  <anchor x="353" y="-109" name="di"/>
-  <anchor x="355" y="114" name="du"/>
-  <anchor x="495" y="10" name="haa"/>
-  <anchor x="-33" y="-15" name="haa.acute"/>
-  <anchor x="472" y="1341" name="hat"/>
-  <anchor x="1021" y="756" name="he"/>
-  <anchor x="14" y="480" name="he.left.outer"/>
-  <anchor x="447" y="51" name="hee"/>
-  <anchor x="607" y="11" name="hha"/>
-  <anchor x="471" y="-309" name="hi"/>
-  <anchor x="-184" y="0" name="ho"/>
-  <anchor x="484" y="159" name="hu"/>
-  <anchor x="453" y="10" name="hwa"/>
-  <anchor x="464" y="1112" name="neck"/>
-  <anchor x="-15" y="57" name="ye"/>
+  <anchor x="-250" y="44" name="da"/>
+  <anchor x="413" y="-109" name="di"/>
+  <anchor x="415" y="114" name="du"/>
+  <anchor x="555" y="10" name="haa"/>
+  <anchor x="27" y="-15" name="haa.acute"/>
+  <anchor x="532" y="1341" name="hat"/>
+  <anchor x="1081" y="756" name="he"/>
+  <anchor x="354" y="1070" name="he.left.outer"/>
+  <anchor x="507" y="51" name="hee"/>
+  <anchor x="667" y="11" name="hha"/>
+  <anchor x="531" y="-309" name="hi"/>
+  <anchor x="-124" y="0" name="ho"/>
+  <anchor x="544" y="159" name="hu"/>
+  <anchor x="548" y="-50" name="hwa"/>
+  <anchor x="524" y="1112" name="neck"/>
+  <anchor x="45" y="57" name="ye"/>
   <outline>
     <component base="ya.base"/>
-    <component base="_smart.haa.acute" xOffset="159" yOffset="-12"/>
+    <component base="_smart.haa.acute" xOffset="369" yOffset="-12"/>
   </outline>
   <lib>
     <dict>
       <key>_smart.haa.acute</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.haa.acute</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ya-ethiopic</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-ethiopic</string>
     </dict>
   </lib>
 </glyph>

@@ -99,6 +99,13 @@
           </dict>
         </dict>
       </array>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>_smart.aGlhat</string>
+        <string>_smart.eGl</string>
+        <string>_smart.ring</string>
+        <string>_smart.xwaa</string>
+      </array>
     </dict>
   </lib>
 </designspace>

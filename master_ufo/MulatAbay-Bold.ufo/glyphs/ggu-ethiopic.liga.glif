@@ -2,7 +2,7 @@
 <glyph name="ggu-ethiopic.liga" format="2">
   <advance width="981"/>
   <anchor x="649" y="8" name="haa.acute"/>
-  <anchor x="328" y="1633" name="hat.caps"/>
+  <anchor x="228" y="1633" name="hat.caps"/>
   <anchor x="80.324" y="1305.0" name="he.ring.uniq"/>
   <anchor x="672.315" y="11.0" name="hee"/>
   <anchor x="830" y="135" name="hi"/>
@@ -16,7 +16,7 @@
     <component base="ga.base.cap"/>
     <component base="_smart.hu" xOffset="805" yOffset="-13"/>
     <component base="_smart.neck.caps" xOffset="361" yOffset="1"/>
-    <component base="_smart.hat.caps" xOffset="292" yOffset="-4"/>
+    <component base="_smart.hat.caps" xOffset="192" yOffset="-4"/>
   </outline>
   <lib>
     <dict>

@@ -1,30 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aaGlottal-ethiopic" format="2">
-  <advance width="1122"/>
+  <advance width="1241"/>
   <unicode hex="12A3"/>
-  <anchor x="259" y="721" name="aGl"/>
-  <anchor x="928" y="2" name="haa"/>
-  <anchor x="569.936" y="1382.0" name="hat"/>
-  <anchor x="232" y="1232" name="hat.left"/>
-  <anchor x="510" y="1154" name="he.acute.top"/>
-  <anchor x="289" y="560" name="he.left.inner"/>
-  <anchor x="132.058" y="634.0" name="he.left.outer"/>
-  <anchor x="820" y="80" name="hee"/>
-  <anchor x="1014" y="60" name="hi"/>
-  <anchor x="200" y="10" name="ho"/>
-  <anchor x="987.956" y="673.0" name="hu"/>
-  <anchor x="925" y="0" name="hwa"/>
-  <anchor x="541.142" y="1040.0" name="ka"/>
-  <anchor x="584.83" y="1114.0" name="neck"/>
+  <anchor x="178" y="1322" name="aGlhat"/>
+  <anchor x="987" y="-40" name="haa"/>
+  <anchor x="329" y="598" name="he.left.inner"/>
+  <anchor x="856" y="110" name="hee"/>
+  <anchor x="1051" y="50" name="hi"/>
+  <anchor x="260" y="-21" name="ho"/>
+  <anchor x="1208" y="648" name="ho.ring"/>
+  <anchor x="321" y="320" name="ho.ring.uniq"/>
+  <anchor x="1049" y="667" name="hu"/>
+  <anchor x="991" y="-34" name="hwa"/>
   <outline>
-    <component base="ba.base"/>
-    <component base="_smart.aGl" xOffset="1136" yOffset="-32"/>
-    <component base="_smart.haa" xOffset="920" yOffset="-336"/>
+    <component base="abesha.base"/>
+    <component base="_smart.haa" xOffset="979" yOffset="-378"/>
   </outline>
   <lib>
     <dict>
-      <key>_smart.aPh</key>
-      <integer>1</integer>
       <key>_smart.haa</key>
       <integer>1</integer>
     </dict>

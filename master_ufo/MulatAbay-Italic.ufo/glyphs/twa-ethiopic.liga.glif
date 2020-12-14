@@ -13,7 +13,7 @@
   <anchor x="680" y="1532" name="neck.caps"/>
   <outline>
     <component base="pa.base.cap"/>
-    <component base="_smart.hwa" xOffset="542" yOffset="-420"/>
+    <component base="_smart.hwa" xOffset="525" yOffset="-460"/>
     <component base="_smart.neck.caps" xOffset="626" yOffset="70"/>
   </outline>
   <lib>

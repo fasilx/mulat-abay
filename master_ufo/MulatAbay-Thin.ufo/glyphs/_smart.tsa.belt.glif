@@ -3,10 +3,10 @@
   <anchor x="-7" y="602" name="_tsa.belt"/>
   <outline>
     <contour>
-      <point x="-481" y="501" type="line"/>
-      <point x="414" y="501" type="line"/>
-      <point x="414" y="555" type="line"/>
-      <point x="-481" y="555" type="line"/>
+      <point x="-431" y="501" type="line"/>
+      <point x="374" y="501" type="line"/>
+      <point x="374" y="555" type="line"/>
+      <point x="-431" y="555" type="line"/>
     </contour>
   </outline>
 </glyph>
