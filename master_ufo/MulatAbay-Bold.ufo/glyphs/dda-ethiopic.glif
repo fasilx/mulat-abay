@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dda-ethiopic" format="2">
+  <advance width="1042"/>
+  <unicode hex="12F8"/>
+  <anchor x="165" y="234" name="da"/>
+  <anchor x="534" y="-199" name="di"/>
+  <anchor x="638.421" y="234.0" name="du"/>
+  <anchor x="719" y="10" name="haa"/>
+  <anchor x="314" y="-4" name="haa.acute"/>
+  <anchor x="447" y="1341" name="hat"/>
+  <anchor x="1181" y="756" name="he"/>
+  <anchor x="130" y="480" name="he.left.outer"/>
+  <anchor x="620" y="40" name="hee"/>
+  <anchor x="848" y="11" name="hha"/>
+  <anchor x="666" y="-269" name="hi"/>
+  <anchor x="147" y="10" name="ho"/>
+  <anchor x="675" y="289" name="hu"/>
+  <anchor x="615" y="0" name="hwa"/>
+  <anchor x="482" y="1112" name="neck"/>
+  <anchor x="345" y="13" name="ye"/>
+  <outline>
+    <component base="ya.base"/>
+    <component base="_smart.da" xOffset="161" yOffset="78"/>
+    <component base="_smart.neck" xOffset="481" yOffset="1136"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.da</key>
+      <integer>1</integer>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

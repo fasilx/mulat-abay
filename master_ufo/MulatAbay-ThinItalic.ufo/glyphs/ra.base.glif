@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra.base" format="2">
+  <advance width="1036"/>
+  <anchor x="516" y="71" name="fa"/>
+  <anchor x="400" y="-13" name="haa"/>
+  <anchor x="375" y="-11" name="haa.acute"/>
+  <anchor x="439" y="1051" name="hat"/>
+  <anchor x="794" y="590" name="hee"/>
+  <anchor x="685" y="985" name="ho.ring"/>
+  <anchor x="445" y="4" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="372" y="-20" type="curve" smooth="yes"/>
+      <point x="574" y="-20"/>
+      <point x="806" y="155"/>
+      <point x="864" y="276" type="curve"/>
+      <point x="803" y="276" type="line"/>
+      <point x="768" y="188"/>
+      <point x="553" y="34"/>
+      <point x="361" y="34" type="curve" smooth="yes"/>
+      <point x="90" y="34"/>
+      <point x="96" y="270"/>
+      <point x="139" y="517" type="curve" smooth="yes"/>
+      <point x="239" y="1082" type="line"/>
+      <point x="184" y="1082" type="line"/>
+      <point x="86" y="524" type="line" smooth="yes"/>
+      <point x="26" y="187"/>
+      <point x="79" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>r</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,737 @@
+@Hu = [ hu-ethiopic lu-ethiopic hhu-ethiopic mu-ethiopic szu-ethiopic su-ethiopic shu-ethiopic qu-ethiopic qhu-ethiopic bu-ethiopic vu-ethiopic xu-ethiopic nu-ethiopic nyu-ethiopic ku-ethiopic kxu-ethiopic wu-ethiopic zu-ethiopic zhu-ethiopic yu-ethiopic du-ethiopic ddu-ethiopic ju-ethiopic gu-ethiopic ggu-ethiopic thu-ethiopic chu-ethiopic phu-ethiopic tsu-ethiopic tzu-ethiopic hu-ethiopic.liga hhu-ethiopic.liga mu-ethiopic.liga su-ethiopic.liga shu-ethiopic.liga qu-ethiopic.liga qhu-ethiopic.liga bu-ethiopic.liga vu-ethiopic.liga xu-ethiopic.liga nu-ethiopic.liga nyu-ethiopic.liga ku-ethiopic.liga kxu-ethiopic.liga wu-ethiopic.liga zu-ethiopic.liga zhu-ethiopic.liga du-ethiopic.liga ddu-ethiopic.liga ju-ethiopic.liga gu-ethiopic.liga ggu-ethiopic.liga thu-ethiopic.liga chu-ethiopic.liga phu-ethiopic.liga tsu-ethiopic.liga tzu-ethiopic.liga we-ethiopic de-ethiopic dde-ethiopic je-ethiopic we-ethiopic.liga de-ethiopic.liga dde-ethiopic.liga je-ethiopic.liga phe-ethiopic.liga tse-ethiopic.liga yo-ethiopic yoa-ethiopic phe-ethiopic tse-ethiopic uGlottal-ethiopic uGlottal-ethiopic.liga ];
+
+@Ethiopic = [ ha-ethiopic hu-ethiopic hi-ethiopic haa-ethiopic hee-ethiopic he-ethiopic ho-ethiopic hoa-ethiopic la-ethiopic lu-ethiopic li-ethiopic laa-ethiopic lee-ethiopic le-ethiopic lo-ethiopic lwa-ethiopic hha-ethiopic hhu-ethiopic hhi-ethiopic hhaa-ethiopic hhee-ethiopic hhe-ethiopic hho-ethiopic hhwa-ethiopic ma-ethiopic mu-ethiopic mi-ethiopic maa-ethiopic mee-ethiopic me-ethiopic mo-ethiopic mwa-ethiopic sza-ethiopic szu-ethiopic szi-ethiopic szaa-ethiopic szee-ethiopic sze-ethiopic szo-ethiopic szwa-ethiopic ra-ethiopic ru-ethiopic ri-ethiopic raa-ethiopic ree-ethiopic re-ethiopic ro-ethiopic rwa-ethiopic sa-ethiopic su-ethiopic si-ethiopic saa-ethiopic see-ethiopic se-ethiopic so-ethiopic swa-ethiopic sha-ethiopic shu-ethiopic shi-ethiopic shaa-ethiopic shee-ethiopic she-ethiopic sho-ethiopic shwa-ethiopic qa-ethiopic qu-ethiopic qi-ethiopic qaa-ethiopic qee-ethiopic qe-ethiopic qo-ethiopic qoa-ethiopic qwa-ethiopic qwi-ethiopic qwaa-ethiopic qwee-ethiopic qwe-ethiopic qha-ethiopic qhu-ethiopic qhi-ethiopic qhaa-ethiopic qhee-ethiopic qhe-ethiopic qho-ethiopic qhwa-ethiopic qhwi-ethiopic qhwaa-ethiopic qhwee-ethiopic qhwe-ethiopic ba-ethiopic bu-ethiopic bi-ethiopic baa-ethiopic bee-ethiopic be-ethiopic bo-ethiopic bwa-ethiopic va-ethiopic vu-ethiopic vi-ethiopic vaa-ethiopic vee-ethiopic ve-ethiopic vo-ethiopic vwa-ethiopic ta-ethiopic tu-ethiopic ti-ethiopic taa-ethiopic tee-ethiopic te-ethiopic to-ethiopic twa-ethiopic ca-ethiopic cu-ethiopic ci-ethiopic caa-ethiopic cee-ethiopic ce-ethiopic co-ethiopic cwa-ethiopic xo-ethiopic naa-ethiopic no-ethiopic nwa-ethiopic nyaa-ethiopic nyo-ethiopic nywa-ethiopic aGlottal-ethiopic uGlottal-ethiopic iGlottal-ethiopic aaGlottal-ethiopic eeGlottal-ethiopic eGlottal-ethiopic oGlottal-ethiopic waGlottal-ethiopic ka-ethiopic ku-ethiopic ki-ethiopic kaa-ethiopic kee-ethiopic ke-ethiopic ko-ethiopic koa-ethiopic kwa-ethiopic kwi-ethiopic kwaa-ethiopic kwee-ethiopic kwe-ethiopic kxa-ethiopic kxu-ethiopic kxi-ethiopic kxaa-ethiopic kxee-ethiopic kxe-ethiopic kxo-ethiopic kxwa-ethiopic kxwi-ethiopic kxwaa-ethiopic kxwee-ethiopic kxwe-ethiopic wa-ethiopic wu-ethiopic wi-ethiopic waa-ethiopic wee-ethiopic we-ethiopic wo-ethiopic woa-ethiopic aPharyngeal-ethiopic uPharyngeal-ethiopic iPharyngeal-ethiopic aaPharyngeal-ethiopic eePharyngeal-ethiopic ePharyngeal-ethiopic oPharyngeal-ethiopic za-ethiopic zu-ethiopic zi-ethiopic zaa-ethiopic zee-ethiopic ze-ethiopic zo-ethiopic zwa-ethiopic zha-ethiopic zhu-ethiopic zhi-ethiopic zhaa-ethiopic zhee-ethiopic zhe-ethiopic zho-ethiopic zhwa-ethiopic ya-ethiopic yu-ethiopic yi-ethiopic yaa-ethiopic yee-ethiopic ye-ethiopic yo-ethiopic yoa-ethiopic da-ethiopic du-ethiopic di-ethiopic daa-ethiopic dee-ethiopic de-ethiopic do-ethiopic dwa-ethiopic dda-ethiopic ddu-ethiopic ddi-ethiopic ddaa-ethiopic ddee-ethiopic dde-ethiopic ddo-ethiopic ddwa-ethiopic ja-ethiopic ju-ethiopic ji-ethiopic jaa-ethiopic jee-ethiopic je-ethiopic jo-ethiopic jwa-ethiopic ge-ethiopic gge-ethiopic tha-ethiopic thu-ethiopic thi-ethiopic thaa-ethiopic thee-ethiopic the-ethiopic tho-ethiopic thwa-ethiopic cha-ethiopic chu-ethiopic chi-ethiopic chaa-ethiopic chee-ethiopic che-ethiopic cho-ethiopic chwa-ethiopic pha-ethiopic phu-ethiopic phi-ethiopic phaa-ethiopic phee-ethiopic phe-ethiopic pho-ethiopic phwa-ethiopic tsa-ethiopic tsu-ethiopic tsi-ethiopic tsaa-ethiopic tsee-ethiopic tse-ethiopic tso-ethiopic tswa-ethiopic tza-ethiopic tzu-ethiopic tzi-ethiopic tzaa-ethiopic tzee-ethiopic tze-ethiopic tzo-ethiopic tzoa-ethiopic fa-ethiopic fu-ethiopic fi-ethiopic faa-ethiopic fee-ethiopic fe-ethiopic fo-ethiopic fwa-ethiopic pa-ethiopic pu-ethiopic pi-ethiopic paa-ethiopic pee-ethiopic pe-ethiopic po-ethiopic pwa-ethiopic rya-ethiopic ha-ethiopic.liga hu-ethiopic.liga hi-ethiopic.liga haa-ethiopic.liga hee-ethiopic.liga he-ethiopic.liga ho-ethiopic.liga hoa-ethiopic.liga la-ethiopic.liga lu-ethiopic.liga li-ethiopic.liga laa-ethiopic.liga lee-ethiopic.liga le-ethiopic.liga lo-ethiopic.liga lwa-ethiopic.liga hha-ethiopic.liga hhu-ethiopic.liga hhi-ethiopic.liga hhaa-ethiopic.liga hhee-ethiopic.liga hhe-ethiopic.liga hho-ethiopic.liga hhwa-ethiopic.liga ma-ethiopic.liga mu-ethiopic.liga mi-ethiopic.liga maa-ethiopic.liga mee-ethiopic.liga me-ethiopic.liga mo-ethiopic.liga mwa-ethiopic.liga sza-ethiopic.liga szu-ethiopic.liga szi-ethiopic.liga szaa-ethiopic.liga szee-ethiopic.liga sze-ethiopic.liga szo-ethiopic.liga szwa-ethiopic.liga ra-ethiopic.liga ru-ethiopic.liga ri-ethiopic.liga raa-ethiopic.liga ree-ethiopic.liga re-ethiopic.liga ro-ethiopic.liga rwa-ethiopic.liga sa-ethiopic.liga su-ethiopic.liga si-ethiopic.liga saa-ethiopic.liga see-ethiopic.liga se-ethiopic.liga so-ethiopic.liga swa-ethiopic.liga sha-ethiopic.liga shu-ethiopic.liga shi-ethiopic.liga shaa-ethiopic.liga shee-ethiopic.liga she-ethiopic.liga sho-ethiopic.liga shwa-ethiopic.liga qa-ethiopic.liga qu-ethiopic.liga qi-ethiopic.liga qaa-ethiopic.liga qee-ethiopic.liga qe-ethiopic.liga qo-ethiopic.liga qwaa-ethiopic.liga qha-ethiopic.liga qhu-ethiopic.liga qhi-ethiopic.liga qhaa-ethiopic.liga qhee-ethiopic.liga qhe-ethiopic.liga qho-ethiopic.liga qhwaa-ethiopic.liga ba-ethiopic.liga bu-ethiopic.liga bi-ethiopic.liga baa-ethiopic.liga bee-ethiopic.liga be-ethiopic.liga bo-ethiopic.liga bwa-ethiopic.liga va-ethiopic.liga vu-ethiopic.liga vi-ethiopic.liga vaa-ethiopic.liga vee-ethiopic.liga ve-ethiopic.liga vo-ethiopic.liga vwa-ethiopic.liga ta-ethiopic.liga tu-ethiopic.liga ti-ethiopic.liga taa-ethiopic.liga tee-ethiopic.liga te-ethiopic.liga to-ethiopic.liga twa-ethiopic.liga ca-ethiopic.liga cu-ethiopic.liga ci-ethiopic.liga caa-ethiopic.liga cee-ethiopic.liga ce-ethiopic.liga co-ethiopic.liga cwa-ethiopic.liga xo-ethiopic.liga naa-ethiopic.liga no-ethiopic.liga nwa-ethiopic.liga nyaa-ethiopic.liga nyo-ethiopic.liga nywa-ethiopic.liga aGlottal-ethiopic.liga uGlottal-ethiopic.liga iGlottal-ethiopic.liga aaGlottal-ethiopic.liga eeGlottal-ethiopic.liga eGlottal-ethiopic.liga oGlottal-ethiopic.liga waGlottal-ethiopic.liga ka-ethiopic.liga ku-ethiopic.liga ki-ethiopic.liga kaa-ethiopic.liga kee-ethiopic.liga ke-ethiopic.liga ko-ethiopic.liga kwaa-ethiopic.liga kxa-ethiopic.liga kxu-ethiopic.liga kxi-ethiopic.liga kxaa-ethiopic.liga kxee-ethiopic.liga kxe-ethiopic.liga kxo-ethiopic.liga kxwaa-ethiopic.liga wa-ethiopic.liga wu-ethiopic.liga wi-ethiopic.liga waa-ethiopic.liga wee-ethiopic.liga we-ethiopic.liga wo-ethiopic.liga woa-ethiopic.liga aPharyngeal-ethiopic.liga uPharyngeal-ethiopic.liga iPharyngeal-ethiopic.liga aaPharyngeal-ethiopic.liga eePharyngeal-ethiopic.liga ePharyngeal-ethiopic.liga oPharyngeal-ethiopic.liga za-ethiopic.liga zu-ethiopic.liga zi-ethiopic.liga zaa-ethiopic.liga zee-ethiopic.liga ze-ethiopic.liga zo-ethiopic.liga zwa-ethiopic.liga zha-ethiopic.liga zhu-ethiopic.liga zhi-ethiopic.liga zhaa-ethiopic.liga zhee-ethiopic.liga zhe-ethiopic.liga zho-ethiopic.liga zhwa-ethiopic.liga ya-ethiopic.liga yu-ethiopic.liga yi-ethiopic.liga yaa-ethiopic.liga yee-ethiopic.liga ye-ethiopic.liga yo-ethiopic.liga yoa-ethiopic.liga da-ethiopic.liga du-ethiopic.liga di-ethiopic.liga daa-ethiopic.liga dee-ethiopic.liga de-ethiopic.liga do-ethiopic.liga dwa-ethiopic.liga dda-ethiopic.liga ddu-ethiopic.liga ddi-ethiopic.liga ddaa-ethiopic.liga ddee-ethiopic.liga dde-ethiopic.liga ddo-ethiopic.liga ddwa-ethiopic.liga ja-ethiopic.liga ju-ethiopic.liga ji-ethiopic.liga jaa-ethiopic.liga jee-ethiopic.liga je-ethiopic.liga jo-ethiopic.liga jwa-ethiopic.liga ge-ethiopic.liga gge-ethiopic.liga tha-ethiopic.liga thu-ethiopic.liga thi-ethiopic.liga thaa-ethiopic.liga thee-ethiopic.liga the-ethiopic.liga tho-ethiopic.liga thwa-ethiopic.liga cha-ethiopic.liga chu-ethiopic.liga chi-ethiopic.liga chaa-ethiopic.liga chee-ethiopic.liga che-ethiopic.liga cho-ethiopic.liga chwa-ethiopic.liga pha-ethiopic.liga phu-ethiopic.liga phi-ethiopic.liga phaa-ethiopic.liga phee-ethiopic.liga phe-ethiopic.liga pho-ethiopic.liga phwa-ethiopic.liga tsa-ethiopic.liga tsu-ethiopic.liga tsi-ethiopic.liga tsaa-ethiopic.liga tsee-ethiopic.liga tse-ethiopic.liga tso-ethiopic.liga tswa-ethiopic.liga tza-ethiopic.liga tzu-ethiopic.liga tzi-ethiopic.liga tzaa-ethiopic.liga tzee-ethiopic.liga tze-ethiopic.liga tzo-ethiopic.liga tzoa-ethiopic.liga fa-ethiopic.liga fu-ethiopic.liga fi-ethiopic.liga faa-ethiopic.liga fee-ethiopic.liga fe-ethiopic.liga fo-ethiopic.liga fwa-ethiopic.liga one-ethiopic two-ethiopic three-ethiopic four-ethiopic five-ethiopic six-ethiopic seven-ethiopic eight-ethiopic nine-ethiopic ten-ethiopic twenty-ethiopic thirty-ethiopic forty-ethiopic fifty-ethiopic sixty-ethiopic seventy-ethiopic eighty-ethiopic ninety-ethiopic hundred-ethiopic tenthousand-ethiopic colon-ethiopic comma-ethiopic paragraphseparator-ethiopic period-ethiopic prefacecolon-ethiopic question-ethiopic sectionmark-ethiopic semicolon-ethiopic wordspace-ethiopic shortRikrik-ethiopic yizet-ethiopic  ];
+
+@Ethsmall = [ ha-ethiopic hu-ethiopic hi-ethiopic haa-ethiopic hee-ethiopic he-ethiopic ho-ethiopic hoa-ethiopic la-ethiopic lu-ethiopic li-ethiopic laa-ethiopic lee-ethiopic le-ethiopic lo-ethiopic lwa-ethiopic hha-ethiopic hhu-ethiopic hhi-ethiopic hhaa-ethiopic hhee-ethiopic hhe-ethiopic hho-ethiopic hhwa-ethiopic ma-ethiopic mu-ethiopic mi-ethiopic maa-ethiopic mee-ethiopic me-ethiopic mo-ethiopic mwa-ethiopic sza-ethiopic szu-ethiopic szi-ethiopic szaa-ethiopic szee-ethiopic sze-ethiopic szo-ethiopic szwa-ethiopic ra-ethiopic ru-ethiopic ri-ethiopic raa-ethiopic ree-ethiopic re-ethiopic ro-ethiopic rwa-ethiopic sa-ethiopic su-ethiopic si-ethiopic saa-ethiopic see-ethiopic se-ethiopic so-ethiopic swa-ethiopic sha-ethiopic shu-ethiopic shi-ethiopic shaa-ethiopic shee-ethiopic she-ethiopic sho-ethiopic shwa-ethiopic qa-ethiopic qu-ethiopic qi-ethiopic qaa-ethiopic qee-ethiopic qe-ethiopic qo-ethiopic qwaa-ethiopic qha-ethiopic qhu-ethiopic qhi-ethiopic qhaa-ethiopic qhee-ethiopic qhe-ethiopic qho-ethiopic qhwaa-ethiopic ba-ethiopic bu-ethiopic bi-ethiopic baa-ethiopic bee-ethiopic be-ethiopic bo-ethiopic bwa-ethiopic va-ethiopic vu-ethiopic vi-ethiopic vaa-ethiopic vee-ethiopic ve-ethiopic vo-ethiopic vwa-ethiopic ta-ethiopic tu-ethiopic ti-ethiopic taa-ethiopic tee-ethiopic te-ethiopic to-ethiopic twa-ethiopic ca-ethiopic cu-ethiopic ci-ethiopic caa-ethiopic cee-ethiopic ce-ethiopic co-ethiopic cwa-ethiopic xa-ethiopic xu-ethiopic xi-ethiopic xaa-ethiopic xee-ethiopic xe-ethiopic xo-ethiopic xwaa-ethiopic na-ethiopic nu-ethiopic ni-ethiopic naa-ethiopic nee-ethiopic ne-ethiopic no-ethiopic nwa-ethiopic nya-ethiopic nyu-ethiopic nyi-ethiopic nyaa-ethiopic nyee-ethiopic nye-ethiopic nyo-ethiopic nywa-ethiopic aGlottal-ethiopic uGlottal-ethiopic iGlottal-ethiopic aaGlottal-ethiopic eeGlottal-ethiopic eGlottal-ethiopic oGlottal-ethiopic waGlottal-ethiopic ka-ethiopic ku-ethiopic ki-ethiopic kaa-ethiopic kee-ethiopic ke-ethiopic ko-ethiopic kwaa-ethiopic kxa-ethiopic kxu-ethiopic kxi-ethiopic kxaa-ethiopic kxee-ethiopic kxe-ethiopic kxo-ethiopic kxwaa-ethiopic wa-ethiopic wu-ethiopic wi-ethiopic waa-ethiopic wee-ethiopic we-ethiopic wo-ethiopic woa-ethiopic aPharyngeal-ethiopic uPharyngeal-ethiopic iPharyngeal-ethiopic aaPharyngeal-ethiopic eePharyngeal-ethiopic ePharyngeal-ethiopic oPharyngeal-ethiopic za-ethiopic zu-ethiopic zi-ethiopic zaa-ethiopic zee-ethiopic ze-ethiopic zo-ethiopic zwa-ethiopic zha-ethiopic zhu-ethiopic zhi-ethiopic zhaa-ethiopic zhee-ethiopic zhe-ethiopic zho-ethiopic zhwa-ethiopic ya-ethiopic yu-ethiopic yi-ethiopic yaa-ethiopic yee-ethiopic ye-ethiopic yo-ethiopic yoa-ethiopic da-ethiopic du-ethiopic di-ethiopic daa-ethiopic dee-ethiopic de-ethiopic do-ethiopic dwa-ethiopic dda-ethiopic ddu-ethiopic ddi-ethiopic ddaa-ethiopic ddee-ethiopic dde-ethiopic ddo-ethiopic ddwa-ethiopic ja-ethiopic ju-ethiopic ji-ethiopic jaa-ethiopic jee-ethiopic je-ethiopic jo-ethiopic jwa-ethiopic ga-ethiopic gu-ethiopic gi-ethiopic gaa-ethiopic gee-ethiopic ge-ethiopic go-ethiopic gwaa-ethiopic gga-ethiopic ggu-ethiopic ggi-ethiopic ggaa-ethiopic ggee-ethiopic gge-ethiopic ggo-ethiopic ggwaa-ethiopic tha-ethiopic thu-ethiopic thi-ethiopic thaa-ethiopic thee-ethiopic the-ethiopic tho-ethiopic thwa-ethiopic cha-ethiopic chu-ethiopic chi-ethiopic chaa-ethiopic chee-ethiopic che-ethiopic cho-ethiopic chwa-ethiopic pha-ethiopic phu-ethiopic phi-ethiopic phaa-ethiopic phee-ethiopic phe-ethiopic pho-ethiopic phwa-ethiopic tsa-ethiopic tsu-ethiopic tsi-ethiopic tsaa-ethiopic tsee-ethiopic tse-ethiopic tso-ethiopic tswa-ethiopic tza-ethiopic tzu-ethiopic tzi-ethiopic tzaa-ethiopic tzee-ethiopic tze-ethiopic tzo-ethiopic tzoa-ethiopic fa-ethiopic fu-ethiopic fi-ethiopic faa-ethiopic fee-ethiopic fe-ethiopic fo-ethiopic fwa-ethiopic pa-ethiopic pu-ethiopic pi-ethiopic paa-ethiopic pee-ethiopic pe-ethiopic po-ethiopic pwa-ethiopic  ];
+
+@Ethcap = [ ha-ethiopic.liga hu-ethiopic.liga hi-ethiopic.liga haa-ethiopic.liga hee-ethiopic.liga he-ethiopic.liga ho-ethiopic.liga hoa-ethiopic.liga la-ethiopic.liga lu-ethiopic.liga li-ethiopic.liga laa-ethiopic.liga lee-ethiopic.liga le-ethiopic.liga lo-ethiopic.liga lwa-ethiopic.liga hha-ethiopic.liga hhu-ethiopic.liga hhi-ethiopic.liga hhaa-ethiopic.liga hhee-ethiopic.liga hhe-ethiopic.liga hho-ethiopic.liga hhwa-ethiopic.liga ma-ethiopic.liga mu-ethiopic.liga mi-ethiopic.liga maa-ethiopic.liga mee-ethiopic.liga me-ethiopic.liga mo-ethiopic.liga mwa-ethiopic.liga sza-ethiopic.liga szu-ethiopic.liga szi-ethiopic.liga szaa-ethiopic.liga szee-ethiopic.liga sze-ethiopic.liga szo-ethiopic.liga szwa-ethiopic.liga ra-ethiopic.liga ru-ethiopic.liga ri-ethiopic.liga raa-ethiopic.liga ree-ethiopic.liga re-ethiopic.liga ro-ethiopic.liga rwa-ethiopic.liga sa-ethiopic.liga su-ethiopic.liga si-ethiopic.liga saa-ethiopic.liga see-ethiopic.liga se-ethiopic.liga so-ethiopic.liga swa-ethiopic.liga sha-ethiopic.liga shu-ethiopic.liga shi-ethiopic.liga shaa-ethiopic.liga shee-ethiopic.liga she-ethiopic.liga sho-ethiopic.liga shwa-ethiopic.liga qa-ethiopic.liga qu-ethiopic.liga qi-ethiopic.liga qaa-ethiopic.liga qee-ethiopic.liga qe-ethiopic.liga qo-ethiopic.liga qwaa-ethiopic.liga qha-ethiopic.liga qhu-ethiopic.liga qhi-ethiopic.liga qhaa-ethiopic.liga qhee-ethiopic.liga qhe-ethiopic.liga qho-ethiopic.liga qhwaa-ethiopic.liga ba-ethiopic.liga bu-ethiopic.liga bi-ethiopic.liga baa-ethiopic.liga bee-ethiopic.liga be-ethiopic.liga bo-ethiopic.liga bwa-ethiopic.liga va-ethiopic.liga vu-ethiopic.liga vi-ethiopic.liga vaa-ethiopic.liga vee-ethiopic.liga ve-ethiopic.liga vo-ethiopic.liga vwa-ethiopic.liga ta-ethiopic.liga tu-ethiopic.liga ti-ethiopic.liga taa-ethiopic.liga tee-ethiopic.liga te-ethiopic.liga to-ethiopic.liga twa-ethiopic.liga ca-ethiopic.liga cu-ethiopic.liga ci-ethiopic.liga caa-ethiopic.liga cee-ethiopic.liga ce-ethiopic.liga co-ethiopic.liga cwa-ethiopic.liga xa-ethiopic.liga xu-ethiopic.liga xi-ethiopic.liga xaa-ethiopic.liga xee-ethiopic.liga xe-ethiopic.liga xo-ethiopic.liga xwaa-ethiopic.liga na-ethiopic.liga nu-ethiopic.liga ni-ethiopic.liga naa-ethiopic.liga nee-ethiopic.liga ne-ethiopic.liga no-ethiopic.liga nwa-ethiopic.liga nya-ethiopic.liga nyu-ethiopic.liga nyi-ethiopic.liga nyaa-ethiopic.liga nyee-ethiopic.liga nye-ethiopic.liga nyo-ethiopic.liga nywa-ethiopic.liga aGlottal-ethiopic.liga uGlottal-ethiopic.liga iGlottal-ethiopic.liga aaGlottal-ethiopic.liga eeGlottal-ethiopic.liga eGlottal-ethiopic.liga oGlottal-ethiopic.liga waGlottal-ethiopic.liga ka-ethiopic.liga ku-ethiopic.liga ki-ethiopic.liga kaa-ethiopic.liga kee-ethiopic.liga ke-ethiopic.liga ko-ethiopic.liga kwaa-ethiopic.liga kxa-ethiopic.liga kxu-ethiopic.liga kxi-ethiopic.liga kxaa-ethiopic.liga kxee-ethiopic.liga kxe-ethiopic.liga kxo-ethiopic.liga kxwaa-ethiopic.liga wa-ethiopic.liga wu-ethiopic.liga wi-ethiopic.liga waa-ethiopic.liga wee-ethiopic.liga we-ethiopic.liga wo-ethiopic.liga woa-ethiopic.liga aPharyngeal-ethiopic.liga uPharyngeal-ethiopic.liga iPharyngeal-ethiopic.liga aaPharyngeal-ethiopic.liga eePharyngeal-ethiopic.liga ePharyngeal-ethiopic.liga oPharyngeal-ethiopic.liga za-ethiopic.liga zu-ethiopic.liga zi-ethiopic.liga zaa-ethiopic.liga zee-ethiopic.liga ze-ethiopic.liga zo-ethiopic.liga zwa-ethiopic.liga zha-ethiopic.liga zhu-ethiopic.liga zhi-ethiopic.liga zhaa-ethiopic.liga zhee-ethiopic.liga zhe-ethiopic.liga zho-ethiopic.liga zhwa-ethiopic.liga ya-ethiopic.liga yu-ethiopic.liga yi-ethiopic.liga yaa-ethiopic.liga yee-ethiopic.liga ye-ethiopic.liga yo-ethiopic.liga yoa-ethiopic.liga da-ethiopic.liga du-ethiopic.liga di-ethiopic.liga daa-ethiopic.liga dee-ethiopic.liga de-ethiopic.liga do-ethiopic.liga dwa-ethiopic.liga dda-ethiopic.liga ddu-ethiopic.liga ddi-ethiopic.liga ddaa-ethiopic.liga ddee-ethiopic.liga dde-ethiopic.liga ddo-ethiopic.liga ddwa-ethiopic.liga ja-ethiopic.liga ju-ethiopic.liga ji-ethiopic.liga jaa-ethiopic.liga jee-ethiopic.liga je-ethiopic.liga jo-ethiopic.liga jwa-ethiopic.liga ga-ethiopic.liga gu-ethiopic.liga gi-ethiopic.liga gaa-ethiopic.liga gee-ethiopic.liga ge-ethiopic.liga go-ethiopic.liga gwaa-ethiopic.liga gga-ethiopic.liga ggu-ethiopic.liga ggi-ethiopic.liga ggaa-ethiopic.liga ggee-ethiopic.liga gge-ethiopic.liga ggo-ethiopic.liga ggwaa-ethiopic.liga tha-ethiopic.liga thu-ethiopic.liga thi-ethiopic.liga thaa-ethiopic.liga thee-ethiopic.liga the-ethiopic.liga tho-ethiopic.liga thwa-ethiopic.liga cha-ethiopic.liga chu-ethiopic.liga chi-ethiopic.liga chaa-ethiopic.liga chee-ethiopic.liga che-ethiopic.liga cho-ethiopic.liga chwa-ethiopic.liga pha-ethiopic.liga phu-ethiopic.liga phi-ethiopic.liga phaa-ethiopic.liga phee-ethiopic.liga phe-ethiopic.liga pho-ethiopic.liga phwa-ethiopic.liga tsa-ethiopic.liga tsu-ethiopic.liga tsi-ethiopic.liga tsaa-ethiopic.liga tsee-ethiopic.liga tse-ethiopic.liga tso-ethiopic.liga tswa-ethiopic.liga tza-ethiopic.liga tzu-ethiopic.liga tzi-ethiopic.liga tzaa-ethiopic.liga tzee-ethiopic.liga tze-ethiopic.liga tzo-ethiopic.liga tzoa-ethiopic.liga fa-ethiopic.liga fu-ethiopic.liga fi-ethiopic.liga faa-ethiopic.liga fee-ethiopic.liga fe-ethiopic.liga fo-ethiopic.liga fwa-ethiopic.liga pa-ethiopic.liga pu-ethiopic.liga pi-ethiopic.liga paa-ethiopic.liga pee-ethiopic.liga pe-ethiopic.liga po-ethiopic.liga pwa-ethiopic.liga  ];
+
+@Hi = [ ggi-ethiopic hhi-ethiopic ji-ethiopic.liga ddi-ethiopic.liga xi-ethiopic.liga zi-ethiopic.liga thi-ethiopic ki-ethiopic iGlottal-ethiopic.liga si-ethiopic vi-ethiopic.liga ki-ethiopic.liga phi-ethiopic di-ethiopic di-ethiopic.liga li-ethiopic.liga ji-ethiopic gi-ethiopic chi-ethiopic.liga tsi-ethiopic kxi-ethiopic.liga zi-ethiopic nyi-ethiopic zhi-ethiopic.liga ni-ethiopic ggi-ethiopic.liga fee-ethiopic.liga ni-ethiopic.liga si-ethiopic.liga bi-ethiopic.liga zhi-ethiopic chi-ethiopic hhi-ethiopic.liga thi-ethiopic.liga shi-ethiopic.liga xwi-ethiopic gwi-ethiopic shi-ethiopic tsi-ethiopic.liga gi-ethiopic.liga nyi-ethiopic.liga phi-ethiopic.liga ddi-ethiopic xi-ethiopic iGlottal-ethiopic kxi-ethiopic li-ethiopic ];
+
+@Ethleft = [ ra-ethiopic ru-ethiopic ri-ethiopic raa-ethiopic ree-ethiopic rwa-ethiopic rya-ethiopic ra-ethiopic.liga ru-ethiopic.liga ri-ethiopic.liga raa-ethiopic.liga ree-ethiopic.liga fa-ethiopic fu-ethiopic fi-ethiopic faa-ethiopic fee-ethiopic fa-ethiopic.liga fu-ethiopic.liga fi-ethiopic.liga faa-ethiopic.liga fee-ethiopic.liga pa-ethiopic.liga pu-ethiopic.liga pi-ethiopic.liga paa-ethiopic.liga pee-ethiopic.liga pe-ethiopic.liga po-ethiopic.liga pwa-ethiopic.liga  ];
+
+@Ethright = [ xa-ethiopic xu-ethiopic xi-ethiopic xaa-ethiopic xee-ethiopic xe-ethiopic xoa-ethiopic xwa-ethiopic xwi-ethiopic xwaa-ethiopic xwee-ethiopic xwe-ethiopic na-ethiopic nu-ethiopic ni-ethiopic naa-ethiopic nee-ethiopic ne-ethiopic nya-ethiopic nyu-ethiopic nyi-ethiopic nyee-ethiopic nye-ethiopic ga-ethiopic gu-ethiopic gi-ethiopic gaa-ethiopic gee-ethiopic go-ethiopic goa-ethiopic gwa-ethiopic gwi-ethiopic gwaa-ethiopic gwee-ethiopic gwe-ethiopic gga-ethiopic ggu-ethiopic ggi-ethiopic ggaa-ethiopic ggee-ethiopic ggo-ethiopic ggwaa-ethiopic xa-ethiopic.liga xu-ethiopic.liga xi-ethiopic.liga xaa-ethiopic.liga xee-ethiopic.liga xe-ethiopic.liga xwaa-ethiopic.liga na-ethiopic.liga nu-ethiopic.liga ni-ethiopic.liga nee-ethiopic.liga ne-ethiopic.liga nya-ethiopic.liga nyu-ethiopic.liga nyi-ethiopic.liga nyee-ethiopic.liga nye-ethiopic.liga ga-ethiopic.liga gu-ethiopic.liga gi-ethiopic.liga gaa-ethiopic.liga gee-ethiopic.liga ge-ethiopic.liga go-ethiopic.liga gwaa-ethiopic.liga gga-ethiopic.liga ggu-ethiopic.liga ggi-ethiopic.liga ggaa-ethiopic.liga ggee-ethiopic.liga gge-ethiopic.liga ggo-ethiopic.liga ggwaa-ethiopic.liga pa-ethiopic.liga pu-ethiopic.liga pi-ethiopic.liga paa-ethiopic.liga pee-ethiopic.liga pe-ethiopic.liga po-ethiopic.liga pwa-ethiopic.liga  ];
+
+@zha = [ zha-ethiopic zhu-ethiopic zhi-ethiopic zhaa-ethiopic zhee-ethiopic zhe-ethiopic zho-ethiopic zhwa-ethiopic zha-ethiopic.liga zhu-ethiopic.liga zhi-ethiopic.liga zhaa-ethiopic.liga zhee-ethiopic.liga zhe-ethiopic.liga zho-ethiopic.liga zhwa-ethiopic.liga ];
+
+@xa = [ xa-ethiopic xu-ethiopic xi-ethiopic xaa-ethiopic xee-ethiopic xe-ethiopic xoa-ethiopic xwa-ethiopic xwi-ethiopic xwaa-ethiopic xwee-ethiopic xwe-ethiopic xa-ethiopic.liga xu-ethiopic.liga xi-ethiopic.liga xaa-ethiopic.liga xee-ethiopic.liga xe-ethiopic.liga xwaa-ethiopic.liga ge-ethiopic gge-ethiopic ];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+
+feature aalt {
+# automatic
+feature sups;
+feature frac;
+feature ordn;
+feature calt;
+feature calt;
+feature calt;
+
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb dblgravecomb gravecomb tildecomb];
+	@CombiningNonTopAccents = [dotbelowcomb];
+	sub [i]' @CombiningTopAccents by [idotless];
+	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
+} ccmp_Other_1;
+
+} ccmp;
+
+feature case {
+# notes:
+# # BEGIN ITALIC-SHIFT-CASE
+# lookup italicShift_case {
+# 	pos [exclamdown questiondown] <0 100 0 0>;
+# 	pos [parenleft parenright braceleft braceright bracketleft bracketright] <0 50 0 0>;
+# } italicShift_case;
+# # END ITALIC-SHIFT-CASE
+# BEGIN ITALIC-SHIFT-CASE
+lookup italicShift_case {
+	pos [exclamdown questiondown] <0 100 0 0>;
+	pos [parenleft parenright braceleft braceright bracketleft bracketright] <0 50 0 0>;
+} italicShift_case;
+# END ITALIC-SHIFT-CASE
+
+} case;
+
+feature sups {
+# automatic
+sub two by twosuperior;
+sub three by threesuperior;
+sub one by onesuperior;
+sub four by foursuperior;
+
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+
+} ordn;
+
+feature calt {
+# notes:
+# name: ethperiodCap
+# after abesha period, capitalize
+sub period-ethiopic space @Ethsmall' by @Ethcap;
+# after english period, capitalize
+sub period space @Ethsmall' by @Ethcap;
+# when 4 to 8 spaces, capitalize
+sub space space space space @Ethsmall' by @Ethcap;
+sub space space space space space @Ethsmall' by @Ethcap;
+sub space space space space space space @Ethsmall' by @Ethcap;
+sub space space space space space space space @Ethsmall' by @Ethcap;
+sub space space space space space space space space @Ethsmall' by @Ethcap;
+
+
+
+
+#sub period-ethiopic space hu-ethiopic' by hu-ethiopic.liga;
+#sub period-ethiopic space hi-ethiopic' by hi-ethiopic.liga;
+#sub period-ethiopic space haa-ethiopic' by haa-ethiopic.liga;
+#sub period-ethiopic space hee-ethiopic' by hee-ethiopic.liga;
+#sub period-ethiopic space he-ethiopic' by he-ethiopic.liga;
+#sub period-ethiopic space ho-ethiopic' by ho-ethiopic.liga;
+#sub period-ethiopic space hoa-ethiopic' by hoa-ethiopic.liga;
+#sub period-ethiopic space la-ethiopic' by la-ethiopic.liga;
+#sub period-ethiopic space lu-ethiopic' by lu-ethiopic.liga;
+#sub period-ethiopic space li-ethiopic' by li-ethiopic.liga;
+#sub period-ethiopic space laa-ethiopic' by laa-ethiopic.liga;
+#sub period-ethiopic space lee-ethiopic' by lee-ethiopic.liga;
+#sub period-ethiopic space le-ethiopic' by le-ethiopic.liga;
+#sub period-ethiopic space lo-ethiopic' by lo-ethiopic.liga;
+#sub period-ethiopic space lwa-ethiopic' by lwa-ethiopic.liga;
+#sub period-ethiopic space hha-ethiopic' by hha-ethiopic.liga;
+#sub period-ethiopic space hhu-ethiopic' by hhu-ethiopic.liga;
+#sub period-ethiopic space hhi-ethiopic' by hhi-ethiopic.liga;
+#sub period-ethiopic space hhaa-ethiopic' by hhaa-ethiopic.liga;
+#sub period-ethiopic space hhee-ethiopic' by hhee-ethiopic.liga;
+#sub period-ethiopic space hhe-ethiopic' by hhe-ethiopic.liga;
+#sub period-ethiopic space hho-ethiopic' by hho-ethiopic.liga;
+#sub period-ethiopic space hhwa-ethiopic' by hhwa-ethiopic.liga;
+#sub period-ethiopic space ma-ethiopic' by ma-ethiopic.liga;
+#sub period-ethiopic space mu-ethiopic' by mu-ethiopic.liga;
+#sub period-ethiopic space mi-ethiopic' by mi-ethiopic.liga;
+#sub period-ethiopic space maa-ethiopic' by maa-ethiopic.liga;
+#sub period-ethiopic space mee-ethiopic' by mee-ethiopic.liga;
+#sub period-ethiopic space me-ethiopic' by me-ethiopic.liga;
+#sub period-ethiopic space mo-ethiopic' by mo-ethiopic.liga;
+#sub period-ethiopic space mwa-ethiopic' by mwa-ethiopic.liga;
+#sub period-ethiopic space sza-ethiopic' by sza-ethiopic.liga;
+#sub period-ethiopic space szu-ethiopic' by szu-ethiopic.liga;
+#sub period-ethiopic space szi-ethiopic' by szi-ethiopic.liga;
+#sub period-ethiopic space szaa-ethiopic' by szaa-ethiopic.liga;
+#sub period-ethiopic space szee-ethiopic' by szee-ethiopic.liga;
+#sub period-ethiopic space sze-ethiopic' by sze-ethiopic.liga;
+#sub period-ethiopic space szo-ethiopic' by szo-ethiopic.liga;
+#sub period-ethiopic space szwa-ethiopic' by szwa-ethiopic.liga;
+#sub period-ethiopic space ra-ethiopic' by ra-ethiopic.liga;
+#sub period-ethiopic space ru-ethiopic' by ru-ethiopic.liga;
+#sub period-ethiopic space ri-ethiopic' by ri-ethiopic.liga;
+#sub period-ethiopic space raa-ethiopic' by raa-ethiopic.liga;
+#sub period-ethiopic space ree-ethiopic' by ree-ethiopic.liga;
+#sub period-ethiopic space re-ethiopic' by re-ethiopic.liga;
+#sub period-ethiopic space ro-ethiopic' by ro-ethiopic.liga;
+#sub period-ethiopic space rwa-ethiopic' by rwa-ethiopic.liga;
+#sub period-ethiopic space sa-ethiopic' by sa-ethiopic.liga;
+#sub period-ethiopic space su-ethiopic' by su-ethiopic.liga;
+#sub period-ethiopic space si-ethiopic' by si-ethiopic.liga;
+#sub period-ethiopic space saa-ethiopic' by saa-ethiopic.liga;
+#sub period-ethiopic space see-ethiopic' by see-ethiopic.liga;
+#sub period-ethiopic space se-ethiopic' by se-ethiopic.liga;
+#sub period-ethiopic space so-ethiopic' by so-ethiopic.liga;
+#sub period-ethiopic space swa-ethiopic' by swa-ethiopic.liga;
+#sub period-ethiopic space sha-ethiopic' by sha-ethiopic.liga;
+#sub period-ethiopic space shu-ethiopic' by shu-ethiopic.liga;
+#sub period-ethiopic space shi-ethiopic' by shi-ethiopic.liga;
+#sub period-ethiopic space shaa-ethiopic' by shaa-ethiopic.liga;
+#sub period-ethiopic space shee-ethiopic' by shee-ethiopic.liga;
+#sub period-ethiopic space she-ethiopic' by she-ethiopic.liga;
+#sub period-ethiopic space sho-ethiopic' by sho-ethiopic.liga;
+#sub period-ethiopic space shwa-ethiopic' by shwa-ethiopic.liga;
+#sub period-ethiopic space qa-ethiopic' by qa-ethiopic.liga;
+#sub period-ethiopic space qu-ethiopic' by qu-ethiopic.liga;
+#sub period-ethiopic space qi-ethiopic' by qi-ethiopic.liga;
+#sub period-ethiopic space qaa-ethiopic' by qaa-ethiopic.liga;
+#sub period-ethiopic space qee-ethiopic' by qee-ethiopic.liga;
+#sub period-ethiopic space qe-ethiopic' by qe-ethiopic.liga;
+#sub period-ethiopic space qo-ethiopic' by qo-ethiopic.liga;
+##sub period-ethiopic space qwaa-ethiopic' by qwaa-ethiopic.liga;
+#sub period-ethiopic space qha-ethiopic' by qha-ethiopic.liga;
+#sub period-ethiopic space qhu-ethiopic' by qhu-ethiopic.liga;
+#sub period-ethiopic space qhi-ethiopic' by qhi-ethiopic.liga;
+#sub period-ethiopic space qhaa-ethiopic' by qhaa-ethiopic.liga;
+#sub period-ethiopic space qhee-ethiopic' by qhee-ethiopic.liga;
+#sub period-ethiopic space qhe-ethiopic' by qhe-ethiopic.liga;
+#sub period-ethiopic space qho-ethiopic' by qho-ethiopic.liga;
+#sub period-ethiopic space qhwaa-ethiopic' by qhwaa-ethiopic.liga;
+#sub period-ethiopic space ba-ethiopic' by ba-ethiopic.liga;
+#sub period-ethiopic space bu-ethiopic' by bu-ethiopic.liga;
+#sub period-ethiopic space bi-ethiopic' by bi-ethiopic.liga;
+#sub period-ethiopic space baa-ethiopic' by baa-ethiopic.liga;
+#sub period-ethiopic space bee-ethiopic' by bee-ethiopic.liga;
+#sub period-ethiopic space be-ethiopic' by be-ethiopic.liga;
+#sub period-ethiopic space bo-ethiopic' by bo-ethiopic.liga;
+#sub period-ethiopic space bwa-ethiopic' by bwa-ethiopic.liga;
+#sub period-ethiopic space va-ethiopic' by va-ethiopic.liga;
+#sub period-ethiopic space vu-ethiopic' by vu-ethiopic.liga;
+#sub period-ethiopic space vi-ethiopic' by vi-ethiopic.liga;
+#sub period-ethiopic space vaa-ethiopic' by vaa-ethiopic.liga;
+#sub period-ethiopic space vee-ethiopic' by vee-ethiopic.liga;
+#sub period-ethiopic space ve-ethiopic' by ve-ethiopic.liga;
+#sub period-ethiopic space vo-ethiopic' by vo-ethiopic.liga;
+#sub period-ethiopic space vwa-ethiopic' by vwa-ethiopic.liga;
+#sub period-ethiopic space ta-ethiopic' by ta-ethiopic.liga;
+#sub period-ethiopic space tu-ethiopic' by tu-ethiopic.liga;
+#sub period-ethiopic space ti-ethiopic' by ti-ethiopic.liga;
+#sub period-ethiopic space taa-ethiopic' by taa-ethiopic.liga;
+#sub period-ethiopic space tee-ethiopic' by tee-ethiopic.liga;
+#sub period-ethiopic space te-ethiopic' by te-ethiopic.liga;
+#sub period-ethiopic space to-ethiopic' by to-ethiopic.liga;
+#sub period-ethiopic space twa-ethiopic' by twa-ethiopic.liga;
+#sub period-ethiopic space ca-ethiopic' by ca-ethiopic.liga;
+#sub period-ethiopic space cu-ethiopic' by cu-ethiopic.liga;
+#sub period-ethiopic space ci-ethiopic' by ci-ethiopic.liga;
+#sub period-ethiopic space caa-ethiopic' by caa-ethiopic.liga;
+#sub period-ethiopic space cee-ethiopic' by cee-ethiopic.liga;
+#sub period-ethiopic space ce-ethiopic' by ce-ethiopic.liga;
+#sub period-ethiopic space co-ethiopic' by co-ethiopic.liga;
+#sub period-ethiopic space cwa-ethiopic' by cwa-ethiopic.liga;
+#sub period-ethiopic space xa-ethiopic' by xa-ethiopic.liga;
+#sub period-ethiopic space xu-ethiopic' by xu-ethiopic.liga;
+#sub period-ethiopic space xi-ethiopic' by xi-ethiopic.liga;
+#sub period-ethiopic space xaa-ethiopic' by xaa-ethiopic.liga;
+#sub period-ethiopic space xee-ethiopic' by xee-ethiopic.liga;
+#sub period-ethiopic space xe-ethiopic' by xe-ethiopic.liga;
+#sub period-ethiopic space xo-ethiopic' by xo-ethiopic.liga;
+#sub period-ethiopic space xwaa-ethiopic' by xwaa-ethiopic.liga;
+#sub period-ethiopic space na-ethiopic' by na-ethiopic.liga;
+#sub period-ethiopic space nu-ethiopic' by nu-ethiopic.liga;
+#sub period-ethiopic space ni-ethiopic' by ni-ethiopic.liga;
+#sub period-ethiopic space naa-ethiopic' by naa-ethiopic.liga;
+#sub period-ethiopic space nee-ethiopic' by nee-ethiopic.liga;
+#sub period-ethiopic space ne-ethiopic' by ne-ethiopic.liga;
+#sub period-ethiopic space no-ethiopic' by no-ethiopic.liga;
+#sub period-ethiopic space nwa-ethiopic' by nwa-ethiopic.liga;
+#sub period-ethiopic space nya-ethiopic' by nya-ethiopic.liga;
+#sub period-ethiopic space nyu-ethiopic' by nyu-ethiopic.liga;
+#sub period-ethiopic space nyi-ethiopic' by nyi-ethiopic.liga;
+#sub period-ethiopic space nyaa-ethiopic' by nyaa-ethiopic.liga;
+#sub period-ethiopic space nyee-ethiopic' by nyee-ethiopic.liga;
+#sub period-ethiopic space nye-ethiopic' by nye-ethiopic.liga;
+#sub period-ethiopic space nyo-ethiopic' by nyo-ethiopic.liga;
+#sub period-ethiopic space nywa-ethiopic' by nywa-ethiopic.liga;
+#sub period-ethiopic space aGlottal-ethiopic' by aGlottal-ethiopic.liga;
+#sub period-ethiopic space uGlottal-ethiopic' by uGlottal-ethiopic.liga;
+#sub period-ethiopic space iGlottal-ethiopic' by iGlottal-ethiopic.liga;
+#sub period-ethiopic space aaGlottal-ethiopic' by aaGlottal-ethiopic.liga;
+#sub period-ethiopic space eeGlottal-ethiopic' by eeGlottal-ethiopic.liga;
+#sub period-ethiopic space eGlottal-ethiopic' by eGlottal-ethiopic.liga;
+#sub period-ethiopic space oGlottal-ethiopic' by oGlottal-ethiopic.liga;
+#sub period-ethiopic space waGlottal-ethiopic' by waGlottal-ethiopic.liga;
+#sub period-ethiopic space ka-ethiopic' by ka-ethiopic.liga;
+#sub period-ethiopic space ku-ethiopic' by ku-ethiopic.liga;
+#sub period-ethiopic space ki-ethiopic' by ki-ethiopic.liga;
+#sub period-ethiopic space kaa-ethiopic' by kaa-ethiopic.liga;
+#sub period-ethiopic space kee-ethiopic' by kee-ethiopic.liga;
+#sub period-ethiopic space ke-ethiopic' by ke-ethiopic.liga;
+#sub period-ethiopic space ko-ethiopic' by ko-ethiopic.liga;
+#sub period-ethiopic space kwaa-ethiopic' by kwaa-ethiopic.liga;
+#sub period-ethiopic space kxa-ethiopic' by kxa-ethiopic.liga;
+#sub period-ethiopic space kxu-ethiopic' by kxu-ethiopic.liga;
+#sub period-ethiopic space kxi-ethiopic' by kxi-ethiopic.liga;
+#sub period-ethiopic space kxaa-ethiopic' by kxaa-ethiopic.liga;
+#sub period-ethiopic space kxee-ethiopic' by kxee-ethiopic.liga;
+#sub period-ethiopic space kxe-ethiopic' by kxe-ethiopic.liga;
+#sub period-ethiopic space kxo-ethiopic' by kxo-ethiopic.liga;
+#sub period-ethiopic space kxwaa-ethiopic' by kxwaa-ethiopic.liga;
+#sub period-ethiopic space wa-ethiopic' by wa-ethiopic.liga;
+#sub period-ethiopic space wu-ethiopic' by wu-ethiopic.liga;
+#sub period-ethiopic space wi-ethiopic' by wi-ethiopic.liga;
+#sub period-ethiopic space waa-ethiopic' by waa-ethiopic.liga;
+#sub period-ethiopic space wee-ethiopic' by wee-ethiopic.liga;
+#sub period-ethiopic space we-ethiopic' by we-ethiopic.liga;
+#sub period-ethiopic space wo-ethiopic' by wo-ethiopic.liga;
+#sub period-ethiopic space woa-ethiopic' by woa-ethiopic.liga;
+#sub period-ethiopic space aPharyngeal-ethiopic' by aPharyngeal-ethiopic.liga;
+#sub period-ethiopic space uPharyngeal-ethiopic' by uPharyngeal-ethiopic.liga;
+#sub period-ethiopic space iPharyngeal-ethiopic' by iPharyngeal-ethiopic.liga;
+#sub period-ethiopic space aaPharyngeal-ethiopic' by aaPharyngeal-ethiopic.liga;
+#sub period-ethiopic space eePharyngeal-ethiopic' by eePharyngeal-ethiopic.liga;
+#sub period-ethiopic space ePharyngeal-ethiopic' by ePharyngeal-ethiopic.liga;
+#sub period-ethiopic space oPharyngeal-ethiopic' by oPharyngeal-ethiopic.liga;
+#sub period-ethiopic space za-ethiopic' by za-ethiopic.liga;
+#sub period-ethiopic space zu-ethiopic' by zu-ethiopic.liga;
+#sub period-ethiopic space zi-ethiopic' by zi-ethiopic.liga;
+#sub period-ethiopic space zaa-ethiopic' by zaa-ethiopic.liga;
+#sub period-ethiopic space zee-ethiopic' by zee-ethiopic.liga;
+#sub period-ethiopic space ze-ethiopic' by ze-ethiopic.liga;
+#sub period-ethiopic space zo-ethiopic' by zo-ethiopic.liga;
+#sub period-ethiopic space zwa-ethiopic' by zwa-ethiopic.liga;
+#sub period-ethiopic space zha-ethiopic' by zha-ethiopic.liga;
+#sub period-ethiopic space zhu-ethiopic' by zhu-ethiopic.liga;
+#sub period-ethiopic space zhi-ethiopic' by zhi-ethiopic.liga;
+#sub period-ethiopic space zhaa-ethiopic' by zhaa-ethiopic.liga;
+#sub period-ethiopic space zhee-ethiopic' by zhee-ethiopic.liga;
+#sub period-ethiopic space zhe-ethiopic' by zhe-ethiopic.liga;
+#sub period-ethiopic space zho-ethiopic' by zho-ethiopic.liga;
+#sub period-ethiopic space zhwa-ethiopic' by zhwa-ethiopic.liga;
+#sub period-ethiopic space ya-ethiopic' by ya-ethiopic.liga;
+#sub period-ethiopic space yu-ethiopic' by yu-ethiopic.liga;
+#sub period-ethiopic space yi-ethiopic' by yi-ethiopic.liga;
+#sub period-ethiopic space yaa-ethiopic' by yaa-ethiopic.liga;
+#sub period-ethiopic space yee-ethiopic' by yee-ethiopic.liga;
+#sub period-ethiopic space ye-ethiopic' by ye-ethiopic.liga;
+#sub period-ethiopic space yo-ethiopic' by yo-ethiopic.liga;
+#sub period-ethiopic space yoa-ethiopic' by yoa-ethiopic.liga;
+#sub period-ethiopic space da-ethiopic' by da-ethiopic.liga;
+#sub period-ethiopic space du-ethiopic' by du-ethiopic.liga;
+#sub period-ethiopic space di-ethiopic' by di-ethiopic.liga;
+#sub period-ethiopic space daa-ethiopic' by daa-ethiopic.liga;
+#sub period-ethiopic space dee-ethiopic' by dee-ethiopic.liga;
+#sub period-ethiopic space de-ethiopic' by de-ethiopic.liga;
+#sub period-ethiopic space do-ethiopic' by do-ethiopic.liga;
+#sub period-ethiopic space dwa-ethiopic' by dwa-ethiopic.liga;
+#sub period-ethiopic space dda-ethiopic' by dda-ethiopic.liga;
+#sub period-ethiopic space ddu-ethiopic' by ddu-ethiopic.liga;
+#sub period-ethiopic space ddi-ethiopic' by ddi-ethiopic.liga;
+#sub period-ethiopic space ddaa-ethiopic' by ddaa-ethiopic.liga;
+#sub period-ethiopic space ddee-ethiopic' by ddee-ethiopic.liga;
+#sub period-ethiopic space dde-ethiopic' by dde-ethiopic.liga;
+#sub period-ethiopic space ddo-ethiopic' by ddo-ethiopic.liga;
+#sub period-ethiopic space ddwa-ethiopic' by ddwa-ethiopic.liga;
+#sub period-ethiopic space ja-ethiopic' by ja-ethiopic.liga;
+#sub period-ethiopic space ju-ethiopic' by ju-ethiopic.liga;
+#sub period-ethiopic space ji-ethiopic' by ji-ethiopic.liga;
+#sub period-ethiopic space jaa-ethiopic' by jaa-ethiopic.liga;
+#sub period-ethiopic space jee-ethiopic' by jee-ethiopic.liga;
+#sub period-ethiopic space je-ethiopic' by je-ethiopic.liga;
+#sub period-ethiopic space jo-ethiopic' by jo-ethiopic.liga;
+#sub period-ethiopic space jwa-ethiopic' by jwa-ethiopic.liga;
+#sub period-ethiopic space ga-ethiopic' by ga-ethiopic.liga;
+#sub period-ethiopic space gu-ethiopic' by gu-ethiopic.liga;
+#sub period-ethiopic space gi-ethiopic' by gi-ethiopic.liga;
+#sub period-ethiopic space gaa-ethiopic' by gaa-ethiopic.liga;
+#sub period-ethiopic space gee-ethiopic' by gee-ethiopic.liga;
+#sub period-ethiopic space ge-ethiopic' by ge-ethiopic.liga;
+#sub period-ethiopic space go-ethiopic' by go-ethiopic.liga;
+#sub period-ethiopic space gwaa-ethiopic' by gwaa-ethiopic.liga;
+#sub period-ethiopic space gga-ethiopic' by gga-ethiopic.liga;
+#sub period-ethiopic space ggu-ethiopic' by ggu-ethiopic.liga;
+#sub period-ethiopic space ggi-ethiopic' by ggi-ethiopic.liga;
+#sub period-ethiopic space ggaa-ethiopic' by ggaa-ethiopic.liga;
+#sub period-ethiopic space ggee-ethiopic' by ggee-ethiopic.liga;
+#sub period-ethiopic space gge-ethiopic' by gge-ethiopic.liga;
+#sub period-ethiopic space ggo-ethiopic' by ggo-ethiopic.liga;
+#sub period-ethiopic space ggwaa-ethiopic' by ggwaa-ethiopic.liga;
+#sub period-ethiopic space tha-ethiopic' by tha-ethiopic.liga;
+#sub period-ethiopic space thu-ethiopic' by thu-ethiopic.liga;
+#sub period-ethiopic space thi-ethiopic' by thi-ethiopic.liga;
+#sub period-ethiopic space thaa-ethiopic' by thaa-ethiopic.liga;
+#sub period-ethiopic space thee-ethiopic' by thee-ethiopic.liga;
+#sub period-ethiopic space the-ethiopic' by the-ethiopic.liga;
+#sub period-ethiopic space tho-ethiopic' by tho-ethiopic.liga;
+#sub period-ethiopic space thwa-ethiopic' by thwa-ethiopic.liga;
+#sub period-ethiopic space cha-ethiopic' by cha-ethiopic.liga;
+#sub period-ethiopic space chu-ethiopic' by chu-ethiopic.liga;
+#sub period-ethiopic space chi-ethiopic' by chi-ethiopic.liga;
+#sub period-ethiopic space chaa-ethiopic' by chaa-ethiopic.liga;
+#sub period-ethiopic space chee-ethiopic' by chee-ethiopic.liga;
+#sub period-ethiopic space che-ethiopic' by che-ethiopic.liga;
+#sub period-ethiopic space cho-ethiopic' by cho-ethiopic.liga;
+#sub period-ethiopic space chwa-ethiopic' by chwa-ethiopic.liga;
+#sub period-ethiopic space pha-ethiopic' by pha-ethiopic.liga;
+#sub period-ethiopic space phu-ethiopic' by phu-ethiopic.liga;
+#sub period-ethiopic space phi-ethiopic' by phi-ethiopic.liga;
+#sub period-ethiopic space phaa-ethiopic' by phaa-ethiopic.liga;
+#sub period-ethiopic space phee-ethiopic' by phee-ethiopic.liga;
+#sub period-ethiopic space phe-ethiopic' by phe-ethiopic.liga;
+#sub period-ethiopic space pho-ethiopic' by pho-ethiopic.liga;
+#sub period-ethiopic space phwa-ethiopic' by phwa-ethiopic.liga;
+#sub period-ethiopic space tsa-ethiopic' by tsa-ethiopic.liga;
+#sub period-ethiopic space tsu-ethiopic' by tsu-ethiopic.liga;
+#sub period-ethiopic space tsi-ethiopic' by tsi-ethiopic.liga;
+#sub period-ethiopic space tsaa-ethiopic' by tsaa-ethiopic.liga;
+#sub period-ethiopic space tsee-ethiopic' by tsee-ethiopic.liga;
+#sub period-ethiopic space tse-ethiopic' by tse-ethiopic.liga;
+#sub period-ethiopic space tso-ethiopic' by tso-ethiopic.liga;
+#sub period-ethiopic space tswa-ethiopic' by tswa-ethiopic.liga;
+#sub period-ethiopic space tza-ethiopic' by tza-ethiopic.liga;
+#sub period-ethiopic space tzu-ethiopic' by tzu-ethiopic.liga;
+#sub period-ethiopic space tzi-ethiopic' by tzi-ethiopic.liga;
+#sub period-ethiopic space tzaa-ethiopic' by tzaa-ethiopic.liga;
+#sub period-ethiopic space tzee-ethiopic' by tzee-ethiopic.liga;
+#sub period-ethiopic space tze-ethiopic' by tze-ethiopic.liga;
+#sub period-ethiopic space tzo-ethiopic' by tzo-ethiopic.liga;
+#sub period-ethiopic space tzoa-ethiopic' by tzoa-ethiopic.liga;
+#sub period-ethiopic space fa-ethiopic' by fa-ethiopic.liga;
+#sub period-ethiopic space fu-ethiopic' by fu-ethiopic.liga;
+#sub period-ethiopic space fi-ethiopic' by fi-ethiopic.liga;
+#sub period-ethiopic space faa-ethiopic' by faa-ethiopic.liga;
+#sub period-ethiopic space fee-ethiopic' by fee-ethiopic.liga;
+#sub period-ethiopic space fe-ethiopic' by fe-ethiopic.liga;
+#sub period-ethiopic space fo-ethiopic' by fo-ethiopic.liga;
+#sub period-ethiopic space fwa-ethiopic' by fwa-ethiopic.liga;
+#sub period-ethiopic space pa-ethiopic' by pa-ethiopic.liga;
+#sub period-ethiopic space pu-ethiopic' by pu-ethiopic.liga;
+#sub period-ethiopic space pi-ethiopic' by pi-ethiopic.liga;
+#sub period-ethiopic space paa-ethiopic' by paa-ethiopic.liga;
+#sub period-ethiopic space pee-ethiopic' by pee-ethiopic.liga;
+#sub period-ethiopic space pe-ethiopic' by pe-ethiopic.liga;
+#sub period-ethiopic space po-ethiopic' by po-ethiopic.liga;
+#sub period-ethiopic space pwa-ethiopic' by pwa-ethiopic.liga;
+
+} calt;
+
+feature calt {
+# notes:
+# name: manualCap
+sub slash ha-ethiopic by ha-ethiopic.liga;
+sub slash hu-ethiopic by hu-ethiopic.liga;
+sub slash hi-ethiopic by hi-ethiopic.liga;
+sub slash haa-ethiopic by haa-ethiopic.liga;
+sub slash hee-ethiopic by hee-ethiopic.liga;
+sub slash he-ethiopic by he-ethiopic.liga;
+sub slash ho-ethiopic by ho-ethiopic.liga;
+sub slash hoa-ethiopic by hoa-ethiopic.liga;
+sub slash la-ethiopic by la-ethiopic.liga;
+sub slash lu-ethiopic by lu-ethiopic.liga;
+sub slash li-ethiopic by li-ethiopic.liga;
+sub slash laa-ethiopic by laa-ethiopic.liga;
+sub slash lee-ethiopic by lee-ethiopic.liga;
+sub slash le-ethiopic by le-ethiopic.liga;
+sub slash lo-ethiopic by lo-ethiopic.liga;
+sub slash lwa-ethiopic by lwa-ethiopic.liga;
+sub slash hha-ethiopic by hha-ethiopic.liga;
+sub slash hhu-ethiopic by hhu-ethiopic.liga;
+sub slash hhi-ethiopic by hhi-ethiopic.liga;
+sub slash hhaa-ethiopic by hhaa-ethiopic.liga;
+sub slash hhee-ethiopic by hhee-ethiopic.liga;
+sub slash hhe-ethiopic by hhe-ethiopic.liga;
+sub slash hho-ethiopic by hho-ethiopic.liga;
+sub slash hhwa-ethiopic by hhwa-ethiopic.liga;
+sub slash ma-ethiopic by ma-ethiopic.liga;
+sub slash mu-ethiopic by mu-ethiopic.liga;
+sub slash mi-ethiopic by mi-ethiopic.liga;
+sub slash maa-ethiopic by maa-ethiopic.liga;
+sub slash mee-ethiopic by mee-ethiopic.liga;
+sub slash me-ethiopic by me-ethiopic.liga;
+sub slash mo-ethiopic by mo-ethiopic.liga;
+sub slash mwa-ethiopic by mwa-ethiopic.liga;
+sub slash sza-ethiopic by sza-ethiopic.liga;
+sub slash szu-ethiopic by szu-ethiopic.liga;
+sub slash szi-ethiopic by szi-ethiopic.liga;
+sub slash szaa-ethiopic by szaa-ethiopic.liga;
+sub slash szee-ethiopic by szee-ethiopic.liga;
+sub slash sze-ethiopic by sze-ethiopic.liga;
+sub slash szo-ethiopic by szo-ethiopic.liga;
+sub slash szwa-ethiopic by szwa-ethiopic.liga;
+sub slash ra-ethiopic by ra-ethiopic.liga;
+sub slash ru-ethiopic by ru-ethiopic.liga;
+sub slash ri-ethiopic by ri-ethiopic.liga;
+sub slash raa-ethiopic by raa-ethiopic.liga;
+sub slash ree-ethiopic by ree-ethiopic.liga;
+sub slash re-ethiopic by re-ethiopic.liga;
+sub slash ro-ethiopic by ro-ethiopic.liga;
+sub slash rwa-ethiopic by rwa-ethiopic.liga;
+sub slash sa-ethiopic by sa-ethiopic.liga;
+sub slash su-ethiopic by su-ethiopic.liga;
+sub slash si-ethiopic by si-ethiopic.liga;
+sub slash saa-ethiopic by saa-ethiopic.liga;
+sub slash see-ethiopic by see-ethiopic.liga;
+sub slash se-ethiopic by se-ethiopic.liga;
+sub slash so-ethiopic by so-ethiopic.liga;
+sub slash swa-ethiopic by swa-ethiopic.liga;
+sub slash sha-ethiopic by sha-ethiopic.liga;
+sub slash shu-ethiopic by shu-ethiopic.liga;
+sub slash shi-ethiopic by shi-ethiopic.liga;
+sub slash shaa-ethiopic by shaa-ethiopic.liga;
+sub slash shee-ethiopic by shee-ethiopic.liga;
+sub slash she-ethiopic by she-ethiopic.liga;
+sub slash sho-ethiopic by sho-ethiopic.liga;
+sub slash shwa-ethiopic by shwa-ethiopic.liga;
+sub slash qa-ethiopic by qa-ethiopic.liga;
+sub slash qu-ethiopic by qu-ethiopic.liga;
+sub slash qi-ethiopic by qi-ethiopic.liga;
+sub slash qaa-ethiopic by qaa-ethiopic.liga;
+sub slash qee-ethiopic by qee-ethiopic.liga;
+sub slash qe-ethiopic by qe-ethiopic.liga;
+sub slash qo-ethiopic by qo-ethiopic.liga;
+#sub slash qwaa-ethiopic by qwaa-ethiopic.liga;
+sub slash qha-ethiopic by qha-ethiopic.liga;
+sub slash qhu-ethiopic by qhu-ethiopic.liga;
+sub slash qhi-ethiopic by qhi-ethiopic.liga;
+sub slash qhaa-ethiopic by qhaa-ethiopic.liga;
+sub slash qhee-ethiopic by qhee-ethiopic.liga;
+sub slash qhe-ethiopic by qhe-ethiopic.liga;
+sub slash qho-ethiopic by qho-ethiopic.liga;
+sub slash qhwaa-ethiopic by qhwaa-ethiopic.liga;
+sub slash ba-ethiopic by ba-ethiopic.liga;
+sub slash bu-ethiopic by bu-ethiopic.liga;
+sub slash bi-ethiopic by bi-ethiopic.liga;
+sub slash baa-ethiopic by baa-ethiopic.liga;
+sub slash bee-ethiopic by bee-ethiopic.liga;
+sub slash be-ethiopic by be-ethiopic.liga;
+sub slash bo-ethiopic by bo-ethiopic.liga;
+sub slash bwa-ethiopic by bwa-ethiopic.liga;
+sub slash va-ethiopic by va-ethiopic.liga;
+sub slash vu-ethiopic by vu-ethiopic.liga;
+sub slash vi-ethiopic by vi-ethiopic.liga;
+sub slash vaa-ethiopic by vaa-ethiopic.liga;
+sub slash vee-ethiopic by vee-ethiopic.liga;
+sub slash ve-ethiopic by ve-ethiopic.liga;
+sub slash vo-ethiopic by vo-ethiopic.liga;
+sub slash vwa-ethiopic by vwa-ethiopic.liga;
+sub slash ta-ethiopic by ta-ethiopic.liga;
+sub slash tu-ethiopic by tu-ethiopic.liga;
+sub slash ti-ethiopic by ti-ethiopic.liga;
+sub slash taa-ethiopic by taa-ethiopic.liga;
+sub slash tee-ethiopic by tee-ethiopic.liga;
+sub slash te-ethiopic by te-ethiopic.liga;
+sub slash to-ethiopic by to-ethiopic.liga;
+sub slash twa-ethiopic by twa-ethiopic.liga;
+sub slash ca-ethiopic by ca-ethiopic.liga;
+sub slash cu-ethiopic by cu-ethiopic.liga;
+sub slash ci-ethiopic by ci-ethiopic.liga;
+sub slash caa-ethiopic by caa-ethiopic.liga;
+sub slash cee-ethiopic by cee-ethiopic.liga;
+sub slash ce-ethiopic by ce-ethiopic.liga;
+sub slash co-ethiopic by co-ethiopic.liga;
+sub slash cwa-ethiopic by cwa-ethiopic.liga;
+sub slash xa-ethiopic by xa-ethiopic.liga;
+sub slash xu-ethiopic by xu-ethiopic.liga;
+sub slash xi-ethiopic by xi-ethiopic.liga;
+sub slash xaa-ethiopic by xaa-ethiopic.liga;
+sub slash xee-ethiopic by xee-ethiopic.liga;
+sub slash xe-ethiopic by xe-ethiopic.liga;
+sub slash xo-ethiopic by xo-ethiopic.liga;
+sub slash xwaa-ethiopic by xwaa-ethiopic.liga;
+sub slash na-ethiopic by na-ethiopic.liga;
+sub slash nu-ethiopic by nu-ethiopic.liga;
+sub slash ni-ethiopic by ni-ethiopic.liga;
+sub slash naa-ethiopic by naa-ethiopic.liga;
+sub slash nee-ethiopic by nee-ethiopic.liga;
+sub slash ne-ethiopic by ne-ethiopic.liga;
+sub slash no-ethiopic by no-ethiopic.liga;
+sub slash nwa-ethiopic by nwa-ethiopic.liga;
+sub slash nya-ethiopic by nya-ethiopic.liga;
+sub slash nyu-ethiopic by nyu-ethiopic.liga;
+sub slash nyi-ethiopic by nyi-ethiopic.liga;
+sub slash nyaa-ethiopic by nyaa-ethiopic.liga;
+sub slash nyee-ethiopic by nyee-ethiopic.liga;
+sub slash nye-ethiopic by nye-ethiopic.liga;
+sub slash nyo-ethiopic by nyo-ethiopic.liga;
+sub slash nywa-ethiopic by nywa-ethiopic.liga;
+sub slash aGlottal-ethiopic by aGlottal-ethiopic.liga;
+sub slash uGlottal-ethiopic by uGlottal-ethiopic.liga;
+sub slash iGlottal-ethiopic by iGlottal-ethiopic.liga;
+sub slash aaGlottal-ethiopic by aaGlottal-ethiopic.liga;
+sub slash eeGlottal-ethiopic by eeGlottal-ethiopic.liga;
+sub slash eGlottal-ethiopic by eGlottal-ethiopic.liga;
+sub slash oGlottal-ethiopic by oGlottal-ethiopic.liga;
+sub slash waGlottal-ethiopic by waGlottal-ethiopic.liga;
+sub slash ka-ethiopic by ka-ethiopic.liga;
+sub slash ku-ethiopic by ku-ethiopic.liga;
+sub slash ki-ethiopic by ki-ethiopic.liga;
+sub slash kaa-ethiopic by kaa-ethiopic.liga;
+sub slash kee-ethiopic by kee-ethiopic.liga;
+sub slash ke-ethiopic by ke-ethiopic.liga;
+sub slash ko-ethiopic by ko-ethiopic.liga;
+sub slash kwaa-ethiopic by kwaa-ethiopic.liga;
+sub slash kxa-ethiopic by kxa-ethiopic.liga;
+sub slash kxu-ethiopic by kxu-ethiopic.liga;
+sub slash kxi-ethiopic by kxi-ethiopic.liga;
+sub slash kxaa-ethiopic by kxaa-ethiopic.liga;
+sub slash kxee-ethiopic by kxee-ethiopic.liga;
+sub slash kxe-ethiopic by kxe-ethiopic.liga;
+sub slash kxo-ethiopic by kxo-ethiopic.liga;
+sub slash kxwaa-ethiopic by kxwaa-ethiopic.liga;
+sub slash wa-ethiopic by wa-ethiopic.liga;
+sub slash wu-ethiopic by wu-ethiopic.liga;
+sub slash wi-ethiopic by wi-ethiopic.liga;
+sub slash waa-ethiopic by waa-ethiopic.liga;
+sub slash wee-ethiopic by wee-ethiopic.liga;
+sub slash we-ethiopic by we-ethiopic.liga;
+sub slash wo-ethiopic by wo-ethiopic.liga;
+sub slash woa-ethiopic by woa-ethiopic.liga;
+sub slash aPharyngeal-ethiopic by aPharyngeal-ethiopic.liga;
+sub slash uPharyngeal-ethiopic by uPharyngeal-ethiopic.liga;
+sub slash iPharyngeal-ethiopic by iPharyngeal-ethiopic.liga;
+sub slash aaPharyngeal-ethiopic by aaPharyngeal-ethiopic.liga;
+sub slash eePharyngeal-ethiopic by eePharyngeal-ethiopic.liga;
+sub slash ePharyngeal-ethiopic by ePharyngeal-ethiopic.liga;
+sub slash oPharyngeal-ethiopic by oPharyngeal-ethiopic.liga;
+sub slash za-ethiopic by za-ethiopic.liga;
+sub slash zu-ethiopic by zu-ethiopic.liga;
+sub slash zi-ethiopic by zi-ethiopic.liga;
+sub slash zaa-ethiopic by zaa-ethiopic.liga;
+sub slash zee-ethiopic by zee-ethiopic.liga;
+sub slash ze-ethiopic by ze-ethiopic.liga;
+sub slash zo-ethiopic by zo-ethiopic.liga;
+sub slash zwa-ethiopic by zwa-ethiopic.liga;
+sub slash zha-ethiopic by zha-ethiopic.liga;
+sub slash zhu-ethiopic by zhu-ethiopic.liga;
+sub slash zhi-ethiopic by zhi-ethiopic.liga;
+sub slash zhaa-ethiopic by zhaa-ethiopic.liga;
+sub slash zhee-ethiopic by zhee-ethiopic.liga;
+sub slash zhe-ethiopic by zhe-ethiopic.liga;
+sub slash zho-ethiopic by zho-ethiopic.liga;
+sub slash zhwa-ethiopic by zhwa-ethiopic.liga;
+sub slash ya-ethiopic by ya-ethiopic.liga;
+sub slash yu-ethiopic by yu-ethiopic.liga;
+sub slash yi-ethiopic by yi-ethiopic.liga;
+sub slash yaa-ethiopic by yaa-ethiopic.liga;
+sub slash yee-ethiopic by yee-ethiopic.liga;
+sub slash ye-ethiopic by ye-ethiopic.liga;
+sub slash yo-ethiopic by yo-ethiopic.liga;
+sub slash yoa-ethiopic by yoa-ethiopic.liga;
+sub slash da-ethiopic by da-ethiopic.liga;
+sub slash du-ethiopic by du-ethiopic.liga;
+sub slash di-ethiopic by di-ethiopic.liga;
+sub slash daa-ethiopic by daa-ethiopic.liga;
+sub slash dee-ethiopic by dee-ethiopic.liga;
+sub slash de-ethiopic by de-ethiopic.liga;
+sub slash do-ethiopic by do-ethiopic.liga;
+sub slash dwa-ethiopic by dwa-ethiopic.liga;
+sub slash dda-ethiopic by dda-ethiopic.liga;
+sub slash ddu-ethiopic by ddu-ethiopic.liga;
+sub slash ddi-ethiopic by ddi-ethiopic.liga;
+sub slash ddaa-ethiopic by ddaa-ethiopic.liga;
+sub slash ddee-ethiopic by ddee-ethiopic.liga;
+sub slash dde-ethiopic by dde-ethiopic.liga;
+sub slash ddo-ethiopic by ddo-ethiopic.liga;
+sub slash ddwa-ethiopic by ddwa-ethiopic.liga;
+sub slash ja-ethiopic by ja-ethiopic.liga;
+sub slash ju-ethiopic by ju-ethiopic.liga;
+sub slash ji-ethiopic by ji-ethiopic.liga;
+sub slash jaa-ethiopic by jaa-ethiopic.liga;
+sub slash jee-ethiopic by jee-ethiopic.liga;
+sub slash je-ethiopic by je-ethiopic.liga;
+sub slash jo-ethiopic by jo-ethiopic.liga;
+sub slash jwa-ethiopic by jwa-ethiopic.liga;
+sub slash ga-ethiopic by ga-ethiopic.liga;
+sub slash gu-ethiopic by gu-ethiopic.liga;
+sub slash gi-ethiopic by gi-ethiopic.liga;
+sub slash gaa-ethiopic by gaa-ethiopic.liga;
+sub slash gee-ethiopic by gee-ethiopic.liga;
+sub slash ge-ethiopic by ge-ethiopic.liga;
+sub slash go-ethiopic by go-ethiopic.liga;
+sub slash gwaa-ethiopic by gwaa-ethiopic.liga;
+sub slash gga-ethiopic by gga-ethiopic.liga;
+sub slash ggu-ethiopic by ggu-ethiopic.liga;
+sub slash ggi-ethiopic by ggi-ethiopic.liga;
+sub slash ggaa-ethiopic by ggaa-ethiopic.liga;
+sub slash ggee-ethiopic by ggee-ethiopic.liga;
+sub slash gge-ethiopic by gge-ethiopic.liga;
+sub slash ggo-ethiopic by ggo-ethiopic.liga;
+sub slash ggwaa-ethiopic by ggwaa-ethiopic.liga;
+sub slash tha-ethiopic by tha-ethiopic.liga;
+sub slash thu-ethiopic by thu-ethiopic.liga;
+sub slash thi-ethiopic by thi-ethiopic.liga;
+sub slash thaa-ethiopic by thaa-ethiopic.liga;
+sub slash thee-ethiopic by thee-ethiopic.liga;
+sub slash the-ethiopic by the-ethiopic.liga;
+sub slash tho-ethiopic by tho-ethiopic.liga;
+sub slash thwa-ethiopic by thwa-ethiopic.liga;
+sub slash cha-ethiopic by cha-ethiopic.liga;
+sub slash chu-ethiopic by chu-ethiopic.liga;
+sub slash chi-ethiopic by chi-ethiopic.liga;
+sub slash chaa-ethiopic by chaa-ethiopic.liga;
+sub slash chee-ethiopic by chee-ethiopic.liga;
+sub slash che-ethiopic by che-ethiopic.liga;
+sub slash cho-ethiopic by cho-ethiopic.liga;
+sub slash chwa-ethiopic by chwa-ethiopic.liga;
+sub slash pha-ethiopic by pha-ethiopic.liga;
+sub slash phu-ethiopic by phu-ethiopic.liga;
+sub slash phi-ethiopic by phi-ethiopic.liga;
+sub slash phaa-ethiopic by phaa-ethiopic.liga;
+sub slash phee-ethiopic by phee-ethiopic.liga;
+sub slash phe-ethiopic by phe-ethiopic.liga;
+sub slash pho-ethiopic by pho-ethiopic.liga;
+sub slash phwa-ethiopic by phwa-ethiopic.liga;
+sub slash tsa-ethiopic by tsa-ethiopic.liga;
+sub slash tsu-ethiopic by tsu-ethiopic.liga;
+sub slash tsi-ethiopic by tsi-ethiopic.liga;
+sub slash tsaa-ethiopic by tsaa-ethiopic.liga;
+sub slash tsee-ethiopic by tsee-ethiopic.liga;
+sub slash tse-ethiopic by tse-ethiopic.liga;
+sub slash tso-ethiopic by tso-ethiopic.liga;
+sub slash tswa-ethiopic by tswa-ethiopic.liga;
+sub slash tza-ethiopic by tza-ethiopic.liga;
+sub slash tzu-ethiopic by tzu-ethiopic.liga;
+sub slash tzi-ethiopic by tzi-ethiopic.liga;
+sub slash tzaa-ethiopic by tzaa-ethiopic.liga;
+sub slash tzee-ethiopic by tzee-ethiopic.liga;
+sub slash tze-ethiopic by tze-ethiopic.liga;
+sub slash tzo-ethiopic by tzo-ethiopic.liga;
+sub slash tzoa-ethiopic by tzoa-ethiopic.liga;
+sub slash fa-ethiopic by fa-ethiopic.liga;
+sub slash fu-ethiopic by fu-ethiopic.liga;
+sub slash fi-ethiopic by fi-ethiopic.liga;
+sub slash faa-ethiopic by faa-ethiopic.liga;
+sub slash fee-ethiopic by fee-ethiopic.liga;
+sub slash fe-ethiopic by fe-ethiopic.liga;
+sub slash fo-ethiopic by fo-ethiopic.liga;
+sub slash fwa-ethiopic by fwa-ethiopic.liga;
+sub slash pa-ethiopic by pa-ethiopic.liga;
+sub slash pu-ethiopic by pu-ethiopic.liga;
+sub slash pi-ethiopic by pi-ethiopic.liga;
+sub slash paa-ethiopic by paa-ethiopic.liga;
+sub slash pee-ethiopic by pee-ethiopic.liga;
+sub slash pe-ethiopic by pe-ethiopic.liga;
+sub slash po-ethiopic by po-ethiopic.liga;
+sub slash pwa-ethiopic by pwa-ethiopic.liga;
+
+
+} calt;
+
+feature calt {
+sub f f i by f_f_i.liga;
+sub f f l by f_f_l.liga;
+sub f i by fi.liga;
+sub f l by fl.liga;
+
+} calt;
+
+feature liga {
+# automatic
+# disabled
+#lookupflag IgnoreMarks;
+#sub f f i by f_f_i.liga;
+#sub f f l by f_f_l.liga;
+#sub f i by fi.liga;
+#sub f l by fl.liga;
+} liga;
+
+feature kern {
+pos @Hu' @Ethiopic 200;
+pos @Hi' @Ethiopic 200;
+pos @Ethleft' @Ethright -200;
+pos @zha' @Ethiopic 200;
+pos @Ethiopic' @zha 200;
+pos @Ethiopic @xa 200;
+} kern;
+
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [L _qhwaa.spare _qoa.spare aGl.base.cap aGlottal-ethiopic aGlottal-ethiopic.liga aPharyngeal-ethiopic aPharyngeal-ethiopic.liga aaGlottal-ethiopic aaGlottal-ethiopic.liga aaPharyngeal-ethiopic aaPharyngeal-ethiopic.liga ba-ethiopic ba-ethiopic.liga ba.base ba.base.cap baa-ethiopic baa-ethiopic.liga be-ethiopic be-ethiopic.liga bee-ethiopic bee-ethiopic.liga bi-ethiopic bi-ethiopic.liga bo-ethiopic bo-ethiopic.liga bu-ethiopic bu-ethiopic.liga bwa-ethiopic bwa-ethiopic.liga ca-ethiopic ca-ethiopic.liga caa-ethiopic caa-ethiopic.liga ce-ethiopic ce-ethiopic.liga cee-ethiopic cee-ethiopic.liga cha-ethiopic cha-ethiopic.liga chaa-ethiopic chaa-ethiopic.liga che-ethiopic che-ethiopic.liga chee-ethiopic chee-ethiopic.liga chi-ethiopic chi-ethiopic.liga cho-ethiopic cho-ethiopic.liga chu-ethiopic chu-ethiopic.liga chwa-ethiopic chwa-ethiopic.liga ci-ethiopic ci-ethiopic.liga co-ethiopic co-ethiopic.liga cu-ethiopic cu-ethiopic.liga cwa-ethiopic cwa-ethiopic.liga da-ethiopic da-ethiopic.liga daa-ethiopic daa-ethiopic.liga dda-ethiopic dda-ethiopic.liga ddaa-ethiopic ddaa-ethiopic.liga dde-ethiopic dde-ethiopic.liga ddee-ethiopic ddee-ethiopic.liga ddi-ethiopic ddi-ethiopic.liga ddo-ethiopic ddo-ethiopic.liga ddu-ethiopic ddu-ethiopic.liga ddwa-ethiopic ddwa-ethiopic.liga de-ethiopic de-ethiopic.liga dee-ethiopic dee-ethiopic.liga di-ethiopic di-ethiopic.liga do-ethiopic do-ethiopic.liga du-ethiopic du-ethiopic.liga dwa-ethiopic dwa-ethiopic.liga eGlottal-ethiopic eGlottal-ethiopic.liga ePharyngeal-ethiopic ePharyngeal-ethiopic.liga eeGlottal-ethiopic eeGlottal-ethiopic.liga eePharyngeal-ethiopic eePharyngeal-ethiopic.liga fa-ethiopic fa-ethiopic.liga faa-ethiopic faa-ethiopic.liga fe-ethiopic fe-ethiopic.liga fee-ethiopic fee-ethiopic.liga fi-ethiopic fi-ethiopic.liga fo-ethiopic fo-ethiopic.liga fu-ethiopic fu-ethiopic.liga fwa-ethiopic fwa-ethiopic.liga ga-ethiopic ga-ethiopic.liga ga.base ga.base.cap gaa-ethiopic gaa-ethiopic.liga ge-ethiopic ge-ethiopic.liga gee-ethiopic gee-ethiopic.liga gga-ethiopic gga-ethiopic.liga ggaa-ethiopic ggaa-ethiopic.liga gge-ethiopic gge-ethiopic.liga ggee-ethiopic ggee-ethiopic.liga ggi-ethiopic ggi-ethiopic.liga ggo-ethiopic ggo-ethiopic.liga ggu-ethiopic ggu-ethiopic.liga ggwaa-ethiopic ggwaa-ethiopic.liga gi-ethiopic gi-ethiopic.liga go-ethiopic go-ethiopic.liga goa-ethiopic gu-ethiopic gu-ethiopic.liga gwa-ethiopic gwaa-ethiopic gwaa-ethiopic.liga gwaa.spare gwe-ethiopic gwee-ethiopic gwi-ethiopic ha-ethiopic ha-ethiopic.liga ha.base ha.base.cap haa-ethiopic haa-ethiopic.liga he-ethiopic he-ethiopic.liga hee-ethiopic hee-ethiopic.liga hha-ethiopic hha-ethiopic.liga hha.base hha.base.cap hhaa-ethiopic hhaa-ethiopic.liga hhe-ethiopic hhe-ethiopic.liga hhee-ethiopic hhee-ethiopic.liga hhi-ethiopic hhi-ethiopic.liga hho-ethiopic hho-ethiopic.liga hhu-ethiopic hhu-ethiopic.liga hhwa-ethiopic hhwa-ethiopic.liga hi-ethiopic hi-ethiopic.liga ho-ethiopic ho-ethiopic.liga hoa-ethiopic hoa-ethiopic.liga hu-ethiopic hu-ethiopic.liga iGlottal-ethiopic iGlottal-ethiopic.liga iPharyngeal-ethiopic iPharyngeal-ethiopic.liga ja-ethiopic ja-ethiopic.liga jaa-ethiopic jaa-ethiopic.liga je-ethiopic je-ethiopic.liga jee-ethiopic jee-ethiopic.liga ji-ethiopic ji-ethiopic.liga jo-ethiopic jo-ethiopic.liga ju-ethiopic ju-ethiopic.liga jwa-ethiopic jwa-ethiopic.liga ka-ethiopic ka-ethiopic.liga kaa-ethiopic kaa-ethiopic.liga ke-ethiopic ke-ethiopic.liga kee-ethiopic kee-ethiopic.liga ki-ethiopic ki-ethiopic.liga ko-ethiopic ko-ethiopic.liga koa-ethiopic ku-ethiopic ku-ethiopic.liga kwa-ethiopic kwaa-ethiopic kwaa-ethiopic.liga kwaa.spare kwe-ethiopic kwee-ethiopic kwi-ethiopic kxa-ethiopic kxa-ethiopic.liga kxaa-ethiopic kxaa-ethiopic.liga kxe-ethiopic kxe-ethiopic.liga kxee-ethiopic kxee-ethiopic.liga kxi-ethiopic kxi-ethiopic.liga kxo-ethiopic kxo-ethiopic.liga kxu-ethiopic kxu-ethiopic.liga kxwa-ethiopic kxwaa-ethiopic kxwaa-ethiopic.liga kxwaa.spare kxwe-ethiopic kxwee-ethiopic kxwi-ethiopic la-ethiopic la-ethiopic.liga la.base la.base.cap laa-ethiopic laa-ethiopic.liga le-ethiopic le-ethiopic.liga lee-ethiopic lee-ethiopic.liga li-ethiopic li-ethiopic.liga lo-ethiopic lo-ethiopic.liga lu-ethiopic lu-ethiopic.liga lwa-ethiopic lwa-ethiopic.liga ma-ethiopic ma-ethiopic.liga ma.base ma.base.cap maa-ethiopic maa-ethiopic.liga me-ethiopic me-ethiopic.liga mee-ethiopic mee-ethiopic.liga mi-ethiopic mi-ethiopic.liga mo-ethiopic mo-ethiopic.liga mu-ethiopic mu-ethiopic.liga mwa-ethiopic mwa-ethiopic.liga na-ethiopic na-ethiopic.liga na.base na.base.cap naa-ethiopic naa-ethiopic.liga ne-ethiopic.liga nee-ethiopic nee-ethiopic.liga ni-ethiopic ni-ethiopic.liga no-ethiopic no-ethiopic.liga nu-ethiopic nu-ethiopic.liga nwa-ethiopic nwa-ethiopic.liga nya-ethiopic nya-ethiopic.liga nyaa-ethiopic nyaa-ethiopic.liga nye-ethiopic.liga nyee-ethiopic nyee-ethiopic.liga nyi-ethiopic nyi-ethiopic.liga nyo-ethiopic nyo-ethiopic.liga nyu-ethiopic nyu-ethiopic.liga nywa-ethiopic nywa-ethiopic.liga oGlottal-ethiopic oGlottal-ethiopic.liga oPh.base oPh.base.cap oPharyngeal-ethiopic oPharyngeal-ethiopic.liga pa-ethiopic pa-ethiopic.liga pa.base pa.base.cap paa-ethiopic paa-ethiopic.liga pe-ethiopic pe-ethiopic.liga pee-ethiopic pee-ethiopic.liga pha-ethiopic pha-ethiopic.liga phaa-ethiopic phaa-ethiopic.liga phe-ethiopic phe-ethiopic.liga phee-ethiopic phee-ethiopic.liga phi-ethiopic phi-ethiopic.liga pho-ethiopic pho-ethiopic.liga phu-ethiopic phu-ethiopic.liga phwa-ethiopic phwa-ethiopic.liga pi-ethiopic pi-ethiopic.liga po-ethiopic po-ethiopic.liga pu-ethiopic pu-ethiopic.liga pwa-ethiopic pwa-ethiopic.liga qa-ethiopic qa-ethiopic.liga qaa-ethiopic qaa-ethiopic.liga qe-ethiopic qe-ethiopic.liga qee-ethiopic qee-ethiopic.liga qha-ethiopic qha-ethiopic.liga qhaa-ethiopic qhaa-ethiopic.liga qhe-ethiopic qhe-ethiopic.liga qhee-ethiopic qhee-ethiopic.liga qhi-ethiopic qhi-ethiopic.liga qho-ethiopic qho-ethiopic.liga qhu-ethiopic qhu-ethiopic.liga qhwa-ethiopic qhwaa-ethiopic qhwaa-ethiopic.liga qhwe-ethiopic qhwee-ethiopic qhwi-ethiopic qi-ethiopic qi-ethiopic.liga qo-ethiopic qo-ethiopic.liga qoa-ethiopic qu-ethiopic qu-ethiopic.liga qwa-ethiopic qwaa-ethiopic qwaa-ethiopic.liga qwe-ethiopic qwee-ethiopic qwi-ethiopic ra-ethiopic ra-ethiopic.liga ra.base ra.base.cap raa-ethiopic raa-ethiopic.liga re-ethiopic re-ethiopic.liga ree-ethiopic ree-ethiopic.liga ri-ethiopic ri-ethiopic.liga ro-ethiopic ro-ethiopic.liga ru-ethiopic ru-ethiopic.liga rwa-ethiopic rwa-ethiopic.liga rya-ethiopic sa-ethiopic sa-ethiopic.liga sa.base sa.base.cap saa-ethiopic saa-ethiopic.liga se-ethiopic se-ethiopic.liga see-ethiopic see-ethiopic.liga sha-ethiopic sha-ethiopic.liga shaa-ethiopic shaa-ethiopic.liga she-ethiopic she-ethiopic.liga shee-ethiopic shee-ethiopic.liga shi-ethiopic shi-ethiopic.liga sho-ethiopic sho-ethiopic.liga shu-ethiopic shu-ethiopic.liga shwa-ethiopic shwa-ethiopic.liga si-ethiopic si-ethiopic.liga so-ethiopic so-ethiopic.liga su-ethiopic su-ethiopic.liga swa-ethiopic swa-ethiopic.liga sza-ethiopic sza-ethiopic.liga szaa-ethiopic szaa-ethiopic.liga sze-ethiopic sze-ethiopic.liga szee-ethiopic szee-ethiopic.liga szi-ethiopic szi-ethiopic.liga szo-ethiopic szo-ethiopic.liga szu-ethiopic szu-ethiopic.liga szwa-ethiopic szwa-ethiopic.liga ta-ethiopic ta-ethiopic.liga taa-ethiopic taa-ethiopic.liga te-ethiopic te-ethiopic.liga tee-ethiopic tee-ethiopic.liga tha-ethiopic tha-ethiopic.liga thaa-ethiopic thaa-ethiopic.liga the-ethiopic the-ethiopic.liga thee-ethiopic thee-ethiopic.liga thi-ethiopic thi-ethiopic.liga tho-ethiopic tho-ethiopic.liga thu-ethiopic thu-ethiopic.liga thwa-ethiopic thwa-ethiopic.liga ti-ethiopic ti-ethiopic.liga to-ethiopic to-ethiopic.liga tsa-ethiopic tsa-ethiopic.liga tsa.base tsa.base.cap tsaa-ethiopic tsaa-ethiopic.liga tse-ethiopic tse-ethiopic.liga tsee-ethiopic tsee-ethiopic.liga tsi-ethiopic tsi-ethiopic.liga tso-ethiopic tso-ethiopic.liga tsu-ethiopic tsu-ethiopic.liga tswa-ethiopic tswa-ethiopic.liga tu-ethiopic tu-ethiopic.liga twa-ethiopic twa-ethiopic.liga tza-ethiopic tza-ethiopic.liga tzaa-ethiopic tzaa-ethiopic.liga tze-ethiopic tze-ethiopic.liga tzee-ethiopic tzee-ethiopic.liga tzi-ethiopic tzi-ethiopic.liga tzo-ethiopic tzo-ethiopic.liga tzoa-ethiopic tzoa-ethiopic.liga tzu-ethiopic tzu-ethiopic.liga uGlottal-ethiopic uGlottal-ethiopic.liga uPharyngeal-ethiopic uPharyngeal-ethiopic.liga va-ethiopic va-ethiopic.liga vaa-ethiopic vaa-ethiopic.liga ve-ethiopic ve-ethiopic.liga vee-ethiopic vee-ethiopic.liga vi-ethiopic vi-ethiopic.liga vo-ethiopic vo-ethiopic.liga vu-ethiopic vu-ethiopic.liga vwa-ethiopic vwa-ethiopic.liga wa-ethiopic wa-ethiopic.liga wa.base wa.base.cap waGlottal-ethiopic waGlottal-ethiopic.liga waa-ethiopic waa-ethiopic.liga we-ethiopic we-ethiopic.liga wee-ethiopic wee-ethiopic.liga wi-ethiopic wi-ethiopic.liga wo-ethiopic wo-ethiopic.liga woa-ethiopic woa-ethiopic.liga wu-ethiopic wu-ethiopic.liga xa-ethiopic xa-ethiopic.liga xaa-ethiopic xaa-ethiopic.liga xe-ethiopic xe-ethiopic.liga xee-ethiopic xee-ethiopic.liga xi-ethiopic xi-ethiopic.liga xo-ethiopic xo-ethiopic.liga xoa-ethiopic xu-ethiopic xu-ethiopic.liga xwa-ethiopic xwaa-ethiopic xwaa-ethiopic.liga xwaa.spare xwe-ethiopic xwee-ethiopic xwi-ethiopic ya-ethiopic ya-ethiopic.liga ya.base ya.base.cap yaa-ethiopic yaa-ethiopic.liga ye-ethiopic ye-ethiopic.liga yee-ethiopic yee-ethiopic.liga yi-ethiopic yi-ethiopic.liga yo-ethiopic yo-ethiopic.liga yoa-ethiopic yoa-ethiopic.liga yu-ethiopic yu-ethiopic.liga za-ethiopic za-ethiopic.liga za.base za.base.cap zaa-ethiopic zaa-ethiopic.liga ze-ethiopic ze-ethiopic.liga zee-ethiopic zee-ethiopic.liga zha-ethiopic zha-ethiopic.liga zhaa-ethiopic zhaa-ethiopic.liga zhe-ethiopic zhe-ethiopic.liga zhee-ethiopic zhee-ethiopic.liga zhi-ethiopic zhi-ethiopic.liga zho-ethiopic zho-ethiopic.liga zhu-ethiopic zhu-ethiopic.liga zhwa-ethiopic zhwa-ethiopic.liga zi-ethiopic zi-ethiopic.liga zo-ethiopic zo-ethiopic.liga zu-ethiopic zu-ethiopic.liga zwa-ethiopic zwa-ethiopic.liga], # Base
+    , # Liga
+    [gravecomb acutecomb tildecomb dblgravecomb dotbelowcomb geminVowellengthcomb-ethiopic geminationcomb-ethiopic vowellengthcomb-ethiopic], # Mark
+    ;
+} GDEF;

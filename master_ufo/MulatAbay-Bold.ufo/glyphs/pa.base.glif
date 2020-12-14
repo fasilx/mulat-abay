@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pa.base" format="2">
+  <advance width="681"/>
+  <anchor x="540" y="42" name="haa"/>
+  <anchor x="259" y="10" name="haa.acute"/>
+  <anchor x="290" y="1339" name="hat"/>
+  <anchor x="283" y="1167" name="he.acute.top"/>
+  <anchor x="329" y="50" name="hee"/>
+  <anchor x="422" y="130" name="hi"/>
+  <anchor x="583" y="1314" name="ho.ring"/>
+  <anchor x="401" y="669" name="hu"/>
+  <anchor x="336" y="-40" name="hwa"/>
+  <anchor x="301" y="1082" name="neck"/>
+  <outline>
+    <contour>
+      <point x="457" y="0" type="line"/>
+      <point x="457" y="870" type="line"/>
+      <point x="642" y="870" type="line"/>
+      <point x="642" y="1082" type="line"/>
+      <point x="10" y="1082" type="line"/>
+      <point x="10" y="870" type="line"/>
+      <point x="170" y="870" type="line"/>
+      <point x="170" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

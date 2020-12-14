@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eighty-ethiopic" format="2">
+  <advance width="1747"/>
+  <unicode hex="1379"/>
+  <outline>
+    <component base="one"/>
+    <component base="_num.bar" xOffset="200"/>
+    <component base="one" xOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>one</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>one</string>
+    </dict>
+  </lib>
+</glyph>

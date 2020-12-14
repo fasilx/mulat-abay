@@ -1,0 +1,3494 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>GSCornerRadius</key>
+    <integer>100</integer>
+    <key>GSExtrudeAngle</key>
+    <integer>30</integer>
+    <key>GSExtrudeOffset</key>
+    <integer>15</integer>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ba.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>140</integer>
+      <key>rsb</key>
+      <integer>139</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ba.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>140</integer>
+      <key>rsb</key>
+      <integer>139</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ga.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>9</integer>
+      <key>rsb</key>
+      <integer>71</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ga.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>9</integer>
+      <key>rsb</key>
+      <integer>71</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ha.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>136</integer>
+      <key>rsb</key>
+      <integer>141</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ha.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>136</integer>
+      <key>rsb</key>
+      <integer>141</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.hha.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>139</integer>
+      <key>rsb</key>
+      <integer>139</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.la.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>140</integer>
+      <key>rsb</key>
+      <integer>137</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.la.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>140</integer>
+      <key>rsb</key>
+      <integer>137</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ma.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>91</integer>
+      <key>rsb</key>
+      <integer>92</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ma.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>91</integer>
+      <key>rsb</key>
+      <integer>92</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.na.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>92</integer>
+      <key>rsb</key>
+      <integer>68</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.na.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>92</integer>
+      <key>rsb</key>
+      <integer>68</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.pa.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>9</integer>
+      <key>rsb</key>
+      <integer>71</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.pa.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>9</integer>
+      <key>rsb</key>
+      <integer>71</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ra.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>136</integer>
+      <key>rsb</key>
+      <integer>141</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ra.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>136</integer>
+      <key>rsb</key>
+      <integer>141</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.sa.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>43</integer>
+      <key>rsb</key>
+      <integer>48</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.sa.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>43</integer>
+      <key>rsb</key>
+      <integer>48</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.tsa.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>41</integer>
+      <key>rsb</key>
+      <integer>45</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.wa.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>91</integer>
+      <key>rsb</key>
+      <integer>92</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ya.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>93</integer>
+      <key>rsb</key>
+      <integer>74</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ya.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>93</integer>
+      <key>rsb</key>
+      <integer>74</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.za.base</key>
+    <dict>
+      <key>lsb</key>
+      <integer>141</integer>
+      <key>rsb</key>
+      <integer>137</integer>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.za.base.cap</key>
+    <dict>
+      <key>lsb</key>
+      <integer>141</integer>
+      <key>rsb</key>
+      <integer>137</integer>
+    </dict>
+    <key>com.schriftgestaltung.appVersion</key>
+    <string>3039</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
+    <array>
+      <dict>
+        <key>Name</key>
+        <string>Weight</string>
+        <key>Tag</key>
+        <string>wght</string>
+      </dict>
+      <dict>
+        <key>Name</key>
+        <string>Width</string>
+        <key>Tag</key>
+        <string>wdth</string>
+      </dict>
+    </array>
+    <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
+    <dict>
+      <key>wght</key>
+      <dict>
+        <key>100</key>
+        <integer>100</integer>
+        <key>700</key>
+        <integer>700</integer>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+    <array>
+      <string>/ne-ethiopic</string>
+      <string>/na.base/naa-ethiopic</string>
+      <string>/na.base/naa-ethiopic</string>
+      <string>/na.base/nwa-ethiopic</string>
+      <string>/ya.base/yo-ethiopic</string>
+      <string>/ya.base/du-ethiopic</string>
+      <string>/ya.base/daa-ethiopic</string>
+      <string>/ka-ethiopic.liga/ku-ethiopic.liga/ki-ethiopic.liga/kaa-ethiopic.liga/kee-ethiopic.liga/ke-ethiopic.liga/ko-ethiopic.liga/kwaa-ethiopic.liga/kxa-ethiopic.liga/kxu-ethiopic.liga/kxi-ethiopic.liga/kxaa-ethiopic.liga/kxee-ethiopic.liga/kxe-ethiopic.liga/kxo-ethiopic.liga/kxwaa-ethiopic.liga</string>
+      <string>/ka-ethiopic.liga/ku-ethiopic.liga/ki-ethiopic.liga/kaa-ethiopic.liga/kee-ethiopic.liga/ke-ethiopic.liga/ko-ethiopic.liga/kwaa-ethiopic.liga/kxa-ethiopic.liga/kxu-ethiopic.liga/kxi-ethiopic.liga/kxaa-ethiopic.liga/kxee-ethiopic.liga/kxe-ethiopic.liga/kxo-ethiopic.liga/kxwaa-ethiopic.liga</string>
+      <string>/kee-ethiopic/ka-ethiopic/ku-ethiopic/ki-ethiopic/kaa-ethiopic/ke-ethiopic/ko-ethiopic/koa-ethiopic/kwa-ethiopic/kwi-ethiopic/kwaa-ethiopic/kwee-ethiopic/kwe-ethiopic/kxa-ethiopic/kxu-ethiopic/kxi-ethiopic/kxaa-ethiopic/kxee-ethiopic/kxe-ethiopic/kxo-ethiopic/kxwa-ethiopic/kxwi-ethiopic/kxwaa-ethiopic/kxwee-ethiopic/kxwe-ethiopic/kwaa.spare/kxwaa.spare</string>
+      <string>/_smart.ka.caps/ku-ethiopic.liga</string>
+      <string>/ge-ethiopic</string>
+      <string>/nye-ethiopic</string>
+      <string>/_smart.hwa</string>
+    </array>
+    <key>com.schriftgestaltung.customParameter.GSFont.Get Hints From Master</key>
+    <string>m002</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
+    <false/>
+    <key>com.schriftgestaltung.customParameter.GSFont.familyName</key>
+    <string>Mulat Abay</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.note</key>
+    <string>base on Roboto by google
+
+# adds weight class to fonts, to pass test in gftools check-googlefonts
+font = Glyphs.font
+for m in font.masters:
+	if m.name == 'Thin':
+		m.customParameters['weightClass'] = 100
+	if m.name == 'Thin Italic':
+		m.customParameters['weightClass'] = 100
+	if m.name == 'Bold':
+		m.customParameters['weightClass'] = 700
+	
+
+# auto makes liga for ra-ethiopic and ga-ethiopic
+font = Glyphs.font
+
+for layer in font.selectedLayers:
+	print(layer.parent.name)
+	name = layer.parent.name[:-5]
+	print(name)
+	names = name.split('_')
+	print(names)
+	re = names[0] + '-ethiopic'
+	other = names[1]
+	comp1 = GSComponent(re)
+	comp2 = GSComponent(other)
+	layer.components.append(comp1)
+	layer.components.append(comp2)
+#	gap = 100
+#	layer.components[1].transform = ((
+#                       	1, # x scale factor
+#                        0.0, # x skew factor
+#                        0.0, # y skew factor
+#                        1, # y scale factor
+#                        gap, # x position
+#                        0.0  # y position
+#                        ))
+	
+
+
+# copies all componets across layers, one instance must be open from makkeblue script menju
+
+font = Glyphs.font
+for layer in font.selectedLayers:
+	lyrs = layer.parent.layers
+	regular = lyrs[1]
+	bold = lyrs[0]
+	thin = lyrs[2]
+	CopyLayerToLayer().copyComponentsFromLayerToLayer(regular, bold)
+	CopyLayerToLayer().copyComponentsFromLayerToLayer(regular, thin)
+
+
+
+
+
+
+
+# if needed disable autoalignment and fix bearings
+# dont forgetto set these values, newRSB, newLSB, low, top
+font = Glyphs.font
+	
+newRSB = 60
+newLSB = 60
+low = 0
+top = 133
+for layer in font.selectedLayers:
+#	print(layer.LSB, layer.RSB, layer.parent.name )
+	if (layer.RSB &lt; low):
+		name = layer.parent.name
+		comp = GSComponent(name)
+		isAutoAligned = comp.automaticAlignment
+		print('fix low rsb......: ', name)
+		if isAutoAligned:		
+			for comp in layer.components:
+				comp.setDisableAlignment_(True)
+				print(comp)
+		layer.RSB = newRSB
+		
+	if (layer.LSB &lt; low):
+		name = layer.parent.name
+		comp = GSComponent(name)
+		isAutoAligned = comp.automaticAlignment
+		print('fix low LSB...: ', name)
+		if isAutoAligned:		
+			for comp in layer.components:
+				comp.setDisableAlignment_(True)
+				print(comp)
+		layer.LSB = newLSB	
+		
+	if (layer.LSB &gt; top):
+		name = layer.parent.name
+		comp = GSComponent(name)
+		isAutoAligned = comp.automaticAlignment
+		print('fix top LSB...: ', name)
+		if isAutoAligned:		
+			for comp in layer.components:
+				comp.setDisableAlignment_(True)
+				print(comp)
+		layer.LSB = top
+		
+	if (layer.RSB &gt; top):
+		name = layer.parent.name
+		comp = GSComponent(name)
+		isAutoAligned = comp.automaticAlignment
+		print('fix top RSB...: ', name)
+		if isAutoAligned:		
+			for comp in layer.components:
+				comp.setDisableAlignment_(True)
+				print(comp)
+		layer.RSB = top
+		
+
+						
+		
+# Important Forum answers.
+https://forum.glyphsapp.com/t/font-bakery-hinting-error-message-bit-3-of-head-table/16210
+kedar
+Oct 29
+For anyone having the same issue, here’s the solution summary:
+
+Get gftools 1
+
+Run gftools fix-hinting font-name.ttf
+This will generate a file: font-name.ttf.fix
+
+Discard the font-name.ttf file and rename font-name.ttf.fix to font-name.ttf
+
+To automate this for multiple files, here’s a bash script:
+
+echo "Fixing Hinting"
+for font in *.ttf
+do
+	gftools fix-hinting $font;
+	if [ -f "$font.fix" ]; then mv "$font.fix" $font; fi
+done
+Be sure to be inside the same folder as the *.ttf files to avoid chmod issues.
+
+
+# adds bases and parts
+font = Glyphs.font
+#for layer in font.selectedLayers:
+#	name = layer.parent.name
+#	ucode = layer.parent.unicode
+#	print(name, ucode)
+	
+anchors = ['hu', 'hi', 'haa', 'haa.acute', 'hee', 'he',
+           'ho',  'he.dot', 'he.acute.top', 'he.acute.bottom', 'ho.ring',
+           'hwa',
+           'nose',
+           'neck', 'neck.caps', 'hat', 'hat.caps',
+           'cha', 'cha.caps', 'zha', 'zha.caps',
+           'da', 'da.caps', 'aGl', 'aGl.caps', 'ka', 'ka.caps']
+           
+ethiopics = {
+    "1200": "ha.base",
+    "1201": "ha.base",
+    "1202": "ha.base",
+    "1203": "ha.base",
+    "1204": "ha.base",
+    "1205": "ha.base",
+    "1206": "ha.base",
+    "1207": "ha.base",
+    "1208": "la.base",
+    "1209": "la.base",
+    "120a": "la.base",
+    "120b": "la.base",
+    "120c": "la.base",
+    "120d": "la.base",
+    "120e": "la.base",
+    "120f": "la.base",
+    "1210": "hha.base",
+    "1211": "hha.base",
+    "1212": "hha.base",
+    "1213": "hha.base",
+    "1214": "hha.base",
+    "1215": "hha.base",
+    "1216": "hha.base",
+    "1217": "hha.base",
+    "1218": "ma.base",
+    "1219": "ma.base",
+    "121a": "ma.base",
+    "121b": "ma.base",
+    "121c": "ma.base",
+    "121d": "ma.base",
+    "121e": "ma.base",
+    "121f": "ma.base",
+    "1220": "sa.base",
+    "1221": "sa.base",
+    "1222": "sa.base",
+    "1223": "sa.base",
+    "1224": "sa.base",
+    "1225": "sa.base",
+    "1226": "sa.base",
+    "1227": "sa.base",
+    "1228": "ra.base",
+    "1229": "ra.base",
+    "122a": "ra.base",
+    "122b": "ra.base",
+    "122c": "ra.base",
+    "122d": "na.base",
+    "122e": "na.base",
+    "122f": "ra.base",
+    "1230": "ba.base",
+    "1231": "ba.base",
+    "1232": "ba.base",
+    "1233": "ba.base",
+    "1234": "ba.base",
+    "1235": "ba.base",
+    "1236": "ba.base",
+    "1237": "ba.base",
+    "1238": "ba.base",
+    "1239": "ba.base",
+    "123a": "ba.base",
+    "123b": "ba.base",
+    "123c": "ba.base",
+    "123d": "ba.base",
+    "123e": "ba.base",
+    "123f": "ba.base",
+    "1240": "wa.base",
+    "1241": "wa.base",
+    "1242": "wa.base",
+    "1243": "wa.base",
+    "1244": "wa.base",
+    "1245": "wa.base",
+    "1246": "wa.base",
+    "124b": "wa.base",
+    "1250": "wa.base",
+    "1251": "wa.base",
+    "1252": "wa.base",
+    "1253": "wa.base",
+    "1254": "wa.base",
+    "1255": "wa.base",
+    "1256": "wa.base",
+    "125b": "wa.base",
+    "1260": "ba.base",
+    "1261": "ba.base",
+    "1262": "ba.base",
+    "1263": "ba.base",
+    "1264": "ba.base",
+    "1265": "ba.base",
+    "1266": "ba.base",
+    "1267": "ba.base",
+    "1268": "ba.base",
+    "1269": "ba.base",
+    "126a": "ba.base",
+    "126b": "ba.base",
+    "126c": "ba.base",
+    "126d": "ba.base",
+    "126e": "ba.base",
+    "126f": "ba.base",
+    "1270": "pa.base",
+    "1271": "pa.base",
+    "1272": "pa.base",
+    "1273": "pa.base",
+    "1274": "pa.base",
+    "1275": "pa.base",
+    "1276": "pa.base",
+    "1277": "pa.base",
+    "1278": "pa.base",
+    "1279": "pa.base",
+    "127a": "pa.base",
+    "127b": "pa.base",
+    "127c": "pa.base",
+    "127d": "pa.base",
+    "127e": "pa.base",
+    "127f": "pa.base",
+    "1280": "ga.base",
+    "1281": "ga.base",
+    "1282": "ga.base",
+    "1283": "ga.base",
+    "1284": "ga.base",
+    "1285": "ga.base",
+    "1286": "na.base",
+    "128b": "ga.base",
+    "1290": "ga.base",
+    "1291": "ga.base",
+    "1292": "ga.base",
+    "1293": "ga.base",
+    "1294": "ga.base",
+    "1295": "ga.base",
+    "1296": "na.base",
+    "1297": "na.base",
+    "1298": "ga.base",
+    "1299": "ga.base",
+    "129a": "ga.base",
+    "129b": "ga.base",
+    "129c": "ga.base",
+    "129d": "ga.base",
+    "129e": "na.base",
+    "129f": "na.base",
+    "12a0": "ba.base",
+    "12a1": "ba.base",
+    "12a2": "ba.base",
+    "12a3": "ba.base",
+    "12a4": "ba.base",
+    "12a5": "ba.base",
+    "12a6": "ba.base",
+    "12a7": "ba.base",
+    "12a8": "ba.base",
+    "12a9": "ba.base",
+    "12aa": "ba.base",
+    "12ab": "ba.base",
+    "12ac": "ba.base",
+    "12ad": "ba.base",
+    "12ae": "ba.base",
+    "12b3": "ba.base",
+    "12b8": "ba.base",
+    "12b9": "ba.base",
+    "12ba": "ba.base",
+    "12bb": "ba.base",
+    "12bc": "ba.base",
+    "12bd": "ba.base",
+    "12be": "ba.base",
+    "12c3": "ba.base",
+    "12c8": "wa.base",
+    "12c9": "wa.base",
+    "12ca": "wa.base",
+    "12cb": "wa.base",
+    "12cc": "wa.base",
+    "12cd": "wa.base",
+    "12ce": "wa.base",
+    "12cf": "wa.base",
+    "12d0": "oPh.base",
+    "12d1": "oPh.base",
+    "12d2": "oPh.base",
+    "12d3": "oPh.base",
+    "12d4": "oPh.base",
+    "12d5": "oPh.base",
+    "12d6": "oPh.base",
+    "12d8": "za.base",
+    "12d9": "za.base",
+    "12da": "za.base",
+    "12db": "za.base",
+    "12dc": "za.base",
+    "12dd": "za.base",
+    "12de": "za.base",
+    "12df": "za.base",
+    "12e0": "za.base",
+    "12e1": "za.base",
+    "12e2": "za.base",
+    "12e3": "za.base",
+    "12e4": "za.base",
+    "12e5": "za.base",
+    "12e6": "za.base",
+    "12e7": "za.base",
+    "12e8": "ya.base",
+    "12e9": "ya.base",
+    "12ea": "ya.base",
+    "12eb": "ya.base",
+    "12ec": "ya.base",
+    "12ed": "ya.base",
+    "12ee": "ya.base",
+    "12ef": "ya.base",
+    "12f0": "ya.base",
+    "12f1": "ya.base",
+    "12f2": "ya.base",
+    "12f3": "ya.base",
+    "12f4": "ya.base",
+    "12f5": "ya.base",
+    "12f6": "ya.base",
+    "12f7": "ya.base",
+    "12f8": "ya.base",
+    "12f9": "ya.base",
+    "12fa": "ya.base",
+    "12fb": "ya.base",
+    "12fc": "ya.base",
+    "12fd": "ya.base",
+    "12fe": "ya.base",
+    "12ff": "ya.base",
+    "1300": "ya.base",
+    "1301": "ya.base",
+    "1302": "ya.base",
+    "1303": "ya.base",
+    "1304": "ya.base",
+    "1305": "ya.base",
+    "1306": "ya.base",
+    "1307": "ya.base",
+    "1308": "ga.base",
+    "1309": "ga.base",
+    "130a": "ga.base",
+    "130b": "ga.base",
+    "130c": "ga.base",
+    "130d": "ga.base",
+    "130e": "ga.base",
+    "1313": "ga.base",
+    "1318": "ga.base",
+    "1319": "ga.base",
+    "131a": "ga.base",
+    "131b": "ga.base",
+    "131c": "ga.base",
+    "131d": "ga.base",
+    "131e": "ga.base",
+    "131f": "ga.base",
+    "1320": "hha.base",
+    "1321": "hha.base",
+    "1322": "hha.base",
+    "1323": "hha.base",
+    "1324": "hha.base",
+    "1325": "hha.base",
+    "1326": "hha.base",
+    "1327": "hha.base",
+    "1328": "hha.base",
+    "1329": "hha.base",
+    "132a": "hha.base",
+    "132b": "hha.base",
+    "132c": "hha.base",
+    "132d": "hha.base",
+    "132e": "hha.base",
+    "132f": "hha.base",
+    "1330": "tsa.base",
+    "1331": "tsa.base",
+    "1332": "tsa.base",
+    "1333": "tsa.base",
+    "1334": "tsa.base",
+    "1335": "tsa.base",
+    "1336": "tsa.base",
+    "1337": "tsa.base",
+    "1338": "tsa.base",
+    "1339": "tsa.base",
+    "133a": "tsa.base",
+    "133b": "tsa.base",
+    "133c": "tsa.base",
+    "133d": "tsa.base",
+    "133e": "tsa.base",
+    "133f": "tsa.base",
+    "1340": "oPh.base",
+    "1341": "oPh.base",
+    "1342": "oPh.base",
+    "1343": "oPh.base",
+    "1344": "oPh.base",
+    "1345": "oPh.base",
+    "1346": "oPh.base",
+    "1347": "oPh.base",
+    "1348": "ra.base",
+    "1349": "ra.base",
+    "134a": "ra.base",
+    "134b": "ra.base",
+    "134c": "ra.base",
+    "134d": "ra.base",
+    "134e": "ra.base",
+    "134f": "ra.base",
+    "1350": "pa.base",
+    "1351": "pa.base",
+    "1352": "pa.base",
+    "1353": "pa.base",
+    "1354": "pa.base",
+    "1355": "pa.base",
+    "1356": "pa.base",
+    "1357": "pa.base",
+}
+
+
+def add_base():
+	for layer in font.selectedLayers:
+		layers = layer.parent.layers
+		for lyr in layers:
+			try:
+				ucode = layer.parent.unicode.lower()
+				base_name = ethiopics[ucode]
+				part = GSComponent(base_name)
+				if len(lyr.components) is 0:
+					lyr.components.append(part)
+					print('added: ', base_name, 'in ', lyr.name)
+				else:
+					print(base_name, ' already in this layer')
+			except:
+				print('error ocurred')
+		
+def cleanup():
+	for layer in font.selectedLayers:
+		layers = layer.parent.layers
+		for lyr in layers:
+			print("cleaning ", lyr.name)
+			if lyr.anchors:
+				for i, a in enumerate(lyr.anchors):
+					try:
+						del lyr.anchors[i]
+					except:
+						print("no anchor at this index", i)
+			if lyr.shapes:
+				for i, s in enumerate(lyr.shapes):	
+					try:	
+						del lyr.shapes[i]
+					except:
+						print("no shape at this index", i)
+		 		
+		
+def add_base_cap(cap):
+	cleanup()
+	for layer in font.selectedLayers:
+		layers = layer.parent.layers
+		for lyr in layers:
+			base_name = cap
+			part = GSComponent(base_name)
+			if len(lyr.components) is 0:
+				lyr.components.append(part)
+				print('added: ', base_name, 'in ', lyr.name)
+			
+		
+
+def add_part(part, cap):
+		for layer in font.selectedLayers:
+			layers = layer.parent.layers
+			for lyr in layers:
+				comp = GSComponent(part)
+				key = part
+				if cap:
+					key = key + '.cap'
+				exists = lyr.userData[key]
+				print(exists)
+				if not exists:
+					key = part
+					if cap:
+						key = key + '.cap'
+					exists = lyr.userData[key] = True
+					lyr.components.append(comp)
+					print('added: ', part, 'on ', layer.parent.name, lyr.name)
+				else: 
+					print(lyr.components)
+					print(part, ' not added xxxx')
+					
+
+add_part('_smart.hi', True)
+#add_base()
+#add_base_cap('la.base.cap')
+
+	</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
+    <integer>0</integer>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.Axis Location</key>
+    <array>
+      <dict>
+        <key>Axis</key>
+        <string>Weight</string>
+        <key>Location</key>
+        <integer>700</integer>
+      </dict>
+      <dict>
+        <key>Axis</key>
+        <string>Width</string>
+        <key>Location</key>
+        <integer>200</integer>
+      </dict>
+    </array>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
+    <integer>0</integer>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>
+    <integer>0</integer>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue2</key>
+    <integer>0</integer>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
+    <integer>0</integer>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
+    <string></string>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.usWeightClass</key>
+    <integer>700</integer>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
+    <integer>700</integer>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
+    <integer>200</integer>
+    <key>com.schriftgestaltung.fontMasterOrder</key>
+    <integer>0</integer>
+    <key>com.schriftgestaltung.keyboardIncrement</key>
+    <integer>1</integer>
+    <key>com.schriftgestaltung.weight</key>
+    <string>SemiBold</string>
+    <key>com.schriftgestaltung.weightValue</key>
+    <integer>700</integer>
+    <key>com.schriftgestaltung.width</key>
+    <string>Regular</string>
+    <key>com.schriftgestaltung.widthValue</key>
+    <integer>200</integer>
+    <key>public.glyphOrder</key>
+    <array>
+      <string>.notdef</string>
+      <string>uni0000</string>
+      <string>uni0002</string>
+      <string>CR</string>
+      <string>space</string>
+      <string>exclam</string>
+      <string>quotedbl</string>
+      <string>numbersign</string>
+      <string>dollar</string>
+      <string>percent</string>
+      <string>ampersand</string>
+      <string>quotesingle</string>
+      <string>parenleft</string>
+      <string>parenright</string>
+      <string>asterisk</string>
+      <string>plus</string>
+      <string>comma</string>
+      <string>hyphen</string>
+      <string>period</string>
+      <string>slash</string>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>less</string>
+      <string>equal</string>
+      <string>greater</string>
+      <string>question</string>
+      <string>at</string>
+      <string>A</string>
+      <string>B</string>
+      <string>C</string>
+      <string>D</string>
+      <string>E</string>
+      <string>F</string>
+      <string>G</string>
+      <string>H</string>
+      <string>I</string>
+      <string>J</string>
+      <string>K</string>
+      <string>L</string>
+      <string>M</string>
+      <string>N</string>
+      <string>O</string>
+      <string>P</string>
+      <string>Q</string>
+      <string>R</string>
+      <string>S</string>
+      <string>T</string>
+      <string>U</string>
+      <string>V</string>
+      <string>W</string>
+      <string>X</string>
+      <string>Y</string>
+      <string>Z</string>
+      <string>bracketleft</string>
+      <string>backslash</string>
+      <string>bracketright</string>
+      <string>asciicircum</string>
+      <string>underscore</string>
+      <string>grave</string>
+      <string>a</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+      <string>e</string>
+      <string>f</string>
+      <string>g</string>
+      <string>h</string>
+      <string>i</string>
+      <string>j</string>
+      <string>k</string>
+      <string>l</string>
+      <string>m</string>
+      <string>n</string>
+      <string>o</string>
+      <string>p</string>
+      <string>q</string>
+      <string>r</string>
+      <string>s</string>
+      <string>t</string>
+      <string>u</string>
+      <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
+      <string>braceleft</string>
+      <string>bar</string>
+      <string>braceright</string>
+      <string>asciitilde</string>
+      <string>exclamdown</string>
+      <string>cent</string>
+      <string>sterling</string>
+      <string>currency</string>
+      <string>yen</string>
+      <string>brokenbar</string>
+      <string>section</string>
+      <string>dieresis</string>
+      <string>copyright</string>
+      <string>ordfeminine</string>
+      <string>guillemetleft</string>
+      <string>logicalnot</string>
+      <string>registered</string>
+      <string>macron</string>
+      <string>degree</string>
+      <string>plusminus</string>
+      <string>twosuperior</string>
+      <string>threesuperior</string>
+      <string>acute</string>
+      <string>micro</string>
+      <string>paragraph</string>
+      <string>periodcentered</string>
+      <string>cedilla</string>
+      <string>onesuperior</string>
+      <string>ordmasculine</string>
+      <string>guillemetright</string>
+      <string>onequarter</string>
+      <string>onehalf</string>
+      <string>threequarters</string>
+      <string>questiondown</string>
+      <string>AE</string>
+      <string>multiply</string>
+      <string>Oslash</string>
+      <string>Thorn</string>
+      <string>germandbls</string>
+      <string>ae</string>
+      <string>eth</string>
+      <string>divide</string>
+      <string>oslash</string>
+      <string>thorn</string>
+      <string>dcroat</string>
+      <string>Hbar</string>
+      <string>idotless</string>
+      <string>kgreenlandic</string>
+      <string>Lslash</string>
+      <string>lslash</string>
+      <string>Eng</string>
+      <string>eng</string>
+      <string>OE</string>
+      <string>oe</string>
+      <string>longs</string>
+      <string>Schwa</string>
+      <string>florin</string>
+      <string>Ohorn</string>
+      <string>ohorn</string>
+      <string>Uhorn</string>
+      <string>uhorn</string>
+      <string>jdotless</string>
+      <string>schwa</string>
+      <string>circumflex</string>
+      <string>caron</string>
+      <string>firsttonechinese</string>
+      <string>breve</string>
+      <string>dotaccent</string>
+      <string>ring</string>
+      <string>ogonek</string>
+      <string>tilde</string>
+      <string>hungarumlaut</string>
+      <string>lowringmod</string>
+      <string>gravecomb</string>
+      <string>acutecomb</string>
+      <string>tildecomb</string>
+      <string>hookabovecomb</string>
+      <string>dblgravecomb</string>
+      <string>dotbelowcomb</string>
+      <string>tonos</string>
+      <string>dieresistonos</string>
+      <string>anoteleia</string>
+      <string>Gamma</string>
+      <string>Delta</string>
+      <string>Theta</string>
+      <string>Lambda</string>
+      <string>Xi</string>
+      <string>Pi</string>
+      <string>Sigma</string>
+      <string>Phi</string>
+      <string>Psi</string>
+      <string>Ohm</string>
+      <string>alpha</string>
+      <string>beta</string>
+      <string>gamma</string>
+      <string>delta</string>
+      <string>epsilon</string>
+      <string>zeta</string>
+      <string>eta</string>
+      <string>theta</string>
+      <string>iota</string>
+      <string>lambda</string>
+      <string>xi</string>
+      <string>pi</string>
+      <string>rho</string>
+      <string>sigmafinal</string>
+      <string>sigma</string>
+      <string>tau</string>
+      <string>upsilon</string>
+      <string>phi</string>
+      <string>psi</string>
+      <string>omega</string>
+      <string>thetaSymbol</string>
+      <string>UpsilonhookSymbol</string>
+      <string>piSymbol</string>
+      <string>Dje-cy</string>
+      <string>E-cy</string>
+      <string>Lje-cy</string>
+      <string>Nje-cy</string>
+      <string>Tshe-cy</string>
+      <string>Dzhe-cy</string>
+      <string>Be-cy</string>
+      <string>De-cy</string>
+      <string>Zhe-cy</string>
+      <string>Ze-cy</string>
+      <string>Ii-cy</string>
+      <string>El-cy</string>
+      <string>U-cy</string>
+      <string>Ef-cy</string>
+      <string>Tse-cy</string>
+      <string>Che-cy</string>
+      <string>Sha-cy</string>
+      <string>Shcha-cy</string>
+      <string>Hardsign-cy</string>
+      <string>Yeru-cy</string>
+      <string>Softsign-cy</string>
+      <string>Ereversed-cy</string>
+      <string>Iu-cy</string>
+      <string>Ia-cy</string>
+      <string>be-cy</string>
+      <string>ve-cy</string>
+      <string>ge-cy</string>
+      <string>de-cy</string>
+      <string>zhe-cy</string>
+      <string>ze-cy</string>
+      <string>ii-cy</string>
+      <string>ka-cy</string>
+      <string>el-cy</string>
+      <string>em-cy</string>
+      <string>en-cy</string>
+      <string>pe-cy</string>
+      <string>te-cy</string>
+      <string>ef-cy</string>
+      <string>tse-cy</string>
+      <string>che-cy</string>
+      <string>sha-cy</string>
+      <string>shcha-cy</string>
+      <string>hardsign-cy</string>
+      <string>yeru-cy</string>
+      <string>softsign-cy</string>
+      <string>ereversed-cy</string>
+      <string>iu-cy</string>
+      <string>ia-cy</string>
+      <string>dje-cy</string>
+      <string>e-cy</string>
+      <string>lje-cy</string>
+      <string>nje-cy</string>
+      <string>tshe-cy</string>
+      <string>dzhe-cy</string>
+      <string>Omega-cy</string>
+      <string>omega-cy</string>
+      <string>yat-cy</string>
+      <string>Eiotified-cy</string>
+      <string>eiotified-cy</string>
+      <string>Yuslittle-cy</string>
+      <string>yuslittle-cy</string>
+      <string>Yuslittleiotified-cy</string>
+      <string>yuslittleiotified-cy</string>
+      <string>Yusbig-cy</string>
+      <string>yusbig-cy</string>
+      <string>Yusbigiotified-cy</string>
+      <string>yusbigiotified-cy</string>
+      <string>Ksi-cy</string>
+      <string>ksi-cy</string>
+      <string>Fita-cy</string>
+      <string>fita-cy</string>
+      <string>Izhitsa-cy</string>
+      <string>izhitsa-cy</string>
+      <string>uni047A</string>
+      <string>uni047B</string>
+      <string>uni047C</string>
+      <string>uni047D</string>
+      <string>uni047E</string>
+      <string>uni047F</string>
+      <string>Koppa-cy</string>
+      <string>koppa-cy</string>
+      <string>thousand-cy</string>
+      <string>titlocomb-cy</string>
+      <string>palatalizationcomb-cy</string>
+      <string>dasiapneumatacomb-cy</string>
+      <string>psilipneumatacomb-cy</string>
+      <string>hundredthousandssigncomb-cy</string>
+      <string>millionssigncomb-cy</string>
+      <string>Iishorttail-cy</string>
+      <string>iishorttail-cy</string>
+      <string>semisoftsign-cy</string>
+      <string>Ertick-cy</string>
+      <string>ertick-cy</string>
+      <string>Gheupturn-cy</string>
+      <string>gheupturn-cy</string>
+      <string>Ghemiddlehook-cy</string>
+      <string>ghemiddlehook-cy</string>
+      <string>Zhedescender-cy</string>
+      <string>zhedescender-cy</string>
+      <string>Kadescender-cy</string>
+      <string>kadescender-cy</string>
+      <string>Kaverticalstroke-cy</string>
+      <string>kaverticalstroke-cy</string>
+      <string>Kabashkir-cy</string>
+      <string>kabashkir-cy</string>
+      <string>Endescender-cy</string>
+      <string>endescender-cy</string>
+      <string>Enghe-cy</string>
+      <string>enghe-cy</string>
+      <string>Pemiddlehook-cy</string>
+      <string>pemiddlehook-cy</string>
+      <string>Haabkhasian-cy</string>
+      <string>haabkhasian-cy</string>
+      <string>Hadescender-cy</string>
+      <string>hadescender-cy</string>
+      <string>Tetse-cy</string>
+      <string>tetse-cy</string>
+      <string>Chedescender-cy</string>
+      <string>chedescender-cy</string>
+      <string>Cheverticalstroke-cy</string>
+      <string>cheverticalstroke-cy</string>
+      <string>Shha-cy</string>
+      <string>Cheabkhasian-cy</string>
+      <string>cheabkhasian-cy</string>
+      <string>Kahook-cy</string>
+      <string>kahook-cy</string>
+      <string>Eltail-cy</string>
+      <string>eltail-cy</string>
+      <string>Enhook-cy</string>
+      <string>enhook-cy</string>
+      <string>Entail-cy</string>
+      <string>entail-cy</string>
+      <string>Emtail-cy</string>
+      <string>emtail-cy</string>
+      <string>Schwa-cy</string>
+      <string>Dzeabkhasian-cy</string>
+      <string>dzeabkhasian-cy</string>
+      <string>Gestrokehook-cy</string>
+      <string>gestrokehook-cy</string>
+      <string>Hahook-cy</string>
+      <string>hahook-cy</string>
+      <string>Komide-cy</string>
+      <string>Komidje-cy</string>
+      <string>komidje-cy</string>
+      <string>Komizje-cy</string>
+      <string>komizje-cy</string>
+      <string>Komidzje-cy</string>
+      <string>komidzje-cy</string>
+      <string>Komilje-cy</string>
+      <string>komilje-cy</string>
+      <string>Kominje-cy</string>
+      <string>kominje-cy</string>
+      <string>Komisje-cy</string>
+      <string>komisje-cy</string>
+      <string>Komitje-cy</string>
+      <string>komitje-cy</string>
+      <string>Reversedze-cy</string>
+      <string>Elhook-cy</string>
+      <string>elhook-cy</string>
+      <string>glyph00369</string>
+      <string>enquad</string>
+      <string>emquad</string>
+      <string>enspace</string>
+      <string>emspace</string>
+      <string>threeperemspace</string>
+      <string>fourperemspace</string>
+      <string>sixperemspace</string>
+      <string>figurespace</string>
+      <string>punctuationspace</string>
+      <string>thinspace</string>
+      <string>thinspace.locl</string>
+      <string>hairspace</string>
+      <string>zerowidthspace</string>
+      <string>hyphentwo</string>
+      <string>nonbreakinghyphen</string>
+      <string>endash</string>
+      <string>emdash</string>
+      <string>underscoredbl</string>
+      <string>quoteleft</string>
+      <string>quoteright</string>
+      <string>quotesinglbase</string>
+      <string>quotereversed</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
+      <string>quotedblbase</string>
+      <string>dagger</string>
+      <string>daggerdbl</string>
+      <string>bullet</string>
+      <string>twodotenleader</string>
+      <string>ellipsis</string>
+      <string>hyphenationpoint</string>
+      <string>perthousand</string>
+      <string>guilsinglleft</string>
+      <string>guilsinglright</string>
+      <string>fraction</string>
+      <string>foursuperior</string>
+      <string>nmod</string>
+      <string>lira</string>
+      <string>naira</string>
+      <string>peseta</string>
+      <string>rupee</string>
+      <string>won</string>
+      <string>sheqel</string>
+      <string>euro</string>
+      <string>peso</string>
+      <string>rupeeIndian</string>
+      <string>liraTurkish</string>
+      <string>manat</string>
+      <string>ruble</string>
+      <string>careof</string>
+      <string>literSign</string>
+      <string>numero</string>
+      <string>trademark</string>
+      <string>estimated</string>
+      <string>oneeighth</string>
+      <string>threeeighths</string>
+      <string>fiveeighths</string>
+      <string>seveneighths</string>
+      <string>partialdiff</string>
+      <string>product</string>
+      <string>summation</string>
+      <string>minus</string>
+      <string>radical</string>
+      <string>infinity</string>
+      <string>integral</string>
+      <string>approxequal</string>
+      <string>notequal</string>
+      <string>lessequal</string>
+      <string>greaterequal</string>
+      <string>lozenge</string>
+      <string>uniEE01</string>
+      <string>uniEE02</string>
+      <string>uniF6C3</string>
+      <string>f_f</string>
+      <string>fi</string>
+      <string>fl</string>
+      <string>f_f_i</string>
+      <string>f_f_l</string>
+      <string>longs_t</string>
+      <string>s_t</string>
+      <string>zeroWidthNoBreakSpace</string>
+      <string>objectReplacementCharacter</string>
+      <string>replacementCharacter</string>
+      <string>two.dnom</string>
+      <string>one.dnom</string>
+      <string>zero.dnom</string>
+      <string>nine.c2sc</string>
+      <string>eight.c2sc</string>
+      <string>seven.c2sc</string>
+      <string>six.c2sc</string>
+      <string>five.c2sc</string>
+      <string>four.c2sc</string>
+      <string>three.c2sc</string>
+      <string>two.c2sc</string>
+      <string>one.c2sc</string>
+      <string>zero.c2sc</string>
+      <string>Z.c2sc</string>
+      <string>Y.c2sc</string>
+      <string>X.c2sc</string>
+      <string>W.c2sc</string>
+      <string>V.c2sc</string>
+      <string>U.c2sc</string>
+      <string>T.c2sc</string>
+      <string>S.c2sc</string>
+      <string>R.c2sc</string>
+      <string>Q.c2sc</string>
+      <string>P.c2sc</string>
+      <string>O.c2sc</string>
+      <string>N.c2sc</string>
+      <string>M.c2sc</string>
+      <string>L.c2sc</string>
+      <string>K.c2sc</string>
+      <string>J.c2sc</string>
+      <string>I.c2sc</string>
+      <string>H.c2sc</string>
+      <string>G.c2sc</string>
+      <string>F.c2sc</string>
+      <string>dollar.c2sc</string>
+      <string>sterling.c2sc</string>
+      <string>yen.c2sc</string>
+      <string>Gamma.c2sc</string>
+      <string>Delta.c2sc</string>
+      <string>Theta.c2sc</string>
+      <string>Lambda.c2sc</string>
+      <string>Xi.c2sc</string>
+      <string>Pi.c2sc</string>
+      <string>Sigma.c2sc</string>
+      <string>Phi.c2sc</string>
+      <string>Psi.c2sc</string>
+      <string>Ohm.c2sc</string>
+      <string>Dje-cy.c2sc</string>
+      <string>E-cy.c2sc</string>
+      <string>Lje-cy.c2sc</string>
+      <string>Nje-cy.c2sc</string>
+      <string>Tshe-cy.c2sc</string>
+      <string>Dzhe-cy.c2sc</string>
+      <string>Be-cy.c2sc</string>
+      <string>De-cy.c2sc</string>
+      <string>Zhe-cy.c2sc</string>
+      <string>Ze-cy.c2sc</string>
+      <string>Ii-cy.c2sc</string>
+      <string>Ka-cy.c2sc</string>
+      <string>El-cy.c2sc</string>
+      <string>U-cy.c2sc</string>
+      <string>Tse-cy.c2sc</string>
+      <string>Che-cy.c2sc</string>
+      <string>Sha-cy.c2sc</string>
+      <string>Shcha-cy.c2sc</string>
+      <string>Hardsign-cy.c2sc</string>
+      <string>Yeru-cy.c2sc</string>
+      <string>Softsign-cy.c2sc</string>
+      <string>Ereversed-cy.c2sc</string>
+      <string>Iu-cy.c2sc</string>
+      <string>Ia-cy.c2sc</string>
+      <string>Ghestroke-cy.c2sc</string>
+      <string>Zhedescender-cy.c2sc</string>
+      <string>Kadescender-cy.c2sc</string>
+      <string>Kaverticalstroke-cy.c2sc</string>
+      <string>Kabashkir-cy.c2sc</string>
+      <string>Haabkhasian-cy.c2sc</string>
+      <string>Ustraightstroke-cy.c2sc</string>
+      <string>Hadescender-cy.c2sc</string>
+      <string>Tetse-cy.c2sc</string>
+      <string>Cheverticalstroke-cy.c2sc</string>
+      <string>Shha-cy.c2sc</string>
+      <string>Cheabkhasian-cy.c2sc</string>
+      <string>Schwa-cy.c2sc</string>
+      <string>Dzeabkhasian-cy.c2sc</string>
+      <string>Obarred-cy.c2sc</string>
+      <string>lira.c2sc</string>
+      <string>euro.c2sc</string>
+      <string>numero.c2sc</string>
+      <string>ruble.c2sc</string>
+      <string>three.dnom</string>
+      <string>four.dnom</string>
+      <string>five.dnom</string>
+      <string>six.dnom</string>
+      <string>seven.dnom</string>
+      <string>eight.dnom</string>
+      <string>nine.dnom</string>
+      <string>glyph00550</string>
+      <string>glyph00551</string>
+      <string>E.c2sc</string>
+      <string>g.ss01</string>
+      <string>alpha.ss02</string>
+      <string>R.ss03</string>
+      <string>K.ss04</string>
+      <string>k.ss04</string>
+      <string>K.ss05</string>
+      <string>k.ss05</string>
+      <string>D.c2sc</string>
+      <string>C.c2sc</string>
+      <string>B.c2sc</string>
+      <string>A.c2sc</string>
+      <string>glyph00564</string>
+      <string>glyph00565</string>
+      <string>glyph00566</string>
+      <string>glyph00567</string>
+      <string>glyph00568</string>
+      <string>glyph00569</string>
+      <string>glyph00570</string>
+      <string>Gheupturn-cy.c2sc</string>
+      <string>glyph00572</string>
+      <string>glyph00573</string>
+      <string>zero.numr</string>
+      <string>four.numr</string>
+      <string>five.numr</string>
+      <string>six.numr</string>
+      <string>seven.numr</string>
+      <string>eight.numr</string>
+      <string>nine.numr</string>
+      <string>C.ss06</string>
+      <string>G.ss06</string>
+      <string>D.ss06</string>
+      <string>O.ss06</string>
+      <string>Q.ss06</string>
+      <string>glyph00586</string>
+      <string>glyph00587</string>
+      <string>glyph00588</string>
+      <string>glyph00589</string>
+      <string>glyph00590</string>
+      <string>glyph00591</string>
+      <string>glyph00592</string>
+      <string>glyph00593</string>
+      <string>OE.c2sc</string>
+      <string>glyph00595</string>
+      <string>glyph00596</string>
+      <string>three.onum</string>
+      <string>five.onum</string>
+      <string>four.onum</string>
+      <string>two.onum</string>
+      <string>seven.onum</string>
+      <string>zero.onum</string>
+      <string>six.onum</string>
+      <string>nine.onum</string>
+      <string>eight.onum</string>
+      <string>one.onum</string>
+      <string>j.ccmp0</string>
+      <string>je-cy.ccmp0</string>
+      <string>i.ccmp0</string>
+      <string>iogonek.ccmp0</string>
+      <string>i-cy.ccmp0</string>
+      <string>germandbls.smcp</string>
+      <string>glyph00613</string>
+      <string>seven.pnum</string>
+      <string>b.ss06</string>
+      <string>c.ss06</string>
+      <string>d.ss06</string>
+      <string>g.ss06</string>
+      <string>o.ss06</string>
+      <string>p.ss06</string>
+      <string>q.ss06</string>
+      <string>e.ss07</string>
+      <string>g.ss07</string>
+      <string>one.pnum</string>
+      <string>ampersand.c2sc</string>
+      <string>Lslash.c2sc</string>
+      <string>AE.c2sc</string>
+      <string>Thorn.c2sc</string>
+      <string>Oslash.c2sc</string>
+      <string>Hbar.c2sc</string>
+      <string>Eng.c2sc</string>
+      <string>nbspace</string>
+      <string>softhyphen</string>
+      <string>Dcroat</string>
+      <string>Eth</string>
+      <string>hbar</string>
+      <string>Tbar</string>
+      <string>tbar</string>
+      <string>Agrave</string>
+      <string>Aacute</string>
+      <string>Acircumflex</string>
+      <string>Atilde</string>
+      <string>Adieresis</string>
+      <string>Aring</string>
+      <string>Aringacute</string>
+      <string>Ccedilla</string>
+      <string>Egrave</string>
+      <string>Eacute</string>
+      <string>Ecircumflex</string>
+      <string>Edieresis</string>
+      <string>Igrave</string>
+      <string>Iacute</string>
+      <string>Icircumflex</string>
+      <string>Idieresis</string>
+      <string>Ntilde</string>
+      <string>Ograve</string>
+      <string>Oacute</string>
+      <string>Ocircumflex</string>
+      <string>Otilde</string>
+      <string>Odieresis</string>
+      <string>Ugrave</string>
+      <string>Uacute</string>
+      <string>Ucircumflex</string>
+      <string>Udieresis</string>
+      <string>Yacute</string>
+      <string>agrave</string>
+      <string>aacute</string>
+      <string>acircumflex</string>
+      <string>atilde</string>
+      <string>adieresis</string>
+      <string>aring</string>
+      <string>aringacute</string>
+      <string>ccedilla</string>
+      <string>egrave</string>
+      <string>eacute</string>
+      <string>ecircumflex</string>
+      <string>edieresis</string>
+      <string>igrave</string>
+      <string>iacute</string>
+      <string>icircumflex</string>
+      <string>idieresis</string>
+      <string>ntilde</string>
+      <string>ograve</string>
+      <string>oacute</string>
+      <string>ocircumflex</string>
+      <string>otilde</string>
+      <string>odieresis</string>
+      <string>ugrave</string>
+      <string>uacute</string>
+      <string>ucircumflex</string>
+      <string>udieresis</string>
+      <string>yacute</string>
+      <string>ydieresis</string>
+      <string>Amacron</string>
+      <string>amacron</string>
+      <string>Abreve</string>
+      <string>abreve</string>
+      <string>Aogonek</string>
+      <string>aogonek</string>
+      <string>Cacute</string>
+      <string>cacute</string>
+      <string>Ccircumflex</string>
+      <string>ccircumflex</string>
+      <string>Cdotaccent</string>
+      <string>cdotaccent</string>
+      <string>Ccaron</string>
+      <string>ccaron</string>
+      <string>Dcaron</string>
+      <string>dcaron</string>
+      <string>Emacron</string>
+      <string>emacron</string>
+      <string>Ebreve</string>
+      <string>ebreve</string>
+      <string>Edotaccent</string>
+      <string>edotaccent</string>
+      <string>Eogonek</string>
+      <string>eogonek</string>
+      <string>Ecaron</string>
+      <string>ecaron</string>
+      <string>Gcircumflex</string>
+      <string>gcircumflex</string>
+      <string>Gbreve</string>
+      <string>gbreve</string>
+      <string>Gdotaccent</string>
+      <string>gdotaccent</string>
+      <string>Gcommaaccent</string>
+      <string>gcommaaccent</string>
+      <string>Hcircumflex</string>
+      <string>hcircumflex</string>
+      <string>Itilde</string>
+      <string>itilde</string>
+      <string>Imacron</string>
+      <string>imacron</string>
+      <string>Ibreve</string>
+      <string>ibreve</string>
+      <string>Iogonek</string>
+      <string>iogonek</string>
+      <string>Idotaccent</string>
+      <string>IJ</string>
+      <string>ij</string>
+      <string>Jcircumflex</string>
+      <string>jcircumflex</string>
+      <string>Kcommaaccent</string>
+      <string>kcommaaccent</string>
+      <string>Lacute</string>
+      <string>lacute</string>
+      <string>Lcommaaccent</string>
+      <string>lcommaaccent</string>
+      <string>Lcaron</string>
+      <string>lcaron</string>
+      <string>Ldot</string>
+      <string>ldot</string>
+      <string>Nacute</string>
+      <string>nacute</string>
+      <string>Ncommaaccent</string>
+      <string>ncommaaccent</string>
+      <string>Ncaron</string>
+      <string>ncaron</string>
+      <string>napostrophe</string>
+      <string>Omacron</string>
+      <string>omacron</string>
+      <string>Obreve</string>
+      <string>obreve</string>
+      <string>Ohungarumlaut</string>
+      <string>ohungarumlaut</string>
+      <string>Racute</string>
+      <string>racute</string>
+      <string>Rcommaaccent</string>
+      <string>rcommaaccent</string>
+      <string>Rcaron</string>
+      <string>rcaron</string>
+      <string>Sacute</string>
+      <string>sacute</string>
+      <string>Scircumflex</string>
+      <string>scircumflex</string>
+      <string>Scedilla</string>
+      <string>scedilla</string>
+      <string>Scommaaccent</string>
+      <string>scommaaccent</string>
+      <string>Scaron</string>
+      <string>scaron</string>
+      <string>Tcommaaccent</string>
+      <string>tcommaaccent</string>
+      <string>Tcedilla</string>
+      <string>tcedilla</string>
+      <string>Tcaron</string>
+      <string>tcaron</string>
+      <string>Utilde</string>
+      <string>utilde</string>
+      <string>Umacron</string>
+      <string>umacron</string>
+      <string>Ubreve</string>
+      <string>ubreve</string>
+      <string>Uring</string>
+      <string>uring</string>
+      <string>Uhungarumlaut</string>
+      <string>uhungarumlaut</string>
+      <string>Uogonek</string>
+      <string>uogonek</string>
+      <string>Wcircumflex</string>
+      <string>wcircumflex</string>
+      <string>Ycircumflex</string>
+      <string>ycircumflex</string>
+      <string>Ydieresis</string>
+      <string>Zacute</string>
+      <string>zacute</string>
+      <string>Zdotaccent</string>
+      <string>zdotaccent</string>
+      <string>Zcaron</string>
+      <string>zcaron</string>
+      <string>AEacute</string>
+      <string>aeacute</string>
+      <string>Oslashacute</string>
+      <string>oslashacute</string>
+      <string>Dcroat.c2sc</string>
+      <string>Eth.c2sc</string>
+      <string>Tbar.c2sc</string>
+      <string>Agrave.c2sc</string>
+      <string>Aacute.c2sc</string>
+      <string>Acircumflex.c2sc</string>
+      <string>Atilde.c2sc</string>
+      <string>Adieresis.c2sc</string>
+      <string>Aring.c2sc</string>
+      <string>Aringacute.c2sc</string>
+      <string>Ccedilla.c2sc</string>
+      <string>Egrave.c2sc</string>
+      <string>Eacute.c2sc</string>
+      <string>Ecircumflex.c2sc</string>
+      <string>Edieresis.c2sc</string>
+      <string>Igrave.c2sc</string>
+      <string>Iacute.c2sc</string>
+      <string>Icircumflex.c2sc</string>
+      <string>Idieresis.c2sc</string>
+      <string>Ntilde.c2sc</string>
+      <string>Ograve.c2sc</string>
+      <string>Oacute.c2sc</string>
+      <string>Ocircumflex.c2sc</string>
+      <string>Otilde.c2sc</string>
+      <string>Odieresis.c2sc</string>
+      <string>Ugrave.c2sc</string>
+      <string>Uacute.c2sc</string>
+      <string>Ucircumflex.c2sc</string>
+      <string>Udieresis.c2sc</string>
+      <string>Yacute.c2sc</string>
+      <string>Amacron.c2sc</string>
+      <string>Abreve.c2sc</string>
+      <string>Aogonek.c2sc</string>
+      <string>Cacute.c2sc</string>
+      <string>Ccircumflex.c2sc</string>
+      <string>Cdotaccent.c2sc</string>
+      <string>Ccaron.c2sc</string>
+      <string>Dcaron.c2sc</string>
+      <string>Emacron.c2sc</string>
+      <string>Ebreve.c2sc</string>
+      <string>Edotaccent.c2sc</string>
+      <string>Eogonek.c2sc</string>
+      <string>Ecaron.c2sc</string>
+      <string>Gcircumflex.c2sc</string>
+      <string>Gbreve.c2sc</string>
+      <string>Gdotaccent.c2sc</string>
+      <string>Gcommaaccent.c2sc</string>
+      <string>Hcircumflex.c2sc</string>
+      <string>Itilde.c2sc</string>
+      <string>Imacron.c2sc</string>
+      <string>Ibreve.c2sc</string>
+      <string>Iogonek.c2sc</string>
+      <string>Idotaccent.c2sc</string>
+      <string>Jcircumflex.c2sc</string>
+      <string>Kcommaaccent.c2sc</string>
+      <string>Lacute.c2sc</string>
+      <string>Lcommaaccent.c2sc</string>
+      <string>Lcaron.c2sc</string>
+      <string>Ldot.c2sc</string>
+      <string>Nacute.c2sc</string>
+      <string>Ncommaaccent.c2sc</string>
+      <string>Ncaron.c2sc</string>
+      <string>Omacron.c2sc</string>
+      <string>Obreve.c2sc</string>
+      <string>Ohungarumlaut.c2sc</string>
+      <string>Racute.c2sc</string>
+      <string>Rcommaaccent.c2sc</string>
+      <string>Rcaron.c2sc</string>
+      <string>Sacute.c2sc</string>
+      <string>Scircumflex.c2sc</string>
+      <string>Scedilla.c2sc</string>
+      <string>Scaron.c2sc</string>
+      <string>Tcommaaccent.c2sc</string>
+      <string>Tcaron.c2sc</string>
+      <string>Tcedilla.c2sc</string>
+      <string>Utilde.c2sc</string>
+      <string>Umacron.c2sc</string>
+      <string>Ubreve.c2sc</string>
+      <string>Uring.c2sc</string>
+      <string>Uhungarumlaut.c2sc</string>
+      <string>Uogonek.c2sc</string>
+      <string>Wcircumflex.c2sc</string>
+      <string>Ycircumflex.c2sc</string>
+      <string>Ydieresis.c2sc</string>
+      <string>Zacute.c2sc</string>
+      <string>Zdotaccent.c2sc</string>
+      <string>Zcaron.c2sc</string>
+      <string>Alphatonos</string>
+      <string>Epsilontonos</string>
+      <string>Etatonos</string>
+      <string>Iotatonos</string>
+      <string>Omicrontonos</string>
+      <string>Upsilontonos</string>
+      <string>Omegatonos</string>
+      <string>iotadieresistonos</string>
+      <string>Alpha</string>
+      <string>Beta</string>
+      <string>Epsilon</string>
+      <string>Zeta</string>
+      <string>Eta</string>
+      <string>Iota</string>
+      <string>Kappa</string>
+      <string>Mu</string>
+      <string>Nu</string>
+      <string>Omicron</string>
+      <string>Rho</string>
+      <string>Tau</string>
+      <string>Upsilon</string>
+      <string>Chi</string>
+      <string>Iotadieresis</string>
+      <string>Upsilondieresis</string>
+      <string>alphatonos</string>
+      <string>epsilontonos</string>
+      <string>etatonos</string>
+      <string>iotatonos</string>
+      <string>upsilondieresistonos</string>
+      <string>kappa</string>
+      <string>omicron</string>
+      <string>mu</string>
+      <string>nu</string>
+      <string>chi</string>
+      <string>iotadieresis</string>
+      <string>upsilondieresis</string>
+      <string>omicrontonos</string>
+      <string>upsilontonos</string>
+      <string>omegatonos</string>
+      <string>Io-cy</string>
+      <string>Gje-cy</string>
+      <string>Dze-cy</string>
+      <string>I-cy</string>
+      <string>Yi-cy</string>
+      <string>Je-cy</string>
+      <string>Ka-cy</string>
+      <string>Kje-cy</string>
+      <string>Ushort-cy</string>
+      <string>A-cy</string>
+      <string>Ve-cy</string>
+      <string>Ge-cy</string>
+      <string>Ie-cy</string>
+      <string>Iishort-cy</string>
+      <string>Em-cy</string>
+      <string>En-cy</string>
+      <string>O-cy</string>
+      <string>Pe-cy</string>
+      <string>Er-cy</string>
+      <string>Es-cy</string>
+      <string>Te-cy</string>
+      <string>Ha-cy</string>
+      <string>a-cy</string>
+      <string>ie-cy</string>
+      <string>iishort-cy</string>
+      <string>o-cy</string>
+      <string>er-cy</string>
+      <string>es-cy</string>
+      <string>u-cy</string>
+      <string>ha-cy</string>
+      <string>io-cy</string>
+      <string>gje-cy</string>
+      <string>dze-cy</string>
+      <string>i-cy</string>
+      <string>yi-cy</string>
+      <string>je-cy</string>
+      <string>kje-cy</string>
+      <string>ushort-cy</string>
+      <string>Wgrave</string>
+      <string>wgrave</string>
+      <string>Wacute</string>
+      <string>wacute</string>
+      <string>Wdieresis</string>
+      <string>wdieresis</string>
+      <string>Ygrave</string>
+      <string>ygrave</string>
+      <string>minute</string>
+      <string>second</string>
+      <string>exclamdouble</string>
+      <string>jcaron</string>
+      <string>apostrophemod</string>
+      <string>Macute</string>
+      <string>macute</string>
+      <string>Aringbelow</string>
+      <string>aringbelow</string>
+      <string>Iegrave-cy</string>
+      <string>Iigrave-cy</string>
+      <string>iegrave-cy</string>
+      <string>iigrave-cy</string>
+      <string>Psi-cy</string>
+      <string>psi-cy</string>
+      <string>Izhitsadblgrave-cy</string>
+      <string>izhitsadblgrave-cy</string>
+      <string>uk-cy</string>
+      <string>Uk-cy</string>
+      <string>Zedescender-cy</string>
+      <string>zedescender-cy</string>
+      <string>Esdescender-cy</string>
+      <string>esdescender-cy</string>
+      <string>Ustraight-cy</string>
+      <string>ustraight-cy</string>
+      <string>Palochka-cy</string>
+      <string>Zhebreve-cy</string>
+      <string>zhebreve-cy</string>
+      <string>palochka-cy</string>
+      <string>Abreve-cy</string>
+      <string>abreve-cy</string>
+      <string>Adieresis-cy</string>
+      <string>adieresis-cy</string>
+      <string>Aie-cy</string>
+      <string>aie-cy</string>
+      <string>Iebreve-cy</string>
+      <string>iebreve-cy</string>
+      <string>Schwadieresis-cy</string>
+      <string>schwa-cy</string>
+      <string>schwadieresis-cy</string>
+      <string>Zhedieresis-cy</string>
+      <string>zhedieresis-cy</string>
+      <string>Zedieresis-cy</string>
+      <string>zedieresis-cy</string>
+      <string>Imacron-cy</string>
+      <string>imacron-cy</string>
+      <string>Idieresis-cy</string>
+      <string>idieresis-cy</string>
+      <string>Odieresis-cy</string>
+      <string>odieresis-cy</string>
+      <string>Obarred-cy</string>
+      <string>obarred-cy</string>
+      <string>Obarreddieresis-cy</string>
+      <string>obarreddieresis-cy</string>
+      <string>Edieresis-cy</string>
+      <string>edieresis-cy</string>
+      <string>Umacron-cy</string>
+      <string>umacron-cy</string>
+      <string>Udieresis-cy</string>
+      <string>udieresis-cy</string>
+      <string>Uhungarumlaut-cy</string>
+      <string>uhungarumlaut-cy</string>
+      <string>Chedieresis-cy</string>
+      <string>chedieresis-cy</string>
+      <string>Yerudieresis-cy</string>
+      <string>yerudieresis-cy</string>
+      <string>komide-cy</string>
+      <string>Adotbelow</string>
+      <string>adotbelow</string>
+      <string>Ahookabove</string>
+      <string>ahookabove</string>
+      <string>Acircumflexacute</string>
+      <string>acircumflexacute</string>
+      <string>Acircumflexgrave</string>
+      <string>acircumflexgrave</string>
+      <string>Acircumflexhookabove</string>
+      <string>acircumflexhookabove</string>
+      <string>Acircumflextilde</string>
+      <string>acircumflextilde</string>
+      <string>Acircumflexdotbelow</string>
+      <string>acircumflexdotbelow</string>
+      <string>Abreveacute</string>
+      <string>abreveacute</string>
+      <string>Abrevegrave</string>
+      <string>abrevegrave</string>
+      <string>Abrevehookabove</string>
+      <string>abrevehookabove</string>
+      <string>Abrevetilde</string>
+      <string>abrevetilde</string>
+      <string>Abrevedotbelow</string>
+      <string>abrevedotbelow</string>
+      <string>Edotbelow</string>
+      <string>edotbelow</string>
+      <string>Ehookabove</string>
+      <string>ehookabove</string>
+      <string>Etilde</string>
+      <string>etilde</string>
+      <string>Ecircumflexacute</string>
+      <string>ecircumflexacute</string>
+      <string>Ecircumflexgrave</string>
+      <string>ecircumflexgrave</string>
+      <string>Ecircumflexhookabove</string>
+      <string>ecircumflexhookabove</string>
+      <string>Ecircumflextilde</string>
+      <string>ecircumflextilde</string>
+      <string>Ecircumflexdotbelow</string>
+      <string>ecircumflexdotbelow</string>
+      <string>Ihookabove</string>
+      <string>ihookabove</string>
+      <string>Idotbelow</string>
+      <string>idotbelow</string>
+      <string>Odotbelow</string>
+      <string>odotbelow</string>
+      <string>Ohookabove</string>
+      <string>ohookabove</string>
+      <string>Ocircumflexacute</string>
+      <string>ocircumflexacute</string>
+      <string>Ocircumflexgrave</string>
+      <string>ocircumflexgrave</string>
+      <string>Ocircumflexhookabove</string>
+      <string>ocircumflexhookabove</string>
+      <string>Ocircumflextilde</string>
+      <string>ocircumflextilde</string>
+      <string>Ocircumflexdotbelow</string>
+      <string>ocircumflexdotbelow</string>
+      <string>Ohornacute</string>
+      <string>ohornacute</string>
+      <string>Ohorngrave</string>
+      <string>ohorngrave</string>
+      <string>Ohornhookabove</string>
+      <string>ohornhookabove</string>
+      <string>Ohorntilde</string>
+      <string>ohorntilde</string>
+      <string>Ohorndotbelow</string>
+      <string>ohorndotbelow</string>
+      <string>Udotbelow</string>
+      <string>udotbelow</string>
+      <string>Uhookabove</string>
+      <string>uhookabove</string>
+      <string>Uhornacute</string>
+      <string>uhornacute</string>
+      <string>Uhorngrave</string>
+      <string>uhorngrave</string>
+      <string>Uhornhookabove</string>
+      <string>uhornhookabove</string>
+      <string>Uhorntilde</string>
+      <string>uhorntilde</string>
+      <string>Uhorndotbelow</string>
+      <string>uhorndotbelow</string>
+      <string>Ydotbelow</string>
+      <string>ydotbelow</string>
+      <string>Yhookabove</string>
+      <string>yhookabove</string>
+      <string>Ytilde</string>
+      <string>ytilde</string>
+      <string>dong</string>
+      <string>Tedescender-cy</string>
+      <string>tedescender-cy</string>
+      <string>Chekhakassian-cy</string>
+      <string>chekhakassian-cy</string>
+      <string>Gedescender-cy</string>
+      <string>gedescender-cy</string>
+      <string>Chedescenderabkhasian-cy</string>
+      <string>chedescenderabkhasian-cy</string>
+      <string>shha-cy</string>
+      <string>Semisoftsign-cy</string>
+      <string>Yat-cy</string>
+      <string>Ghestroke-cy</string>
+      <string>ghestroke-cy</string>
+      <string>Kastroke-cy</string>
+      <string>kastroke-cy</string>
+      <string>Ustraightstroke-cy</string>
+      <string>ustraightstroke-cy</string>
+      <string>Hastroke-cy</string>
+      <string>hastroke-cy</string>
+      <string>reversedze-cy</string>
+      <string>franc</string>
+      <string>horizontalbar</string>
+      <string>two.pnum</string>
+      <string>three.pnum</string>
+      <string>four.pnum</string>
+      <string>five.pnum</string>
+      <string>six.pnum</string>
+      <string>eight.pnum</string>
+      <string>nine.pnum</string>
+      <string>zero.pnum</string>
+      <string>G_acutecomb.c2sc</string>
+      <string>g_acutecomb</string>
+      <string>N_gravecomb.c2sc</string>
+      <string>n_gravecomb</string>
+      <string>A_dblgravecomb.c2sc</string>
+      <string>a_dblgravecomb</string>
+      <string>E_dblgravecomb.c2sc</string>
+      <string>e_dblgravecomb</string>
+      <string>I_dblgravecomb.c2sc</string>
+      <string>idotless_dblgravecomb</string>
+      <string>O_dblgravecomb.c2sc</string>
+      <string>o_dblgravecomb</string>
+      <string>R_dblgravecomb.c2sc</string>
+      <string>r_dblgravecomb</string>
+      <string>U_dblgravecomb.c2sc</string>
+      <string>u_dblgravecomb</string>
+      <string>UpsilonhookSymbol_acutecomb</string>
+      <string>B_dotbelowcomb.c2sc</string>
+      <string>b_dotbelowcomb</string>
+      <string>D_dotbelowcomb.c2sc</string>
+      <string>d_dotbelowcomb</string>
+      <string>D_uniF6C3.c2sc</string>
+      <string>d_uniF6C3</string>
+      <string>H_dotbelowcomb.c2sc</string>
+      <string>h_dotbelowcomb</string>
+      <string>K_acutecomb.c2sc</string>
+      <string>k_acutecomb</string>
+      <string>K_dotbelowcomb.c2sc</string>
+      <string>k_dotbelowcomb</string>
+      <string>L_dotbelowcomb.c2sc</string>
+      <string>l_dotbelowcomb</string>
+      <string>M_dotbelowcomb.c2sc</string>
+      <string>m_dotbelowcomb</string>
+      <string>N_dotbelowcomb.c2sc</string>
+      <string>n_dotbelowcomb</string>
+      <string>O_tildecomb_acutecomb.c2sc</string>
+      <string>P_acutecomb.c2sc</string>
+      <string>p_acutecomb</string>
+      <string>R_dotbelowcomb.c2sc</string>
+      <string>r_dotbelowcomb</string>
+      <string>S_dotbelowcomb.c2sc</string>
+      <string>s_dotbelowcomb</string>
+      <string>T_dotbelowcomb.c2sc</string>
+      <string>t_dotbelowcomb</string>
+      <string>U_tildecomb_acutecomb.c2sc</string>
+      <string>V_tildecomb.c2sc</string>
+      <string>v_tildecomb</string>
+      <string>V_dotbelowcomb.c2sc</string>
+      <string>v_dotbelowcomb</string>
+      <string>W_dotbelowcomb.c2sc</string>
+      <string>w_dotbelowcomb</string>
+      <string>Z_dotbelowcomb.c2sc</string>
+      <string>z_dotbelowcomb</string>
+      <string>Omicrondasiaoxia</string>
+      <string>Alphatonos.c2sc</string>
+      <string>Epsilontonos.c2sc</string>
+      <string>Etatonos.c2sc</string>
+      <string>Iotatonos.c2sc</string>
+      <string>Omicrontonos.c2sc</string>
+      <string>Upsilontonos.c2sc</string>
+      <string>Omegatonos.c2sc</string>
+      <string>Alpha.c2sc</string>
+      <string>Beta.c2sc</string>
+      <string>Epsilon.c2sc</string>
+      <string>Zeta.c2sc</string>
+      <string>Eta.c2sc</string>
+      <string>Iota.c2sc</string>
+      <string>Kappa.c2sc</string>
+      <string>Mu.c2sc</string>
+      <string>Nu.c2sc</string>
+      <string>Omicron.c2sc</string>
+      <string>Rho.c2sc</string>
+      <string>Tau.c2sc</string>
+      <string>Upsilon.c2sc</string>
+      <string>Chi.c2sc</string>
+      <string>Iotadieresis.c2sc</string>
+      <string>Upsilondieresis.c2sc</string>
+      <string>Io-cy.c2sc</string>
+      <string>Gje-cy.c2sc</string>
+      <string>Dze-cy.c2sc</string>
+      <string>I-cy.c2sc</string>
+      <string>Yi-cy.c2sc</string>
+      <string>Je-cy.c2sc</string>
+      <string>Kje-cy.c2sc</string>
+      <string>Ushort-cy.c2sc</string>
+      <string>A-cy.c2sc</string>
+      <string>Ve-cy.c2sc</string>
+      <string>Ge-cy.c2sc</string>
+      <string>Ie-cy.c2sc</string>
+      <string>Iishort-cy.c2sc</string>
+      <string>Em-cy.c2sc</string>
+      <string>En-cy.c2sc</string>
+      <string>O-cy.c2sc</string>
+      <string>Pe-cy.c2sc</string>
+      <string>Er-cy.c2sc</string>
+      <string>Es-cy.c2sc</string>
+      <string>Te-cy.c2sc</string>
+      <string>Ha-cy.c2sc</string>
+      <string>Zedescender-cy.c2sc</string>
+      <string>Endescender-cy.c2sc</string>
+      <string>Esdescender-cy.c2sc</string>
+      <string>Ustraight-cy.c2sc</string>
+      <string>Chedescenderabkhasian-cy.c2sc</string>
+      <string>Imacron-cy.c2sc</string>
+      <string>Umacron-cy.c2sc</string>
+      <string>Ef-cy.c2sc</string>
+      <string>IJ.c2sc</string>
+      <string>AEacute.c2sc</string>
+      <string>Oslashacute.c2sc</string>
+      <string>Scommaaccent.c2sc</string>
+      <string>Wgrave.c2sc</string>
+      <string>Wacute.c2sc</string>
+      <string>Wdieresis.c2sc</string>
+      <string>Ygrave.c2sc</string>
+      <string>Aogonek.locl</string>
+      <string>aogonek.locl</string>
+      <string>Eogonek.locl</string>
+      <string>eogonek.locl</string>
+      <string>glyph01291</string>
+      <string>glyph01292</string>
+      <string>idotbelow.ccmp0</string>
+    </array>
+    <key>public.postscriptNames</key>
+    <dict>
+      <key>aGlottal-ethiopic</key>
+      <string>uni12A0</string>
+      <key>aGlottal-ethiopic.liga</key>
+      <string>uni12A0.liga</string>
+      <key>aPharyngeal-ethiopic</key>
+      <string>uni12D0</string>
+      <key>aPharyngeal-ethiopic.liga</key>
+      <string>uni12D0.liga</string>
+      <key>aaGlottal-ethiopic</key>
+      <string>uni12A3</string>
+      <key>aaGlottal-ethiopic.liga</key>
+      <string>uni12A3.liga</string>
+      <key>aaPharyngeal-ethiopic</key>
+      <string>uni12D3</string>
+      <key>aaPharyngeal-ethiopic.liga</key>
+      <string>uni12D3.liga</string>
+      <key>ba-ethiopic</key>
+      <string>uni1260</string>
+      <key>ba-ethiopic.liga</key>
+      <string>uni1260.liga</string>
+      <key>baa-ethiopic</key>
+      <string>uni1263</string>
+      <key>baa-ethiopic.liga</key>
+      <string>uni1263.liga</string>
+      <key>be-ethiopic</key>
+      <string>uni1265</string>
+      <key>be-ethiopic.liga</key>
+      <string>uni1265.liga</string>
+      <key>bee-ethiopic</key>
+      <string>uni1264</string>
+      <key>bee-ethiopic.liga</key>
+      <string>uni1264.liga</string>
+      <key>bi-ethiopic</key>
+      <string>uni1262</string>
+      <key>bi-ethiopic.liga</key>
+      <string>uni1262.liga</string>
+      <key>bo-ethiopic</key>
+      <string>uni1266</string>
+      <key>bo-ethiopic.liga</key>
+      <string>uni1266.liga</string>
+      <key>bu-ethiopic</key>
+      <string>uni1261</string>
+      <key>bu-ethiopic.liga</key>
+      <string>uni1261.liga</string>
+      <key>bwa-ethiopic</key>
+      <string>uni1267</string>
+      <key>bwa-ethiopic.liga</key>
+      <string>uni1267.liga</string>
+      <key>ca-ethiopic</key>
+      <string>uni1278</string>
+      <key>ca-ethiopic.liga</key>
+      <string>uni1278.liga</string>
+      <key>caa-ethiopic</key>
+      <string>uni127B</string>
+      <key>caa-ethiopic.liga</key>
+      <string>uni127B.liga</string>
+      <key>ce-ethiopic</key>
+      <string>uni127D</string>
+      <key>ce-ethiopic.liga</key>
+      <string>uni127D.liga</string>
+      <key>cee-ethiopic</key>
+      <string>uni127C</string>
+      <key>cee-ethiopic.liga</key>
+      <string>uni127C.liga</string>
+      <key>cha-ethiopic</key>
+      <string>uni1328</string>
+      <key>cha-ethiopic.liga</key>
+      <string>uni1328.liga</string>
+      <key>chaa-ethiopic</key>
+      <string>uni132B</string>
+      <key>chaa-ethiopic.liga</key>
+      <string>uni132B.liga</string>
+      <key>che-ethiopic</key>
+      <string>uni132D</string>
+      <key>che-ethiopic.liga</key>
+      <string>uni132D.liga</string>
+      <key>chee-ethiopic</key>
+      <string>uni132C</string>
+      <key>chee-ethiopic.liga</key>
+      <string>uni132C.liga</string>
+      <key>chi-ethiopic</key>
+      <string>uni132A</string>
+      <key>chi-ethiopic.liga</key>
+      <string>uni132A.liga</string>
+      <key>chiret-ethiopic</key>
+      <string>uni1396</string>
+      <key>cho-ethiopic</key>
+      <string>uni132E</string>
+      <key>cho-ethiopic.liga</key>
+      <string>uni132E.liga</string>
+      <key>chu-ethiopic</key>
+      <string>uni1329</string>
+      <key>chu-ethiopic.liga</key>
+      <string>uni1329.liga</string>
+      <key>chwa-ethiopic</key>
+      <string>uni132F</string>
+      <key>chwa-ethiopic.liga</key>
+      <string>uni132F.liga</string>
+      <key>ci-ethiopic</key>
+      <string>uni127A</string>
+      <key>ci-ethiopic.liga</key>
+      <string>uni127A.liga</string>
+      <key>co-ethiopic</key>
+      <string>uni127E</string>
+      <key>co-ethiopic.liga</key>
+      <string>uni127E.liga</string>
+      <key>colon-ethiopic</key>
+      <string>uni1365</string>
+      <key>comma-ethiopic</key>
+      <string>uni1363</string>
+      <key>cu-ethiopic</key>
+      <string>uni1279</string>
+      <key>cu-ethiopic.liga</key>
+      <string>uni1279.liga</string>
+      <key>cwa-ethiopic</key>
+      <string>uni127F</string>
+      <key>cwa-ethiopic.liga</key>
+      <string>uni127F.liga</string>
+      <key>da-ethiopic</key>
+      <string>uni12F0</string>
+      <key>da-ethiopic.liga</key>
+      <string>uni12F0.liga</string>
+      <key>daa-ethiopic</key>
+      <string>uni12F3</string>
+      <key>daa-ethiopic.liga</key>
+      <string>uni12F3.liga</string>
+      <key>dblgravecomb</key>
+      <string>uni030F</string>
+      <key>dda-ethiopic</key>
+      <string>uni12F8</string>
+      <key>dda-ethiopic.liga</key>
+      <string>uni12F8.liga</string>
+      <key>ddaa-ethiopic</key>
+      <string>uni12FB</string>
+      <key>ddaa-ethiopic.liga</key>
+      <string>uni12FB.liga</string>
+      <key>dde-ethiopic</key>
+      <string>uni12FD</string>
+      <key>dde-ethiopic.liga</key>
+      <string>uni12FD.liga</string>
+      <key>ddee-ethiopic</key>
+      <string>uni12FC</string>
+      <key>ddee-ethiopic.liga</key>
+      <string>uni12FC.liga</string>
+      <key>ddi-ethiopic</key>
+      <string>uni12FA</string>
+      <key>ddi-ethiopic.liga</key>
+      <string>uni12FA.liga</string>
+      <key>ddo-ethiopic</key>
+      <string>uni12FE</string>
+      <key>ddo-ethiopic.liga</key>
+      <string>uni12FE.liga</string>
+      <key>ddu-ethiopic</key>
+      <string>uni12F9</string>
+      <key>ddu-ethiopic.liga</key>
+      <string>uni12F9.liga</string>
+      <key>ddwa-ethiopic</key>
+      <string>uni12FF</string>
+      <key>ddwa-ethiopic.liga</key>
+      <string>uni12FF.liga</string>
+      <key>de-ethiopic</key>
+      <string>uni12F5</string>
+      <key>de-ethiopic.liga</key>
+      <string>uni12F5.liga</string>
+      <key>dee-ethiopic</key>
+      <string>uni12F4</string>
+      <key>dee-ethiopic.liga</key>
+      <string>uni12F4.liga</string>
+      <key>deret-ethiopic</key>
+      <string>uni1391</string>
+      <key>deretHidet-ethiopic</key>
+      <string>uni1398</string>
+      <key>di-ethiopic</key>
+      <string>uni12F2</string>
+      <key>di-ethiopic.liga</key>
+      <string>uni12F2.liga</string>
+      <key>difat-ethiopic</key>
+      <string>uni1394</string>
+      <key>divisionslash</key>
+      <string>uni2215</string>
+      <key>do-ethiopic</key>
+      <string>uni12F6</string>
+      <key>do-ethiopic.liga</key>
+      <string>uni12F6.liga</string>
+      <key>du-ethiopic</key>
+      <string>uni12F1</string>
+      <key>du-ethiopic.liga</key>
+      <string>uni12F1.liga</string>
+      <key>dwa-ethiopic</key>
+      <string>uni12F7</string>
+      <key>dwa-ethiopic.liga</key>
+      <string>uni12F7.liga</string>
+      <key>eGlottal-ethiopic</key>
+      <string>uni12A5</string>
+      <key>eGlottal-ethiopic.liga</key>
+      <string>uni12A5.liga</string>
+      <key>ePharyngeal-ethiopic</key>
+      <string>uni12D5</string>
+      <key>ePharyngeal-ethiopic.liga</key>
+      <string>uni12D5.liga</string>
+      <key>eeGlottal-ethiopic</key>
+      <string>uni12A4</string>
+      <key>eeGlottal-ethiopic.liga</key>
+      <string>uni12A4.liga</string>
+      <key>eePharyngeal-ethiopic</key>
+      <string>uni12D4</string>
+      <key>eePharyngeal-ethiopic.liga</key>
+      <string>uni12D4.liga</string>
+      <key>eight-ethiopic</key>
+      <string>uni1370</string>
+      <key>eighty-ethiopic</key>
+      <string>uni1379</string>
+      <key>emquad</key>
+      <string>uni2001</string>
+      <key>emspace</key>
+      <string>uni2003</string>
+      <key>enquad</key>
+      <string>uni2000</string>
+      <key>enspace</key>
+      <string>uni2002</string>
+      <key>euro</key>
+      <string>Euro</string>
+      <key>fa-ethiopic</key>
+      <string>uni1348</string>
+      <key>fa-ethiopic.liga</key>
+      <string>uni1348.liga</string>
+      <key>faa-ethiopic</key>
+      <string>uni134B</string>
+      <key>faa-ethiopic.liga</key>
+      <string>uni134B.liga</string>
+      <key>fe-ethiopic</key>
+      <string>uni134D</string>
+      <key>fe-ethiopic.liga</key>
+      <string>uni134D.liga</string>
+      <key>fee-ethiopic</key>
+      <string>uni134C</string>
+      <key>fee-ethiopic.liga</key>
+      <string>uni134C.liga</string>
+      <key>fi-ethiopic</key>
+      <string>uni134A</string>
+      <key>fi-ethiopic.liga</key>
+      <string>uni134A.liga</string>
+      <key>fifty-ethiopic</key>
+      <string>uni1376</string>
+      <key>figurespace</key>
+      <string>uni2007</string>
+      <key>firsttonechinese</key>
+      <string>uni02C9</string>
+      <key>five-ethiopic</key>
+      <string>uni136D</string>
+      <key>fo-ethiopic</key>
+      <string>uni134E</string>
+      <key>fo-ethiopic.liga</key>
+      <string>uni134E.liga</string>
+      <key>forty-ethiopic</key>
+      <string>uni1375</string>
+      <key>four-ethiopic</key>
+      <string>uni136C</string>
+      <key>fourperemspace</key>
+      <string>uni2005</string>
+      <key>foursuperior</key>
+      <string>uni2074</string>
+      <key>fu-ethiopic</key>
+      <string>uni1349</string>
+      <key>fu-ethiopic.liga</key>
+      <string>uni1349.liga</string>
+      <key>fwa-ethiopic</key>
+      <string>uni134F</string>
+      <key>fwa-ethiopic.liga</key>
+      <string>uni134F.liga</string>
+      <key>ga-ethiopic</key>
+      <string>uni1308</string>
+      <key>ga-ethiopic.liga</key>
+      <string>uni1308.liga</string>
+      <key>gaa-ethiopic</key>
+      <string>uni130B</string>
+      <key>gaa-ethiopic.liga</key>
+      <string>uni130B.liga</string>
+      <key>ge-ethiopic</key>
+      <string>uni130D</string>
+      <key>ge-ethiopic.liga</key>
+      <string>uni130D.liga</string>
+      <key>gee-ethiopic</key>
+      <string>uni130C</string>
+      <key>gee-ethiopic.liga</key>
+      <string>uni130C.liga</string>
+      <key>geminVowellengthcomb-ethiopic</key>
+      <string>uni135D</string>
+      <key>geminationcomb-ethiopic</key>
+      <string>uni135F</string>
+      <key>gga-ethiopic</key>
+      <string>uni1318</string>
+      <key>gga-ethiopic.liga</key>
+      <string>uni1318.liga</string>
+      <key>ggaa-ethiopic</key>
+      <string>uni131B</string>
+      <key>ggaa-ethiopic.liga</key>
+      <string>uni131B.liga</string>
+      <key>gge-ethiopic</key>
+      <string>uni131D</string>
+      <key>gge-ethiopic.liga</key>
+      <string>uni131D.liga</string>
+      <key>ggee-ethiopic</key>
+      <string>uni131C</string>
+      <key>ggee-ethiopic.liga</key>
+      <string>uni131C.liga</string>
+      <key>ggi-ethiopic</key>
+      <string>uni131A</string>
+      <key>ggi-ethiopic.liga</key>
+      <string>uni131A.liga</string>
+      <key>ggo-ethiopic</key>
+      <string>uni131E</string>
+      <key>ggo-ethiopic.liga</key>
+      <string>uni131E.liga</string>
+      <key>ggu-ethiopic</key>
+      <string>uni1319</string>
+      <key>ggu-ethiopic.liga</key>
+      <string>uni1319.liga</string>
+      <key>ggwaa-ethiopic</key>
+      <string>uni131F</string>
+      <key>ggwaa-ethiopic.liga</key>
+      <string>uni131F.liga</string>
+      <key>gi-ethiopic</key>
+      <string>uni130A</string>
+      <key>gi-ethiopic.liga</key>
+      <string>uni130A.liga</string>
+      <key>go-ethiopic</key>
+      <string>uni130E</string>
+      <key>go-ethiopic.liga</key>
+      <string>uni130E.liga</string>
+      <key>goa-ethiopic</key>
+      <string>uni130F</string>
+      <key>gu-ethiopic</key>
+      <string>uni1309</string>
+      <key>gu-ethiopic.liga</key>
+      <string>uni1309.liga</string>
+      <key>guillemetleft</key>
+      <string>guillemotleft</string>
+      <key>guillemetright</key>
+      <string>guillemotright</string>
+      <key>gwa-ethiopic</key>
+      <string>uni1310</string>
+      <key>gwaa-ethiopic</key>
+      <string>uni1313</string>
+      <key>gwaa-ethiopic.liga</key>
+      <string>uni1313.liga</string>
+      <key>gwe-ethiopic</key>
+      <string>uni1315</string>
+      <key>gwee-ethiopic</key>
+      <string>uni1314</string>
+      <key>gwi-ethiopic</key>
+      <string>uni1312</string>
+      <key>ha-ethiopic</key>
+      <string>uni1200</string>
+      <key>ha-ethiopic.liga</key>
+      <string>uni1200.liga</string>
+      <key>haa-ethiopic</key>
+      <string>uni1203</string>
+      <key>haa-ethiopic.liga</key>
+      <string>uni1203.liga</string>
+      <key>hairspace</key>
+      <string>uni200A</string>
+      <key>he-ethiopic</key>
+      <string>uni1205</string>
+      <key>he-ethiopic.liga</key>
+      <string>uni1205.liga</string>
+      <key>hee-ethiopic</key>
+      <string>uni1204</string>
+      <key>hee-ethiopic.liga</key>
+      <string>uni1204.liga</string>
+      <key>hha-ethiopic</key>
+      <string>uni1210</string>
+      <key>hha-ethiopic.liga</key>
+      <string>uni1210.liga</string>
+      <key>hhaa-ethiopic</key>
+      <string>uni1213</string>
+      <key>hhaa-ethiopic.liga</key>
+      <string>uni1213.liga</string>
+      <key>hhe-ethiopic</key>
+      <string>uni1215</string>
+      <key>hhe-ethiopic.liga</key>
+      <string>uni1215.liga</string>
+      <key>hhee-ethiopic</key>
+      <string>uni1214</string>
+      <key>hhee-ethiopic.liga</key>
+      <string>uni1214.liga</string>
+      <key>hhi-ethiopic</key>
+      <string>uni1212</string>
+      <key>hhi-ethiopic.liga</key>
+      <string>uni1212.liga</string>
+      <key>hho-ethiopic</key>
+      <string>uni1216</string>
+      <key>hho-ethiopic.liga</key>
+      <string>uni1216.liga</string>
+      <key>hhu-ethiopic</key>
+      <string>uni1211</string>
+      <key>hhu-ethiopic.liga</key>
+      <string>uni1211.liga</string>
+      <key>hhwa-ethiopic</key>
+      <string>uni1217</string>
+      <key>hhwa-ethiopic.liga</key>
+      <string>uni1217.liga</string>
+      <key>hi-ethiopic</key>
+      <string>uni1202</string>
+      <key>hi-ethiopic.liga</key>
+      <string>uni1202.liga</string>
+      <key>hidet-ethiopic</key>
+      <string>uni1397</string>
+      <key>ho-ethiopic</key>
+      <string>uni1206</string>
+      <key>ho-ethiopic.liga</key>
+      <string>uni1206.liga</string>
+      <key>hoa-ethiopic</key>
+      <string>uni1207</string>
+      <key>hoa-ethiopic.liga</key>
+      <string>uni1207.liga</string>
+      <key>hu-ethiopic</key>
+      <string>uni1201</string>
+      <key>hu-ethiopic.liga</key>
+      <string>uni1201.liga</string>
+      <key>hundred-ethiopic</key>
+      <string>uni137B</string>
+      <key>hyphenationpoint</key>
+      <string>uni2027</string>
+      <key>hyphentwo</key>
+      <string>uni2010</string>
+      <key>iGlottal-ethiopic</key>
+      <string>uni12A2</string>
+      <key>iGlottal-ethiopic.liga</key>
+      <string>uni12A2.liga</string>
+      <key>iPharyngeal-ethiopic</key>
+      <string>uni12D2</string>
+      <key>iPharyngeal-ethiopic.liga</key>
+      <string>uni12D2.liga</string>
+      <key>idotless</key>
+      <string>dotlessi</string>
+      <key>ja-ethiopic</key>
+      <string>uni1300</string>
+      <key>ja-ethiopic.liga</key>
+      <string>uni1300.liga</string>
+      <key>jaa-ethiopic</key>
+      <string>uni1303</string>
+      <key>jaa-ethiopic.liga</key>
+      <string>uni1303.liga</string>
+      <key>je-ethiopic</key>
+      <string>uni1305</string>
+      <key>je-ethiopic.liga</key>
+      <string>uni1305.liga</string>
+      <key>jee-ethiopic</key>
+      <string>uni1304</string>
+      <key>jee-ethiopic.liga</key>
+      <string>uni1304.liga</string>
+      <key>ji-ethiopic</key>
+      <string>uni1302</string>
+      <key>ji-ethiopic.liga</key>
+      <string>uni1302.liga</string>
+      <key>jo-ethiopic</key>
+      <string>uni1306</string>
+      <key>jo-ethiopic.liga</key>
+      <string>uni1306.liga</string>
+      <key>ju-ethiopic</key>
+      <string>uni1301</string>
+      <key>ju-ethiopic.liga</key>
+      <string>uni1301.liga</string>
+      <key>jwa-ethiopic</key>
+      <string>uni1307</string>
+      <key>jwa-ethiopic.liga</key>
+      <string>uni1307.liga</string>
+      <key>ka-ethiopic</key>
+      <string>uni12A8</string>
+      <key>ka-ethiopic.liga</key>
+      <string>uni12A8.liga</string>
+      <key>kaa-ethiopic</key>
+      <string>uni12AB</string>
+      <key>kaa-ethiopic.liga</key>
+      <string>uni12AB.liga</string>
+      <key>ke-ethiopic</key>
+      <string>uni12AD</string>
+      <key>ke-ethiopic.liga</key>
+      <string>uni12AD.liga</string>
+      <key>kee-ethiopic</key>
+      <string>uni12AC</string>
+      <key>kee-ethiopic.liga</key>
+      <string>uni12AC.liga</string>
+      <key>kenat-ethiopic</key>
+      <string>uni1395</string>
+      <key>ki-ethiopic</key>
+      <string>uni12AA</string>
+      <key>ki-ethiopic.liga</key>
+      <string>uni12AA.liga</string>
+      <key>ko-ethiopic</key>
+      <string>uni12AE</string>
+      <key>ko-ethiopic.liga</key>
+      <string>uni12AE.liga</string>
+      <key>koa-ethiopic</key>
+      <string>uni12AF</string>
+      <key>ku-ethiopic</key>
+      <string>uni12A9</string>
+      <key>ku-ethiopic.liga</key>
+      <string>uni12A9.liga</string>
+      <key>kurt-ethiopic</key>
+      <string>uni1399</string>
+      <key>kwa-ethiopic</key>
+      <string>uni12B0</string>
+      <key>kwaa-ethiopic</key>
+      <string>uni12B3</string>
+      <key>kwaa-ethiopic.liga</key>
+      <string>uni12B3.liga</string>
+      <key>kwe-ethiopic</key>
+      <string>uni12B5</string>
+      <key>kwee-ethiopic</key>
+      <string>uni12B4</string>
+      <key>kwi-ethiopic</key>
+      <string>uni12B2</string>
+      <key>kxa-ethiopic</key>
+      <string>uni12B8</string>
+      <key>kxa-ethiopic.liga</key>
+      <string>uni12B8.liga</string>
+      <key>kxaa-ethiopic</key>
+      <string>uni12BB</string>
+      <key>kxaa-ethiopic.liga</key>
+      <string>uni12BB.liga</string>
+      <key>kxe-ethiopic</key>
+      <string>uni12BD</string>
+      <key>kxe-ethiopic.liga</key>
+      <string>uni12BD.liga</string>
+      <key>kxee-ethiopic</key>
+      <string>uni12BC</string>
+      <key>kxee-ethiopic.liga</key>
+      <string>uni12BC.liga</string>
+      <key>kxi-ethiopic</key>
+      <string>uni12BA</string>
+      <key>kxi-ethiopic.liga</key>
+      <string>uni12BA.liga</string>
+      <key>kxo-ethiopic</key>
+      <string>uni12BE</string>
+      <key>kxo-ethiopic.liga</key>
+      <string>uni12BE.liga</string>
+      <key>kxu-ethiopic</key>
+      <string>uni12B9</string>
+      <key>kxu-ethiopic.liga</key>
+      <string>uni12B9.liga</string>
+      <key>kxwa-ethiopic</key>
+      <string>uni12C0</string>
+      <key>kxwaa-ethiopic</key>
+      <string>uni12C3</string>
+      <key>kxwaa-ethiopic.liga</key>
+      <string>uni12C3.liga</string>
+      <key>kxwe-ethiopic</key>
+      <string>uni12C5</string>
+      <key>kxwee-ethiopic</key>
+      <string>uni12C4</string>
+      <key>kxwi-ethiopic</key>
+      <string>uni12C2</string>
+      <key>la-ethiopic</key>
+      <string>uni1208</string>
+      <key>la-ethiopic.liga</key>
+      <string>uni1208.liga</string>
+      <key>laa-ethiopic</key>
+      <string>uni120B</string>
+      <key>laa-ethiopic.liga</key>
+      <string>uni120B.liga</string>
+      <key>le-ethiopic</key>
+      <string>uni120D</string>
+      <key>le-ethiopic.liga</key>
+      <string>uni120D.liga</string>
+      <key>lee-ethiopic</key>
+      <string>uni120C</string>
+      <key>lee-ethiopic.liga</key>
+      <string>uni120C.liga</string>
+      <key>li-ethiopic</key>
+      <string>uni120A</string>
+      <key>li-ethiopic.liga</key>
+      <string>uni120A.liga</string>
+      <key>lo-ethiopic</key>
+      <string>uni120E</string>
+      <key>lo-ethiopic.liga</key>
+      <string>uni120E.liga</string>
+      <key>lowringmod</key>
+      <string>uni02F3</string>
+      <key>lu-ethiopic</key>
+      <string>uni1209</string>
+      <key>lu-ethiopic.liga</key>
+      <string>uni1209.liga</string>
+      <key>lwa-ethiopic</key>
+      <string>uni120F</string>
+      <key>lwa-ethiopic.liga</key>
+      <string>uni120F.liga</string>
+      <key>ma-ethiopic</key>
+      <string>uni1218</string>
+      <key>ma-ethiopic.liga</key>
+      <string>uni1218.liga</string>
+      <key>maa-ethiopic</key>
+      <string>uni121B</string>
+      <key>maa-ethiopic.liga</key>
+      <string>uni121B.liga</string>
+      <key>me-ethiopic</key>
+      <string>uni121D</string>
+      <key>me-ethiopic.liga</key>
+      <string>uni121D.liga</string>
+      <key>mee-ethiopic</key>
+      <string>uni121C</string>
+      <key>mee-ethiopic.liga</key>
+      <string>uni121C.liga</string>
+      <key>mi-ethiopic</key>
+      <string>uni121A</string>
+      <key>mi-ethiopic.liga</key>
+      <string>uni121A.liga</string>
+      <key>micro</key>
+      <string>uni00B5</string>
+      <key>mo-ethiopic</key>
+      <string>uni121E</string>
+      <key>mo-ethiopic.liga</key>
+      <string>uni121E.liga</string>
+      <key>mu-ethiopic</key>
+      <string>uni1219</string>
+      <key>mu-ethiopic.liga</key>
+      <string>uni1219.liga</string>
+      <key>mwa-ethiopic</key>
+      <string>uni121F</string>
+      <key>mwa-ethiopic.liga</key>
+      <string>uni121F.liga</string>
+      <key>na-ethiopic</key>
+      <string>uni1290</string>
+      <key>na-ethiopic.liga</key>
+      <string>uni1290.liga</string>
+      <key>naa-ethiopic</key>
+      <string>uni1293</string>
+      <key>naa-ethiopic.liga</key>
+      <string>uni1293.liga</string>
+      <key>nbspace</key>
+      <string>uni00A0</string>
+      <key>ne-ethiopic</key>
+      <string>uni1295</string>
+      <key>ne-ethiopic.liga</key>
+      <string>uni1295.liga</string>
+      <key>nee-ethiopic</key>
+      <string>uni1294</string>
+      <key>nee-ethiopic.liga</key>
+      <string>uni1294.liga</string>
+      <key>ni-ethiopic</key>
+      <string>uni1292</string>
+      <key>ni-ethiopic.liga</key>
+      <string>uni1292.liga</string>
+      <key>nine-ethiopic</key>
+      <string>uni1371</string>
+      <key>ninety-ethiopic</key>
+      <string>uni137A</string>
+      <key>no-ethiopic</key>
+      <string>uni1296</string>
+      <key>no-ethiopic.liga</key>
+      <string>uni1296.liga</string>
+      <key>nonbreakinghyphen</key>
+      <string>uni2011</string>
+      <key>nu-ethiopic</key>
+      <string>uni1291</string>
+      <key>nu-ethiopic.liga</key>
+      <string>uni1291.liga</string>
+      <key>nwa-ethiopic</key>
+      <string>uni1297</string>
+      <key>nwa-ethiopic.liga</key>
+      <string>uni1297.liga</string>
+      <key>nya-ethiopic</key>
+      <string>uni1298</string>
+      <key>nya-ethiopic.liga</key>
+      <string>uni1298.liga</string>
+      <key>nyaa-ethiopic</key>
+      <string>uni129B</string>
+      <key>nyaa-ethiopic.liga</key>
+      <string>uni129B.liga</string>
+      <key>nye-ethiopic</key>
+      <string>uni129D</string>
+      <key>nye-ethiopic.liga</key>
+      <string>uni129D.liga</string>
+      <key>nyee-ethiopic</key>
+      <string>uni129C</string>
+      <key>nyee-ethiopic.liga</key>
+      <string>uni129C.liga</string>
+      <key>nyi-ethiopic</key>
+      <string>uni129A</string>
+      <key>nyi-ethiopic.liga</key>
+      <string>uni129A.liga</string>
+      <key>nyo-ethiopic</key>
+      <string>uni129E</string>
+      <key>nyo-ethiopic.liga</key>
+      <string>uni129E.liga</string>
+      <key>nyu-ethiopic</key>
+      <string>uni1299</string>
+      <key>nyu-ethiopic.liga</key>
+      <string>uni1299.liga</string>
+      <key>nywa-ethiopic</key>
+      <string>uni129F</string>
+      <key>nywa-ethiopic.liga</key>
+      <string>uni129F.liga</string>
+      <key>oGlottal-ethiopic</key>
+      <string>uni12A6</string>
+      <key>oGlottal-ethiopic.liga</key>
+      <string>uni12A6.liga</string>
+      <key>oPharyngeal-ethiopic</key>
+      <string>uni12D6</string>
+      <key>oPharyngeal-ethiopic.liga</key>
+      <string>uni12D6.liga</string>
+      <key>one-ethiopic</key>
+      <string>uni1369</string>
+      <key>onesuperior</key>
+      <string>uni00B9</string>
+      <key>pa-ethiopic</key>
+      <string>uni1350</string>
+      <key>pa-ethiopic.liga</key>
+      <string>uni1350.liga</string>
+      <key>paa-ethiopic</key>
+      <string>uni1353</string>
+      <key>paa-ethiopic.liga</key>
+      <string>uni1353.liga</string>
+      <key>paragraphseparator-ethiopic</key>
+      <string>uni1368</string>
+      <key>pe-ethiopic</key>
+      <string>uni1355</string>
+      <key>pe-ethiopic.liga</key>
+      <string>uni1355.liga</string>
+      <key>pee-ethiopic</key>
+      <string>uni1354</string>
+      <key>pee-ethiopic.liga</key>
+      <string>uni1354.liga</string>
+      <key>period-ethiopic</key>
+      <string>uni1362</string>
+      <key>pha-ethiopic</key>
+      <string>uni1330</string>
+      <key>pha-ethiopic.liga</key>
+      <string>uni1330.liga</string>
+      <key>phaa-ethiopic</key>
+      <string>uni1333</string>
+      <key>phaa-ethiopic.liga</key>
+      <string>uni1333.liga</string>
+      <key>phe-ethiopic</key>
+      <string>uni1335</string>
+      <key>phe-ethiopic.liga</key>
+      <string>uni1335.liga</string>
+      <key>phee-ethiopic</key>
+      <string>uni1334</string>
+      <key>phee-ethiopic.liga</key>
+      <string>uni1334.liga</string>
+      <key>phi-ethiopic</key>
+      <string>uni1332</string>
+      <key>phi-ethiopic.liga</key>
+      <string>uni1332.liga</string>
+      <key>pho-ethiopic</key>
+      <string>uni1336</string>
+      <key>pho-ethiopic.liga</key>
+      <string>uni1336.liga</string>
+      <key>phu-ethiopic</key>
+      <string>uni1331</string>
+      <key>phu-ethiopic.liga</key>
+      <string>uni1331.liga</string>
+      <key>phwa-ethiopic</key>
+      <string>uni1337</string>
+      <key>phwa-ethiopic.liga</key>
+      <string>uni1337.liga</string>
+      <key>pi-ethiopic</key>
+      <string>uni1352</string>
+      <key>pi-ethiopic.liga</key>
+      <string>uni1352.liga</string>
+      <key>po-ethiopic</key>
+      <string>uni1356</string>
+      <key>po-ethiopic.liga</key>
+      <string>uni1356.liga</string>
+      <key>prefacecolon-ethiopic</key>
+      <string>uni1366</string>
+      <key>pu-ethiopic</key>
+      <string>uni1351</string>
+      <key>pu-ethiopic.liga</key>
+      <string>uni1351.liga</string>
+      <key>punctuationspace</key>
+      <string>uni2008</string>
+      <key>pwa-ethiopic</key>
+      <string>uni1357</string>
+      <key>pwa-ethiopic.liga</key>
+      <string>uni1357.liga</string>
+      <key>qa-ethiopic</key>
+      <string>uni1240</string>
+      <key>qa-ethiopic.liga</key>
+      <string>uni1240.liga</string>
+      <key>qaa-ethiopic</key>
+      <string>uni1243</string>
+      <key>qaa-ethiopic.liga</key>
+      <string>uni1243.liga</string>
+      <key>qe-ethiopic</key>
+      <string>uni1245</string>
+      <key>qe-ethiopic.liga</key>
+      <string>uni1245.liga</string>
+      <key>qee-ethiopic</key>
+      <string>uni1244</string>
+      <key>qee-ethiopic.liga</key>
+      <string>uni1244.liga</string>
+      <key>qha-ethiopic</key>
+      <string>uni1250</string>
+      <key>qha-ethiopic.liga</key>
+      <string>uni1250.liga</string>
+      <key>qhaa-ethiopic</key>
+      <string>uni1253</string>
+      <key>qhaa-ethiopic.liga</key>
+      <string>uni1253.liga</string>
+      <key>qhe-ethiopic</key>
+      <string>uni1255</string>
+      <key>qhe-ethiopic.liga</key>
+      <string>uni1255.liga</string>
+      <key>qhee-ethiopic</key>
+      <string>uni1254</string>
+      <key>qhee-ethiopic.liga</key>
+      <string>uni1254.liga</string>
+      <key>qhi-ethiopic</key>
+      <string>uni1252</string>
+      <key>qhi-ethiopic.liga</key>
+      <string>uni1252.liga</string>
+      <key>qho-ethiopic</key>
+      <string>uni1256</string>
+      <key>qho-ethiopic.liga</key>
+      <string>uni1256.liga</string>
+      <key>qhu-ethiopic</key>
+      <string>uni1251</string>
+      <key>qhu-ethiopic.liga</key>
+      <string>uni1251.liga</string>
+      <key>qhwa-ethiopic</key>
+      <string>uni1258</string>
+      <key>qhwaa-ethiopic</key>
+      <string>uni125B</string>
+      <key>qhwaa-ethiopic.liga</key>
+      <string>uni125B.liga</string>
+      <key>qhwe-ethiopic</key>
+      <string>uni125D</string>
+      <key>qhwee-ethiopic</key>
+      <string>uni125C</string>
+      <key>qhwi-ethiopic</key>
+      <string>uni125A</string>
+      <key>qi-ethiopic</key>
+      <string>uni1242</string>
+      <key>qi-ethiopic.liga</key>
+      <string>uni1242.liga</string>
+      <key>qo-ethiopic</key>
+      <string>uni1246</string>
+      <key>qo-ethiopic.liga</key>
+      <string>uni1246.liga</string>
+      <key>qoa-ethiopic</key>
+      <string>uni1247</string>
+      <key>qu-ethiopic</key>
+      <string>uni1241</string>
+      <key>qu-ethiopic.liga</key>
+      <string>uni1241.liga</string>
+      <key>question-ethiopic</key>
+      <string>uni1367</string>
+      <key>qwa-ethiopic</key>
+      <string>uni1248</string>
+      <key>qwaa-ethiopic</key>
+      <string>uni124B</string>
+      <key>qwaa-ethiopic.liga</key>
+      <string>uni124B.liga</string>
+      <key>qwe-ethiopic</key>
+      <string>uni124D</string>
+      <key>qwee-ethiopic</key>
+      <string>uni124C</string>
+      <key>qwi-ethiopic</key>
+      <string>uni124A</string>
+      <key>ra-ethiopic</key>
+      <string>uni1228</string>
+      <key>ra-ethiopic.liga</key>
+      <string>uni1228.liga</string>
+      <key>raa-ethiopic</key>
+      <string>uni122B</string>
+      <key>raa-ethiopic.liga</key>
+      <string>uni122B.liga</string>
+      <key>re-ethiopic</key>
+      <string>uni122D</string>
+      <key>re-ethiopic.liga</key>
+      <string>uni122D.liga</string>
+      <key>ree-ethiopic</key>
+      <string>uni122C</string>
+      <key>ree-ethiopic.liga</key>
+      <string>uni122C.liga</string>
+      <key>ri-ethiopic</key>
+      <string>uni122A</string>
+      <key>ri-ethiopic.liga</key>
+      <string>uni122A.liga</string>
+      <key>rikrik-ethiopic</key>
+      <string>uni1392</string>
+      <key>ro-ethiopic</key>
+      <string>uni122E</string>
+      <key>ro-ethiopic.liga</key>
+      <string>uni122E.liga</string>
+      <key>ru-ethiopic</key>
+      <string>uni1229</string>
+      <key>ru-ethiopic.liga</key>
+      <string>uni1229.liga</string>
+      <key>rwa-ethiopic</key>
+      <string>uni122F</string>
+      <key>rwa-ethiopic.liga</key>
+      <string>uni122F.liga</string>
+      <key>rya-ethiopic</key>
+      <string>uni1358</string>
+      <key>sa-ethiopic</key>
+      <string>uni1230</string>
+      <key>sa-ethiopic.liga</key>
+      <string>uni1230.liga</string>
+      <key>saa-ethiopic</key>
+      <string>uni1233</string>
+      <key>saa-ethiopic.liga</key>
+      <string>uni1233.liga</string>
+      <key>se-ethiopic</key>
+      <string>uni1235</string>
+      <key>se-ethiopic.liga</key>
+      <string>uni1235.liga</string>
+      <key>sectionmark-ethiopic</key>
+      <string>uni1360</string>
+      <key>see-ethiopic</key>
+      <string>uni1234</string>
+      <key>see-ethiopic.liga</key>
+      <string>uni1234.liga</string>
+      <key>semicolon-ethiopic</key>
+      <string>uni1364</string>
+      <key>seven-ethiopic</key>
+      <string>uni136F</string>
+      <key>seventy-ethiopic</key>
+      <string>uni1378</string>
+      <key>sha-ethiopic</key>
+      <string>uni1238</string>
+      <key>sha-ethiopic.liga</key>
+      <string>uni1238.liga</string>
+      <key>shaa-ethiopic</key>
+      <string>uni123B</string>
+      <key>shaa-ethiopic.liga</key>
+      <string>uni123B.liga</string>
+      <key>she-ethiopic</key>
+      <string>uni123D</string>
+      <key>she-ethiopic.liga</key>
+      <string>uni123D.liga</string>
+      <key>shee-ethiopic</key>
+      <string>uni123C</string>
+      <key>shee-ethiopic.liga</key>
+      <string>uni123C.liga</string>
+      <key>shi-ethiopic</key>
+      <string>uni123A</string>
+      <key>shi-ethiopic.liga</key>
+      <string>uni123A.liga</string>
+      <key>sho-ethiopic</key>
+      <string>uni123E</string>
+      <key>sho-ethiopic.liga</key>
+      <string>uni123E.liga</string>
+      <key>shortRikrik-ethiopic</key>
+      <string>uni1393</string>
+      <key>shu-ethiopic</key>
+      <string>uni1239</string>
+      <key>shu-ethiopic.liga</key>
+      <string>uni1239.liga</string>
+      <key>shwa-ethiopic</key>
+      <string>uni123F</string>
+      <key>shwa-ethiopic.liga</key>
+      <string>uni123F.liga</string>
+      <key>si-ethiopic</key>
+      <string>uni1232</string>
+      <key>si-ethiopic.liga</key>
+      <string>uni1232.liga</string>
+      <key>six-ethiopic</key>
+      <string>uni136E</string>
+      <key>sixperemspace</key>
+      <string>uni2006</string>
+      <key>sixty-ethiopic</key>
+      <string>uni1377</string>
+      <key>so-ethiopic</key>
+      <string>uni1236</string>
+      <key>so-ethiopic.liga</key>
+      <string>uni1236.liga</string>
+      <key>softhyphen</key>
+      <string>uni00AD</string>
+      <key>su-ethiopic</key>
+      <string>uni1231</string>
+      <key>su-ethiopic.liga</key>
+      <string>uni1231.liga</string>
+      <key>swa-ethiopic</key>
+      <string>uni1237</string>
+      <key>swa-ethiopic.liga</key>
+      <string>uni1237.liga</string>
+      <key>sza-ethiopic</key>
+      <string>uni1220</string>
+      <key>sza-ethiopic.liga</key>
+      <string>uni1220.liga</string>
+      <key>szaa-ethiopic</key>
+      <string>uni1223</string>
+      <key>szaa-ethiopic.liga</key>
+      <string>uni1223.liga</string>
+      <key>sze-ethiopic</key>
+      <string>uni1225</string>
+      <key>sze-ethiopic.liga</key>
+      <string>uni1225.liga</string>
+      <key>szee-ethiopic</key>
+      <string>uni1224</string>
+      <key>szee-ethiopic.liga</key>
+      <string>uni1224.liga</string>
+      <key>szi-ethiopic</key>
+      <string>uni1222</string>
+      <key>szi-ethiopic.liga</key>
+      <string>uni1222.liga</string>
+      <key>szo-ethiopic</key>
+      <string>uni1226</string>
+      <key>szo-ethiopic.liga</key>
+      <string>uni1226.liga</string>
+      <key>szu-ethiopic</key>
+      <string>uni1221</string>
+      <key>szu-ethiopic.liga</key>
+      <string>uni1221.liga</string>
+      <key>szwa-ethiopic</key>
+      <string>uni1227</string>
+      <key>szwa-ethiopic.liga</key>
+      <string>uni1227.liga</string>
+      <key>ta-ethiopic</key>
+      <string>uni1270</string>
+      <key>ta-ethiopic.liga</key>
+      <string>uni1270.liga</string>
+      <key>taa-ethiopic</key>
+      <string>uni1273</string>
+      <key>taa-ethiopic.liga</key>
+      <string>uni1273.liga</string>
+      <key>te-ethiopic</key>
+      <string>uni1275</string>
+      <key>te-ethiopic.liga</key>
+      <string>uni1275.liga</string>
+      <key>tee-ethiopic</key>
+      <string>uni1274</string>
+      <key>tee-ethiopic.liga</key>
+      <string>uni1274.liga</string>
+      <key>ten-ethiopic</key>
+      <string>uni1372</string>
+      <key>tenthousand-ethiopic</key>
+      <string>uni137C</string>
+      <key>tha-ethiopic</key>
+      <string>uni1320</string>
+      <key>tha-ethiopic.liga</key>
+      <string>uni1320.liga</string>
+      <key>thaa-ethiopic</key>
+      <string>uni1323</string>
+      <key>thaa-ethiopic.liga</key>
+      <string>uni1323.liga</string>
+      <key>the-ethiopic</key>
+      <string>uni1325</string>
+      <key>the-ethiopic.liga</key>
+      <string>uni1325.liga</string>
+      <key>thee-ethiopic</key>
+      <string>uni1324</string>
+      <key>thee-ethiopic.liga</key>
+      <string>uni1324.liga</string>
+      <key>thi-ethiopic</key>
+      <string>uni1322</string>
+      <key>thi-ethiopic.liga</key>
+      <string>uni1322.liga</string>
+      <key>thinspace</key>
+      <string>uni2009</string>
+      <key>thinspace.locl</key>
+      <string>uni2009.locl</string>
+      <key>thirty-ethiopic</key>
+      <string>uni1374</string>
+      <key>tho-ethiopic</key>
+      <string>uni1326</string>
+      <key>tho-ethiopic.liga</key>
+      <string>uni1326.liga</string>
+      <key>three-ethiopic</key>
+      <string>uni136B</string>
+      <key>threeperemspace</key>
+      <string>uni2004</string>
+      <key>threesuperior</key>
+      <string>uni00B3</string>
+      <key>thu-ethiopic</key>
+      <string>uni1321</string>
+      <key>thu-ethiopic.liga</key>
+      <string>uni1321.liga</string>
+      <key>thwa-ethiopic</key>
+      <string>uni1327</string>
+      <key>thwa-ethiopic.liga</key>
+      <string>uni1327.liga</string>
+      <key>ti-ethiopic</key>
+      <string>uni1272</string>
+      <key>ti-ethiopic.liga</key>
+      <string>uni1272.liga</string>
+      <key>to-ethiopic</key>
+      <string>uni1276</string>
+      <key>to-ethiopic.liga</key>
+      <string>uni1276.liga</string>
+      <key>tsa-ethiopic</key>
+      <string>uni1338</string>
+      <key>tsa-ethiopic.liga</key>
+      <string>uni1338.liga</string>
+      <key>tsaa-ethiopic</key>
+      <string>uni133B</string>
+      <key>tsaa-ethiopic.liga</key>
+      <string>uni133B.liga</string>
+      <key>tse-ethiopic</key>
+      <string>uni133D</string>
+      <key>tse-ethiopic.liga</key>
+      <string>uni133D.liga</string>
+      <key>tsee-ethiopic</key>
+      <string>uni133C</string>
+      <key>tsee-ethiopic.liga</key>
+      <string>uni133C.liga</string>
+      <key>tsi-ethiopic</key>
+      <string>uni133A</string>
+      <key>tsi-ethiopic.liga</key>
+      <string>uni133A.liga</string>
+      <key>tso-ethiopic</key>
+      <string>uni133E</string>
+      <key>tso-ethiopic.liga</key>
+      <string>uni133E.liga</string>
+      <key>tsu-ethiopic</key>
+      <string>uni1339</string>
+      <key>tsu-ethiopic.liga</key>
+      <string>uni1339.liga</string>
+      <key>tswa-ethiopic</key>
+      <string>uni133F</string>
+      <key>tswa-ethiopic.liga</key>
+      <string>uni133F.liga</string>
+      <key>tu-ethiopic</key>
+      <string>uni1271</string>
+      <key>tu-ethiopic.liga</key>
+      <string>uni1271.liga</string>
+      <key>twa-ethiopic</key>
+      <string>uni1277</string>
+      <key>twa-ethiopic.liga</key>
+      <string>uni1277.liga</string>
+      <key>twenty-ethiopic</key>
+      <string>uni1373</string>
+      <key>two-ethiopic</key>
+      <string>uni136A</string>
+      <key>twosuperior</key>
+      <string>uni00B2</string>
+      <key>tza-ethiopic</key>
+      <string>uni1340</string>
+      <key>tza-ethiopic.liga</key>
+      <string>uni1340.liga</string>
+      <key>tzaa-ethiopic</key>
+      <string>uni1343</string>
+      <key>tzaa-ethiopic.liga</key>
+      <string>uni1343.liga</string>
+      <key>tze-ethiopic</key>
+      <string>uni1345</string>
+      <key>tze-ethiopic.liga</key>
+      <string>uni1345.liga</string>
+      <key>tzee-ethiopic</key>
+      <string>uni1344</string>
+      <key>tzee-ethiopic.liga</key>
+      <string>uni1344.liga</string>
+      <key>tzi-ethiopic</key>
+      <string>uni1342</string>
+      <key>tzi-ethiopic.liga</key>
+      <string>uni1342.liga</string>
+      <key>tzo-ethiopic</key>
+      <string>uni1346</string>
+      <key>tzo-ethiopic.liga</key>
+      <string>uni1346.liga</string>
+      <key>tzoa-ethiopic</key>
+      <string>uni1347</string>
+      <key>tzoa-ethiopic.liga</key>
+      <string>uni1347.liga</string>
+      <key>tzu-ethiopic</key>
+      <string>uni1341</string>
+      <key>tzu-ethiopic.liga</key>
+      <string>uni1341.liga</string>
+      <key>uGlottal-ethiopic</key>
+      <string>uni12A1</string>
+      <key>uGlottal-ethiopic.liga</key>
+      <string>uni12A1.liga</string>
+      <key>uPharyngeal-ethiopic</key>
+      <string>uni12D1</string>
+      <key>uPharyngeal-ethiopic.liga</key>
+      <string>uni12D1.liga</string>
+      <key>va-ethiopic</key>
+      <string>uni1268</string>
+      <key>va-ethiopic.liga</key>
+      <string>uni1268.liga</string>
+      <key>vaa-ethiopic</key>
+      <string>uni126B</string>
+      <key>vaa-ethiopic.liga</key>
+      <string>uni126B.liga</string>
+      <key>ve-ethiopic</key>
+      <string>uni126D</string>
+      <key>ve-ethiopic.liga</key>
+      <string>uni126D.liga</string>
+      <key>vee-ethiopic</key>
+      <string>uni126C</string>
+      <key>vee-ethiopic.liga</key>
+      <string>uni126C.liga</string>
+      <key>vi-ethiopic</key>
+      <string>uni126A</string>
+      <key>vi-ethiopic.liga</key>
+      <string>uni126A.liga</string>
+      <key>vo-ethiopic</key>
+      <string>uni126E</string>
+      <key>vo-ethiopic.liga</key>
+      <string>uni126E.liga</string>
+      <key>vowellengthcomb-ethiopic</key>
+      <string>uni135E</string>
+      <key>vu-ethiopic</key>
+      <string>uni1269</string>
+      <key>vu-ethiopic.liga</key>
+      <string>uni1269.liga</string>
+      <key>vwa-ethiopic</key>
+      <string>uni126F</string>
+      <key>vwa-ethiopic.liga</key>
+      <string>uni126F.liga</string>
+      <key>wa-ethiopic</key>
+      <string>uni12C8</string>
+      <key>wa-ethiopic.liga</key>
+      <string>uni12C8.liga</string>
+      <key>waGlottal-ethiopic</key>
+      <string>uni12A7</string>
+      <key>waGlottal-ethiopic.liga</key>
+      <string>uni12A7.liga</string>
+      <key>waa-ethiopic</key>
+      <string>uni12CB</string>
+      <key>waa-ethiopic.liga</key>
+      <string>uni12CB.liga</string>
+      <key>we-ethiopic</key>
+      <string>uni12CD</string>
+      <key>we-ethiopic.liga</key>
+      <string>uni12CD.liga</string>
+      <key>wee-ethiopic</key>
+      <string>uni12CC</string>
+      <key>wee-ethiopic.liga</key>
+      <string>uni12CC.liga</string>
+      <key>wi-ethiopic</key>
+      <string>uni12CA</string>
+      <key>wi-ethiopic.liga</key>
+      <string>uni12CA.liga</string>
+      <key>wo-ethiopic</key>
+      <string>uni12CE</string>
+      <key>wo-ethiopic.liga</key>
+      <string>uni12CE.liga</string>
+      <key>woa-ethiopic</key>
+      <string>uni12CF</string>
+      <key>woa-ethiopic.liga</key>
+      <string>uni12CF.liga</string>
+      <key>wordspace-ethiopic</key>
+      <string>uni1361</string>
+      <key>wu-ethiopic</key>
+      <string>uni12C9</string>
+      <key>wu-ethiopic.liga</key>
+      <string>uni12C9.liga</string>
+      <key>xa-ethiopic</key>
+      <string>uni1280</string>
+      <key>xa-ethiopic.liga</key>
+      <string>uni1280.liga</string>
+      <key>xaa-ethiopic</key>
+      <string>uni1283</string>
+      <key>xaa-ethiopic.liga</key>
+      <string>uni1283.liga</string>
+      <key>xe-ethiopic</key>
+      <string>uni1285</string>
+      <key>xe-ethiopic.liga</key>
+      <string>uni1285.liga</string>
+      <key>xee-ethiopic</key>
+      <string>uni1284</string>
+      <key>xee-ethiopic.liga</key>
+      <string>uni1284.liga</string>
+      <key>xi-ethiopic</key>
+      <string>uni1282</string>
+      <key>xi-ethiopic.liga</key>
+      <string>uni1282.liga</string>
+      <key>xo-ethiopic</key>
+      <string>uni1286</string>
+      <key>xo-ethiopic.liga</key>
+      <string>uni1286.liga</string>
+      <key>xoa-ethiopic</key>
+      <string>uni1287</string>
+      <key>xu-ethiopic</key>
+      <string>uni1281</string>
+      <key>xu-ethiopic.liga</key>
+      <string>uni1281.liga</string>
+      <key>xwa-ethiopic</key>
+      <string>uni1288</string>
+      <key>xwaa-ethiopic</key>
+      <string>uni128B</string>
+      <key>xwaa-ethiopic.liga</key>
+      <string>uni128B.liga</string>
+      <key>xwe-ethiopic</key>
+      <string>uni128D</string>
+      <key>xwee-ethiopic</key>
+      <string>uni128C</string>
+      <key>xwi-ethiopic</key>
+      <string>uni128A</string>
+      <key>ya-ethiopic</key>
+      <string>uni12E8</string>
+      <key>ya-ethiopic.liga</key>
+      <string>uni12E8.liga</string>
+      <key>yaa-ethiopic</key>
+      <string>uni12EB</string>
+      <key>yaa-ethiopic.liga</key>
+      <string>uni12EB.liga</string>
+      <key>ye-ethiopic</key>
+      <string>uni12ED</string>
+      <key>ye-ethiopic.liga</key>
+      <string>uni12ED.liga</string>
+      <key>yee-ethiopic</key>
+      <string>uni12EC</string>
+      <key>yee-ethiopic.liga</key>
+      <string>uni12EC.liga</string>
+      <key>yi-ethiopic</key>
+      <string>uni12EA</string>
+      <key>yi-ethiopic.liga</key>
+      <string>uni12EA.liga</string>
+      <key>yizet-ethiopic</key>
+      <string>uni1390</string>
+      <key>yo-ethiopic</key>
+      <string>uni12EE</string>
+      <key>yo-ethiopic.liga</key>
+      <string>uni12EE.liga</string>
+      <key>yoa-ethiopic</key>
+      <string>uni12EF</string>
+      <key>yoa-ethiopic.liga</key>
+      <string>uni12EF.liga</string>
+      <key>yu-ethiopic</key>
+      <string>uni12E9</string>
+      <key>yu-ethiopic.liga</key>
+      <string>uni12E9.liga</string>
+      <key>za-ethiopic</key>
+      <string>uni12D8</string>
+      <key>za-ethiopic.liga</key>
+      <string>uni12D8.liga</string>
+      <key>zaa-ethiopic</key>
+      <string>uni12DB</string>
+      <key>zaa-ethiopic.liga</key>
+      <string>uni12DB.liga</string>
+      <key>ze-ethiopic</key>
+      <string>uni12DD</string>
+      <key>ze-ethiopic.liga</key>
+      <string>uni12DD.liga</string>
+      <key>zee-ethiopic</key>
+      <string>uni12DC</string>
+      <key>zee-ethiopic.liga</key>
+      <string>uni12DC.liga</string>
+      <key>zerowidthspace</key>
+      <string>uni200B</string>
+      <key>zha-ethiopic</key>
+      <string>uni12E0</string>
+      <key>zha-ethiopic.liga</key>
+      <string>uni12E0.liga</string>
+      <key>zhaa-ethiopic</key>
+      <string>uni12E3</string>
+      <key>zhaa-ethiopic.liga</key>
+      <string>uni12E3.liga</string>
+      <key>zhe-ethiopic</key>
+      <string>uni12E5</string>
+      <key>zhe-ethiopic.liga</key>
+      <string>uni12E5.liga</string>
+      <key>zhee-ethiopic</key>
+      <string>uni12E4</string>
+      <key>zhee-ethiopic.liga</key>
+      <string>uni12E4.liga</string>
+      <key>zhi-ethiopic</key>
+      <string>uni12E2</string>
+      <key>zhi-ethiopic.liga</key>
+      <string>uni12E2.liga</string>
+      <key>zho-ethiopic</key>
+      <string>uni12E6</string>
+      <key>zho-ethiopic.liga</key>
+      <string>uni12E6.liga</string>
+      <key>zhu-ethiopic</key>
+      <string>uni12E1</string>
+      <key>zhu-ethiopic.liga</key>
+      <string>uni12E1.liga</string>
+      <key>zhwa-ethiopic</key>
+      <string>uni12E7</string>
+      <key>zhwa-ethiopic.liga</key>
+      <string>uni12E7.liga</string>
+      <key>zi-ethiopic</key>
+      <string>uni12DA</string>
+      <key>zi-ethiopic.liga</key>
+      <string>uni12DA.liga</string>
+      <key>zo-ethiopic</key>
+      <string>uni12DE</string>
+      <key>zo-ethiopic.liga</key>
+      <string>uni12DE.liga</string>
+      <key>zu-ethiopic</key>
+      <string>uni12D9</string>
+      <key>zu-ethiopic.liga</key>
+      <string>uni12D9.liga</string>
+      <key>zwa-ethiopic</key>
+      <string>uni12DF</string>
+      <key>zwa-ethiopic.liga</key>
+      <string>uni12DF.liga</string>
+    </dict>
+  </dict>
+</plist>

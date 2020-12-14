@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.neck.hha.caps" format="2">
+  <anchor x="-940" y="680" name="_smart..neck.hha.caps"/>
+  <anchor x="-980" y="681" name="_smart.neck.hha.caps"/>
+  <outline>
+    <contour>
+      <point x="-1086" y="678" type="line"/>
+      <point x="-917" y="678" type="line"/>
+      <point x="-760" y="1572" type="line"/>
+      <point x="-929" y="1572" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_cha.shoes.cap" format="2">
+  <advance width="1788"/>
+  <outline>
+    <component base="dotaccent" xOffset="230" yOffset="-1250"/>
+    <component base="dotaccent" xOffset="1060" yOffset="-1260"/>
+  </outline>
+</glyph>

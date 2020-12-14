@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="la.base" format="2">
+  <advance width="1121"/>
+  <anchor x="927" y="-40" name="haa"/>
+  <anchor x="796" y="110" name="hee"/>
+  <anchor x="991" y="50" name="hi"/>
+  <anchor x="1058" y="1248" name="ho.ring"/>
+  <anchor x="261" y="320" name="ho.ring.uniq"/>
+  <anchor x="989" y="667" name="hu"/>
+  <anchor x="931" y="-34" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="172" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="226" y="693" type="line"/>
+      <point x="274" y="902"/>
+      <point x="420.333" y="1049"/>
+      <point x="607" y="1049" type="curve" smooth="yes"/>
+      <point x="809.667" y="1049"/>
+      <point x="900" y="940"/>
+      <point x="900" y="708" type="curve" smooth="yes"/>
+      <point x="900" y="0" type="line"/>
+      <point x="954" y="0" type="line"/>
+      <point x="954" y="706" type="line" smooth="yes"/>
+      <point x="954" y="971"/>
+      <point x="842" y="1102"/>
+      <point x="610" y="1102" type="curve" smooth="yes"/>
+      <point x="443.333" y="1102"/>
+      <point x="296.667" y="998"/>
+      <point x="226" y="830" type="curve"/>
+      <point x="226" y="1536" type="line"/>
+      <point x="172" y="1536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

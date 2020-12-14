@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddu-ethiopic" format="2">
+  <advance width="1040"/>
+  <unicode hex="12F9"/>
+  <anchor x="-310" y="44" name="da"/>
+  <anchor x="353" y="-109" name="di"/>
+  <anchor x="355" y="114" name="du"/>
+  <anchor x="495" y="10" name="haa"/>
+  <anchor x="-33" y="-15" name="haa.acute"/>
+  <anchor x="472" y="1341" name="hat"/>
+  <anchor x="1021" y="756" name="he"/>
+  <anchor x="14" y="480" name="he.left.outer"/>
+  <anchor x="447" y="51" name="hee"/>
+  <anchor x="607" y="11" name="hha"/>
+  <anchor x="471" y="-309" name="hi"/>
+  <anchor x="-184" y="0" name="ho"/>
+  <anchor x="484" y="159" name="hu"/>
+  <anchor x="453" y="10" name="hwa"/>
+  <anchor x="464" y="1112" name="neck"/>
+  <anchor x="-15" y="57" name="ye"/>
+  <outline>
+    <component base="ya.base"/>
+    <component base="_smart.da" xOffset="-81" yOffset="-112"/>
+    <component base="_smart.du" xOffset="528" yOffset="-110"/>
+    <component base="_smart.neck" xOffset="658" yOffset="1136"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.da</key>
+      <integer>1</integer>
+      <key>_smart.du</key>
+      <integer>1</integer>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

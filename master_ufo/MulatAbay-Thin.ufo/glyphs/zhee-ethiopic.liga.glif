@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhee-ethiopic.liga" format="2">
+  <advance width="1438"/>
+  <anchor x="1210" y="-27" name="haa"/>
+  <anchor x="1105" y="77" name="hee"/>
+  <anchor x="1248.893" y="59.0" name="hi"/>
+  <anchor x="225" y="-58" name="ho"/>
+  <anchor x="1260.712" y="1001.0" name="hu"/>
+  <anchor x="1207" y="-37" name="hwa"/>
+  <anchor x="1071.605" y="1455.0" name="zha.caps"/>
+  <outline>
+    <component base="za.base.cap"/>
+    <component base="_smart.hee" xOffset="1100" yOffset="-251"/>
+    <component base="_smart.zha.caps" xOffset="1079" yOffset="499"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee.cap</key>
+      <integer>1</integer>
+      <key>_smart.zha.caps.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

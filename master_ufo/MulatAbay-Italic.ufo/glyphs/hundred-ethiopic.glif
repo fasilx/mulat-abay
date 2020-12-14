@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hundred-ethiopic" format="2">
+  <advance width="1391"/>
+  <unicode hex="137B"/>
+  <outline>
+    <contour>
+      <point x="73" y="0" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="361" y="561" type="line"/>
+      <point x="423" y="473"/>
+      <point x="519" y="429"/>
+      <point x="652" y="429" type="curve" smooth="yes"/>
+      <point x="905" y="429"/>
+      <point x="1104" y="626"/>
+      <point x="1153" y="909" type="curve" smooth="yes"/>
+      <point x="1206" y="1209"/>
+      <point x="1065" y="1404"/>
+      <point x="790" y="1404" type="curve" smooth="yes"/>
+      <point x="511" y="1404"/>
+      <point x="279" y="1167"/>
+      <point x="220" y="830" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="648" y="583" type="curve" smooth="yes"/>
+      <point x="521" y="583"/>
+      <point x="418" y="668"/>
+      <point x="397" y="783" type="curve"/>
+      <point x="409" y="851" type="line" smooth="yes"/>
+      <point x="452" y="1091"/>
+      <point x="602" y="1251"/>
+      <point x="763" y="1251" type="curve" smooth="yes"/>
+      <point x="930" y="1251"/>
+      <point x="1007" y="1117"/>
+      <point x="972" y="918" type="curve" smooth="yes"/>
+      <point x="937" y="718"/>
+      <point x="808" y="583"/>
+    </contour>
+    <component base="_num.bar" xOffset="132" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>six</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>three</string>
+    </dict>
+  </lib>
+</glyph>

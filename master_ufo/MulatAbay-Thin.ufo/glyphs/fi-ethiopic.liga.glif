@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi-ethiopic.liga" format="2">
+  <advance width="1057"/>
+  <anchor x="665" y="91" name="fa"/>
+  <anchor x="614" y="3" name="haa"/>
+  <anchor x="603" y="-4" name="haa.acute"/>
+  <anchor x="303.096" y="1360.0" name="hat.left"/>
+  <anchor x="990" y="20" name="hee"/>
+  <outline>
+    <contour>
+      <point x="1021" y="10" type="line"/>
+      <point x="832" y="276" type="line"/>
+      <point x="766" y="276" type="line"/>
+      <point x="961" y="10" type="line"/>
+    </contour>
+    <component base="ra.base.cap"/>
+    <component base="_smart.fa" xOffset="232" yOffset="37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.fa.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

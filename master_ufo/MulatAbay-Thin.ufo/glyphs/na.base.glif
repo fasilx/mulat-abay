@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="na.base" format="2">
+  <advance width="952"/>
+  <anchor x="695" y="71" name="fa"/>
+  <anchor x="869" y="-17" name="haa"/>
+  <anchor x="568.453" y="-11" name="haa.acute"/>
+  <anchor x="558" y="1278" name="hat"/>
+  <anchor x="490" y="943" name="hat.left"/>
+  <anchor x="127" y="815" name="he.left"/>
+  <anchor x="58.697" y="568" name="he.left.outer"/>
+  <anchor x="882" y="590" name="hee"/>
+  <anchor x="744" y="999" name="ho.ring"/>
+  <anchor x="868" y="-15" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="567" y="-20" type="curve" smooth="yes"/>
+      <point x="769" y="-20"/>
+      <point x="766" y="-21"/>
+      <point x="896" y="-21" type="curve"/>
+      <point x="896" y="32" type="line"/>
+      <point x="791" y="32"/>
+      <point x="739" y="34"/>
+      <point x="547" y="34" type="curve" smooth="yes"/>
+      <point x="276" y="34"/>
+      <point x="240" y="270"/>
+      <point x="240" y="517" type="curve" smooth="yes"/>
+      <point x="240" y="1082" type="line"/>
+      <point x="185" y="1082" type="line"/>
+      <point x="185" y="524" type="line" smooth="yes"/>
+      <point x="185" y="187"/>
+      <point x="274" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>x</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyaa-ethiopic" format="2">
+  <advance width="952"/>
+  <unicode hex="129B"/>
+  <anchor x="695" y="71" name="fa"/>
+  <anchor x="869" y="-17" name="haa"/>
+  <anchor x="568.453" y="-11.0" name="haa.acute"/>
+  <anchor x="558" y="1278" name="hat"/>
+  <anchor x="490" y="943" name="hat.left"/>
+  <anchor x="127" y="815" name="he.left"/>
+  <anchor x="58.697" y="568.0" name="he.left.outer"/>
+  <anchor x="882" y="590" name="hee"/>
+  <anchor x="744" y="999" name="ho.ring"/>
+  <anchor x="868" y="-15" name="hwa"/>
+  <outline>
+    <component base="na.base"/>
+    <component base="_smart.haa" xOffset="861" yOffset="-355"/>
+    <component base="_smart.hat" xOffset="577" yOffset="1166"/>
+    <component base="_smart.hat.left" xOffset="485" yOffset="931"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.hat.left</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

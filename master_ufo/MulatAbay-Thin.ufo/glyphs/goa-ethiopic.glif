@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="goa-ethiopic" format="2">
+  <advance width="762"/>
+  <unicode hex="130F"/>
+  <anchor x="690" y="21" name="haa"/>
+  <anchor x="564" y="0" name="haa.acute"/>
+  <anchor x="337" y="1367" name="hat"/>
+  <anchor x="231" y="1176" name="hat.left"/>
+  <anchor x="741.876" y="91" name="he.left.outer"/>
+  <anchor x="572" y="40" name="hee"/>
+  <anchor x="629" y="50" name="hi"/>
+  <anchor x="390" y="868" name="ho.ring"/>
+  <anchor x="621" y="638" name="hu"/>
+  <anchor x="594" y="0" name="hwa"/>
+  <anchor x="244" y="1102" name="neck"/>
+  <anchor x="86" y="1037" name="neck.left"/>
+  <anchor x="-4" y="1235" name="nose"/>
+  <outline>
+    <component base="ga.base"/>
+    <component base="_smart.hat" xOffset="446" yOffset="-135"/>
+    <component base="_smart.haa" xOffset="682" yOffset="-317"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hat</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

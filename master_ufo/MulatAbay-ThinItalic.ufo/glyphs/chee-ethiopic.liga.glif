@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chee-ethiopic.liga" format="2">
+  <advance width="1756"/>
+  <anchor x="534" y="20" name="cha.caps"/>
+  <anchor x="1296" y="-27" name="haa"/>
+  <anchor x="786" y="6" name="haa.acute"/>
+  <anchor x="813" y="1420" name="he.acute.top"/>
+  <anchor x="1262" y="54" name="hee"/>
+  <anchor x="1431" y="50" name="hi"/>
+  <anchor x="23" y="-48" name="ho"/>
+  <anchor x="1617" y="1081" name="hu"/>
+  <anchor x="1336" y="-9" name="hwa"/>
+  <anchor x="857" y="1087" name="neck.hha.caps"/>
+  <outline>
+    <component base="hha.base.cap"/>
+    <component base="_smart.hee" xOffset="1390" yOffset="-274"/>
+    <component base="_smart.cha.caps" xOffset="724" yOffset="-14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.cha.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.hee.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>M</string>
+    </dict>
+  </lib>
+</glyph>

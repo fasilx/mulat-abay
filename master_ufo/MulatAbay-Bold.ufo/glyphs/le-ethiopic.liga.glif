@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="le-ethiopic.liga" format="2">
+  <advance width="1338"/>
+  <anchor x="1204" y="12" name="haa"/>
+  <anchor x="1178" y="71" name="hee"/>
+  <anchor x="1240" y="135" name="hi"/>
+  <anchor x="1266" y="1076" name="ho.ring"/>
+  <anchor x="174" y="163" name="ho.ring.uniq"/>
+  <anchor x="864" y="1081" name="hu"/>
+  <anchor x="1207" y="-35" name="hwa"/>
+  <outline>
+    <component base="la.base.cap"/>
+    <component base="_smart.ho.ring.uniq" xOffset="1046" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho.ring.uniq.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

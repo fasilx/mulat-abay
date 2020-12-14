@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fe-ethiopic" format="2">
+  <advance width="1036"/>
+  <unicode hex="134D"/>
+  <anchor x="516" y="71" name="fa"/>
+  <anchor x="400" y="-13" name="haa"/>
+  <anchor x="375" y="-11" name="haa.acute"/>
+  <anchor x="439" y="1051" name="hat"/>
+  <anchor x="794" y="590" name="hee"/>
+  <anchor x="685" y="985" name="ho.ring"/>
+  <anchor x="445" y="4" name="hwa"/>
+  <outline>
+    <component base="ra.base"/>
+    <component base="_smart.fa" xOffset="264" yOffset="17"/>
+    <component base="_smart.hat" xOffset="629" yOffset="939"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.fa</key>
+      <integer>1</integer>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

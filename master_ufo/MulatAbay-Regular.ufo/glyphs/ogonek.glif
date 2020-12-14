@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek" format="2">
+  <advance width="554"/>
+  <unicode hex="02DB"/>
+  <note>
+uni02DB
+</note>
+  <outline>
+    <contour>
+      <point x="242" y="-433" type="curve" smooth="yes"/>
+      <point x="302" y="-433"/>
+      <point x="355.333" y="-418.333"/>
+      <point x="402" y="-389" type="curve"/>
+      <point x="389" y="-268" type="line"/>
+      <point x="354.333" y="-285.333"/>
+      <point x="321" y="-294"/>
+      <point x="289" y="-294" type="curve" smooth="yes"/>
+      <point x="237" y="-294"/>
+      <point x="211" y="-270"/>
+      <point x="211" y="-222" type="curve" smooth="yes"/>
+      <point x="211" y="-164.667"/>
+      <point x="248.667" y="-105.667"/>
+      <point x="382" y="0" type="curve"/>
+      <point x="307" y="56" type="line"/>
+      <point x="143" y="-18.667"/>
+      <point x="50" y="-124.333"/>
+      <point x="50" y="-243" type="curve" smooth="yes"/>
+      <point x="50" y="-357.667"/>
+      <point x="123.333" y="-433"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 3 values pushed */
+5 17 18 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHB[ ]	/* 1 value pushed */
+16 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHB[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHB[ ]	/* 1 value pushed */
+10 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHB[ ]	/* 2 values pushed */
+10 20 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 2 values pushed */
+5 3 
+PUSHB[ ]	/* 1 value pushed */
+10 
+CALL[ ]	/* CallFunction */
+IF[ ]	/* If */
+POP[ ]	/* PopTopStack */
+MDRP[11000]	/* MoveDirectRelPt */
+ELSE[ ]	/* Else */
+MIRP[10100]	/* MoveIndirectRelPt */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 9 values pushed */
+15 16 31 16 47 16 63 16 4 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

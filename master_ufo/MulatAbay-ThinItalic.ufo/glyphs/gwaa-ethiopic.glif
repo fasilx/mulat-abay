@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gwaa-ethiopic" format="2">
+  <advance width="762"/>
+  <unicode hex="1313"/>
+  <anchor x="503" y="21" name="haa"/>
+  <anchor x="373" y="0" name="haa.acute"/>
+  <anchor x="387" y="1367" name="hat"/>
+  <anchor x="248" y="1176" name="hat.left"/>
+  <anchor x="567" y="91" name="he.left.outer"/>
+  <anchor x="388" y="40" name="hee"/>
+  <anchor x="447" y="50" name="hi"/>
+  <anchor x="352" y="868" name="ho.ring"/>
+  <anchor x="543" y="638" name="hu"/>
+  <anchor x="403" y="0" name="hwa"/>
+  <anchor x="248" y="1102" name="neck"/>
+  <anchor x="78" y="1037" name="neck.left"/>
+  <anchor x="23" y="1235" name="nose"/>
+  <outline>
+    <contour>
+      <point x="350" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="530" y="706" type="line" smooth="yes"/>
+      <point x="575" y="971"/>
+      <point x="487" y="1102"/>
+      <point x="255" y="1102" type="curve" smooth="yes"/>
+      <point x="184" y="1102"/>
+      <point x="114" y="1083"/>
+      <point x="49" y="1049" type="curve"/>
+      <point x="81" y="1012" type="line"/>
+      <point x="132" y="1036"/>
+      <point x="186" y="1049"/>
+      <point x="242" y="1049" type="curve" smooth="yes"/>
+      <point x="445" y="1049"/>
+      <point x="516" y="940"/>
+      <point x="475" y="708" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-27" y="-26" type="line"/>
+      <point x="488" y="-26" type="line"/>
+      <point x="495" y="18" type="line"/>
+      <point x="-20" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="-335" type="line"/>
+      <point x="467" y="-335" type="line"/>
+      <point x="530" y="19" type="line"/>
+      <point x="473" y="19" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

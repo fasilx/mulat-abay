@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ga.base.cap" format="2">
+  <advance width="981"/>
+  <anchor x="649" y="8" name="haa.acute"/>
+  <anchor x="328" y="1633" name="hat.caps"/>
+  <anchor x="80.324" y="1305" name="he.ring.uniq"/>
+  <anchor x="672.315" y="11" name="hee"/>
+  <anchor x="830" y="135" name="hi"/>
+  <anchor x="388.604" y="1464" name="ho"/>
+  <anchor x="467" y="1315" name="ho.ring"/>
+  <anchor x="803.181" y="955" name="hu"/>
+  <anchor x="353.64" y="1463" name="neck.caps"/>
+  <anchor x="132" y="1442" name="neck.left.caps"/>
+  <anchor x="-37" y="1625" name="nose"/>
+  <outline>
+    <contour>
+      <point x="549" y="0" type="line"/>
+      <point x="849" y="0" type="line"/>
+      <point x="849" y="1354" type="line" smooth="yes"/>
+      <point x="849" y="1413"/>
+      <point x="806" y="1456"/>
+      <point x="747" y="1456" type="curve" smooth="yes"/>
+      <point x="22" y="1456" type="line"/>
+      <point x="22" y="1215" type="line"/>
+      <point x="549" y="1215" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+    </dict>
+  </lib>
+</glyph>

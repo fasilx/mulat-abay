@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rya-ethiopic" format="2">
+  <advance width="984"/>
+  <unicode hex="1358"/>
+  <anchor x="538" y="101" name="fa"/>
+  <anchor x="389" y="-13" name="haa"/>
+  <anchor x="364" y="-11" name="haa.acute"/>
+  <anchor x="561" y="961" name="hat"/>
+  <anchor x="1000" y="759" name="hee"/>
+  <anchor x="842" y="830" name="ho.ring"/>
+  <anchor x="474" y="4" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="8" y="1082" type="line"/>
+      <point x="560" y="1082" type="line"/>
+      <point x="580" y="1194" type="line"/>
+      <point x="28" y="1194" type="line"/>
+    </contour>
+    <component base="ra.base"/>
+    <component base="acute" xScale="-1" xOffset="1147" yOffset="-930"/>
+  </outline>
+</glyph>

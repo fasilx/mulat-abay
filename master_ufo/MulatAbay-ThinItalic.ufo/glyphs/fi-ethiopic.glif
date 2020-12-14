@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi-ethiopic" format="2">
+  <advance width="1106"/>
+  <unicode hex="134A"/>
+  <anchor x="516" y="71" name="fa"/>
+  <anchor x="400" y="-13" name="haa"/>
+  <anchor x="375" y="-11" name="haa.acute"/>
+  <anchor x="439" y="1051" name="hat"/>
+  <anchor x="794" y="590" name="hee"/>
+  <anchor x="685" y="985" name="ho.ring"/>
+  <anchor x="445" y="4" name="hwa"/>
+  <outline>
+    <component base="ra.base"/>
+    <component base="_smart.hi" xOffset="802" yOffset="225"/>
+    <component base="_smart.fa" xOffset="264" yOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.fa</key>
+      <integer>1</integer>
+      <key>_smart.hi</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hi</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
