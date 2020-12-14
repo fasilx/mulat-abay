@@ -15,3 +15,6 @@ do
 	if [ -f "$font.fix" ]; then mv "$font.fix" $font; fi
 done
 
+
+
+
