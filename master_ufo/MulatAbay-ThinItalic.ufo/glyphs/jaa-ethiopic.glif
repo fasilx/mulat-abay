@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jaa-ethiopic" format="2">
-  <advance width="1160"/>
+  <advance width="1128"/>
   <unicode hex="1303"/>
-  <anchor x="-250" y="44" name="da"/>
-  <anchor x="413" y="-109" name="di"/>
-  <anchor x="415" y="114" name="du"/>
-  <anchor x="555" y="10" name="haa"/>
-  <anchor x="27" y="-15" name="haa.acute"/>
-  <anchor x="532" y="1341" name="hat"/>
-  <anchor x="1081" y="756" name="he"/>
-  <anchor x="354" y="1070" name="he.left.outer"/>
-  <anchor x="507" y="51" name="hee"/>
-  <anchor x="667" y="11" name="hha"/>
-  <anchor x="531" y="-309" name="hi"/>
-  <anchor x="-124" y="0" name="ho"/>
-  <anchor x="544" y="159" name="hu"/>
-  <anchor x="548" y="-50" name="hwa"/>
-  <anchor x="524" y="1112" name="neck"/>
-  <anchor x="45" y="57" name="ye"/>
+  <anchor x="-176" y="44" name="da"/>
+  <anchor x="487" y="-109" name="di"/>
+  <anchor x="489" y="114" name="du"/>
+  <anchor x="629" y="10" name="haa"/>
+  <anchor x="101" y="-15" name="haa.acute"/>
+  <anchor x="606" y="1341" name="hat"/>
+  <anchor x="1155" y="756" name="he"/>
+  <anchor x="428" y="1070" name="he.left.outer"/>
+  <anchor x="581" y="51" name="hee"/>
+  <anchor x="741" y="11" name="hha"/>
+  <anchor x="605" y="-309" name="hi"/>
+  <anchor x="-50" y="0" name="ho"/>
+  <anchor x="618" y="159" name="hu"/>
+  <anchor x="622" y="-50" name="hwa"/>
+  <anchor x="598" y="1112" name="neck"/>
+  <anchor x="119" y="57" name="ye"/>
   <outline>
     <component base="ya.base"/>
-    <component base="_smart.da" xOffset="-21" yOffset="-112"/>
-    <component base="_smart.neck" xOffset="718" yOffset="1136"/>
-    <component base="_smart.hat" xOffset="722" yOffset="1229"/>
-    <component base="_smart.haa" xOffset="678" yOffset="-328"/>
+    <component base="_smart.da" xOffset="53" yOffset="-112"/>
+    <component base="_smart.neck" xOffset="792" yOffset="1136"/>
+    <component base="_smart.hat" xOffset="796" yOffset="1229"/>
+    <component base="_smart.haa" xOffset="752" yOffset="-328"/>
   </outline>
   <lib>
     <dict>

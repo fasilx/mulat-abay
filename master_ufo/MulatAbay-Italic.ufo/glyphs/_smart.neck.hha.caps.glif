@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_smart.neck.hha.caps" format="2">
+  <anchor x="-869" y="680" name="_neck.hha.caps"/>
   <anchor x="-940" y="680" name="_smart..neck.hha.caps"/>
   <anchor x="-980" y="681" name="_smart.neck.hha.caps"/>
   <outline>

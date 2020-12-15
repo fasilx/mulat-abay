@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="xe-ethiopic" format="2">
-  <advance width="943"/>
+  <advance width="823"/>
   <unicode hex="1285"/>
-  <anchor x="810" y="21" name="haa"/>
-  <anchor x="684" y="0" name="haa.acute"/>
-  <anchor x="457" y="1367" name="hat"/>
-  <anchor x="351" y="1176" name="hat.left"/>
-  <anchor x="862" y="91" name="he.left.outer"/>
-  <anchor x="692" y="40" name="hee"/>
-  <anchor x="749" y="50" name="hi"/>
-  <anchor x="510" y="868" name="ho.ring"/>
-  <anchor x="120" y="1093" name="ho.ring.uniq"/>
-  <anchor x="741" y="638" name="hu"/>
-  <anchor x="714" y="0" name="hwa"/>
-  <anchor x="364" y="1102" name="neck"/>
-  <anchor x="204" y="1041" name="neck.left"/>
-  <anchor x="116" y="1235" name="nose"/>
-  <anchor x="578" y="1010" name="ring"/>
-  <anchor x="512" y="1" name="xwaa"/>
+  <anchor x="780" y="21" name="haa"/>
+  <anchor x="651" y="-60" name="haa.acute"/>
+  <anchor x="427" y="1367" name="hat"/>
+  <anchor x="321" y="1176" name="hat.left"/>
+  <anchor x="616" y="701" name="he.left.outer"/>
+  <anchor x="662" y="40" name="hee"/>
+  <anchor x="719" y="50" name="hi"/>
+  <anchor x="480" y="868" name="ho.ring"/>
+  <anchor x="90" y="1093" name="ho.ring.uniq"/>
+  <anchor x="711" y="638" name="hu"/>
+  <anchor x="684" y="0" name="hwa"/>
+  <anchor x="334" y="1102" name="neck"/>
+  <anchor x="174" y="1041" name="neck.left"/>
+  <anchor x="86" y="1235" name="nose"/>
+  <anchor x="548" y="1010" name="ring"/>
+  <anchor x="482" y="1" name="xwaa"/>
   <outline>
     <contour>
       <point x="-1" y="1061" type="line"/>

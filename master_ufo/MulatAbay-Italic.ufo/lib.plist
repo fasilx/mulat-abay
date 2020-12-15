@@ -217,7 +217,7 @@
     </dict>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
-      <string>/ne-ethiopic</string>
+      <string>/ga.base/ne-ethiopic</string>
       <string>/na.base/naa-ethiopic</string>
       <string>/na.base/naa-ethiopic</string>
       <string>/na.base/nwa-ethiopic</string>
@@ -229,7 +229,7 @@
       <string>/kee-ethiopic/ka-ethiopic/ku-ethiopic/ki-ethiopic/kaa-ethiopic/ke-ethiopic/ko-ethiopic/koa-ethiopic/kwa-ethiopic/kwi-ethiopic/kwaa-ethiopic/kwee-ethiopic/kwe-ethiopic/kxa-ethiopic/kxu-ethiopic/kxi-ethiopic/kxaa-ethiopic/kxee-ethiopic/kxe-ethiopic/kxo-ethiopic/kxwa-ethiopic/kxwi-ethiopic/kxwaa-ethiopic/kxwee-ethiopic/kxwe-ethiopic</string>
       <string>/_smart.ka.caps/ku-ethiopic.liga</string>
       <string>/ga.base/ge-ethiopic</string>
-      <string>/nye-ethiopic</string>
+      <string>/ga.base/nye-ethiopic</string>
       <string>/_smart.hwa</string>
       <string>/ha.base/hha.base</string>
       <string>/wa.base.cap</string>
@@ -355,7 +355,7 @@
       <string>/la.base/eGlottal-ethiopic</string>
       <string>/la.base/lo-ethiopic</string>
       <string>/ra.base/fi-ethiopic</string>
-      <string>/fi-ethiopic</string>
+      <string>/_smart.ri/fi-ethiopic</string>
       <string>/ra.base/fo-ethiopic</string>
       <string>/fo-ethiopic</string>
       <string></string>
@@ -426,6 +426,42 @@
       <string>/_smart.du/du-ethiopic</string>
       <string>/abesha.base</string>
       <string>/abesha.base/eGlottal-ethiopic</string>
+      <string>/ga.base/ge-ethiopic</string>
+      <string>/ga.base/ge-ethiopic</string>
+      <string>/_smart.ho.ring.uniq/ge-ethiopic</string>
+      <string>/ga.base/ge-ethiopic</string>
+      <string>/ga.base/ge-ethiopic</string>
+      <string>/ga.base/ge-ethiopic</string>
+      <string>/ge-ethiopic</string>
+      <string>/ra.base/faa-ethiopic</string>
+      <string>/_smart.ri/fi-ethiopic</string>
+      <string>/ra.base/fu-ethiopic</string>
+      <string>/ne-ethiopic/nye-ethiopic</string>
+      <string>/ga.base/ne-ethiopic</string>
+      <string>/ga.base/ne-ethiopic</string>
+      <string>/sectionmark-ethiopic</string>
+      <string>/abesha.base/eGlottal-ethiopic</string>
+      <string>/ne-ethiopic</string>
+      <string>/hha.base.cap/hha-ethiopic.liga</string>
+      <string>/hha.base.cap/hha-ethiopic.liga</string>
+      <string>/hha.base.cap/hha-ethiopic.liga</string>
+      <string>/_smart.neck.hha.caps/hha-ethiopic.liga</string>
+      <string>/_smart.neck.hha.caps/hhu-ethiopic.liga</string>
+      <string>/hha.base.cap/hha-ethiopic.liga</string>
+      <string>/hha-ethiopic.liga</string>
+      <string>/hha.base.cap/hhaa-ethiopic.liga</string>
+      <string>/_smart.fa/fa-ethiopic</string>
+      <string>/_smart.fa/fa-ethiopic</string>
+      <string>/_smart.fa/fa-ethiopic</string>
+      <string>/fa-ethiopic</string>
+      <string>/_smart.fa</string>
+      <string>/fa-ethiopic.liga</string>
+      <string>/ra.base.cap/fu-ethiopic.liga</string>
+      <string>/lo-ethiopic</string>
+      <string>/xaa-ethiopic/qaa-ethiopic/qhaa-ethiopic/taa-ethiopic/caa-ethiopic/wo-ethiopic/oPharyngeal-ethiopic/yaa-ethiopic/gaa-ethiopic/ggaa-ethiopic/tzo-ethiopic/fu-ethiopic/po-ethiopic/szo-ethiopic.liga/qaa-ethiopic.liga/qhaa-ethiopic.liga/taa-ethiopic.liga/caa-ethiopic.liga/xaa-ethiopic.liga/wo-ethiopic.liga/oPharyngeal-ethiopic.liga/gaa-ethiopic.liga/ggaa-ethiopic.liga/the-ethiopic.liga/che-ethiopic.liga/tzo-ethiopic.liga/fu-ethiopic.liga/po-ethiopic.liga</string>
+      <string>/ga.base/xaa-ethiopic</string>
+      <string>/ga.base/xaa-ethiopic</string>
+      <string>/xaa-ethiopic/qaa-ethiopic/qhaa-ethiopic/taa-ethiopic/caa-ethiopic/wo-ethiopic/oPharyngeal-ethiopic/yaa-ethiopic/gaa-ethiopic/ggaa-ethiopic/tzo-ethiopic/fu-ethiopic/po-ethiopic/szo-ethiopic.liga/qaa-ethiopic.liga/qhaa-ethiopic.liga/taa-ethiopic.liga/caa-ethiopic.liga/xaa-ethiopic.liga/wo-ethiopic.liga/oPharyngeal-ethiopic.liga/gaa-ethiopic.liga/ggaa-ethiopic.liga/the-ethiopic.liga/che-ethiopic.liga/tzo-ethiopic.liga/fu-ethiopic.liga/po-ethiopic.liga</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Get Hints From Master</key>
     <string>m002</string>

@@ -1,40 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ga.base" format="2">
-  <advance width="883"/>
-  <anchor x="563" y="21" name="haa"/>
-  <anchor x="433" y="0" name="haa.acute"/>
-  <anchor x="447" y="1367" name="hat"/>
-  <anchor x="308" y="1176" name="hat.left"/>
-  <anchor x="627" y="91" name="he.left.outer"/>
-  <anchor x="448" y="40" name="hee"/>
-  <anchor x="507" y="50" name="hi"/>
-  <anchor x="412" y="868" name="ho.ring"/>
-  <anchor x="110" y="1152" name="ho.ring.uniq"/>
-  <anchor x="603" y="638" name="hu"/>
-  <anchor x="463" y="0" name="hwa"/>
-  <anchor x="308" y="1102" name="neck"/>
-  <anchor x="137" y="1041" name="neck.left"/>
-  <anchor x="83" y="1235" name="nose"/>
-  <anchor x="478" y="1060" name="ring"/>
-  <anchor x="452" y="1" name="xwaa"/>
+  <advance width="814"/>
+  <anchor x="554" y="21" name="haa"/>
+  <anchor x="413" y="-45" name="haa.acute"/>
+  <anchor x="438" y="1367" name="hat"/>
+  <anchor x="299" y="1176" name="hat.left"/>
+  <anchor x="503" y="630" name="he.left.outer"/>
+  <anchor x="439" y="40" name="hee"/>
+  <anchor x="498" y="50" name="hi"/>
+  <anchor x="403" y="868" name="ho.ring"/>
+  <anchor x="101" y="1152" name="ho.ring.uniq"/>
+  <anchor x="594" y="638" name="hu"/>
+  <anchor x="454" y="0" name="hwa"/>
+  <anchor x="299" y="1102" name="neck"/>
+  <anchor x="128" y="1041" name="neck.left"/>
+  <anchor x="74" y="1235" name="nose"/>
+  <anchor x="469" y="1060" name="ring"/>
+  <anchor x="443" y="1" name="xwaa"/>
   <outline>
     <contour>
-      <point x="410" y="0" type="line"/>
-      <point x="465" y="0" type="line"/>
-      <point x="590" y="706" type="line" smooth="yes"/>
-      <point x="637" y="971"/>
-      <point x="547" y="1102"/>
-      <point x="315" y="1102" type="curve" smooth="yes"/>
-      <point x="244" y="1102"/>
-      <point x="174" y="1083"/>
-      <point x="109" y="1049" type="curve"/>
-      <point x="141" y="1012" type="line"/>
-      <point x="192" y="1036"/>
-      <point x="246" y="1049"/>
-      <point x="302" y="1049" type="curve" smooth="yes"/>
-      <point x="505" y="1049"/>
-      <point x="576" y="940"/>
-      <point x="535" y="708" type="curve" smooth="yes"/>
+      <point x="401" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="581" y="706" type="line" smooth="yes"/>
+      <point x="628" y="971"/>
+      <point x="538" y="1102"/>
+      <point x="306" y="1102" type="curve" smooth="yes"/>
+      <point x="235" y="1102"/>
+      <point x="165" y="1083"/>
+      <point x="100" y="1049" type="curve"/>
+      <point x="132" y="1012" type="line"/>
+      <point x="183" y="1036"/>
+      <point x="237" y="1049"/>
+      <point x="293" y="1049" type="curve" smooth="yes"/>
+      <point x="496" y="1049"/>
+      <point x="567" y="940"/>
+      <point x="526" y="708" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
 </glyph>

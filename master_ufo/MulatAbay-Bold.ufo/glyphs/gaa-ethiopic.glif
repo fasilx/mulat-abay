@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gaa-ethiopic" format="2">
-  <advance width="1071"/>
+  <advance width="934"/>
   <unicode hex="130B"/>
-  <anchor x="929" y="17" name="haa"/>
-  <anchor x="706" y="2" name="haa.acute"/>
-  <anchor x="381" y="1367" name="hat"/>
-  <anchor x="239" y="1246" name="hat.left"/>
-  <anchor x="1050" y="91" name="he.left.outer"/>
-  <anchor x="771" y="53" name="hee"/>
-  <anchor x="879" y="120" name="hi"/>
-  <anchor x="560" y="755" name="ho.ring"/>
-  <anchor x="195" y="1252" name="ho.ring.uniq"/>
-  <anchor x="861" y="638" name="hu"/>
-  <anchor x="763" y="0" name="hwa"/>
-  <anchor x="421" y="1102" name="neck"/>
-  <anchor x="183" y="877" name="neck.left"/>
-  <anchor x="59" y="1235" name="nose"/>
-  <anchor x="415" y="1050" name="ring"/>
-  <anchor x="548.236" y="1.0" name="xwaa"/>
+  <anchor x="852" y="17" name="haa"/>
+  <anchor x="624" y="-40" name="haa.acute"/>
+  <anchor x="304" y="1367" name="hat"/>
+  <anchor x="162" y="1246" name="hat.left"/>
+  <anchor x="618" y="539" name="he.left.outer"/>
+  <anchor x="694" y="53" name="hee"/>
+  <anchor x="802" y="120" name="hi"/>
+  <anchor x="373" y="585" name="ho.ring"/>
+  <anchor x="118" y="1252" name="ho.ring.uniq"/>
+  <anchor x="784" y="638" name="hu"/>
+  <anchor x="686" y="0" name="hwa"/>
+  <anchor x="344" y="1102" name="neck"/>
+  <anchor x="106" y="877" name="neck.left"/>
+  <anchor x="-18" y="1235" name="nose"/>
+  <anchor x="338" y="1050" name="ring"/>
+  <anchor x="471" y="1" name="xwaa"/>
   <outline>
     <component base="ga.base"/>
-    <component base="_smart.haa.acute" xOffset="707" yOffset="5"/>
+    <component base="_smart.haa.acute" xOffset="625" yOffset="-37"/>
   </outline>
   <lib>
     <dict>

@@ -10,7 +10,7 @@
   <anchor x="54" y="-48" name="ho"/>
   <anchor x="1622" y="1081" name="hu"/>
   <anchor x="1325" y="-48" name="hwa"/>
-  <anchor x="940" y="1082" name="neck.hha.caps"/>
+  <anchor x="990" y="832" name="neck.hha.caps"/>
   <outline>
     <component base="hha.base.cap"/>
     <component base="_smart.haa.acute" xOffset="1087" yOffset="9"/>

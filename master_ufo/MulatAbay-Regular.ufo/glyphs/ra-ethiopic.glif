@@ -3,8 +3,8 @@
   <advance width="1152"/>
   <unicode hex="1228"/>
   <anchor x="756" y="101" name="fa"/>
-  <anchor x="627" y="-13" name="haa"/>
-  <anchor x="602" y="-11" name="haa.acute"/>
+  <anchor x="757" y="-43" name="haa"/>
+  <anchor x="742" y="-70" name="haa.acute"/>
   <anchor x="627" y="961" name="hat"/>
   <anchor x="360" y="1041" name="hat.left"/>
   <anchor x="1072" y="749" name="hee"/>

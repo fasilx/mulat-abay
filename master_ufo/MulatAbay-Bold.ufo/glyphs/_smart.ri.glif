@@ -3,10 +3,12 @@
   <anchor x="-101" y="260" name="_ri"/>
   <outline>
     <contour>
-      <point x="-67" y="326" type="line"/>
-      <point x="-264" y="636" type="line"/>
-      <point x="-579" y="636" type="line"/>
-      <point x="-302" y="326" type="line"/>
+      <point x="-97" y="326" type="line"/>
+      <point x="-97" y="635" type="line"/>
+      <point x="-262" y="635" type="line"/>
+      <point x="-262" y="451" type="line"/>
+      <point x="-179" y="451" type="line"/>
+      <point x="-179" y="326" type="line"/>
     </contour>
   </outline>
 </glyph>

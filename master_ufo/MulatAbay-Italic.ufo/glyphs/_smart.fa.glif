@@ -3,10 +3,12 @@
   <anchor x="252" y="54" name="_fa"/>
   <outline>
     <contour>
-      <point x="200" y="551" type="line"/>
-      <point x="42" y="549" type="line"/>
-      <point x="144" y="55" type="line"/>
-      <point x="303" y="55" type="line"/>
+      <point x="344" y="551" type="line"/>
+      <point x="79" y="551" type="line"/>
+      <point x="66" y="476" type="line"/>
+      <point x="173" y="476" type="line"/>
+      <point x="98" y="55" type="line"/>
+      <point x="256" y="55" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -10,10 +10,10 @@
   <anchor x="243" y="-48" name="ho"/>
   <anchor x="1645" y="1081" name="hu"/>
   <anchor x="1528" y="-29" name="hwa"/>
-  <anchor x="921" y="1082" name="neck.hha.caps"/>
+  <anchor x="921" y="602" name="neck.hha.caps"/>
   <outline>
     <component base="hha.base.cap"/>
-    <component base="_smart.neck.hha.caps" xOffset="1794"/>
+    <component base="_smart.neck.hha.caps" xOffset="1790" yOffset="-78"/>
     <component base="_smart.hu" xOffset="1647" yOffset="113"/>
   </outline>
   <lib>

@@ -1,40 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ne-ethiopic" format="2">
-  <advance width="1058"/>
+  <advance width="907"/>
   <unicode hex="1295"/>
+  <anchor x="874" y="10" name="haa"/>
+  <anchor x="642" y="-31" name="haa.acute"/>
+  <anchor x="340" y="1367" name="hat"/>
+  <anchor x="282" y="1316" name="hat.left"/>
+  <anchor x="606" y="592" name="he.left.outer"/>
+  <anchor x="702" y="40" name="hee"/>
+  <anchor x="770" y="110" name="hi"/>
+  <anchor x="335" y="691" name="ho.ring"/>
+  <anchor x="123" y="1342" name="ho.ring.uniq"/>
+  <anchor x="772" y="638" name="hu"/>
+  <anchor x="684" y="0" name="hwa"/>
+  <anchor x="376" y="1072" name="neck"/>
+  <anchor x="172" y="1008" name="neck.left"/>
+  <anchor x="66" y="1315" name="nose"/>
+  <anchor x="412" y="1030" name="ring"/>
+  <anchor x="491" y="1" name="xwaa"/>
   <outline>
-    <contour>
-      <point x="672" y="0" type="line"/>
-      <point x="858" y="0" type="line"/>
-      <point x="858" y="138" type="line" smooth="yes"/>
-      <point x="858" y="291"/>
-      <point x="851" y="443"/>
-      <point x="778" y="502" type="curve"/>
-      <point x="808" y="875"/>
-      <point x="646" y="1063"/>
-      <point x="396" y="1082" type="curve" smooth="yes"/>
-      <point x="290" y="1090"/>
-      <point x="164" y="1030"/>
-      <point x="100" y="988" type="curve"/>
-      <point x="268" y="924" type="line"/>
-      <point x="289" y="935"/>
-      <point x="323" y="946"/>
-      <point x="396" y="941" type="curve" smooth="yes"/>
-      <point x="539" y="931"/>
-      <point x="580" y="834"/>
-      <point x="590" y="659" type="curve"/>
-      <point x="567" y="667"/>
-      <point x="464" y="673"/>
-      <point x="439" y="677" type="curve"/>
-      <point x="439" y="535" type="line"/>
-      <point x="692" y="504"/>
-      <point x="672" y="370"/>
-      <point x="672" y="145" type="curve" smooth="yes"/>
-    </contour>
+    <component base="ga.base"/>
+    <component base="_smart.he.left.outer" xOffset="606" yOffset="633"/>
   </outline>
   <lib>
     <dict>
-      <key>_smart.neck.left</key>
+      <key>_smart.he.left.outer</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>na-ethiopic</string>
