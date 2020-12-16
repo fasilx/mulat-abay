@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hha.base" format="2">
+  <advance width="1956"/>
+  <anchor x="952" y="7" name="cha"/>
+  <anchor x="1718" y="-28" name="haa"/>
+  <anchor x="1730" y="663" name="he"/>
+  <anchor x="1090" y="-3" name="he.acute.bottom"/>
+  <anchor x="858" y="1359" name="he.acute.top"/>
+  <anchor x="1569" y="140" name="hee"/>
+  <anchor x="1776" y="60" name="hi"/>
+  <anchor x="248" y="-10" name="ho"/>
+  <anchor x="1770" y="663" name="hu"/>
+  <anchor x="1713" y="10" name="hwa"/>
+  <anchor x="936" y="1106" name="neck"/>
+  <outline>
+    <contour>
+      <point x="221" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="276" y="684" type="line" smooth="yes"/>
+      <point x="276" y="875"/>
+      <point x="429" y="1049"/>
+      <point x="606" y="1049" type="curve" smooth="yes"/>
+      <point x="811" y="1049"/>
+      <point x="952" y="944"/>
+      <point x="952" y="727" type="curve" smooth="yes"/>
+      <point x="952" y="0" type="line"/>
+      <point x="1006" y="0" type="line"/>
+      <point x="1006" y="720" type="line" smooth="yes"/>
+      <point x="1006" y="823"/>
+      <point x="1132" y="1045"/>
+      <point x="1390" y="1049" type="curve" smooth="yes"/>
+      <point x="1594" y="1052"/>
+      <point x="1686" y="939"/>
+      <point x="1686" y="702" type="curve" smooth="yes"/>
+      <point x="1686" y="0" type="line"/>
+      <point x="1740" y="0" type="line"/>
+      <point x="1740" y="706" type="line" smooth="yes"/>
+      <point x="1740" y="970"/>
+      <point x="1626" y="1102"/>
+      <point x="1393" y="1102" type="curve" smooth="yes"/>
+      <point x="1214" y="1102"/>
+      <point x="1059" y="1002"/>
+      <point x="995" y="846" type="curve"/>
+      <point x="959" y="1027"/>
+      <point x="790" y="1102"/>
+      <point x="609" y="1102" type="curve" smooth="yes"/>
+      <point x="390" y="1102"/>
+      <point x="221" y="920"/>
+      <point x="221" y="683" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

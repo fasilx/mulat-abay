@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xe-ethiopic" format="2">
+  <advance width="917"/>
+  <unicode hex="1285"/>
+  <outline>
+    <contour>
+      <point x="-143" y="915" type="line"/>
+      <point x="-143" y="650" type="line"/>
+      <point x="-15" y="650" type="line"/>
+      <point x="-15" y="915" type="line"/>
+    </contour>
+    <contour>
+      <point x="597" y="0" type="line"/>
+      <point x="886" y="0" type="line"/>
+      <point x="886" y="558" type="line" smooth="yes"/>
+      <point x="886" y="895"/>
+      <point x="797" y="1102"/>
+      <point x="504" y="1102" type="curve" smooth="yes"/>
+      <point x="358" y="1102"/>
+      <point x="214" y="1018"/>
+      <point x="130" y="921" type="curve"/>
+      <point x="323" y="851" type="line"/>
+      <point x="349" y="867"/>
+      <point x="378" y="877"/>
+      <point x="405" y="878" type="curve" smooth="yes"/>
+      <point x="600" y="886"/>
+      <point x="597" y="670"/>
+      <point x="597" y="577" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="71" y="887" type="line"/>
+      <point x="312" y="887" type="line"/>
+      <point x="312" y="1277" type="line"/>
+      <point x="71" y="1277" type="line"/>
+    </contour>
+    <contour>
+      <point x="2" y="922" type="curve" smooth="yes"/>
+      <point x="94" y="922"/>
+      <point x="150" y="978"/>
+      <point x="150" y="1058" type="curve" smooth="yes"/>
+      <point x="150" y="1138"/>
+      <point x="94" y="1195"/>
+      <point x="2" y="1195" type="curve" smooth="yes"/>
+      <point x="-87" y="1195"/>
+      <point x="-146" y="1138"/>
+      <point x="-146" y="1058" type="curve" smooth="yes"/>
+      <point x="-146" y="978"/>
+      <point x="-89" y="922"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck.left</key>
+      <integer>1</integer>
+      <key>_smart.nose</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>xa-ethiopic</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>xa-ethiopic</string>
+    </dict>
+  </lib>
+</glyph>

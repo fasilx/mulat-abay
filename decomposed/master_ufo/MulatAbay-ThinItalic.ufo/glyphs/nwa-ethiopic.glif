@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nwa-ethiopic" format="2">
+  <advance width="1060"/>
+  <unicode hex="1297"/>
+  <outline>
+    <contour>
+      <point x="432" y="-20" type="curve" smooth="yes"/>
+      <point x="634" y="-20"/>
+      <point x="631" y="-21"/>
+      <point x="761" y="-21" type="curve"/>
+      <point x="770" y="32" type="line"/>
+      <point x="665" y="32"/>
+      <point x="613" y="34"/>
+      <point x="421" y="34" type="curve" smooth="yes"/>
+      <point x="150" y="34"/>
+      <point x="157" y="270"/>
+      <point x="200" y="517" type="curve" smooth="yes"/>
+      <point x="299" y="1082" type="line"/>
+      <point x="244" y="1082" type="line"/>
+      <point x="146" y="524" type="line" smooth="yes"/>
+      <point x="87" y="187"/>
+      <point x="139" y="-20"/>
+    </contour>
+    <contour>
+      <point x="579" y="766" type="curve" smooth="yes"/>
+      <point x="704" y="766"/>
+      <point x="818" y="863"/>
+      <point x="840" y="987" type="curve" smooth="yes"/>
+      <point x="862" y="1112"/>
+      <point x="783" y="1214"/>
+      <point x="658" y="1214" type="curve" smooth="yes"/>
+      <point x="537" y="1214"/>
+      <point x="419" y="1117"/>
+      <point x="396" y="987" type="curve" smooth="yes"/>
+      <point x="373" y="857"/>
+      <point x="459" y="766"/>
+    </contour>
+    <contour>
+      <point x="585" y="804" type="curve" smooth="yes"/>
+      <point x="483" y="804"/>
+      <point x="422" y="875"/>
+      <point x="440" y="978" type="curve" smooth="yes"/>
+      <point x="460" y="1086"/>
+      <point x="545" y="1158"/>
+      <point x="647" y="1158" type="curve" smooth="yes"/>
+      <point x="749" y="1158"/>
+      <point x="810" y="1086"/>
+      <point x="790" y="978" type="curve" smooth="yes"/>
+      <point x="772" y="875"/>
+      <point x="687" y="804"/>
+    </contour>
+    <contour>
+      <point x="324" y="-290" type="line"/>
+      <point x="861" y="-290" type="line"/>
+      <point x="843" y="-395" type="line"/>
+      <point x="878" y="-395" type="line"/>
+      <point x="904" y="-248" type="line"/>
+      <point x="699" y="-248" type="line"/>
+      <point x="753" y="-27" type="line"/>
+      <point x="696" y="-27" type="line"/>
+      <point x="642" y="-248" type="line"/>
+      <point x="332" y="-248" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho.ring</key>
+      <integer>1</integer>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

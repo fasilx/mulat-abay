@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cee-ethiopic.liga" format="2">
+  <advance width="1222"/>
+  <outline>
+    <contour>
+      <point x="325" y="0" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="745" y="1298" type="line"/>
+      <point x="1213" y="1298" type="line"/>
+      <point x="1241" y="1456" type="line"/>
+      <point x="115" y="1456" type="line"/>
+      <point x="87" y="1298" type="line"/>
+      <point x="554" y="1298" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="-443" type="curve" smooth="yes"/>
+      <point x="442" y="-443"/>
+      <point x="584" y="-324"/>
+      <point x="611" y="-167" type="curve" smooth="yes"/>
+      <point x="640" y="-7"/>
+      <point x="537" y="115"/>
+      <point x="375" y="115" type="curve" smooth="yes"/>
+      <point x="208" y="115"/>
+      <point x="60" y="-10"/>
+      <point x="32" y="-167" type="curve" smooth="yes"/>
+      <point x="5" y="-322"/>
+      <point x="106" y="-443"/>
+    </contour>
+    <contour>
+      <point x="327" y="-413" type="curve" smooth="yes"/>
+      <point x="229" y="-413"/>
+      <point x="139" y="-349"/>
+      <point x="162" y="-222" type="curve" smooth="yes"/>
+      <point x="180" y="-116"/>
+      <point x="285" y="-21"/>
+      <point x="401" y="-21" type="curve" smooth="yes"/>
+      <point x="511" y="-21"/>
+      <point x="574" y="-109"/>
+      <point x="560" y="-222" type="curve" smooth="yes"/>
+      <point x="547" y="-328"/>
+      <point x="428" y="-412"/>
+    </contour>
+    <contour>
+      <point x="613" y="1526" type="line"/>
+      <point x="760" y="1526" type="line"/>
+      <point x="805" y="1783" type="line"/>
+      <point x="658" y="1783" type="line"/>
+    </contour>
+    <component base="_smart.hat.caps" xOffset="579" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.hee.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

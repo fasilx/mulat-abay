@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ninety-ethiopic" format="2">
+  <advance width="1353"/>
+  <unicode hex="137A"/>
+  <outline>
+    <contour>
+      <point x="915" y="-4" type="line"/>
+      <point x="1079" y="-4" type="line"/>
+      <point x="844" y="635" type="line"/>
+      <point x="1155" y="1331" type="line"/>
+      <point x="1155" y="1435" type="line"/>
+      <point x="171" y="1435" type="line"/>
+      <point x="171" y="1283" type="line"/>
+      <point x="959" y="1283" type="line"/>
+      <point x="661" y="637" type="line"/>
+    </contour>
+    <component base="_num.bar" xOffset="94"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>three</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>three</string>
+    </dict>
+  </lib>
+</glyph>

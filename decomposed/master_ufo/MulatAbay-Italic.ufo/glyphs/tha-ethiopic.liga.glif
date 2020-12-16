@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tha-ethiopic.liga" format="2">
+  <advance width="1788"/>
+  <outline>
+    <contour>
+      <point x="-22" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="359" y="1176" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="1461" y="1179" type="line"/>
+      <point x="1235" y="0" type="line"/>
+      <point x="1427" y="0" type="line"/>
+      <point x="1684" y="1456" type="line"/>
+      <point x="1435" y="1456" type="line"/>
+      <point x="749" y="268" type="line"/>
+      <point x="483" y="1456" type="line"/>
+      <point x="235" y="1456" type="line"/>
+    </contour>
+  </outline>
+</glyph>

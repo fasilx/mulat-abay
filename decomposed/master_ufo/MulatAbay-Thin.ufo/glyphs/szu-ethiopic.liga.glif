@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="szu-ethiopic.liga" format="2">
+  <advance width="1855"/>
+  <outline>
+    <contour>
+      <point x="454" y="0" type="line"/>
+      <point x="515" y="0" type="line"/>
+      <point x="928" y="1368" type="line"/>
+      <point x="1340" y="0" type="line"/>
+      <point x="1401" y="0" type="line"/>
+      <point x="1793" y="1456" type="line"/>
+      <point x="1734" y="1456" type="line"/>
+      <point x="1366" y="90" type="line"/>
+      <point x="959" y="1456" type="line"/>
+      <point x="899" y="1456" type="line"/>
+      <point x="489" y="90" type="line"/>
+      <point x="121" y="1456" type="line"/>
+      <point x="61" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1760" y="911" type="curve" smooth="yes"/>
+      <point x="1791" y="911"/>
+      <point x="1816" y="935"/>
+      <point x="1816" y="966" type="curve" smooth="yes"/>
+      <point x="1816" y="997"/>
+      <point x="1791" y="1022"/>
+      <point x="1760" y="1022" type="curve" smooth="yes"/>
+      <point x="1729" y="1022"/>
+      <point x="1705" y="997"/>
+      <point x="1705" y="966" type="curve" smooth="yes"/>
+      <point x="1705" y="935"/>
+      <point x="1729" y="911"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+    </dict>
+  </lib>
+</glyph>

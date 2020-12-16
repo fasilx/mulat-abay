@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="po-ethiopic.liga" format="2">
+  <advance width="1222"/>
+  <outline>
+    <contour>
+      <point x="325" y="0" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="745" y="1298" type="line"/>
+      <point x="1213" y="1298" type="line"/>
+      <point x="1241" y="1456" type="line"/>
+      <point x="115" y="1456" type="line"/>
+      <point x="87" y="1298" type="line"/>
+      <point x="554" y="1298" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="-278" type="line"/>
+      <point x="202" y="-278" type="line"/>
+      <point x="522" y="16" type="line" name="❌"/>
+      <point x="298" y="16" type="line" name="❌"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

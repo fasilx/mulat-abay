@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nu-ethiopic.liga" format="2">
+  <advance width="981"/>
+  <outline>
+    <contour>
+      <point x="549" y="0" type="line"/>
+      <point x="849" y="0" type="line"/>
+      <point x="849" y="1354" type="line" smooth="yes"/>
+      <point x="849" y="1413"/>
+      <point x="806" y="1456"/>
+      <point x="747" y="1456" type="curve" smooth="yes"/>
+      <point x="22" y="1456" type="line"/>
+      <point x="22" y="1215" type="line"/>
+      <point x="549" y="1215" type="line"/>
+    </contour>
+    <contour>
+      <point x="971" y="795" type="curve" smooth="yes"/>
+      <point x="1063" y="795"/>
+      <point x="1119" y="851"/>
+      <point x="1119" y="931" type="curve" smooth="yes"/>
+      <point x="1119" y="1011"/>
+      <point x="1063" y="1068"/>
+      <point x="971" y="1068" type="curve" smooth="yes" name="❌"/>
+      <point x="882" y="1068"/>
+      <point x="823" y="1011"/>
+      <point x="823" y="931" type="curve" smooth="yes"/>
+      <point x="823" y="851"/>
+      <point x="880" y="795"/>
+    </contour>
+    <contour>
+      <point x="20" y="1443" type="line"/>
+      <point x="257" y="1443" type="line"/>
+      <point x="257" y="1833" type="line"/>
+      <point x="20" y="1833" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.left.caps.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

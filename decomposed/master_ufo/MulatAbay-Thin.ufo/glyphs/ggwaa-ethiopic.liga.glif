@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ggwaa-ethiopic.liga" format="2">
+  <advance width="957"/>
+  <outline>
+    <contour>
+      <point x="701" y="0" type="line"/>
+      <point x="756" y="0" type="line"/>
+      <point x="756" y="1436" type="line" smooth="yes"/>
+      <point x="756" y="1447"/>
+      <point x="747" y="1456"/>
+      <point x="736" y="1456" type="curve" smooth="yes"/>
+      <point x="54" y="1456" type="line"/>
+      <point x="54" y="1402" type="line"/>
+      <point x="701" y="1402" type="line"/>
+    </contour>
+    <contour>
+      <point x="895" y="-328" type="line"/>
+      <point x="952" y="-328" type="line"/>
+      <point x="952" y="26" type="line"/>
+      <point x="895" y="26" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="3" type="line"/>
+      <point x="956" y="3" type="line"/>
+      <point x="956" y="47" type="line"/>
+      <point x="441" y="47" type="line"/>
+    </contour>
+    <contour>
+      <point x="-62" y="1693" type="line"/>
+      <point x="612" y="1693" type="line"/>
+      <point x="612" y="1736" type="line"/>
+      <point x="-62" y="1736" type="line"/>
+    </contour>
+    <component base="_smart.neck.caps" xOffset="360" yOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+      <key>_smart.hat.caps</key>
+      <integer>1</integer>
+      <key>_smart.hat.left</key>
+      <integer>1</integer>
+      <key>_smart.neck.caps</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

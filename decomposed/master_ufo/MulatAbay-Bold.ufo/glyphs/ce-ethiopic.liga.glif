@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ce-ethiopic.liga" format="2">
+  <advance width="1267"/>
+  <outline>
+    <contour>
+      <point x="480" y="0" type="line"/>
+      <point x="780" y="0" type="line"/>
+      <point x="780" y="1213" type="line"/>
+      <point x="1226" y="1213" type="line"/>
+      <point x="1226" y="1456" type="line"/>
+      <point x="40" y="1456" type="line"/>
+      <point x="40" y="1213" type="line"/>
+      <point x="480" y="1213" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="1611" type="line"/>
+      <point x="913" y="1611" type="line"/>
+      <point x="913" y="1814" type="line"/>
+      <point x="239" y="1814" type="line"/>
+    </contour>
+    <contour>
+      <point x="733" y="1511" type="line"/>
+      <point x="536" y="1821" type="line"/>
+      <point x="221" y="1821" type="line"/>
+      <point x="498" y="1511" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.he.acute.top</key>
+      <integer>1</integer>
+      <key>_smart.ho.ring.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ri-ethiopic.liga" format="2">
+  <advance width="1102"/>
+  <outline>
+    <contour>
+      <point x="-22" y="0" type="line"/>
+      <point x="861" y="0" type="line"/>
+      <point x="889" y="157" type="line"/>
+      <point x="199" y="157" type="line"/>
+      <point x="428" y="1456" type="line"/>
+      <point x="235" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="896" y="304" type="line"/>
+      <point x="651" y="598" type="line"/>
+      <point x="427" y="598" type="line"/>
+      <point x="747" y="304" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pa.base" format="2">
+  <advance width="801"/>
+  <anchor x="600" y="42" name="haa"/>
+  <anchor x="318" y="-10" name="haa.acute"/>
+  <anchor x="350" y="1339" name="hat"/>
+  <anchor x="343" y="1167" name="he.acute.top"/>
+  <anchor x="389" y="50" name="hee"/>
+  <anchor x="482" y="130" name="hi"/>
+  <anchor x="643" y="1314" name="ho.ring"/>
+  <anchor x="461" y="669" name="hu"/>
+  <anchor x="393" y="12" name="hwa"/>
+  <anchor x="361" y="1082" name="neck"/>
+  <outline>
+    <contour>
+      <point x="517" y="0" type="line"/>
+      <point x="517" y="870" type="line"/>
+      <point x="702" y="870" type="line"/>
+      <point x="702" y="1082" type="line"/>
+      <point x="70" y="1082" type="line"/>
+      <point x="70" y="870" type="line"/>
+      <point x="230" y="870" type="line"/>
+      <point x="230" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

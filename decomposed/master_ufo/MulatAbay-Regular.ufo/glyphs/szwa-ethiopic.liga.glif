@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="szwa-ethiopic.liga" format="2">
+  <advance width="1817"/>
+  <outline>
+    <contour>
+      <point x="413" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="922" y="1172" type="line"/>
+      <point x="1245" y="0" type="line"/>
+      <point x="1420" y="0" type="line"/>
+      <point x="1773" y="1456" type="line"/>
+      <point x="1580" y="1456" type="line"/>
+      <point x="1323" y="264" type="line"/>
+      <point x="1002" y="1456" type="line"/>
+      <point x="840" y="1456" type="line"/>
+      <point x="511" y="267" type="line"/>
+      <point x="253" y="1456" type="line"/>
+      <point x="61" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="949" y="-372" type="line"/>
+      <point x="1459" y="-372" type="line"/>
+      <point x="1459" y="-489" type="line"/>
+      <point x="1589" y="-489" type="line"/>
+      <point x="1589" y="-241" type="line"/>
+      <point x="1430" y="-241" type="line"/>
+      <point x="1430" y="-48" type="line"/>
+      <point x="1245" y="-48" type="line"/>
+      <point x="1245" y="-241" type="line"/>
+      <point x="949" y="-241" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+    </dict>
+  </lib>
+</glyph>

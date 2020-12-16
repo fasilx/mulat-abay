@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyaa-ethiopic.liga" format="2">
+  <advance width="1129"/>
+  <outline>
+    <contour>
+      <point x="493" y="-22" type="curve" smooth="yes"/>
+      <point x="879" y="-22" type="line"/>
+      <point x="907" y="136" type="line"/>
+      <point x="521" y="136" type="line" smooth="yes"/>
+      <point x="285" y="136"/>
+      <point x="181" y="338"/>
+      <point x="261" y="795" type="curve" smooth="yes"/>
+      <point x="319" y="1123"/>
+      <point x="494" y="1311"/>
+      <point x="733" y="1318" type="curve"/>
+      <point x="1116" y="1318" type="line"/>
+      <point x="1143" y="1476" type="line"/>
+      <point x="757" y="1476" type="line" smooth="yes"/>
+      <point x="387" y="1476"/>
+      <point x="135" y="1175"/>
+      <point x="69" y="800" type="curve" smooth="yes"/>
+      <point x="-28" y="247"/>
+      <point x="149" y="-22"/>
+    </contour>
+    <contour>
+      <point x="630" y="-372" type="line" name="❌"/>
+      <point x="815" y="-372" type="line" name="❌"/>
+      <point x="878" y="-17" type="line"/>
+      <point x="693" y="-17" type="line"/>
+    </contour>
+    <contour>
+      <point x="462" y="1559" type="line"/>
+      <point x="1136" y="1559" type="line"/>
+      <point x="1161" y="1702" type="line"/>
+      <point x="487" y="1702" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.cap</key>
+      <integer>1</integer>
+      <key>_smart.hat.caps.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

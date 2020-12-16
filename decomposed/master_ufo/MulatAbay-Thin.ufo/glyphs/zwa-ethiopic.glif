@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zwa-ethiopic" format="2">
+  <advance width="1243"/>
+  <unicode hex="12DF"/>
+  <outline>
+    <contour>
+      <point x="232" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="611" type="line"/>
+      <point x="962" y="611" type="line"/>
+      <point x="962" y="0" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="1016" y="1082" type="line"/>
+      <point x="962" y="1082" type="line"/>
+      <point x="962" y="665" type="line"/>
+      <point x="286" y="665" type="line"/>
+      <point x="286" y="1082" type="line"/>
+      <point x="232" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="676" y="-302" type="line"/>
+      <point x="1193" y="-302" type="line"/>
+      <point x="1193" y="-407" type="line"/>
+      <point x="1228" y="-407" type="line"/>
+      <point x="1228" y="-260" type="line"/>
+      <point x="1023" y="-260" type="line"/>
+      <point x="1023" y="51" type="line"/>
+      <point x="966" y="51" type="line"/>
+      <point x="966" y="-260" type="line"/>
+      <point x="676" y="-260" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aGlottal-ethiopic.liga" format="2">
+  <advance width="1254"/>
+  <outline>
+    <contour>
+      <point x="7" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="626" y="977" type="line"/>
+      <point x="920" y="0" type="line"/>
+      <point x="1248" y="0" type="line"/>
+      <point x="785" y="1294" type="line"/>
+      <point x="783" y="1456" type="line"/>
+      <point x="238" y="1456" type="line"/>
+      <point x="238" y="1673" type="line"/>
+      <point x="14" y="1673" type="line"/>
+      <point x="14" y="1294" type="line"/>
+      <point x="461" y="1294" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

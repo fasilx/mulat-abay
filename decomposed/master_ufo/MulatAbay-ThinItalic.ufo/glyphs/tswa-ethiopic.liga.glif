@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tswa-ethiopic.liga" format="2">
+  <advance width="1165"/>
+  <outline>
+    <contour>
+      <point x="-94" y="0" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="22" y="349" type="line" smooth="yes"/>
+      <point x="63" y="580"/>
+      <point x="285" y="650"/>
+      <point x="524" y="715" type="curve"/>
+      <point x="741" y="650"/>
+      <point x="938" y="580"/>
+      <point x="897" y="349" type="curve" smooth="yes"/>
+      <point x="835" y="0" type="line"/>
+      <point x="890" y="0" type="line"/>
+      <point x="952" y="351" type="line" smooth="yes"/>
+      <point x="993" y="583"/>
+      <point x="833" y="673"/>
+      <point x="624" y="742" type="curve"/>
+      <point x="845" y="807"/>
+      <point x="1047" y="888"/>
+      <point x="1088" y="1120" type="curve" smooth="yes"/>
+      <point x="1125" y="1331"/>
+      <point x="956" y="1476"/>
+      <point x="672" y="1476" type="curve" smooth="yes"/>
+      <point x="644" y="1476" type="line" smooth="yes"/>
+      <point x="360" y="1476"/>
+      <point x="141" y="1331"/>
+      <point x="104" y="1120" type="curve" smooth="yes"/>
+      <point x="63" y="888"/>
+      <point x="237" y="807"/>
+      <point x="434" y="742" type="curve"/>
+      <point x="201" y="673"/>
+      <point x="9" y="583"/>
+      <point x="-32" y="351" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="534" y="771" type="curve" smooth="yes"/>
+      <point x="381" y="771"/>
+      <point x="118" y="897"/>
+      <point x="158" y="1122" type="curve" smooth="yes"/>
+      <point x="188" y="1291"/>
+      <point x="397" y="1417"/>
+      <point x="646" y="1422" type="curve" smooth="yes"/>
+      <point x="941" y="1427"/>
+      <point x="1064" y="1291"/>
+      <point x="1034" y="1122" type="curve" smooth="yes"/>
+      <point x="995" y="899"/>
+      <point x="689" y="771"/>
+    </contour>
+    <contour>
+      <point x="465" y="-217" type="line"/>
+      <point x="1002" y="-217" type="line"/>
+      <point x="984" y="-322" type="line"/>
+      <point x="1019" y="-322" type="line"/>
+      <point x="1045" y="-175" type="line"/>
+      <point x="840" y="-175" type="line"/>
+      <point x="894" y="46" type="line"/>
+      <point x="837" y="46" type="line"/>
+      <point x="783" y="-175" type="line"/>
+      <point x="473" y="-175" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>S</string>
+    </dict>
+  </lib>
+</glyph>

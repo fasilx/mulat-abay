@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ce-ethiopic" format="2">
+  <advance width="735"/>
+  <unicode hex="127D"/>
+  <outline>
+    <contour>
+      <point x="353" y="0" type="line"/>
+      <point x="353" y="1027" type="line"/>
+      <point x="599" y="1027" type="line"/>
+      <point x="599" y="1082" type="line"/>
+      <point x="98" y="1082" type="line"/>
+      <point x="98" y="1027" type="line"/>
+      <point x="298" y="1027" type="line"/>
+      <point x="298" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="1161" type="line" name="❌"/>
+      <point x="98" y="1427" type="line"/>
+      <point x="32" y="1427" type="line"/>
+      <point x="227" y="1161" type="line" name="❌"/>
+    </contour>
+    <contour>
+      <point x="64" y="1336" type="line"/>
+      <point x="579" y="1336" type="line"/>
+      <point x="579" y="1380" type="line"/>
+      <point x="64" y="1380" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.he.acute.top</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

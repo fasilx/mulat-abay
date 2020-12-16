@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="za.base" format="2">
+  <advance width="1205"/>
+  <anchor x="745" y="-24" name="haa"/>
+  <anchor x="300" y="1182" name="he.acute.top"/>
+  <anchor x="681" y="68" name="hee"/>
+  <anchor x="837" y="117" name="hi"/>
+  <anchor x="89" y="-9" name="ho"/>
+  <anchor x="955" y="681" name="hu"/>
+  <anchor x="719" y="-30" name="hwa"/>
+  <anchor x="573" y="980" name="zha"/>
+  <outline>
+    <contour>
+      <point x="9" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="286" y="521" type="line"/>
+      <point x="721" y="521" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="1005" y="1082" type="line"/>
+      <point x="820" y="1082" type="line"/>
+      <point x="748" y="672" type="line"/>
+      <point x="313" y="672" type="line"/>
+      <point x="385" y="1082" type="line"/>
+      <point x="200" y="1082" type="line"/>
+    </contour>
+  </outline>
+</glyph>

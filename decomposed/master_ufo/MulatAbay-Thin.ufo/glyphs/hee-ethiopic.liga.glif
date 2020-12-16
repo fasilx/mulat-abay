@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hee-ethiopic.liga" format="2">
+  <advance width="1365"/>
+  <outline>
+    <contour>
+      <point x="683" y="-20" type="curve" smooth="yes"/>
+      <point x="988.333" y="-20"/>
+      <point x="1180" y="162"/>
+      <point x="1180" y="470" type="curve" smooth="yes"/>
+      <point x="1180" y="1456" type="line"/>
+      <point x="1126" y="1456" type="line"/>
+      <point x="1126" y="473" type="line" smooth="yes"/>
+      <point x="1126" y="202.333"/>
+      <point x="951" y="34"/>
+      <point x="683" y="34" type="curve" smooth="yes"/>
+      <point x="415" y="34"/>
+      <point x="239" y="202.667"/>
+      <point x="239" y="472" type="curve" smooth="yes"/>
+      <point x="239" y="1456" type="line"/>
+      <point x="185" y="1456" type="line"/>
+      <point x="185" y="466" type="line" smooth="yes"/>
+      <point x="185" y="163"/>
+      <point x="377.667" y="-20"/>
+    </contour>
+    <contour>
+      <point x="968" y="-408" type="curve" smooth="yes"/>
+      <point x="1093" y="-408"/>
+      <point x="1190" y="-311"/>
+      <point x="1190" y="-187" type="curve" smooth="yes"/>
+      <point x="1190" y="-62"/>
+      <point x="1093" y="40"/>
+      <point x="968" y="40" type="curve" smooth="yes"/>
+      <point x="847" y="40"/>
+      <point x="746" y="-57"/>
+      <point x="746" y="-187" type="curve" smooth="yes"/>
+      <point x="746" y="-317"/>
+      <point x="848" y="-408"/>
+    </contour>
+    <contour>
+      <point x="967" y="-370" type="curve" smooth="yes"/>
+      <point x="865" y="-370"/>
+      <point x="792" y="-299"/>
+      <point x="792" y="-196" type="curve" smooth="yes"/>
+      <point x="792" y="-88"/>
+      <point x="865" y="-16"/>
+      <point x="967" y="-16" type="curve" smooth="yes"/>
+      <point x="1069" y="-16"/>
+      <point x="1142" y="-88"/>
+      <point x="1142" y="-196" type="curve" smooth="yes"/>
+      <point x="1142" y="-299"/>
+      <point x="1069" y="-370"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+      <key>_smart.hee.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

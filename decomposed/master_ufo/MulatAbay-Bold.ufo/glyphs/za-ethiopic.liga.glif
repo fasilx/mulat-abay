@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="za-ethiopic.liga" format="2">
+  <advance width="1447"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="430" y="624" type="line"/>
+      <point x="1015" y="624" type="line"/>
+      <point x="1015" y="0" type="line"/>
+      <point x="1315" y="0" type="line"/>
+      <point x="1315" y="1456" type="line"/>
+      <point x="1015" y="1456" type="line"/>
+      <point x="1015" y="866" type="line"/>
+      <point x="430" y="866" type="line"/>
+      <point x="430" y="1456" type="line"/>
+      <point x="130" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fu-ethiopic.liga" format="2">
+  <advance width="1102"/>
+  <outline>
+    <contour>
+      <point x="-22" y="0" type="line"/>
+      <point x="861" y="0" type="line"/>
+      <point x="889" y="157" type="line"/>
+      <point x="199" y="157" type="line"/>
+      <point x="428" y="1456" type="line"/>
+      <point x="235" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="690" y="648" type="line"/>
+      <point x="425" y="648" type="line"/>
+      <point x="412" y="573" type="line"/>
+      <point x="519" y="573" type="line"/>
+      <point x="444" y="152" type="line"/>
+      <point x="602" y="152" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="-299" type="line"/>
+      <point x="282" y="-299" type="line"/>
+      <point x="602" y="-5" type="line" name="❌"/>
+      <point x="378" y="-5" type="line" name="❌"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.fa.cap</key>
+      <integer>1</integer>
+      <key>_smart.haa.acute.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

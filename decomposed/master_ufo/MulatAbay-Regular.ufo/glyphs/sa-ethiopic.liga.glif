@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sa-ethiopic.liga" format="2">
+  <advance width="1340"/>
+  <outline>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="332" y="986" type="line" smooth="yes"/>
+      <point x="332" y="1197"/>
+      <point x="450" y="1319"/>
+      <point x="665" y="1319" type="curve" smooth="yes"/>
+      <point x="882" y="1319"/>
+      <point x="1001" y="1198"/>
+      <point x="1001" y="987" type="curve" smooth="yes"/>
+      <point x="1001" y="0" type="line"/>
+      <point x="1206" y="0" type="line"/>
+      <point x="1206" y="990" type="line" smooth="yes"/>
+      <point x="1206" y="1265"/>
+      <point x="969" y="1476"/>
+      <point x="665" y="1476" type="curve" smooth="yes"/>
+      <point x="347" y="1476"/>
+      <point x="140" y="1293"/>
+      <point x="140" y="992" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="595" y="1469" type="line"/>
+      <point x="742" y="1469" type="line"/>
+      <point x="742" y="1726" type="line"/>
+      <point x="595" y="1726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

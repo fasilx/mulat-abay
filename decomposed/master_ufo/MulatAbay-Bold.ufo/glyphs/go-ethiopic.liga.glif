@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="go-ethiopic.liga" format="2">
+  <advance width="981"/>
+  <outline>
+    <contour>
+      <point x="549" y="0" type="line"/>
+      <point x="849" y="0" type="line"/>
+      <point x="849" y="1354" type="line" smooth="yes"/>
+      <point x="849" y="1413"/>
+      <point x="806" y="1456"/>
+      <point x="747" y="1456" type="curve" smooth="yes"/>
+      <point x="22" y="1456" type="line"/>
+      <point x="22" y="1215" type="line"/>
+      <point x="549" y="1215" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="1457" type="line"/>
+      <point x="429" y="1457" type="line"/>
+      <point x="429" y="1714" type="line"/>
+      <point x="252" y="1714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck.caps</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

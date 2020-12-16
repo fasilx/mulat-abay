@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zaa-ethiopic" format="2">
+  <advance width="1243"/>
+  <unicode hex="12DB"/>
+  <outline>
+    <contour>
+      <point x="41" y="0" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="203" y="611" type="line"/>
+      <point x="879" y="611" type="line"/>
+      <point x="771" y="0" type="line"/>
+      <point x="825" y="0" type="line"/>
+      <point x="1016" y="1082" type="line"/>
+      <point x="962" y="1082" type="line"/>
+      <point x="888" y="665" type="line"/>
+      <point x="212" y="665" type="line"/>
+      <point x="286" y="1082" type="line"/>
+      <point x="232" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="707" y="-362" type="line"/>
+      <point x="764" y="-362" type="line"/>
+      <point x="826" y="-8" type="line"/>
+      <point x="769" y="-8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

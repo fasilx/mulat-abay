@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ne-ethiopic.liga" format="2">
+  <advance width="1074"/>
+  <outline>
+    <contour>
+      <point x="537" y="-408" type="line"/>
+      <point x="725" y="-395" type="line"/>
+      <point x="806" y="361" type="line"/>
+      <point x="618" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="0" type="line"/>
+      <point x="619" y="0" type="line"/>
+      <point x="858" y="1354" type="line" smooth="yes"/>
+      <point x="868" y="1413"/>
+      <point x="833" y="1456"/>
+      <point x="774" y="1456" type="curve" smooth="yes"/>
+      <point x="123" y="1456" type="line"/>
+      <point x="95" y="1299" type="line"/>
+      <point x="655" y="1299" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck.left.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
+    </dict>
+  </lib>
+</glyph>

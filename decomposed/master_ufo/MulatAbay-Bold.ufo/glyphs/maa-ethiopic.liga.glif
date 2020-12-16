@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maa-ethiopic.liga" format="2">
+  <advance width="1794"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="875" y="670" type="line"/>
+      <point x="1210" y="0" type="line"/>
+      <point x="1662" y="0" type="line"/>
+      <point x="1662" y="1459" type="line"/>
+      <point x="1052" y="1459" type="line"/>
+      <point x="869" y="1069" type="line"/>
+      <point x="636" y="1459" type="line"/>
+      <point x="130" y="1459" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="357" type="line"/>
+      <point x="420" y="1090" type="line"/>
+      <point x="582" y="1090" type="line"/>
+      <point x="703" y="827" type="line"/>
+      <point x="498" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="1364" y="357" type="line"/>
+      <point x="1261" y="357" type="line"/>
+      <point x="1044" y="839" type="line"/>
+      <point x="1147" y="1090" type="line"/>
+      <point x="1364" y="1090" type="line"/>
+    </contour>
+    <contour>
+      <point x="1369" y="-396" type="line"/>
+      <point x="1659" y="-396" type="line"/>
+      <point x="1659" y="8" type="line"/>
+      <point x="1369" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

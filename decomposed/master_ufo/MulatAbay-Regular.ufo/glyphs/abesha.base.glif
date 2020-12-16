@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abesha.base" format="2">
+  <advance width="1251"/>
+  <anchor x="222" y="1302" name="aGlhat"/>
+  <anchor x="989" y="-26" name="haa"/>
+  <anchor x="195" y="1689" name="he.left.inner"/>
+  <anchor x="906" y="67" name="hee"/>
+  <anchor x="1051" y="110" name="hi"/>
+  <anchor x="297.434" y="-21" name="ho"/>
+  <anchor x="1142" y="468" name="ho.ring"/>
+  <anchor x="406" y="600" name="ho.ring.uniq"/>
+  <anchor x="1059" y="667" name="hu"/>
+  <anchor x="961" y="-30" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="200" y="0" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="385" y="771" type="line"/>
+      <point x="436" y="875"/>
+      <point x="529" y="945"/>
+      <point x="649" y="945" type="curve" smooth="yes"/>
+      <point x="797" y="945"/>
+      <point x="866" y="872"/>
+      <point x="866" y="716" type="curve" smooth="yes"/>
+      <point x="866" y="0" type="line"/>
+      <point x="1051" y="0" type="line"/>
+      <point x="1051" y="715" type="line" smooth="yes"/>
+      <point x="1051" y="973"/>
+      <point x="934" y="1102"/>
+      <point x="705" y="1102" type="curve" smooth="yes"/>
+      <point x="574" y="1102"/>
+      <point x="467" y="1052"/>
+      <point x="385" y="951" type="curve"/>
+      <point x="385" y="1094" type="line"/>
+      <point x="565" y="1536" type="line"/>
+      <point x="380" y="1536" type="line"/>
+      <point x="200" y="1091" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="1372" type="line"/>
+      <point x="115" y="1666" type="line"/>
+      <point x="-109" y="1666" type="line"/>
+      <point x="159" y="1372" type="line"/>
+    </contour>
+  </outline>
+</glyph>

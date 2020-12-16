@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-ethiopic" format="2">
+  <advance width="735"/>
+  <unicode hex="1355"/>
+  <outline>
+    <contour>
+      <point x="353" y="0" type="line"/>
+      <point x="353" y="1027" type="line"/>
+      <point x="599" y="1027" type="line"/>
+      <point x="599" y="1082" type="line"/>
+      <point x="98" y="1082" type="line"/>
+      <point x="98" y="1027" type="line"/>
+      <point x="298" y="1027" type="line"/>
+      <point x="298" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="-314" type="line"/>
+      <point x="480" y="-314" type="line"/>
+      <point x="480" y="40" type="line"/>
+      <point x="423" y="40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

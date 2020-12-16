@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gwaa-ethiopic.liga" format="2">
+  <advance width="1027"/>
+  <outline>
+    <contour>
+      <point x="426" y="0" type="line"/>
+      <point x="619" y="0" type="line"/>
+      <point x="858" y="1354" type="line" smooth="yes"/>
+      <point x="868" y="1413"/>
+      <point x="833" y="1456"/>
+      <point x="774" y="1456" type="curve" smooth="yes"/>
+      <point x="123" y="1456" type="line"/>
+      <point x="95" y="1299" type="line"/>
+      <point x="655" y="1299" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="-8" type="line"/>
+      <point x="675" y="-8" type="line"/>
+      <point x="690" y="74" type="line"/>
+      <point x="65" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="591" y="-286" type="line" name="❌"/>
+      <point x="776" y="-286" type="line" name="❌"/>
+      <point x="839" y="69" type="line"/>
+      <point x="654" y="69" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

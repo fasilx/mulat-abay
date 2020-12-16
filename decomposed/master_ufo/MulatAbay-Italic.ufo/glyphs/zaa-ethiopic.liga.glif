@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zaa-ethiopic.liga" format="2">
+  <advance width="1460"/>
+  <outline>
+    <contour>
+      <point x="-22" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="289" y="673" type="line"/>
+      <point x="1023" y="673" type="line"/>
+      <point x="904" y="0" type="line"/>
+      <point x="1097" y="0" type="line"/>
+      <point x="1354" y="1456" type="line"/>
+      <point x="1161" y="1456" type="line"/>
+      <point x="1051" y="830" type="line"/>
+      <point x="317" y="830" type="line"/>
+      <point x="427" y="1456" type="line"/>
+      <point x="235" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="846" y="-382" type="line" name="❌"/>
+      <point x="1031" y="-382" type="line" name="❌"/>
+      <point x="1094" y="-27" type="line"/>
+      <point x="909" y="-27" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phi-ethiopic.liga" format="2">
+  <advance width="1164"/>
+  <outline>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="349" type="line" smooth="yes"/>
+      <point x="152" y="580"/>
+      <point x="360" y="650"/>
+      <point x="588" y="714.77" type="curve"/>
+      <point x="816" y="650"/>
+      <point x="1024" y="580"/>
+      <point x="1025" y="349" type="curve" smooth="yes"/>
+      <point x="1025" y="0" type="line"/>
+      <point x="1080" y="0" type="line"/>
+      <point x="1080" y="351" type="line" smooth="yes"/>
+      <point x="1080" y="583"/>
+      <point x="904" y="673"/>
+      <point x="682.756" y="742.071" type="curve"/>
+      <point x="892" y="807"/>
+      <point x="1080" y="888"/>
+      <point x="1080" y="1120" type="curve" smooth="yes"/>
+      <point x="1080" y="1331"/>
+      <point x="886" y="1476"/>
+      <point x="602.002" y="1475.985" type="curve" smooth="yes"/>
+      <point x="574" y="1476" type="line" smooth="yes"/>
+      <point x="290" y="1476"/>
+      <point x="96" y="1330.766"/>
+      <point x="96" y="1120" type="curve" smooth="yes"/>
+      <point x="96" y="888"/>
+      <point x="284" y="807"/>
+      <point x="493.244" y="742.071" type="curve"/>
+      <point x="272" y="673"/>
+      <point x="96" y="583"/>
+      <point x="96" y="351" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="588" y="771" type="curve" smooth="yes"/>
+      <point x="435" y="771"/>
+      <point x="150" y="897"/>
+      <point x="150" y="1122" type="curve" smooth="yes"/>
+      <point x="150" y="1290.878"/>
+      <point x="337" y="1417"/>
+      <point x="585" y="1422" type="curve" smooth="yes"/>
+      <point x="879" y="1427"/>
+      <point x="1026" y="1290.878"/>
+      <point x="1026" y="1122" type="curve" smooth="yes"/>
+      <point x="1026" y="899"/>
+      <point x="743" y="771"/>
+    </contour>
+    <contour>
+      <point x="1163" y="-1" type="curve" smooth="yes"/>
+      <point x="1194" y="-1"/>
+      <point x="1219" y="23"/>
+      <point x="1219" y="54" type="curve" smooth="yes"/>
+      <point x="1219" y="85"/>
+      <point x="1194" y="110"/>
+      <point x="1163" y="110" type="curve" smooth="yes"/>
+      <point x="1132" y="110"/>
+      <point x="1108" y="85"/>
+      <point x="1108" y="54" type="curve" smooth="yes"/>
+      <point x="1108" y="23"/>
+      <point x="1132" y="-1"/>
+    </contour>
+    <contour>
+      <point x="231" y="1682" type="line"/>
+      <point x="905" y="1682" type="line"/>
+      <point x="905" y="1725" type="line"/>
+      <point x="231" y="1725" type="line"/>
+    </contour>
+    <component base="_smart.neck.caps" xOffset="589" yOffset="26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.hi.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>S</string>
+    </dict>
+  </lib>
+</glyph>

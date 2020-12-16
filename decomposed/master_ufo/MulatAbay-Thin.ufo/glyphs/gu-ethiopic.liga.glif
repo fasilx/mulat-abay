@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gu-ethiopic.liga" format="2">
+  <advance width="956"/>
+  <outline>
+    <contour>
+      <point x="701" y="0" type="line"/>
+      <point x="756" y="0" type="line"/>
+      <point x="756" y="1436" type="line" smooth="yes"/>
+      <point x="756" y="1447"/>
+      <point x="747" y="1456"/>
+      <point x="736" y="1456" type="curve" smooth="yes"/>
+      <point x="54" y="1456" type="line"/>
+      <point x="54" y="1402" type="line"/>
+      <point x="701" y="1402" type="line"/>
+    </contour>
+    <contour>
+      <point x="838" y="910" type="curve" smooth="yes"/>
+      <point x="869" y="910"/>
+      <point x="894" y="934"/>
+      <point x="894" y="965" type="curve" smooth="yes"/>
+      <point x="894" y="996"/>
+      <point x="869" y="1021"/>
+      <point x="838" y="1021" type="curve" smooth="yes"/>
+      <point x="807" y="1021"/>
+      <point x="783" y="996"/>
+      <point x="783" y="965" type="curve" smooth="yes"/>
+      <point x="783" y="934"/>
+      <point x="807" y="910"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

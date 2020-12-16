@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi-ethiopic.liga" format="2">
+  <advance width="1102"/>
+  <outline>
+    <contour>
+      <point x="1052" y="157" type="line"/>
+      <point x="1014" y="446" type="line"/>
+      <point x="798" y="504" type="line"/>
+      <point x="981" y="151" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="1052" y="0" type="line"/>
+      <point x="1052" y="157" type="line"/>
+      <point x="362" y="157" type="line"/>
+      <point x="362" y="1456" type="line"/>
+      <point x="169" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="653" y="648" type="line"/>
+      <point x="408" y="648" type="line"/>
+      <point x="408" y="557" type="line"/>
+      <point x="497" y="557" type="line"/>
+      <point x="497" y="152" type="line"/>
+      <point x="653" y="152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.fa.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

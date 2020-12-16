@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caa-ethiopic" format="2">
+  <advance width="784"/>
+  <unicode hex="127B"/>
+  <outline>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="426" y="939" type="line"/>
+      <point x="628" y="939" type="line"/>
+      <point x="653" y="1082" type="line"/>
+      <point x="69" y="1082" type="line"/>
+      <point x="44" y="939" type="line"/>
+      <point x="241" y="939" type="line"/>
+    </contour>
+    <contour>
+      <point x="-209" y="-304" type="line"/>
+      <point x="-60" y="-304" type="line"/>
+      <point x="260" y="-10" type="line" name="❌"/>
+      <point x="36" y="-10" type="line" name="❌"/>
+    </contour>
+    <contour>
+      <point x="271" y="1082" type="line"/>
+      <point x="440" y="1082" type="line"/>
+      <point x="504" y="1446" type="line"/>
+      <point x="335" y="1446" type="line"/>
+    </contour>
+    <component base="_smart.hat" xOffset="571" yOffset="1327"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute</key>
+      <integer>1</integer>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.he.acute.top</key>
+      <integer>1</integer>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

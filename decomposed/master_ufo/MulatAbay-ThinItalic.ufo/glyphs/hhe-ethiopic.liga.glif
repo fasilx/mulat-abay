@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hhe-ethiopic.liga" format="2">
+  <advance width="1756"/>
+  <outline>
+    <contour>
+      <point x="9" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="305" y="1369" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="707" y="0" type="line"/>
+      <point x="1554" y="1376" type="line"/>
+      <point x="1311" y="0" type="line"/>
+      <point x="1365" y="0" type="line"/>
+      <point x="1622" y="1456" type="line"/>
+      <point x="1543" y="1456" type="line"/>
+      <point x="699" y="79" type="line"/>
+      <point x="343" y="1456" type="line"/>
+      <point x="266" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="836" y="835" type="line"/>
+      <point x="893" y="835" type="line"/>
+      <point x="1050" y="1729" type="line"/>
+      <point x="993" y="1729" type="line"/>
+    </contour>
+    <contour>
+      <point x="843" y="1414" type="line" name="❌"/>
+      <point x="701" y="1680" type="line"/>
+      <point x="635" y="1680" type="line"/>
+      <point x="783" y="1414" type="line" name="❌"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.he.acute.top.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.hha.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>M</string>
+    </dict>
+  </lib>
+</glyph>

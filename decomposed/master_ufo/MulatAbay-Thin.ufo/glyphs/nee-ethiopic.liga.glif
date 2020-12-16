@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nee-ethiopic.liga" format="2">
+  <advance width="956"/>
+  <outline>
+    <contour>
+      <point x="701" y="0" type="line"/>
+      <point x="756" y="0" type="line"/>
+      <point x="756" y="1436" type="line" smooth="yes"/>
+      <point x="756" y="1447"/>
+      <point x="747" y="1456"/>
+      <point x="736" y="1456" type="curve" smooth="yes"/>
+      <point x="54" y="1456" type="line"/>
+      <point x="54" y="1402" type="line"/>
+      <point x="701" y="1402" type="line"/>
+    </contour>
+    <contour>
+      <point x="595" y="-396" type="curve" smooth="yes"/>
+      <point x="720" y="-396"/>
+      <point x="817" y="-299"/>
+      <point x="817" y="-175" type="curve" smooth="yes"/>
+      <point x="817" y="-50"/>
+      <point x="720" y="52"/>
+      <point x="595" y="52" type="curve" smooth="yes"/>
+      <point x="474" y="52"/>
+      <point x="373" y="-45"/>
+      <point x="373" y="-175" type="curve" smooth="yes"/>
+      <point x="373" y="-305"/>
+      <point x="475" y="-396"/>
+    </contour>
+    <contour>
+      <point x="594" y="-358" type="curve" smooth="yes"/>
+      <point x="492" y="-358"/>
+      <point x="419" y="-287"/>
+      <point x="419" y="-184" type="curve" smooth="yes"/>
+      <point x="419" y="-76"/>
+      <point x="492" y="-4"/>
+      <point x="594" y="-4" type="curve" smooth="yes"/>
+      <point x="696" y="-4"/>
+      <point x="769" y="-76"/>
+      <point x="769" y="-184" type="curve" smooth="yes"/>
+      <point x="769" y="-287"/>
+      <point x="696" y="-358"/>
+    </contour>
+    <contour>
+      <point x="55" y="1460" type="line"/>
+      <point x="115" y="1460" type="line"/>
+      <point x="115" y="1726" type="line"/>
+      <point x="55" y="1726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.left.caps.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

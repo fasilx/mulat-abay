@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twa-ethiopic.liga" format="2">
+  <advance width="1267"/>
+  <outline>
+    <contour>
+      <point x="480" y="0" type="line"/>
+      <point x="780" y="0" type="line"/>
+      <point x="780" y="1213" type="line"/>
+      <point x="1226" y="1213" type="line"/>
+      <point x="1226" y="1456" type="line"/>
+      <point x="40" y="1456" type="line"/>
+      <point x="40" y="1213" type="line"/>
+      <point x="480" y="1213" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="-390" type="line"/>
+      <point x="708" y="-390" type="line"/>
+      <point x="708" y="-486" type="line"/>
+      <point x="882" y="-486" type="line"/>
+      <point x="882" y="-199" type="line"/>
+      <point x="712" y="-199" type="line"/>
+      <point x="712" y="-34" type="line"/>
+      <point x="484" y="-34" type="line"/>
+      <point x="484" y="-199" type="line"/>
+      <point x="190" y="-199" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="1526" type="line"/>
+      <point x="688" y="1526" type="line"/>
+      <point x="688" y="1783" type="line"/>
+      <point x="511" y="1783" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

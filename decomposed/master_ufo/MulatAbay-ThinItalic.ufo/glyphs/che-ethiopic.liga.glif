@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="che-ethiopic.liga" format="2">
+  <advance width="1756"/>
+  <outline>
+    <contour>
+      <point x="9" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="305" y="1369" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="707" y="0" type="line"/>
+      <point x="1554" y="1376" type="line"/>
+      <point x="1311" y="0" type="line"/>
+      <point x="1365" y="0" type="line"/>
+      <point x="1622" y="1456" type="line"/>
+      <point x="1543" y="1456" type="line"/>
+      <point x="699" y="79" type="line"/>
+      <point x="343" y="1456" type="line"/>
+      <point x="266" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="-9" type="curve" smooth="yes"/>
+      <point x="180" y="-9"/>
+      <point x="209" y="15"/>
+      <point x="215" y="46" type="curve" smooth="yes"/>
+      <point x="220" y="77"/>
+      <point x="200" y="102"/>
+      <point x="169" y="102" type="curve" smooth="yes"/>
+      <point x="138" y="102"/>
+      <point x="109" y="77"/>
+      <point x="104" y="46" type="curve" smooth="yes"/>
+      <point x="98" y="15"/>
+      <point x="118" y="-9"/>
+    </contour>
+    <contour>
+      <point x="1171" y="-9" type="curve" smooth="yes"/>
+      <point x="1202" y="-9"/>
+      <point x="1231" y="15"/>
+      <point x="1237" y="46" type="curve" smooth="yes"/>
+      <point x="1242" y="77"/>
+      <point x="1222" y="102"/>
+      <point x="1191" y="102" type="curve" smooth="yes"/>
+      <point x="1160" y="102"/>
+      <point x="1131" y="77"/>
+      <point x="1126" y="46" type="curve" smooth="yes"/>
+      <point x="1120" y="15"/>
+      <point x="1140" y="-9"/>
+    </contour>
+    <contour>
+      <point x="516" y="-257" type="line"/>
+      <point x="576" y="-257" type="line"/>
+      <point x="818" y="9" type="line"/>
+      <point x="752" y="9" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.cha.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.haa.acute.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>M</string>
+    </dict>
+  </lib>
+</glyph>

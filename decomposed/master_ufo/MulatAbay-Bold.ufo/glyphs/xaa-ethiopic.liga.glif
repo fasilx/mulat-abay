@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xaa-ethiopic.liga" format="2">
+  <advance width="981"/>
+  <outline>
+    <contour>
+      <point x="549" y="0" type="line"/>
+      <point x="849" y="0" type="line"/>
+      <point x="849" y="1354" type="line" smooth="yes"/>
+      <point x="849" y="1413"/>
+      <point x="806" y="1456"/>
+      <point x="747" y="1456" type="curve" smooth="yes"/>
+      <point x="22" y="1456" type="line"/>
+      <point x="22" y="1215" type="line"/>
+      <point x="549" y="1215" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="-303" type="line"/>
+      <point x="576" y="-303" type="line"/>
+      <point x="853" y="7" type="line" name="❌"/>
+      <point x="538" y="7" type="line" name="❌"/>
+    </contour>
+    <contour>
+      <point x="20" y="1443" type="line"/>
+      <point x="257" y="1443" type="line"/>
+      <point x="257" y="1833" type="line"/>
+      <point x="20" y="1833" type="line"/>
+    </contour>
+    <component base="_smart.nose" xOffset="-290" yOffset="1524"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.left.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.nose.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

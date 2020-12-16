@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paa-ethiopic" format="2">
+  <advance width="742"/>
+  <unicode hex="1353"/>
+  <outline>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="45" type="line"/>
+      <point x="98" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="1027" type="line"/>
+      <point x="606" y="1027" type="line"/>
+      <point x="606" y="1082" type="line"/>
+      <point x="105" y="1082" type="line"/>
+      <point x="105" y="1027" type="line"/>
+      <point x="305" y="1027" type="line"/>
+      <point x="305" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>pa-ethiopic</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>pa-ethiopic</string>
+    </dict>
+  </lib>
+</glyph>
