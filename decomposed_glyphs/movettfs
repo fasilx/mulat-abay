@@ -1,0 +1,6 @@
+
+for font in autohinted/master_ttf/*.ttf
+do
+	echo "moving files"
+	mv $font ../
+done

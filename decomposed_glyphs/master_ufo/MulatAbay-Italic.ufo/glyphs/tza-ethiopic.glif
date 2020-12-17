@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tza-ethiopic" format="2">
+  <advance width="1289"/>
+  <unicode hex="1340"/>
+  <anchor x="696" y="-20" name="haa"/>
+  <anchor x="387" y="-62" name="haa.acute"/>
+  <anchor x="718" y="-39" name="hee"/>
+  <anchor x="726" y="-242" name="hi"/>
+  <anchor x="1017" y="671" name="hu"/>
+  <anchor x="721" y="0" name="hwa"/>
+  <anchor x="654" y="1121" name="neck"/>
+  <anchor x="528" y="550" name="tsa.belt"/>
+  <outline>
+    <component base="oPh.base"/>
+    <component base="_smart.tsa.belt" xOffset="620" yOffset="-52"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.tsa.belt</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

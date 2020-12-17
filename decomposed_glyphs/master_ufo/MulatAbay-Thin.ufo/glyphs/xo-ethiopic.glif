@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xo-ethiopic" format="2">
+  <advance width="969"/>
+  <unicode hex="1286"/>
+  <anchor x="730" y="71" name="fa"/>
+  <anchor x="904" y="-27" name="haa"/>
+  <anchor x="603" y="-11" name="haa.acute"/>
+  <anchor x="593" y="1278" name="hat"/>
+  <anchor x="525" y="941" name="hat.left"/>
+  <anchor x="162" y="815" name="he.left"/>
+  <anchor x="94" y="568" name="he.left.outer"/>
+  <anchor x="917" y="590" name="hee"/>
+  <anchor x="829" y="999" name="ho.ring"/>
+  <anchor x="903" y="-77" name="hwa"/>
+  <outline>
+    <component base="na.base"/>
+    <component base="_smart.haa" xOffset="896" yOffset="-365"/>
+    <component base="_smart.ho.ring" xOffset="831" yOffset="-84"/>
+    <component base="_smart.he.left.outer" xOffset="152" yOffset="1344"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+      <key>_smart.he.left.outer</key>
+      <integer>1</integer>
+      <key>_smart.ho.ring</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>_smart.he.left.outer</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

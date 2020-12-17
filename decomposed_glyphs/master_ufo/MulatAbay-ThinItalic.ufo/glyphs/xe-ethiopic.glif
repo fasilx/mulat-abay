@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xe-ethiopic" format="2">
+  <advance width="814"/>
+  <unicode hex="1285"/>
+  <anchor x="554" y="21" name="haa"/>
+  <anchor x="413" y="-45" name="haa.acute"/>
+  <anchor x="438" y="1367" name="hat"/>
+  <anchor x="299" y="1176" name="hat.left"/>
+  <anchor x="503" y="630" name="he.left.outer"/>
+  <anchor x="439" y="40" name="hee"/>
+  <anchor x="498" y="50" name="hi"/>
+  <anchor x="403" y="838" name="ho.ring"/>
+  <anchor x="101" y="1152" name="ho.ring.uniq"/>
+  <anchor x="594" y="638" name="hu"/>
+  <anchor x="454" y="0" name="hwa"/>
+  <anchor x="299" y="1102" name="neck"/>
+  <anchor x="128" y="1041" name="neck.left"/>
+  <anchor x="74" y="1235" name="nose"/>
+  <anchor x="38" y="1085" name="nose.extend"/>
+  <anchor x="469" y="1060" name="ring"/>
+  <anchor x="443" y="1" name="xwaa"/>
+  <outline>
+    <component base="ga.base"/>
+    <component base="_smart.neck.left" xOffset="294" yOffset="1065"/>
+    <component base="_smart.nose" xOffset="-6" yOffset="1134"/>
+    <component base="_smart.nose.extend" xOffset="9" yOffset="32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck.left</key>
+      <integer>1</integer>
+      <key>_smart.nose</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>xa-ethiopic</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>xa-ethiopic</string>
+    </dict>
+  </lib>
+</glyph>

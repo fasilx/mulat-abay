@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nye-ethiopic.liga" format="2">
+  <advance width="1065"/>
+  <anchor x="689.466" y="8.0" name="haa.acute"/>
+  <anchor x="277" y="1665" name="hat.caps"/>
+  <anchor x="82.961" y="1305.0" name="he.ring.uniq"/>
+  <anchor x="663.181" y="11.0" name="hee"/>
+  <anchor x="838" y="65" name="hi"/>
+  <anchor x="386.701" y="1464.0" name="ho"/>
+  <anchor x="434.449" y="1315.0" name="ho.ring"/>
+  <anchor x="790.713" y="955.0" name="hu"/>
+  <anchor x="352.627" y="1463.0" name="neck.caps"/>
+  <anchor x="92" y="1452" name="neck.left.caps"/>
+  <anchor x="-16" y="1625" name="nose"/>
+  <outline>
+    <contour>
+      <point x="870" y="-377" type="line"/>
+      <point x="914" y="-374" type="line"/>
+      <point x="855" y="298" type="line"/>
+      <point x="811" y="301" type="line"/>
+    </contour>
+    <component base="ga.base.cap" xOffset="8"/>
+    <component base="_smart.hat.caps" xOffset="358" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.caps</key>
+      <integer>1</integer>
+      <key>_smart.hat.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.left.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
+    </dict>
+  </lib>
+</glyph>

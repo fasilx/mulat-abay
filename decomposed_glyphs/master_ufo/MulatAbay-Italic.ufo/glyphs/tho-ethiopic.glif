@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tho-ethiopic" format="2">
+  <advance width="1895"/>
+  <unicode hex="1326"/>
+  <anchor x="740" y="7" name="cha"/>
+  <anchor x="1438" y="-30" name="haa"/>
+  <anchor x="1626" y="663" name="he"/>
+  <anchor x="906" y="-3" name="he.acute.bottom"/>
+  <anchor x="810" y="1319" name="he.acute.top"/>
+  <anchor x="1379" y="-72" name="hee"/>
+  <anchor x="1525" y="110" name="hi"/>
+  <anchor x="90" y="-12" name="ho"/>
+  <anchor x="1626" y="663" name="hu"/>
+  <anchor x="1418" y="-20" name="hwa"/>
+  <anchor x="938" y="1106" name="neck"/>
+  <outline>
+    <component base="hha.base"/>
+    <component base="_smart.ho" xOffset="215" yOffset="-362"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

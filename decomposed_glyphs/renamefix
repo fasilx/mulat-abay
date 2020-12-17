@@ -1,0 +1,22 @@
+# To automate this for multiple files, here’s a bash script:
+
+echo "Fixing Hinting"
+for font in autohinted/master_ttf/*.ttf
+do
+	echo "fix hinting"
+	gftools fix-hinting $font;
+	if [ -f "$font.fix" ]; then mv "$font.fix" $font; fi
+done
+
+for font in autohinted/master_ttf/*.ttf
+do
+	echo "fix dig"
+	gftools fix-dsig --autofix $font
+	if [ -f "$font.fix" ]; then mv "$font.fix" $font; fi
+done
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fee-ethiopic.liga" format="2">
+  <advance width="1109"/>
+  <anchor x="849" y="201" name="fa"/>
+  <anchor x="710" y="3" name="haa"/>
+  <anchor x="706" y="5" name="haa.acute"/>
+  <anchor x="318.007" y="1360.0" name="hat.left"/>
+  <anchor x="1200" y="170" name="hee"/>
+  <outline>
+    <component base="ra.base.cap"/>
+    <component base="_smart.fa" xOffset="416" yOffset="147"/>
+    <component base="_smart.hee" xOffset="1199" yOffset="-179"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.fa</key>
+      <integer>1</integer>
+      <key>_smart.hee.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

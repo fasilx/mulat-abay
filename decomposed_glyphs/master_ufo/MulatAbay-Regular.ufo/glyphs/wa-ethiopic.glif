@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wa-ethiopic" format="2">
+  <advance width="1655"/>
+  <unicode hex="12C8"/>
+  <anchor x="862" y="-20" name="haa"/>
+  <anchor x="749" y="-130" name="haa.acute"/>
+  <anchor x="888" y="1363" name="hat"/>
+  <anchor x="825" y="1232" name="he.acute.top"/>
+  <anchor x="880" y="0" name="hee"/>
+  <anchor x="943" y="-269" name="hi"/>
+  <anchor x="1066" y="1330" name="ho.ring"/>
+  <anchor x="1475" y="743" name="hu"/>
+  <anchor x="811" y="0" name="hwa"/>
+  <anchor x="833" y="1092" name="neck"/>
+  <outline>
+    <component base="wa.base"/>
+  </outline>
+</glyph>

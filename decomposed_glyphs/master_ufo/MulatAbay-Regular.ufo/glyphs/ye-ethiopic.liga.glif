@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ye-ethiopic.liga" format="2">
+  <advance width="1358"/>
+  <anchor x="344" y="10" name="da.caps"/>
+  <anchor x="1206" y="14" name="haa"/>
+  <anchor x="957" y="1642" name="hat.caps"/>
+  <anchor x="1471" y="1009" name="he"/>
+  <anchor x="316" y="1466" name="he.left.outer"/>
+  <anchor x="1184" y="32" name="hee"/>
+  <anchor x="1275" y="75" name="hi"/>
+  <anchor x="319" y="-24" name="ho"/>
+  <anchor x="1175" y="329" name="hu"/>
+  <anchor x="1185" y="-52" name="hwa"/>
+  <anchor x="707" y="1480" name="neck.caps"/>
+  <outline>
+    <contour>
+      <point x="172" y="-228" type="curve"/>
+      <point x="295" y="-211" type="line"/>
+      <point x="286" y="-146"/>
+      <point x="324" y="-93"/>
+      <point x="378" y="-86" type="curve" smooth="yes"/>
+      <point x="504" y="-68"/>
+      <point x="809" y="-121"/>
+      <point x="954" y="-101" type="curve" smooth="yes"/>
+      <point x="1076" y="-84"/>
+      <point x="1154" y="86"/>
+      <point x="1134" y="229" type="curve"/>
+      <point x="1009" y="223" type="line"/>
+      <point x="1017" y="164"/>
+      <point x="982" y="46"/>
+      <point x="926" y="38" type="curve" smooth="yes"/>
+      <point x="816" y="22"/>
+      <point x="468" y="70"/>
+      <point x="349" y="54" type="curve" smooth="yes"/>
+      <point x="226" y="36"/>
+      <point x="152" y="-80"/>
+    </contour>
+    <component base="ya.base.cap" xOffset="66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="so-ethiopic" format="2">
+  <advance width="1250"/>
+  <unicode hex="1236"/>
+  <anchor x="254" y="765" name="aGl"/>
+  <anchor x="29.668" y="1465.0" name="eGl"/>
+  <anchor x="793" y="-30" name="haa"/>
+  <anchor x="687" y="1382" name="hat"/>
+  <anchor x="336" y="1322" name="hat.left"/>
+  <anchor x="627" y="1204" name="he.acute.top"/>
+  <anchor x="299" y="560" name="he.left.inner"/>
+  <anchor x="114" y="634" name="he.left.outer"/>
+  <anchor x="726" y="60" name="hee"/>
+  <anchor x="880" y="110" name="hi"/>
+  <anchor x="92" y="-20" name="ho"/>
+  <anchor x="983" y="673" name="hu"/>
+  <anchor x="773" y="-24" name="hwa"/>
+  <anchor x="598" y="1040" name="ka"/>
+  <anchor x="655" y="1114" name="neck"/>
+  <outline>
+    <component base="ba.base"/>
+    <component base="_smart.neck" xOffset="849" yOffset="1138"/>
+    <component base="_smart.ho" xOffset="217" yOffset="-370"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho</key>
+      <integer>1</integer>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

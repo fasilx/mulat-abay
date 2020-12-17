@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dee-ethiopic" format="2">
+  <advance width="1132"/>
+  <unicode hex="12F4"/>
+  <anchor x="215" y="54" name="da"/>
+  <anchor x="891" y="-69" name="di"/>
+  <anchor x="793" y="164" name="du"/>
+  <anchor x="876" y="-10" name="haa"/>
+  <anchor x="481" y="-65" name="haa.acute"/>
+  <anchor x="660" y="1341" name="hat"/>
+  <anchor x="1182" y="756" name="he"/>
+  <anchor x="314" y="970" name="he.left.outer"/>
+  <anchor x="934" y="12" name="hee"/>
+  <anchor x="1029" y="11" name="hha"/>
+  <anchor x="925" y="-300" name="hi"/>
+  <anchor x="180" y="-11" name="ho"/>
+  <anchor x="881" y="159" name="hu"/>
+  <anchor x="873" y="0" name="hwa"/>
+  <anchor x="693" y="1112" name="neck"/>
+  <anchor x="509" y="24" name="ye"/>
+  <anchor x="410" y="280" name="yee"/>
+  <anchor x="239.848" y="381.0" name="yi"/>
+  <anchor x="410" y="335" name="yu"/>
+  <outline>
+    <component base="ya.base"/>
+    <component base="_smart.hee" xOffset="929" yOffset="-316"/>
+    <component base="_smart.da" xOffset="281" yOffset="-102"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.da</key>
+      <integer>1</integer>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

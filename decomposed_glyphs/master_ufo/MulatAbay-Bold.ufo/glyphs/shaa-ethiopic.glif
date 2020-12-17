@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shaa-ethiopic" format="2">
+  <advance width="1264"/>
+  <unicode hex="123B"/>
+  <anchor x="309" y="743" name="aGl"/>
+  <anchor x="30" y="1465" name="eGl"/>
+  <anchor x="975" y="0" name="haa"/>
+  <anchor x="643" y="1382" name="hat"/>
+  <anchor x="257" y="1312" name="hat.left"/>
+  <anchor x="603" y="1194" name="he.acute.top"/>
+  <anchor x="446" y="560" name="he.left.inner"/>
+  <anchor x="195" y="634" name="he.left.outer"/>
+  <anchor x="948" y="50" name="hee"/>
+  <anchor x="1066" y="130" name="hi"/>
+  <anchor x="278" y="-20" name="ho"/>
+  <anchor x="1070" y="673" name="hu"/>
+  <anchor x="978" y="58" name="hwa"/>
+  <anchor x="492" y="1040" name="ka"/>
+  <anchor x="658" y="1124" name="neck"/>
+  <outline>
+    <component base="ba.base"/>
+    <component base="_smart.haa" xOffset="976" yOffset="-315"/>
+    <component base="_smart.neck" xOffset="657" yOffset="1148"/>
+    <component base="_smart.hat" xOffset="632" yOffset="1370"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

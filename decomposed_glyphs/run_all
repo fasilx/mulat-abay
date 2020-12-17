@@ -1,0 +1,9 @@
+
+
+fontmake -a -g MulatAbay-DECOMP.glyphs
+
+source renamefix
+
+fontbakery check-googlefonts autohinted/master_ttf/MulatAbay-*.ttf
+
+source movettfs

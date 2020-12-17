@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vu-ethiopic.liga" format="2">
+  <advance width="1365"/>
+  <anchor x="958" y="-25" name="haa"/>
+  <anchor x="693" y="1678" name="hat.caps"/>
+  <anchor x="362" y="1555" name="hat.left"/>
+  <anchor x="751" y="1481" name="he.acute.top"/>
+  <anchor x="226" y="772" name="he.left.inner"/>
+  <anchor x="23" y="764" name="he.left.outer"/>
+  <anchor x="845" y="119" name="hee"/>
+  <anchor x="1017" y="53" name="hi"/>
+  <anchor x="19" y="-19" name="ho"/>
+  <anchor x="38" y="26" name="ho.caps"/>
+  <anchor x="1196" y="866" name="hu"/>
+  <anchor x="968" y="-5" name="hwa"/>
+  <anchor x="661" y="1480" name="ka.caps"/>
+  <anchor x="749" y="1475" name="neck.caps"/>
+  <outline>
+    <component base="ba.base.cap"/>
+    <component base="_smart.hu" xOffset="1220" yOffset="-101"/>
+    <component base="_smart.hat.caps" xOffset="565" yOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.hu.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

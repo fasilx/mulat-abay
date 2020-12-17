@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tzi-ethiopic.liga" format="2">
+  <advance width="1414"/>
+  <anchor x="902" y="-30" name="haa"/>
+  <anchor x="724" y="-99" name="haa.acute"/>
+  <anchor x="891" y="-39" name="hee"/>
+  <anchor x="1035" y="-292" name="hi"/>
+  <anchor x="1302" y="931" name="hu"/>
+  <anchor x="887" y="-40" name="hwa"/>
+  <anchor x="666" y="1451" name="neck"/>
+  <anchor x="501.374" y="550.0" name="tsa.belt"/>
+  <anchor x="706" y="757" name="tsa.belt.caps"/>
+  <outline>
+    <component base="oPh.base.cap"/>
+    <component base="_smart.hi" xOffset="1041" yOffset="-407"/>
+    <component base="_smart.haa" xOffset="903" yOffset="-345"/>
+    <component base="_smart.tsa.belt.caps" xOffset="689" yOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.cap</key>
+      <integer>1</integer>
+      <key>_smart.hi.cap</key>
+      <integer>1</integer>
+      <key>_smart.tsa.belt.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

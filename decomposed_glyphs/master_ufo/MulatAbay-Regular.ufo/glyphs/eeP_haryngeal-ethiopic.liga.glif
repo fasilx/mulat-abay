@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eePharyngeal-ethiopic.liga" format="2">
+  <advance width="1408"/>
+  <anchor x="898.438" y="0.0" name="haa"/>
+  <anchor x="732" y="-72" name="haa.acute"/>
+  <anchor x="887.092" y="-39.0" name="hee"/>
+  <anchor x="971" y="-243" name="hi"/>
+  <anchor x="1287" y="971" name="hu"/>
+  <anchor x="883" y="-20" name="hwa"/>
+  <anchor x="693" y="1401" name="neck"/>
+  <anchor x="499.247" y="550.0" name="tsa.belt"/>
+  <anchor x="652" y="757" name="tsa.belt.caps"/>
+  <outline>
+    <component base="oPh.base.cap"/>
+    <component base="_smart.hee" xOffset="966" yOffset="-378"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

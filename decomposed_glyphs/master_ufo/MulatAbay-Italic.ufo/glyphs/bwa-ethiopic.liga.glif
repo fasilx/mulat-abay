@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bwa-ethiopic.liga" format="2">
+  <advance width="1341"/>
+  <anchor x="944" y="-25" name="haa"/>
+  <anchor x="1041" y="1648" name="hat.caps"/>
+  <anchor x="348" y="1685" name="hat.left"/>
+  <anchor x="690" y="1481" name="he.acute.top"/>
+  <anchor x="259" y="772" name="he.left.inner"/>
+  <anchor x="22" y="764" name="he.left.outer"/>
+  <anchor x="889" y="49" name="hee"/>
+  <anchor x="997" y="93" name="hi"/>
+  <anchor x="30" y="-29" name="ho"/>
+  <anchor x="28" y="26" name="ho.caps"/>
+  <anchor x="1175" y="866" name="hu"/>
+  <anchor x="921" y="-22" name="hwa"/>
+  <anchor x="350" y="1455" name="ka.caps"/>
+  <anchor x="731" y="1475" name="neck.caps"/>
+  <outline>
+    <component base="ba.base.cap"/>
+    <component base="_smart.hwa" xOffset="1030" yOffset="-430"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

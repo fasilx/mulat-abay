@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vwa-ethiopic" format="2">
+  <advance width="1242"/>
+  <unicode hex="126F"/>
+  <anchor x="319" y="721" name="aGl"/>
+  <anchor x="29.478" y="1465.0" name="eGl"/>
+  <anchor x="988" y="-15" name="haa"/>
+  <anchor x="630" y="1382" name="hat"/>
+  <anchor x="292" y="1232" name="hat.left"/>
+  <anchor x="570" y="1194" name="he.acute.top"/>
+  <anchor x="349" y="560" name="he.left.inner"/>
+  <anchor x="192" y="634" name="he.left.outer"/>
+  <anchor x="880" y="80" name="hee"/>
+  <anchor x="1074" y="60" name="hi"/>
+  <anchor x="260" y="-23" name="ho"/>
+  <anchor x="1048" y="673" name="hu"/>
+  <anchor x="987" y="26" name="hwa"/>
+  <anchor x="601" y="1040" name="ka"/>
+  <anchor x="585" y="1114" name="neck"/>
+  <outline>
+    <component base="ba.base"/>
+    <component base="_smart.hwa" xOffset="987" yOffset="-342"/>
+    <component base="_smart.hat" xOffset="649" yOffset="1270"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kwa-ethiopic" format="2">
+  <advance width="1251"/>
+  <unicode hex="12B0"/>
+  <anchor x="250" y="765" name="aGl"/>
+  <anchor x="929" y="-30" name="haa"/>
+  <anchor x="574" y="1382" name="hat"/>
+  <anchor x="234" y="1322" name="hat.left"/>
+  <anchor x="554" y="1154" name="he.acute.top"/>
+  <anchor x="321" y="560" name="he.left.inner"/>
+  <anchor x="133" y="634" name="he.left.outer"/>
+  <anchor x="846" y="60" name="hee"/>
+  <anchor x="991" y="110" name="hi"/>
+  <anchor x="222" y="10" name="ho"/>
+  <anchor x="995" y="673" name="hu"/>
+  <anchor x="901" y="-39" name="hwa"/>
+  <anchor x="545" y="1040" name="ka"/>
+  <anchor x="589" y="1114" name="neck"/>
+  <anchor x="29.691" y="1465.0" name="eGl"/>
+  <outline>
+    <component base="ba.base"/>
+    <component base="_smart.ka" xOffset="1145" yOffset="6"/>
+    <component base="_smart.hwa" xOffset="961" yOffset="-387"/>
+  </outline>
+</glyph>
