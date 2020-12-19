@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="_zha.ears.caps" format="2">
-  <outline>
-    <component base="dotaccent" xOffset="-1810" yOffset="180"/>
-    <component base="dotaccent" xOffset="-450" yOffset="180"/>
-  </outline>
-</glyph>
