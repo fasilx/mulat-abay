@@ -1,0 +1,8 @@
+# 
+
+
+rm -fr master_*
+rm -fr instance_*
+rm -fr autohinted 
+
+echo 'cleaned'

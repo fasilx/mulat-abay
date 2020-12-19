@@ -1,0 +1,6 @@
+source cleanup
+fontmake -a -g MulatAbay.glyphs
+source renamefix
+fontbakery check-googlefonts autohinted/master_ttf/MulatAbay-*.ttf
+source mvtff
+source cleanup

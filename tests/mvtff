@@ -1,0 +1,2 @@
+mv MulatAbay-*.tff ../
+echo 'moved files'
