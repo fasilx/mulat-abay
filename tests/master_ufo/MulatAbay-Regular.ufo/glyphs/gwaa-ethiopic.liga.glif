@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gwaa-ethiopic.liga" format="2">
+  <advance width="1027"/>
+  <anchor x="700" y="8" name="haa.acute"/>
+  <anchor x="518" y="1663" name="hat.caps"/>
+  <anchor x="77" y="1305" name="he.ring.uniq"/>
+  <anchor x="673" y="11" name="hee"/>
+  <anchor x="821" y="88" name="hi"/>
+  <anchor x="389" y="1464" name="ho"/>
+  <anchor x="457.642" y="1315.0" name="ho.ring"/>
+  <anchor x="804" y="955" name="hu"/>
+  <anchor x="354" y="1463" name="neck.caps"/>
+  <anchor x="136" y="1442" name="neck.left.caps"/>
+  <anchor x="38" y="1625" name="nose"/>
+  <outline>
+    <component base="ga.base.cap"/>
+    <component base="_smart.hat" xOffset="547" yOffset="-60"/>
+    <component base="_smart.haa" xOffset="907" yOffset="-275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.hat</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_smart.haa</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

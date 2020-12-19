@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rwa-ethiopic.liga" format="2">
+  <advance width="1102"/>
+  <anchor x="428" y="151" name="fa"/>
+  <anchor x="556" y="3" name="haa"/>
+  <anchor x="481" y="-5" name="haa.acute"/>
+  <anchor x="365" y="1360" name="hat.left"/>
+  <anchor x="895" y="80" name="hee"/>
+  <anchor x="912" y="235" name="raa.cap"/>
+  <anchor x="857" y="304" name="ri.cap"/>
+  <outline>
+    <component base="ra.base.cap"/>
+    <component base="_smart.hat.left" xOffset="549" yOffset="1348"/>
+    <component base="_smart.raa.cap" xOffset="91" yOffset="-60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.left.cap</key>
+      <integer>1</integer>
+      <key>_smart.raa.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

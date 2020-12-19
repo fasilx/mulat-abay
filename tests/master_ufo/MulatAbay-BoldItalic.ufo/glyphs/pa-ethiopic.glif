@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pa-ethiopic" format="2">
+  <advance width="788"/>
+  <unicode hex="1350"/>
+  <anchor x="447" y="102" name="haa"/>
+  <anchor x="145" y="-10" name="haa.acute"/>
+  <anchor x="415" y="1339" name="hat"/>
+  <anchor x="378" y="1167" name="he.acute.top"/>
+  <anchor x="72" y="141" name="he.left.outer"/>
+  <anchor x="227" y="50" name="hee"/>
+  <anchor x="334" y="130" name="hi"/>
+  <anchor x="704" y="1314" name="ho.ring"/>
+  <anchor x="408" y="669" name="hu"/>
+  <anchor x="224" y="12" name="hwa"/>
+  <anchor x="381" y="1082" name="neck"/>
+  <outline>
+    <component base="pa.base"/>
+  </outline>
+</glyph>

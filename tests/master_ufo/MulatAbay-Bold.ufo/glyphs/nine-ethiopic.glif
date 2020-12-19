@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine-ethiopic" format="2">
+  <advance width="1317"/>
+  <unicode hex="1371"/>
+  <outline>
+    <contour>
+      <point x="667" y="-20" type="curve" smooth="yes"/>
+      <point x="988" y="-20"/>
+      <point x="1158" y="199"/>
+      <point x="1158" y="602" type="curve" smooth="yes"/>
+      <point x="1158" y="870" type="line" smooth="yes"/>
+      <point x="1158" y="1148"/>
+      <point x="1069" y="1338"/>
+      <point x="903" y="1424" type="curve"/>
+      <point x="778" y="1207" type="line"/>
+      <point x="815.134" y="1178.251"/>
+      <point x="840.429" y="1130.491"/>
+      <point x="854.747" y="1062" type="curve"/>
+      <point x="475.192" y="1062" type="line"/>
+      <point x="490.705" y="1139.317"/>
+      <point x="521.12" y="1190.472"/>
+      <point x="567" y="1218" type="curve"/>
+      <point x="407" y="1412" type="line"/>
+      <point x="255" y="1320"/>
+      <point x="174" y="1133"/>
+      <point x="174" y="855" type="curve" smooth="yes"/>
+      <point x="174" y="587" type="line" smooth="yes"/>
+      <point x="174" y="196"/>
+      <point x="350" y="-20"/>
+    </contour>
+    <contour>
+      <point x="667" y="213" type="curve" smooth="yes"/>
+      <point x="524" y="213"/>
+      <point x="463" y="327"/>
+      <point x="463" y="564" type="curve" smooth="yes"/>
+      <point x="463" y="826" type="line"/>
+      <point x="869" y="826" type="line"/>
+      <point x="869" y="550" type="line" smooth="yes"/>
+      <point x="869" y="322"/>
+      <point x="805" y="213"/>
+    </contour>
+    <component base="_num.bar" xOffset="95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_num.bar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>zero</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>zero</string>
+    </dict>
+  </lib>
+</glyph>

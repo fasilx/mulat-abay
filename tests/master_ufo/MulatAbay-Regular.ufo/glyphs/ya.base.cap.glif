@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ya.base.cap" format="2">
+  <advance width="1292"/>
+  <anchor x="278" y="10" name="da.caps"/>
+  <anchor x="1140" y="14" name="haa"/>
+  <anchor x="891" y="1642" name="hat.caps"/>
+  <anchor x="1405" y="1009" name="he"/>
+  <anchor x="250" y="1466" name="he.left.outer"/>
+  <anchor x="1118" y="32" name="hee"/>
+  <anchor x="1209" y="75" name="hi"/>
+  <anchor x="253" y="-24" name="ho"/>
+  <anchor x="1109" y="329" name="hu"/>
+  <anchor x="1119" y="-52" name="hwa"/>
+  <anchor x="641" y="1480" name="neck.caps"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="361" y="570" type="line"/>
+      <point x="704" y="570" type="line" smooth="yes"/>
+      <point x="1033.333" y="570"/>
+      <point x="1216" y="728.333"/>
+      <point x="1216" y="1011" type="curve" smooth="yes"/>
+      <point x="1216" y="1279"/>
+      <point x="1024.667" y="1456"/>
+      <point x="706" y="1456" type="curve" smooth="yes"/>
+      <point x="169" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="727" type="line"/>
+      <point x="361" y="1298" type="line"/>
+      <point x="717" y="1298" type="line" smooth="yes"/>
+      <point x="908" y="1298"/>
+      <point x="1024" y="1182.333"/>
+      <point x="1024" y="1009" type="curve" smooth="yes"/>
+      <point x="1024" y="826.333"/>
+      <point x="911.333" y="727"/>
+      <point x="706" y="727" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+    </dict>
+  </lib>
+</glyph>

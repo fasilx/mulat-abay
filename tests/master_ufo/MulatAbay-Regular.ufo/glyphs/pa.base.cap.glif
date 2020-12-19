@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pa.base.cap" format="2">
+  <advance width="1222"/>
+  <anchor x="788" y="15" name="haa"/>
+  <anchor x="589" y="16" name="haa.acute"/>
+  <anchor x="873" y="1636" name="hat.caps"/>
+  <anchor x="579" y="1511" name="he.acute.top"/>
+  <anchor x="644" y="52" name="hee"/>
+  <anchor x="699" y="114" name="hi"/>
+  <anchor x="868" y="1561" name="ho.ring"/>
+  <anchor x="708" y="983" name="hu"/>
+  <anchor x="616" y="-52" name="hwa"/>
+  <anchor x="601" y="1532" name="neck.caps"/>
+  <outline>
+    <contour>
+      <point x="516" y="0" type="line"/>
+      <point x="707" y="0" type="line"/>
+      <point x="707" y="1298" type="line"/>
+      <point x="1175" y="1298" type="line"/>
+      <point x="1175" y="1456" type="line"/>
+      <point x="49" y="1456" type="line"/>
+      <point x="49" y="1298" type="line"/>
+      <point x="516" y="1298" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.he.acute.top.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

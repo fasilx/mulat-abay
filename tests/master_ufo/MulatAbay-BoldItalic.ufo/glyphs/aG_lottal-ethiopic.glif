@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aGlottal-ethiopic" format="2">
+  <advance width="1266"/>
+  <unicode hex="12A0"/>
+  <anchor x="225" y="1332" name="aGlhat"/>
+  <anchor x="781" y="-30" name="haa"/>
+  <anchor x="206" y="1680" name="hat.left"/>
+  <anchor x="301" y="1798" name="he.left.inner"/>
+  <anchor x="757" y="66" name="hee"/>
+  <anchor x="885" y="140" name="hi"/>
+  <anchor x="79" y="-21" name="ho"/>
+  <anchor x="1070" y="455" name="ho.ring"/>
+  <anchor x="299" y="590" name="ho.ring.uniq"/>
+  <anchor x="972" y="647" name="hu"/>
+  <anchor x="779" y="-34" name="hwa"/>
+  <outline>
+    <component base="abesha.base"/>
+  </outline>
+</glyph>

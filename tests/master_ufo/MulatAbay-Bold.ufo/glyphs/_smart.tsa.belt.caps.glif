@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.tsa.belt.caps" format="2">
+  <anchor x="17" y="755" name="_tsa.belt.caps"/>
+  <outline>
+    <contour>
+      <point x="-284" y="636" type="line"/>
+      <point x="309" y="636" type="line"/>
+      <point x="309" y="872" type="line"/>
+      <point x="-284" y="872" type="line"/>
+    </contour>
+  </outline>
+</glyph>

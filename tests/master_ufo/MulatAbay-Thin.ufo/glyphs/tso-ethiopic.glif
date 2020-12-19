@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tso-ethiopic" format="2">
+  <advance width="1123"/>
+  <unicode hex="133E"/>
+  <anchor x="912" y="-16" name="haa"/>
+  <anchor x="606" y="1353" name="hat"/>
+  <anchor x="1067" y="788" name="he"/>
+  <anchor x="812" y="70" name="hee"/>
+  <anchor x="955" y="50" name="hi"/>
+  <anchor x="217" y="-9" name="ho"/>
+  <anchor x="898" y="459" name="hu"/>
+  <anchor x="908" y="6" name="hwa"/>
+  <anchor x="549" y="1105" name="neck"/>
+  <outline>
+    <component base="tsa.base"/>
+    <component base="_smart.ho" xOffset="221" yOffset="-359"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

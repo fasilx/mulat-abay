@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.raa.cap" format="2">
+  <anchor x="767" y="235" name="_raa.cap"/>
+  <outline>
+    <contour>
+      <point x="525" y="235" type="line"/>
+      <point x="585" y="235" type="line"/>
+      <point x="827" y="501" type="line"/>
+      <point x="761" y="501" type="line"/>
+    </contour>
+  </outline>
+</glyph>

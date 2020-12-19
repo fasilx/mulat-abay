@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="szo-ethiopic.liga" format="2">
+  <advance width="1855"/>
+  <anchor x="1175" y="-30" name="haa"/>
+  <anchor x="480" y="12" name="he.acute.bottom"/>
+  <anchor x="1105" y="20" name="hee"/>
+  <anchor x="378" y="18" name="hha.acute"/>
+  <anchor x="1200" y="-288" name="hi"/>
+  <anchor x="289" y="11" name="ho"/>
+  <anchor x="1683" y="956" name="hu"/>
+  <anchor x="1191" y="9" name="hwa"/>
+  <outline>
+    <component base="sa.base.cap"/>
+    <component base="_smart.haa.acute" xOffset="695"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_smart.haa.acute</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+    </dict>
+  </lib>
+</glyph>

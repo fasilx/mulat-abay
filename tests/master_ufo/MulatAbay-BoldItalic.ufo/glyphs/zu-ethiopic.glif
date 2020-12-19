@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zu-ethiopic" format="2">
+  <advance width="1268"/>
+  <unicode hex="12D9"/>
+  <anchor x="784" y="-6" name="haa"/>
+  <anchor x="319" y="1162" name="he.acute.top"/>
+  <anchor x="758" y="64" name="hee"/>
+  <anchor x="933" y="127" name="hi"/>
+  <anchor x="87" y="-1" name="ho"/>
+  <anchor x="1020" y="681" name="hu"/>
+  <anchor x="777" y="0" name="hwa"/>
+  <anchor x="570" y="710" name="zha"/>
+  <outline>
+    <component base="za.base"/>
+    <component base="_smart.hu" xOffset="1042" yOffset="-287"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.ri.cap" format="2">
+  <anchor x="821" y="295" name="_ri.cap"/>
+  <outline>
+    <contour>
+      <point x="896" y="304" type="line"/>
+      <point x="651" y="598" type="line"/>
+      <point x="427" y="598" type="line"/>
+      <point x="747" y="304" type="line"/>
+    </contour>
+  </outline>
+</glyph>

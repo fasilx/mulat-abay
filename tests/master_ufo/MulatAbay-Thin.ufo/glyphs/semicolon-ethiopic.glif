@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon-ethiopic" format="2">
+  <advance width="556"/>
+  <unicode hex="1364"/>
+  <outline>
+    <contour>
+      <point x="98" y="915" type="line"/>
+      <point x="418" y="915" type="line"/>
+      <point x="418" y="973" type="line"/>
+      <point x="98" y="973" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="48" type="line"/>
+      <point x="414" y="48" type="line"/>
+      <point x="414" y="116" type="line"/>
+      <point x="90" y="116" type="line"/>
+    </contour>
+    <component base="period" xOffset="21" yOffset="638"/>
+    <component base="period" xOffset="20" yOffset="298"/>
+  </outline>
+</glyph>

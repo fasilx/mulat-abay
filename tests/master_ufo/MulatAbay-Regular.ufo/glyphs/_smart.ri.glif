@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.ri" format="2">
+  <anchor x="-101" y="260" name="_ri"/>
+  <outline>
+    <contour>
+      <point x="-80" y="332" type="line"/>
+      <point x="-80" y="614" type="line"/>
+      <point x="-336" y="614" type="line"/>
+      <point x="-336" y="450" type="line"/>
+      <point x="-179" y="450" type="line"/>
+      <point x="-179" y="332" type="line"/>
+    </contour>
+  </outline>
+</glyph>

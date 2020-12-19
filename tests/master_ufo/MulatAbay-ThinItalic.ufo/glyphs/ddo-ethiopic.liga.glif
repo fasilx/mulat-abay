@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddo-ethiopic.liga" format="2">
+  <advance width="1230"/>
+  <anchor x="82" y="10" name="da.caps"/>
+  <anchor x="863" y="14" name="haa"/>
+  <anchor x="726" y="1682" name="hat.caps"/>
+  <anchor x="1274" y="1009" name="he"/>
+  <anchor x="298" y="1526" name="he.left.outer"/>
+  <anchor x="760" y="102" name="hee"/>
+  <anchor x="936" y="8" name="hi"/>
+  <anchor x="31" y="-25" name="ho"/>
+  <anchor x="844" y="339" name="hu"/>
+  <anchor x="866" y="-2" name="hwa"/>
+  <anchor x="680" y="1480" name="neck.caps"/>
+  <outline>
+    <component base="ya.base.cap"/>
+    <component base="_smart.da.caps" xOffset="2" yOffset="-37"/>
+    <component base="_smart.ho" xOffset="164" yOffset="-375"/>
+    <component base="_smart.neck.caps" xOffset="632" yOffset="41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.da.caps.cap</key>
+      <integer>1</integer>
+      <key>_smart.ho.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>P</string>
+    </dict>
+  </lib>
+</glyph>

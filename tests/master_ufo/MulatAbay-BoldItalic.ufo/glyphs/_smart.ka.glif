@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.ka" format="2">
+  <anchor x="-628" y="1035" name="_ka"/>
+  <outline>
+    <contour>
+      <point x="-707" y="1012" type="line"/>
+      <point x="-600" y="1102" type="line"/>
+      <point x="-846" y="1102" type="line"/>
+      <point x="-796" y="1390" type="line"/>
+      <point x="-1031" y="1390" type="line"/>
+      <point x="-1097" y="1012" type="line"/>
+    </contour>
+  </outline>
+</glyph>

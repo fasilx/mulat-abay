@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma-ethiopic" format="2">
+  <advance width="556"/>
+  <unicode hex="1363"/>
+  <outline>
+    <contour>
+      <point x="182" y="972" type="line"/>
+      <point x="531" y="972" type="line"/>
+      <point x="560" y="1139" type="line"/>
+      <point x="211" y="1139" type="line"/>
+    </contour>
+    <component base="period" xOffset="20" yOffset="78"/>
+    <component base="period" xOffset="159" yOffset="565"/>
+  </outline>
+</glyph>

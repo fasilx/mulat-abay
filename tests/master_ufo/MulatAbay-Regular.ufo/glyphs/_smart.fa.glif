@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.fa" format="2">
+  <anchor x="433" y="54" name="_fa"/>
+  <outline>
+    <contour>
+      <point x="287" y="551" type="line"/>
+      <point x="42" y="551" type="line"/>
+      <point x="74" y="460" type="line"/>
+      <point x="162" y="460" type="line"/>
+      <point x="305" y="55" type="line"/>
+      <point x="461" y="55" type="line"/>
+    </contour>
+  </outline>
+</glyph>

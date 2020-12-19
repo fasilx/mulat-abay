@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsi-ethiopic" format="2">
+  <advance width="1151"/>
+  <unicode hex="133A"/>
+  <anchor x="929" y="-29" name="haa"/>
+  <anchor x="570" y="1353" name="hat"/>
+  <anchor x="1203" y="788" name="he"/>
+  <anchor x="856" y="50" name="hee"/>
+  <anchor x="941" y="110" name="hi"/>
+  <anchor x="243" y="-9" name="ho"/>
+  <anchor x="946" y="529" name="hu"/>
+  <anchor x="901" y="-30" name="hwa"/>
+  <anchor x="583" y="1115" name="neck"/>
+  <outline>
+    <component base="tsa.base"/>
+    <component base="_smart.hi" xOffset="941" yOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hi</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

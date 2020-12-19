@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thirty-ethiopic" format="2">
+  <advance width="1425"/>
+  <unicode hex="1374"/>
+  <outline>
+    <contour>
+      <point x="89" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="398" y="1402" type="line"/>
+      <point x="740" y="1402" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="989" y="0" type="line" smooth="yes"/>
+      <point x="1000" y="0"/>
+      <point x="1010" y="9"/>
+      <point x="1012" y="20" type="curve" smooth="yes"/>
+      <point x="1265" y="1456" type="line"/>
+      <point x="1203" y="1456" type="line"/>
+      <point x="956" y="54" type="line"/>
+      <point x="585" y="54" type="line"/>
+      <point x="832" y="1456" type="line"/>
+      <point x="365" y="1456" type="line" smooth="yes"/>
+      <point x="354" y="1456"/>
+      <point x="344" y="1447"/>
+      <point x="342" y="1436" type="curve" smooth="yes"/>
+    </contour>
+    <component base="_num.bar" xOffset="104"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>three</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>three</string>
+    </dict>
+  </lib>
+</glyph>

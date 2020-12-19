@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tee-ethiopic.liga" format="2">
+  <advance width="1222"/>
+  <anchor x="788" y="15" name="haa"/>
+  <anchor x="589" y="16" name="haa.acute"/>
+  <anchor x="873" y="1636" name="hat.caps"/>
+  <anchor x="579" y="1511" name="he.acute.top"/>
+  <anchor x="644" y="52" name="hee"/>
+  <anchor x="699" y="114" name="hi"/>
+  <anchor x="868" y="1561" name="ho.ring"/>
+  <anchor x="708" y="983" name="hu"/>
+  <anchor x="616" y="-52" name="hwa"/>
+  <anchor x="601" y="1532" name="neck.caps"/>
+  <outline>
+    <component base="pa.base.cap"/>
+    <component base="_smart.hee" xOffset="723" yOffset="-287"/>
+    <component base="_smart.neck.caps" xOffset="614" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.caps.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

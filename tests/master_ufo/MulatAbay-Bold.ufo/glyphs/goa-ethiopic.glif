@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="goa-ethiopic" format="2">
+  <advance width="999"/>
+  <unicode hex="130F"/>
+  <anchor x="500" y="755" name="ho.ring"/>
+  <anchor x="867" y="17" name="haa"/>
+  <anchor x="639" y="-40" name="haa.acute"/>
+  <anchor x="319" y="1367" name="hat"/>
+  <anchor x="177" y="1346" name="hat.left"/>
+  <anchor x="633" y="539" name="he.left.outer"/>
+  <anchor x="709" y="53" name="hee"/>
+  <anchor x="847" y="120" name="hi"/>
+  <anchor x="826" y="638" name="hu"/>
+  <anchor x="701" y="0" name="hwa"/>
+  <anchor x="359" y="1102" name="neck"/>
+  <anchor x="191" y="1107" name="neck.left"/>
+  <anchor x="-3" y="1435" name="nose"/>
+  <anchor x="-1" y="1115" name="nose.extend"/>
+  <anchor x="353" y="1050" name="ring"/>
+  <anchor x="486" y="1" name="xwaa"/>
+  <outline>
+    <component base="ga.base"/>
+    <component base="_smart.xwaa" xOffset="24" yOffset="-18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.xwaa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

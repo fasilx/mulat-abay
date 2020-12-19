@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chwa-ethiopic" format="2">
+  <advance width="1891"/>
+  <unicode hex="132F"/>
+  <anchor x="791" y="19" name="cha"/>
+  <anchor x="1407" y="-28" name="haa"/>
+  <anchor x="1645" y="663" name="he"/>
+  <anchor x="908" y="-3" name="he.acute.bottom"/>
+  <anchor x="742" y="1279" name="he.acute.top"/>
+  <anchor x="1378" y="60" name="hee"/>
+  <anchor x="1529" y="140" name="hi"/>
+  <anchor x="93" y="-20" name="ho"/>
+  <anchor x="1645" y="663" name="hu"/>
+  <anchor x="1405" y="-30" name="hwa"/>
+  <anchor x="949" y="1106" name="neck"/>
+  <outline>
+    <component base="hha.base"/>
+    <component base="_smart.hwa" xOffset="1531" yOffset="-398"/>
+    <component base="_smart.cha" xOffset="981" yOffset="-15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.cha</key>
+      <integer>1</integer>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

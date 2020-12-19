@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one-ethiopic" format="2">
+  <advance width="1375"/>
+  <unicode hex="1369"/>
+  <outline>
+    <component base="six" xOffset="200"/>
+    <component base="_num.bar" xOffset="100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>six</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>six</string>
+    </dict>
+  </lib>
+</glyph>

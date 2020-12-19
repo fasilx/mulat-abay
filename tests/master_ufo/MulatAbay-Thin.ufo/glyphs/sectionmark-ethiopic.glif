@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sectionmark-ethiopic" format="2">
+  <advance width="1203"/>
+  <unicode hex="1360"/>
+  <outline>
+    <component base="period" xOffset="325" yOffset="360"/>
+    <component base="period" xScale="0" xyScale="-1" yxScale="0.7823" yScale="0" xOffset="265" yOffset="800"/>
+    <component base="period" xScale="0" xyScale="-1" yxScale="0.7823" yScale="0" xOffset="706" yOffset="799"/>
+    <component base="period" xOffset="326" yOffset="719"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ma-ethiopic.liga" format="2">
+  <advance width="1787"/>
+  <anchor x="1345" y="10" name="haa"/>
+  <anchor x="175" y="-1" name="he.acute.bottom"/>
+  <anchor x="1284" y="0" name="hee"/>
+  <anchor x="1352" y="-274" name="hi"/>
+  <anchor x="187" y="0" name="ho"/>
+  <anchor x="1579" y="851" name="hu"/>
+  <anchor x="1347" y="0" name="hwa"/>
+  <outline>
+    <component base="ma.base.cap"/>
+  </outline>
+</glyph>

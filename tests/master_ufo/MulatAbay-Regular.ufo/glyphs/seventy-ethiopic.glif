@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seventy-ethiopic" format="2">
+  <advance width="1150"/>
+  <unicode hex="1378"/>
+  <outline>
+    <contour>
+      <point x="576" y="-50" type="curve" smooth="yes"/>
+      <point x="732" y="-50"/>
+      <point x="845" y="1"/>
+      <point x="921" y="105" type="curve"/>
+      <point x="748" y="166" type="line"/>
+      <point x="705" y="122"/>
+      <point x="648" y="101"/>
+      <point x="576" y="101" type="curve" smooth="yes"/>
+      <point x="391" y="101"/>
+      <point x="300" y="247"/>
+      <point x="300" y="562" type="curve" smooth="yes"/>
+      <point x="300" y="858" type="line" smooth="yes"/>
+      <point x="300" y="1154"/>
+      <point x="385" y="1294"/>
+      <point x="574" y="1294" type="curve" smooth="yes"/>
+      <point x="649" y="1294"/>
+      <point x="708" y="1273"/>
+      <point x="751" y="1228" type="curve"/>
+      <point x="911" y="1307" type="line"/>
+      <point x="836" y="1401"/>
+      <point x="725" y="1446"/>
+      <point x="574" y="1446" type="curve" smooth="yes"/>
+      <point x="258" y="1446"/>
+      <point x="115" y="1241"/>
+      <point x="115" y="813" type="curve" smooth="yes"/>
+      <point x="115" y="566" type="line" smooth="yes"/>
+      <point x="115" y="157"/>
+      <point x="265" y="-50"/>
+    </contour>
+    <component base="_num.bar"/>
+    <component base="ring" xOffset="542" yOffset="-304"/>
+  </outline>
+</glyph>

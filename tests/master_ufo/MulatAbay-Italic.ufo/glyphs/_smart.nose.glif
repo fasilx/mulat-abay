@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.nose" format="2">
+  <anchor x="80" y="101" name="_nose"/>
+  <outline>
+    <contour>
+      <point x="-30" y="-148" type="curve" smooth="yes"/>
+      <point x="37" y="-148"/>
+      <point x="104" y="-93"/>
+      <point x="116" y="-25" type="curve" smooth="yes"/>
+      <point x="128" y="42"/>
+      <point x="81" y="99"/>
+      <point x="14" y="99" type="curve" smooth="yes"/>
+      <point x="-54" y="99"/>
+      <point x="-119" y="42"/>
+      <point x="-131" y="-25" type="curve" smooth="yes"/>
+      <point x="-143" y="-93"/>
+      <point x="-98" y="-148"/>
+    </contour>
+  </outline>
+</glyph>

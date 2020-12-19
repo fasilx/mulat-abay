@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyaa-ethiopic.liga" format="2">
+  <advance width="1124"/>
+  <anchor x="755" y="108" name="fa"/>
+  <anchor x="1036" y="-17" name="haa"/>
+  <anchor x="566" y="1278" name="hat"/>
+  <anchor x="989.636" y="1554.0" name="hat.caps"/>
+  <anchor x="135" y="815" name="he.left"/>
+  <anchor x="1172" y="1197" name="ho.ring"/>
+  <anchor x="1041" y="-20" name="hwa"/>
+  <anchor x="257" y="1471" name="nose"/>
+  <outline>
+    <component base="na.base.cap"/>
+    <component base="_smart.haa" xOffset="1028" yOffset="-355"/>
+    <component base="_smart.hat.caps" xOffset="963" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.cap</key>
+      <integer>1</integer>
+      <key>_smart.hat.caps.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="waa-ethiopic.liga" format="2">
+  <advance width="1810"/>
+  <anchor x="944" y="-4" name="haa"/>
+  <anchor x="901" y="-116" name="haa.acute"/>
+  <anchor x="1193" y="1638" name="hat.caps"/>
+  <anchor x="1678" y="990" name="he"/>
+  <anchor x="967" y="-23" name="he.acute.bottom"/>
+  <anchor x="878" y="1546" name="he.acute.top"/>
+  <anchor x="1309" y="-81" name="hee"/>
+  <anchor x="1033" y="-263" name="hi"/>
+  <anchor x="1162" y="1624" name="ho.ring"/>
+  <anchor x="1649.204" y="1043.0" name="hu"/>
+  <anchor x="989" y="26" name="hwa"/>
+  <anchor x="914" y="1446" name="neck.caps"/>
+  <outline>
+    <component base="wa.base.cap"/>
+    <component base="_smart.haa" xOffset="944" yOffset="-348"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.cap</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

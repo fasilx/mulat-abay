@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ma-ethiopic" format="2">
+  <advance width="1980"/>
+  <unicode hex="1218"/>
+  <anchor x="1658" y="-10" name="haa"/>
+  <anchor x="840" y="-101" name="he.acute.bottom"/>
+  <anchor x="1589" y="0" name="hee"/>
+  <anchor x="1715" y="-314" name="hi"/>
+  <anchor x="792" y="0" name="ho"/>
+  <anchor x="1774" y="661" name="hu"/>
+  <anchor x="1623" y="0" name="hwa"/>
+  <outline>
+    <component base="ma.base"/>
+  </outline>
+</glyph>

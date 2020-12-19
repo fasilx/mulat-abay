@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qwaa-ethiopic" format="2">
+  <advance width="1848"/>
+  <unicode hex="124B"/>
+  <anchor x="940" y="-40" name="haa"/>
+  <anchor x="880" y="-110" name="haa.acute"/>
+  <anchor x="1015" y="1363" name="hat"/>
+  <anchor x="915" y="1232" name="he.acute.top"/>
+  <anchor x="976" y="0" name="hee"/>
+  <anchor x="1074" y="-325" name="hi"/>
+  <anchor x="1180" y="1300" name="ho.ring"/>
+  <anchor x="1658" y="743" name="hu"/>
+  <anchor x="897" y="-40" name="hwa"/>
+  <anchor x="922" y="1092" name="neck"/>
+  <outline>
+    <component base="wa.base"/>
+    <component base="_smart.neck" xOffset="921" yOffset="1116"/>
+    <component base="_smart.hwa" xOffset="897" yOffset="-408"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

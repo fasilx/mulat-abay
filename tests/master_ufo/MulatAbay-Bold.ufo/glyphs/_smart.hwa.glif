@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.hwa" format="2">
+  <anchor x="0" y="368" name="_hwa"/>
+  <outline>
+    <contour>
+      <point x="-399" y="30" type="line"/>
+      <point x="119" y="30" type="line"/>
+      <point x="119" y="-66" type="line"/>
+      <point x="293" y="-66" type="line"/>
+      <point x="293" y="221" type="line"/>
+      <point x="123" y="221" type="line"/>
+      <point x="123" y="386" type="line"/>
+      <point x="-105" y="386" type="line"/>
+      <point x="-105" y="221" type="line"/>
+      <point x="-399" y="221" type="line"/>
+    </contour>
+  </outline>
+</glyph>

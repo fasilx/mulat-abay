@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight-ethiopic" format="2">
+  <advance width="1397"/>
+  <unicode hex="1370"/>
+  <outline>
+    <contour>
+      <point x="518" y="0" type="line"/>
+      <point x="853" y="0" type="line"/>
+      <point x="863" y="54" type="line"/>
+      <point x="528" y="54" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="803" y="1460" type="line" name="❌"/>
+      <point x="331" y="1460" type="line"/>
+      <point x="321" y="1408" type="line"/>
+      <point x="739" y="1408" type="line"/>
+    </contour>
+    <component base="_num.bar" xOffset="77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>seven</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>seven</string>
+    </dict>
+  </lib>
+</glyph>

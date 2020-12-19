@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.aGlhat" format="2">
+  <anchor x="198" y="1242" name="_aGlhat"/>
+  <outline>
+    <contour>
+      <point x="226" y="1270" type="line"/>
+      <point x="37" y="1536" type="line"/>
+      <point x="-29" y="1536" type="line"/>
+      <point x="166" y="1270" type="line"/>
+    </contour>
+  </outline>
+</glyph>

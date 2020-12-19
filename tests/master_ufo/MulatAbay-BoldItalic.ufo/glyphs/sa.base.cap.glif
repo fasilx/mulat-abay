@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sa.base.cap" format="2">
+  <advance width="1817"/>
+  <anchor x="1108" y="-23" name="haa"/>
+  <anchor x="457" y="12" name="he.acute.bottom"/>
+  <anchor x="1061" y="20" name="hee"/>
+  <anchor x="358" y="18" name="hha.acute"/>
+  <anchor x="1190" y="-288" name="hi"/>
+  <anchor x="282" y="11" name="ho"/>
+  <anchor x="1584" y="956" name="hu"/>
+  <anchor x="1114" y="-81" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="167" y="0" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="878" y="974" type="line"/>
+      <point x="943" y="0" type="line"/>
+      <point x="1245" y="0" type="line"/>
+      <point x="1825" y="1456" type="line"/>
+      <point x="1526" y="1456" type="line"/>
+      <point x="1147" y="420" type="line"/>
+      <point x="1091" y="1456" type="line"/>
+      <point x="837" y="1456" type="line"/>
+      <point x="415" y="422" type="line"/>
+      <point x="400" y="1456" type="line"/>
+      <point x="101" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>W</string>
+    </dict>
+  </lib>
+</glyph>

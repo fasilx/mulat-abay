@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anoteleia" format="2">
+  <advance width="472"/>
+  <unicode hex="0387"/>
+  <note>
+uni0387
+</note>
+  <outline>
+    <component base="periodcentered"/>
+  </outline>
+</glyph>

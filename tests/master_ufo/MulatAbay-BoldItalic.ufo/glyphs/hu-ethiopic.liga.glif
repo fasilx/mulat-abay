@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hu-ethiopic.liga" format="2">
+  <advance width="1328"/>
+  <anchor x="848" y="-7" name="haa"/>
+  <anchor x="375" y="1082" name="he.left.inner"/>
+  <anchor x="171" y="1081" name="he.left.outer"/>
+  <anchor x="816" y="15" name="hee"/>
+  <anchor x="850" y="-300" name="hi"/>
+  <anchor x="1366" y="1524" name="ho.ring"/>
+  <anchor x="1165" y="1086" name="hu"/>
+  <outline>
+    <component base="ha.base.cap"/>
+    <component base="_smart.hu" xOffset="1187" yOffset="118"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+      <key>_smart.hu.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

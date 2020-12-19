@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.ye.extend" format="2">
+  <anchor x="203" y="-52" name="_haa.acute"/>
+  <anchor x="369" y="0" name="_ye.extend"/>
+  <outline>
+    <contour>
+      <point x="33" y="0" type="line"/>
+      <point x="33" y="-290" type="line"/>
+      <point x="309" y="-290" type="line"/>
+      <point x="309" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

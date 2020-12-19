@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yu-ethiopic" format="2">
+  <advance width="1141"/>
+  <unicode hex="12E9"/>
+  <anchor x="252" y="154" name="da"/>
+  <anchor x="677" y="-159" name="di"/>
+  <anchor x="720" y="234" name="du"/>
+  <anchor x="861" y="-10" name="haa"/>
+  <anchor x="419" y="-45" name="haa.acute"/>
+  <anchor x="538" y="1341" name="hat"/>
+  <anchor x="1242" y="756" name="he"/>
+  <anchor x="267" y="970" name="he.left.outer"/>
+  <anchor x="859" y="53" name="hee"/>
+  <anchor x="956" y="11" name="hha"/>
+  <anchor x="755" y="-290" name="hi"/>
+  <anchor x="197" y="-10" name="ho"/>
+  <anchor x="670" y="289" name="hu"/>
+  <anchor x="834" y="0" name="hwa"/>
+  <anchor x="575" y="1112" name="neck"/>
+  <anchor x="400" y="64" name="ye"/>
+  <anchor x="356" y="5" name="ye.extend"/>
+  <anchor x="412" y="249" name="yee"/>
+  <anchor x="201" y="381" name="yi"/>
+  <anchor x="201" y="285" name="yu"/>
+  <outline>
+    <component base="ya.base"/>
+    <component base="_smart.yu" xOffset="52" yOffset="-441"/>
+    <component base="_smart.ye.extend" xOffset="-17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ye.extend</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>
