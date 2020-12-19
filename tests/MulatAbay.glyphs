@@ -4,7 +4,7 @@ DisplayStrings = (
 "/ra.base/raa-ethiopic",
 "/ra.base",
 "/abesha.base/eGlottal-ethiopic",
-"/eGlottal-ethiopic",
+"/abesha.base/eGlottal-ethiopic",
 "/ra.base/ri-ethiopic",
 "/ra.base/raa-ethiopic",
 "/_smart.ri/fi-ethiopic",
@@ -13,11 +13,100 @@ DisplayStrings = (
 "/ya.base/yi-ethiopic",
 "/ya.base/yi-ethiopic",
 "",
-"/ya.base/yi-ethiopic"
+"/ya.base/yi-ethiopic",
+"/wa.base/we-ethiopic",
+"ò",
+"/wa.base.cap/we-ethiopic.liga",
+"/wa.base/we-ethiopic",
+"/nyee-ethiopic",
+"/abesha.base/eGlottal-ethiopic",
+"/abesha.base/eGlottal-ethiopic",
+"/abesha.base/eGlottal-ethiopic",
+"/oGlottal-ethiopic",
+"/eeGlottal-ethiopic",
+"/abesha.base/eGlottal-ethiopic",
+"/abesha.base/eGlottal-ethiopic",
+"/nye-ethiopic",
+"/abesha.base/eGlottal-ethiopic",
+"/_smart.hee/_smart.yee/yee-ethiopic",
+"/_smart.hee/_smart.yee/yee-ethiopic",
+"/_smart.yee/yee-ethiopic",
+"/_smart.yee/yee-ethiopic",
+"/_smart.yee/yee-ethiopic",
+"/_smart.yee/yee-ethiopic",
+"/ya.base/ya-ethiopic",
+"/_smart.ye.extend/ya-ethiopic",
+"/ya.base/ya-ethiopic",
+"/ya.base/ya-ethiopic",
+"/ya.base/ya-ethiopic",
+"/_smart.ye.extend/ya-ethiopic",
+"/_smart.ye.extend/ya-ethiopic",
+"/_smart.ye.extend/ya-ethiopic",
+"/ya.base/ya-ethiopic",
+"/_smart.ye.extend/ya-ethiopic",
+"/_smart.ye.extend/ya-ethiopic",
+"/_smart.ye.extend/ya-ethiopic",
+"/ya.base/yu-ethiopic",
+"/ya.base/yu-ethiopic",
+"/_smart.yu/yi-ethiopic",
+"/_smart.yu/yi-ethiopic",
+"/yi-ethiopic",
+"/du-ethiopic",
+"/four-ethiopic",
+"/pe-ethiopic.liga",
+"/one-ethiopic",
+"/five-ethiopic",
+"/two-ethiopic",
+"/six-ethiopic",
+"/seven-ethiopic",
+"/eight-ethiopic",
+"/thirty-ethiopic",
+"/nine-ethiopic",
+"/eighty-ethiopic",
+"/ninety-ethiopic",
+"/hundred-ethiopic",
+"/tenthousand-ethiopic",
+"/paa-ethiopic.liga",
+"/aGl.base.cap",
+"/xe-ethiopic.liga",
+"/yu-ethiopic.liga",
+"/yi-ethiopic.liga",
+"/yee-ethiopic.liga",
+"/ye-ethiopic.liga",
+"/pa.base",
+"/ba.base.cap",
+"/ga.base.cap",
+"/ha.base.cap",
+"/hha.base.cap",
+"/la.base.cap",
+"/ma.base.cap",
+"/na.base.cap",
+"/oPh.base.cap",
+"/pa.base.cap",
+"/ra.base.cap",
+"/sa.base.cap",
+"/tsa.base.cap",
+"/wa.base.cap",
+"/ya.base.cap",
+"/za.base.cap",
+"/eGlottal-ethiopic.liga",
+"/ge-ethiopic.liga",
+"/gge-ethiopic.liga",
+"/colon-ethiopic",
+"/comma-ethiopic",
+"/paragraphseparator-ethiopic",
+"/period-ethiopic",
+"/prefacecolon-ethiopic",
+"/question-ethiopic",
+"/sectionmark-ethiopic",
+"/semicolon-ethiopic",
+"/shortRikrik-ethiopic",
+"/ga.base/ge-ethiopic",
+"/ga.base/ge-ethiopic"
 );
 classes = (
 {
-code = "hu-ethiopic lu-ethiopic hhu-ethiopic mu-ethiopic szu-ethiopic su-ethiopic shu-ethiopic qu-ethiopic qhu-ethiopic bu-ethiopic vu-ethiopic xu-ethiopic nu-ethiopic nyu-ethiopic ku-ethiopic kxu-ethiopic wu-ethiopic zu-ethiopic du-ethiopic ddu-ethiopic ju-ethiopic gu-ethiopic ggu-ethiopic thu-ethiopic chu-ethiopic phu-ethiopic tsu-ethiopic tzu-ethiopic hu-ethiopic.liga hhu-ethiopic.liga mu-ethiopic.liga szu-ethiopic.liga su-ethiopic.liga shu-ethiopic.liga qu-ethiopic.liga qhu-ethiopic.liga bu-ethiopic.liga vu-ethiopic.liga xu-ethiopic.liga nu-ethiopic.liga nyu-ethiopic.liga ku-ethiopic.liga kxu-ethiopic.liga wu-ethiopic.liga zu-ethiopic.liga thu-ethiopic.liga chu-ethiopic.liga phu-ethiopic.liga tsu-ethiopic.liga tzu-ethiopic.liga";
+code = "hu-ethiopic lu-ethiopic hhu-ethiopic mu-ethiopic szu-ethiopic su-ethiopic shu-ethiopic qu-ethiopic qhu-ethiopic bu-ethiopic vu-ethiopic xu-ethiopic nu-ethiopic nyu-ethiopic ku-ethiopic kxu-ethiopic wu-ethiopic zu-ethiopic du-ethiopic ddu-ethiopic ju-ethiopic gu-ethiopic ggu-ethiopic thu-ethiopic chu-ethiopic phu-ethiopic tsu-ethiopic tzu-ethiopic hu-ethiopic.liga hhu-ethiopic.liga mu-ethiopic.liga szu-ethiopic.liga su-ethiopic.liga shu-ethiopic.liga qu-ethiopic.liga qhu-ethiopic.liga bu-ethiopic.liga vu-ethiopic.liga xu-ethiopic.liga nu-ethiopic.liga nyu-ethiopic.liga ku-ethiopic.liga kxu-ethiopic.liga wu-ethiopic.liga zu-ethiopic.liga thu-ethiopic.liga chu-ethiopic.liga phu-ethiopic.liga tsu-ethiopic.liga tzu-ethiopic.liga uGlottal-ethiopic we-ethiopic uPharyngeal-ethiopic yo-ethiopic yoa-ethiopic de-ethiopic dde-ethiopic je-ethiopic phe-ethiopic tse-ethiopic";
 name = Hu;
 },
 {
@@ -1491,7 +1580,7 @@ code = "sub f f i by f_f_i.liga;\012sub f f l by f_f_l.liga;\012sub f i by fi.li
 name = calt;
 },
 {
-code = "\012\012pos @Hu' [ge-ethiopic gge-ethiopic] 200;\012pos @Ethleft' @Ethright -200;\012pos @zha' @AllLetters 200;\012pos @AllLetters' @zha 200;\012pos @AllLetters' @xa 200;\012\012#pos @AllLetters' [ge-ethiopic gge-ethiopic] 250;\012#pos [ree-ethiopic fee-ethiopic]' @AllLetters 200;\012#pos [fe-ethiopic fu-ethiopic fi-ethiopic faa-ethiopic fee-ethiopic ree-ethiopic]' [ge-ethiopic gge-ethiopic] 250;\012\012#pos @All' [ge-ethiopic gge-ethiopic] 200; \012\012\012\012#pos @All '[ge-ethiopic gge-ethiopic] 200; \012#pos @Hu' [ge-ethiopic gge-ethiopic] -350;\012# pos @Hi' @All 200;\012#pos @Hu' [ge-ethiopic gge-ethiopic] 250;\012#pos ge-ethiopic' @All 250;\012#pos gge-ethiopic' @All 250;";
+code = "\012\012pos @Hu' [ge-ethiopic gge-ethiopic] 400;\012pos @AllLetters' [ge-ethiopic gge-ethiopic] 200;\012pos @Ethleft' @Ethright -200;\012pos @zha' @AllLetters 200;\012pos @AllLetters' @zha 200;\012pos @AllLetters' @xa 200;\012\012#pos @AllLetters' [ge-ethiopic gge-ethiopic] 250;\012#pos [ree-ethiopic fee-ethiopic]' @AllLetters 200;\012#pos [fe-ethiopic fu-ethiopic fi-ethiopic faa-ethiopic fee-ethiopic ree-ethiopic]' [ge-ethiopic gge-ethiopic] 250;\012\012#pos @All' [ge-ethiopic gge-ethiopic] 200; \012\012\012\012#pos @All '[ge-ethiopic gge-ethiopic] 200; \012#pos @Hu' [ge-ethiopic gge-ethiopic] -350;\012# pos @Hi' @All 200;\012#pos @Hu' [ge-ethiopic gge-ethiopic] 250;\012#pos ge-ethiopic' @All 250;\012#pos gge-ethiopic' @All 250;";
 name = kern;
 },
 {
@@ -118366,7 +118455,7 @@ unicode = 123F;
 },
 {
 glyphname = "qa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -118408,7 +118497,7 @@ userData = {
 _smart.haa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -118499,7 +118588,7 @@ unicode = 1240;
 },
 {
 glyphname = "qu-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -118551,7 +118640,7 @@ _smart.haa = 1;
 _smart.hu = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -118662,7 +118751,7 @@ unicode = 1241;
 },
 {
 glyphname = "qi-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -118714,7 +118803,7 @@ _smart.haa = 1;
 _smart.hi = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -118825,7 +118914,7 @@ unicode = 1242;
 },
 {
 glyphname = "qaa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -118867,7 +118956,7 @@ userData = {
 _smart.haa.acute = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -118958,7 +119047,7 @@ unicode = 1243;
 },
 {
 glyphname = "qee-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -119000,7 +119089,7 @@ userData = {
 _smart.hee = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -119091,7 +119180,7 @@ unicode = 1244;
 },
 {
 glyphname = "qe-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -119133,7 +119222,7 @@ userData = {
 _smart.haa = 1;
 _smart.he.acute.top = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -119224,7 +119313,7 @@ unicode = 1245;
 },
 {
 glyphname = "qo-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -119266,7 +119355,7 @@ userData = {
 _smart.haa = 1;
 _smart.ho.ring = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -119357,7 +119446,7 @@ unicode = 1246;
 },
 {
 glyphname = "qoa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -119399,7 +119488,7 @@ userData = {
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -119490,7 +119579,7 @@ unicode = 1247;
 },
 {
 glyphname = "qwa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -119532,7 +119621,7 @@ userData = {
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -119623,7 +119712,7 @@ unicode = 1248;
 },
 {
 glyphname = "qwi-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -119665,7 +119754,7 @@ userData = {
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -119756,7 +119845,7 @@ unicode = 124A;
 },
 {
 glyphname = "qwaa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -119798,7 +119887,7 @@ userData = {
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -119889,7 +119978,7 @@ unicode = 124B;
 },
 {
 glyphname = "qwee-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -119931,7 +120020,7 @@ userData = {
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -120022,7 +120111,7 @@ unicode = 124C;
 },
 {
 glyphname = "qwe-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:49 +0000";
 layers = (
 {
 components = (
@@ -120064,7 +120153,7 @@ userData = {
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -120155,7 +120244,7 @@ unicode = 124D;
 },
 {
 glyphname = "qha-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -120207,7 +120296,7 @@ _smart.haa = 1;
 _smart.hat = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -120318,7 +120407,7 @@ unicode = 1250;
 },
 {
 glyphname = "qhu-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -120380,7 +120469,7 @@ _smart.hat = 1;
 _smart.hu = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -120511,7 +120600,7 @@ unicode = 1251;
 },
 {
 glyphname = "qhi-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -120573,7 +120662,7 @@ _smart.hat = 1;
 _smart.hi = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -120704,7 +120793,7 @@ unicode = 1252;
 },
 {
 glyphname = "qhaa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -120756,7 +120845,7 @@ _smart.haa.acute = 1;
 _smart.hat = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -120867,7 +120956,7 @@ unicode = 1253;
 },
 {
 glyphname = "qhee-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -120919,7 +121008,7 @@ _smart.hat = 1;
 _smart.hee = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -121030,7 +121119,7 @@ unicode = 1254;
 },
 {
 glyphname = "qhe-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -121082,7 +121171,7 @@ _smart.haa = 1;
 _smart.hat = 1;
 _smart.he.acute.top = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -121193,7 +121282,7 @@ unicode = 1255;
 },
 {
 glyphname = "qho-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -121245,7 +121334,7 @@ _smart.haa = 1;
 _smart.hat = 1;
 _smart.ho.ring = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -121356,7 +121445,7 @@ unicode = 1256;
 },
 {
 glyphname = "qhwa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -121408,7 +121497,7 @@ _smart.hat = 1;
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -121519,7 +121608,7 @@ unicode = 1258;
 },
 {
 glyphname = "qhwi-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -121571,7 +121660,7 @@ _smart.hat = 1;
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -121682,7 +121771,7 @@ unicode = 125A;
 },
 {
 glyphname = "qhwaa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -121734,7 +121823,7 @@ _smart.hat = 1;
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -121845,7 +121934,7 @@ unicode = 125B;
 },
 {
 glyphname = "qhwee-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -121897,7 +121986,7 @@ _smart.hat = 1;
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -122008,7 +122097,7 @@ unicode = 125C;
 },
 {
 glyphname = "qhwe-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:49 +0000";
 layers = (
 {
 components = (
@@ -122060,7 +122149,7 @@ _smart.hat = 1;
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -123987,7 +124076,7 @@ unicode = 126F;
 },
 {
 glyphname = "ta-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -124083,14 +124172,14 @@ layerId = m006;
 userData = {
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1270;
 },
 {
 glyphname = "tu-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -124216,14 +124305,14 @@ userData = {
 _smart.hu = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1271;
 },
 {
 glyphname = "ti-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -124349,14 +124438,14 @@ userData = {
 _smart.hi = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1272;
 },
 {
 glyphname = "taa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -124482,14 +124571,14 @@ userData = {
 _smart.haa.acute = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1273;
 },
 {
 glyphname = "tee-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -124615,14 +124704,14 @@ userData = {
 _smart.hee = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1274;
 },
 {
 glyphname = "te-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -124718,14 +124807,14 @@ layerId = m006;
 userData = {
 _smart.he.acute.top = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1275;
 },
 {
 glyphname = "to-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -124827,14 +124916,14 @@ userData = {
 _smart.ho.ring = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1276;
 },
 {
 glyphname = "twa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -124960,14 +125049,14 @@ userData = {
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1277;
 },
 {
 glyphname = "ca-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -125093,14 +125182,14 @@ userData = {
 _smart.hat = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1278;
 },
 {
 glyphname = "cu-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -125256,14 +125345,14 @@ _smart.hat = 1;
 _smart.hu = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1279;
 },
 {
 glyphname = "ci-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -125419,14 +125508,14 @@ _smart.hat = 1;
 _smart.hi = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 127A;
 },
 {
 glyphname = "caa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -125588,14 +125677,14 @@ _smart.hat = 1;
 _smart.he.acute.top = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 127B;
 },
 {
 glyphname = "cee-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -125751,14 +125840,14 @@ _smart.hat = 1;
 _smart.hee = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 127C;
 },
 {
 glyphname = "ce-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -125884,14 +125973,14 @@ userData = {
 _smart.hat = 1;
 _smart.he.acute.top = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 127D;
 },
 {
 glyphname = "co-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -126023,14 +126112,14 @@ _smart.hat = 1;
 _smart.ho.ring = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 127E;
 },
 {
 glyphname = "cwa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:43 +0000";
 layers = (
 {
 components = (
@@ -126186,7 +126275,7 @@ _smart.hat = 1;
 _smart.hwa = 1;
 _smart.neck = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 127F;
@@ -131039,7 +131128,7 @@ unicode = 12A4;
 },
 {
 glyphname = "eGlottal-ethiopic";
-lastChange = "2020-12-18 07:58:27 +0000";
+lastChange = "2020-12-19 05:52:02 +0000";
 layers = (
 {
 components = (
@@ -131048,7 +131137,7 @@ name = abesha.base;
 },
 {
 name = _smart.he.left.inner;
-transform = "{1, 0, 0, 1, 122, 1799}";
+transform = "{1, 0, 0, 1, 172, 1809}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -131064,7 +131153,7 @@ name = abesha.base;
 },
 {
 name = _smart.he.left.inner;
-transform = "{1, 0, 0, 1, 125, 1730}";
+transform = "{1, 0, 0, 1, 168, 1752}";
 }
 );
 layerId = m002;
@@ -131080,7 +131169,7 @@ name = abesha.base;
 },
 {
 name = _smart.he.left.inner;
-transform = "{1, 0, 0, 1, 282, 1762}";
+transform = "{1, 0, 0, 1, 302, 1782}";
 }
 );
 layerId = m003;
@@ -131096,7 +131185,7 @@ name = abesha.base;
 },
 {
 name = _smart.he.left.inner;
-transform = "{1, 0, 0, 1, 495, 1807}";
+transform = "{1, 0, 0, 1, 565, 1807}";
 }
 );
 layerId = m004;
@@ -131112,7 +131201,7 @@ name = abesha.base;
 },
 {
 name = _smart.he.left.inner;
-transform = "{1, 0, 0, 1, 479, 1764}";
+transform = "{1, 0, 0, 1, 559, 1784}";
 }
 );
 layerId = m005;
@@ -131128,7 +131217,7 @@ name = abesha.base;
 },
 {
 name = _smart.he.left.inner;
-transform = "{1, 0, 0, 1, 409, 1839}";
+transform = "{1, 0, 0, 1, 499, 1839}";
 }
 );
 layerId = m006;
@@ -131245,7 +131334,7 @@ unicode = 12A6;
 },
 {
 glyphname = "waGlottal-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:51:40 +0000";
 layers = (
 {
 components = (
@@ -131254,7 +131343,7 @@ name = abesha.base;
 },
 {
 name = _smart.hat.left;
-transform = "{1, 0, 0, 1, 96, 1668}";
+transform = "{1, 0, 0, 1, 106, 1668}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -136827,7 +136916,7 @@ unicode = 12C5;
 },
 {
 glyphname = "wa-ethiopic";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -136845,7 +136934,7 @@ name = wa.base;
 }
 );
 layerId = m002;
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -136888,7 +136977,7 @@ unicode = 12C8;
 },
 {
 glyphname = "wu-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -136920,7 +137009,7 @@ layerId = m002;
 userData = {
 _smart.hu = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -136991,7 +137080,7 @@ unicode = 12C9;
 },
 {
 glyphname = "wi-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -137033,7 +137122,7 @@ userData = {
 _smart.haa = 1;
 _smart.hi = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -137124,7 +137213,7 @@ unicode = 12CA;
 },
 {
 glyphname = "waa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -137156,7 +137245,7 @@ layerId = m002;
 userData = {
 _smart.haa = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -137227,7 +137316,7 @@ unicode = 12CB;
 },
 {
 glyphname = "wee-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:49 +0000";
 layers = (
 {
 components = (
@@ -137259,7 +137348,7 @@ layerId = m002;
 userData = {
 _smart.hee = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -137330,7 +137419,7 @@ unicode = 12CC;
 },
 {
 glyphname = "we-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:47 +0000";
 layers = (
 {
 components = (
@@ -137362,7 +137451,7 @@ layerId = m002;
 userData = {
 _smart.hu = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -137433,7 +137522,7 @@ unicode = 12CD;
 },
 {
 glyphname = "wo-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -137465,7 +137554,7 @@ layerId = m002;
 userData = {
 _smart.haa.acute = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -137536,7 +137625,7 @@ unicode = 12CE;
 },
 {
 glyphname = "woa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:54 +0000";
 layers = (
 {
 components = (
@@ -137568,7 +137657,7 @@ layerId = m002;
 userData = {
 _smart.hwa = 1;
 };
-width = 1655;
+width = 1690;
 },
 {
 components = (
@@ -140194,60 +140283,101 @@ unicode = 12E7;
 },
 {
 glyphname = "ya-ethiopic";
-lastChange = "2020-12-17 18:41:42 +0000";
+lastChange = "2020-12-19 06:27:24 +0000";
 layers = (
 {
 components = (
 {
 name = ya.base;
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 233, -2}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1127;
 },
 {
 components = (
 {
 name = ya.base;
+},
+{
+name = _smart.ye.extend;
 }
 );
 layerId = m002;
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1172;
 },
 {
 components = (
 {
 name = ya.base;
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 114, -1}";
 }
 );
 layerId = m003;
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1189;
 },
 {
 components = (
 {
 name = ya.base;
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 123, -2}";
 }
 );
 layerId = m004;
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1171;
 },
 {
 components = (
 {
 name = ya.base;
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 21, -1}";
 }
 );
 layerId = m005;
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1186;
 },
 {
 components = (
 {
 name = ya.base;
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 80, -2}";
 }
 );
 layerId = m006;
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1143;
 }
 );
@@ -140255,7 +140385,7 @@ unicode = 12E8;
 },
 {
 glyphname = "yu-ethiopic";
-lastChange = "2020-12-17 18:41:42 +0000";
+lastChange = "2020-12-19 06:30:29 +0000";
 layers = (
 {
 components = (
@@ -140264,10 +140394,17 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 145, -441}";
+transform = "{1, 0, 0, 1, 155, -501}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 233, -2}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1127;
 },
 {
@@ -140277,10 +140414,16 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 69, -391}";
+transform = "{1, 0, 0, 1, 69, -441}";
+},
+{
+name = _smart.ye.extend;
 }
 );
 layerId = m002;
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1172;
 },
 {
@@ -140290,10 +140433,17 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 231, -391}";
+transform = "{1, 0, 0, 1, 231, -491}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 114, -1}";
 }
 );
 layerId = m003;
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1189;
 },
 {
@@ -140303,10 +140453,17 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 101, -421}";
+transform = "{1, 0, 0, 1, 101, -501}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 123, -2}";
 }
 );
 layerId = m004;
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1171;
 },
 {
@@ -140316,10 +140473,17 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 61, -391}";
+transform = "{1, 0, 0, 1, 61, -471}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 21, -1}";
 }
 );
 layerId = m005;
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1186;
 },
 {
@@ -140329,10 +140493,17 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 83, -441}";
+transform = "{1, 0, 0, 1, 113, -481}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 80, -2}";
 }
 );
 layerId = m006;
+userData = {
+_smart.ye.extend = 1;
+};
 width = 1143;
 }
 );
@@ -140340,7 +140511,7 @@ unicode = 12E9;
 },
 {
 glyphname = "yi-ethiopic";
-lastChange = "2020-12-19 03:53:15 +0000";
+lastChange = "2020-12-19 06:31:24 +0000";
 layers = (
 {
 components = (
@@ -140349,16 +140520,17 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 145, -441}";
+transform = "{1, 0, 0, 1, 155, -501}";
 },
 {
-name = _smart.hu;
-transform = "{1, 0, 0, 1, 759, -789}";
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 233, -2}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
 userData = {
 _smart.hu = 1;
+_smart.ye.extend = 1;
 _smart.yi = 1;
 _smart.yu = 1;
 };
@@ -140371,16 +140543,16 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 69, -391}";
+transform = "{1, 0, 0, 1, 69, -441}";
 },
 {
-name = _smart.hu;
-transform = "{1, 0, 0, 1, 691, -678}";
+name = _smart.ye.extend;
 }
 );
 layerId = m002;
 userData = {
 _smart.hu = 1;
+_smart.ye.extend = 1;
 _smart.yi = 1;
 _smart.yu = 1;
 };
@@ -140393,16 +140565,17 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 231, -391}";
+transform = "{1, 0, 0, 1, 231, -491}";
 },
 {
-name = _smart.hu;
-transform = "{1, 0, 0, 1, 855, -808}";
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 114, -1}";
 }
 );
 layerId = m003;
 userData = {
 _smart.hu = 1;
+_smart.ye.extend = 1;
 _smart.yi = 1;
 _smart.yu = 1;
 };
@@ -140415,16 +140588,17 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 101, -421}";
+transform = "{1, 0, 0, 1, 101, -501}";
 },
 {
-name = _smart.hu;
-transform = "{1, 0, 0, 1, 639, -768}";
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 123, -2}";
 }
 );
 layerId = m004;
 userData = {
 _smart.hu = 1;
+_smart.ye.extend = 1;
 _smart.yi = 1;
 _smart.yu = 1;
 };
@@ -140437,16 +140611,17 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 61, -391}";
+transform = "{1, 0, 0, 1, 61, -471}";
 },
 {
-name = _smart.hu;
-transform = "{1, 0, 0, 1, 613, -808}";
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 21, -1}";
 }
 );
 layerId = m005;
 userData = {
 _smart.hu = 1;
+_smart.ye.extend = 1;
 _smart.yi = 1;
 _smart.yu = 1;
 };
@@ -140459,16 +140634,17 @@ name = ya.base;
 },
 {
 name = _smart.yu;
-transform = "{1, 0, 0, 1, 83, -441}";
+transform = "{1, 0, 0, 1, 113, -481}";
 },
 {
-name = _smart.hu;
-transform = "{1, 0, 0, 1, 625, -769}";
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 80, -2}";
 }
 );
 layerId = m006;
 userData = {
 _smart.hu = 1;
+_smart.ye.extend = 1;
 _smart.yi = 1;
 _smart.yu = 1;
 };
@@ -140586,7 +140762,7 @@ unicode = 12EB;
 },
 {
 glyphname = "yee-ethiopic";
-lastChange = "2020-12-17 18:41:42 +0000";
+lastChange = "2020-12-19 06:28:35 +0000";
 layers = (
 {
 components = (
@@ -140595,12 +140771,17 @@ name = ya.base;
 },
 {
 name = _smart.yee;
-transform = "{1, 0, 0, 1, 534, -85}";
+transform = "{1, 0, 0, 1, 919, -24}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 233, -2}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
 userData = {
 _smart.hee = 1;
+_smart.ye.extend = 1;
 _smart.yee = 1;
 };
 width = 1127;
@@ -140612,12 +140793,16 @@ name = ya.base;
 },
 {
 name = _smart.yee;
-transform = "{1, 0, 0, 1, 459, -87}";
+transform = "{1, 0, 0, 1, 429, -192}";
+},
+{
+name = _smart.ye.extend;
 }
 );
 layerId = m002;
 userData = {
 _smart.hee = 1;
+_smart.ye.extend = 1;
 _smart.yee = 1;
 };
 width = 1172;
@@ -140629,12 +140814,17 @@ name = ya.base;
 },
 {
 name = _smart.yee;
-transform = "{1, 0, 0, 1, 406, -42}";
+transform = "{1, 0, 0, 1, 736, -42}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 114, -1}";
 }
 );
 layerId = m003;
 userData = {
 _smart.hee = 1;
+_smart.ye.extend = 1;
 _smart.yee = 1;
 };
 width = 1189;
@@ -140646,12 +140836,17 @@ name = ya.base;
 },
 {
 name = _smart.yee;
-transform = "{1, 0, 0, 1, 355, -58}";
+transform = "{1, 0, 0, 1, 975, -58}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 123, -2}";
 }
 );
 layerId = m004;
 userData = {
 _smart.hee = 1;
+_smart.ye.extend = 1;
 _smart.yee = 1;
 };
 width = 1171;
@@ -140663,12 +140858,17 @@ name = ya.base;
 },
 {
 name = _smart.yee;
-transform = "{1, 0, 0, 1, 291, -15}";
+transform = "{1, 0, 0, 1, 691, -15}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 21, -1}";
 }
 );
 layerId = m005;
 userData = {
 _smart.hee = 1;
+_smart.ye.extend = 1;
 _smart.yee = 1;
 };
 width = 1186;
@@ -140680,12 +140880,17 @@ name = ya.base;
 },
 {
 name = _smart.yee;
-transform = "{1, 0, 0, 1, 535, -85}";
+transform = "{1, 0, 0, 1, 931, -63}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 80, -2}";
 }
 );
 layerId = m006;
 userData = {
 _smart.hee = 1;
+_smart.ye.extend = 1;
 _smart.yee = 1;
 };
 width = 1143;
@@ -140780,7 +140985,7 @@ unicode = 12ED;
 },
 {
 glyphname = "yo-ethiopic";
-lastChange = "2020-12-17 18:41:42 +0000";
+lastChange = "2020-12-19 06:28:35 +0000";
 layers = (
 {
 components = (
@@ -140790,11 +140995,16 @@ name = ya.base;
 {
 name = _smart.he;
 transform = "{1, 0, 0, 1, 1241, 802}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 233, -2}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
 userData = {
 _smart.he = 1;
+_smart.ye.extend = 1;
 };
 width = 1127;
 },
@@ -140806,11 +141016,15 @@ name = ya.base;
 {
 name = _smart.he;
 transform = "{1, 0, 0, 1, 1259, 797}";
+},
+{
+name = _smart.ye.extend;
 }
 );
 layerId = m002;
 userData = {
 _smart.he = 1;
+_smart.ye.extend = 1;
 };
 width = 1172;
 },
@@ -140822,11 +141036,16 @@ name = ya.base;
 {
 name = _smart.he;
 transform = "{1, 0, 0, 1, 1151, 809}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 114, -1}";
 }
 );
 layerId = m003;
 userData = {
 _smart.he = 1;
+_smart.ye.extend = 1;
 };
 width = 1189;
 },
@@ -140838,11 +141057,16 @@ name = ya.base;
 {
 name = _smart.he;
 transform = "{1, 0, 0, 1, 1394, 797}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 123, -2}";
 }
 );
 layerId = m004;
 userData = {
 _smart.he = 1;
+_smart.ye.extend = 1;
 };
 width = 1171;
 },
@@ -140854,11 +141078,16 @@ name = ya.base;
 {
 name = _smart.he;
 transform = "{1, 0, 0, 1, 1325, 809}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 21, -1}";
 }
 );
 layerId = m005;
 userData = {
 _smart.he = 1;
+_smart.ye.extend = 1;
 };
 width = 1186;
 },
@@ -140870,11 +141099,16 @@ name = ya.base;
 {
 name = _smart.he;
 transform = "{1, 0, 0, 1, 1399, 802}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 80, -2}";
 }
 );
 layerId = m006;
 userData = {
 _smart.he = 1;
+_smart.ye.extend = 1;
 };
 width = 1143;
 }
@@ -140883,7 +141117,7 @@ unicode = 12EE;
 },
 {
 glyphname = "yoa-ethiopic";
-lastChange = "2020-12-17 18:41:42 +0000";
+lastChange = "2020-12-19 06:28:35 +0000";
 layers = (
 {
 components = (
@@ -140897,12 +141131,17 @@ transform = "{1, 0, 0, 1, 1241, 802}";
 {
 name = _smart.he.left.outer;
 transform = "{1, 0, 0, 1, 317, 1127}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 233, -2}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
 userData = {
 _smart.he = 1;
 _smart.he.left.outer = 1;
+_smart.ye.extend = 1;
 };
 width = 1127;
 },
@@ -140918,12 +141157,16 @@ transform = "{1, 0, 0, 1, 1259, 797}";
 {
 name = _smart.he.left.outer;
 transform = "{1, 0, 0, 1, 284, 1011}";
+},
+{
+name = _smart.ye.extend;
 }
 );
 layerId = m002;
 userData = {
 _smart.he = 1;
 _smart.he.left.outer = 1;
+_smart.ye.extend = 1;
 };
 width = 1172;
 },
@@ -140939,12 +141182,17 @@ transform = "{1, 0, 0, 1, 1151, 809}";
 {
 name = _smart.he.left.outer;
 transform = "{1, 0, 0, 1, 284, 1011}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 114, -1}";
 }
 );
 layerId = m003;
 userData = {
 _smart.he = 1;
 _smart.he.left.outer = 1;
+_smart.ye.extend = 1;
 };
 width = 1189;
 },
@@ -140960,12 +141208,17 @@ transform = "{1, 0, 0, 1, 1394, 797}";
 {
 name = _smart.he.left.outer;
 transform = "{1, 0, 0, 1, 611, 1121}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 123, -2}";
 }
 );
 layerId = m004;
 userData = {
 _smart.he = 1;
 _smart.he.left.outer = 1;
+_smart.ye.extend = 1;
 };
 width = 1171;
 },
@@ -140981,12 +141234,17 @@ transform = "{1, 0, 0, 1, 1325, 809}";
 {
 name = _smart.he.left.outer;
 transform = "{1, 0, 0, 1, 597, 1111}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 21, -1}";
 }
 );
 layerId = m005;
 userData = {
 _smart.he = 1;
 _smart.he.left.outer = 1;
+_smart.ye.extend = 1;
 };
 width = 1186;
 },
@@ -141002,12 +141260,17 @@ transform = "{1, 0, 0, 1, 1399, 802}";
 {
 name = _smart.he.left.outer;
 transform = "{1, 0, 0, 1, 532, 1127}";
+},
+{
+name = _smart.ye.extend;
+transform = "{1, 0, 0, 1, 80, -2}";
 }
 );
 layerId = m006;
 userData = {
 _smart.he = 1;
 _smart.he.left.outer = 1;
+_smart.ye.extend = 1;
 };
 width = 1143;
 }
@@ -145312,7 +145575,7 @@ unicode = 130C;
 },
 {
 glyphname = "ge-ethiopic";
-lastChange = "2020-12-18 03:27:21 +0000";
+lastChange = "2020-12-19 07:11:54 +0000";
 layers = (
 {
 components = (
@@ -145321,13 +145584,12 @@ name = ga.base;
 },
 {
 name = _smart.ho.ring;
-transform = "{0.8337, 0, 0, 0.8337, 420, -304}";
+transform = "{1, 0, 0, 1, 352, -475}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
 userData = {
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 };
 width = 874;
 },
@@ -145338,13 +145600,12 @@ name = ga.base;
 },
 {
 name = _smart.ho.ring;
-transform = "{0.7536, 0, 0, 0.7536, 391, -144}";
+transform = "{1, 0, 0, 1, 276, -415}";
 }
 );
 layerId = m002;
 userData = {
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 };
 width = 878;
 },
@@ -145355,13 +145616,12 @@ name = ga.base;
 },
 {
 name = _smart.ho.ring;
-transform = "{0.8858, 0, 0, 0.8858, 392, -103}";
+transform = "{1, 0, 0, 1, 322, -230}";
 }
 );
 layerId = m003;
 userData = {
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 };
 width = 743;
 },
@@ -145372,13 +145632,12 @@ name = ga.base;
 },
 {
 name = _smart.ho.ring;
-transform = "{0.7238, 0, 0, 0.7238, 387, -96}";
+transform = "{1, 0, 0, 1, 277, -407}";
 }
 );
 layerId = m004;
 userData = {
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 };
 width = 898;
 },
@@ -145389,13 +145648,12 @@ name = ga.base;
 },
 {
 name = _smart.ho.ring;
-transform = "{0.8508, 0, 0, 0.8508, 425, -66}";
+transform = "{1, 0, 0, 1, 370, -223}";
 }
 );
 layerId = m005;
 userData = {
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 };
 width = 764;
 },
@@ -145406,13 +145664,12 @@ name = ga.base;
 },
 {
 name = _smart.ho.ring;
-transform = "{0.8337, 0, 0, 0.8337, 463, -304}";
+transform = "{1, 0, 0, 1, 391, -474}";
 }
 );
 layerId = m006;
 userData = {
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 };
 width = 993;
 }
@@ -147150,7 +147407,7 @@ unicode = 131C;
 },
 {
 glyphname = "gge-ethiopic";
-lastChange = "2020-12-18 03:48:15 +0000";
+lastChange = "2020-12-19 07:12:13 +0000";
 layers = (
 {
 components = (
@@ -147158,23 +147415,22 @@ components = (
 name = ga.base;
 },
 {
-name = _smart.hat;
-transform = "{1, 0, 0, 1, 233, 1355}";
-},
-{
 name = _smart.ho.ring;
-transform = "{0.769, 0, 0, 0.769, 421, -234}";
+transform = "{1, 0, 0, 1, 352, -475}";
 },
 {
 name = _smart.neck;
 transform = "{1, 0, 0, 1, 283, 1126}";
+},
+{
+name = _smart.hat;
+transform = "{1, 0, 0, 1, 233, 1355}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
 userData = {
 _smart.hat = 1;
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 _smart.neck = 1;
 };
 width = 874;
@@ -147185,23 +147441,22 @@ components = (
 name = ga.base;
 },
 {
-name = _smart.hat;
-transform = "{1, 0, 0, 1, 245, 1355}";
-},
-{
 name = _smart.ho.ring;
-transform = "{0.769, 0, 0, 0.769, 391, -161}";
+transform = "{1, 0, 0, 1, 276, -415}";
 },
 {
 name = _smart.neck;
 transform = "{1, 0, 0, 1, 285, 1096}";
+},
+{
+name = _smart.hat;
+transform = "{1, 0, 0, 1, 245, 1355}";
 }
 );
 layerId = m002;
 userData = {
 _smart.hat = 1;
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 _smart.neck = 1;
 };
 width = 878;
@@ -147212,23 +147467,22 @@ components = (
 name = ga.base;
 },
 {
-name = _smart.hat;
-transform = "{1, 0, 0, 1, 336, 1255}";
-},
-{
 name = _smart.ho.ring;
-transform = "{0.8337, 0, 0, 0.8337, 392, -47}";
+transform = "{1, 0, 0, 1, 322, -230}";
 },
 {
 name = _smart.neck;
 transform = "{1, 0, 0, 1, 233, 1126}";
+},
+{
+name = _smart.hat;
+transform = "{1, 0, 0, 1, 336, 1255}";
 }
 );
 layerId = m003;
 userData = {
 _smart.hat = 1;
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 _smart.neck = 1;
 };
 width = 743;
@@ -147239,26 +147493,25 @@ components = (
 name = ga.base;
 },
 {
-name = _smart.hat;
-transform = "{1, 0, 0, 1, 564, 1355}";
-},
-{
 name = _smart.ho.ring;
-transform = "{0.81698, 0.01426, -0.01426, 0.81698, 378, -200}";
+transform = "{1, 0, 0, 1, 277, -407}";
 },
 {
 name = _smart.neck;
 transform = "{1, 0, 0, 1, 564, 1106}";
+},
+{
+name = _smart.hat;
+transform = "{1, 0, 0, 1, 564, 1355}";
 }
 );
 layerId = m004;
 userData = {
 _smart.hat = 1;
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 _smart.neck = 1;
 };
-width = 918;
+width = 898;
 },
 {
 components = (
@@ -147266,23 +147519,22 @@ components = (
 name = ga.base;
 },
 {
-name = _smart.hat;
-transform = "{1, 0, 0, 1, 578, 1255}";
-},
-{
 name = _smart.ho.ring;
-transform = "{0.8337, 0, 0, 0.8337, 425, -48}";
+transform = "{1, 0, 0, 1, 370, -223}";
 },
 {
 name = _smart.neck;
 transform = "{1, 0, 0, 1, 443, 1126}";
+},
+{
+name = _smart.hat;
+transform = "{1, 0, 0, 1, 578, 1255}";
 }
 );
 layerId = m005;
 userData = {
 _smart.hat = 1;
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 _smart.neck = 1;
 };
 width = 764;
@@ -147293,23 +147545,22 @@ components = (
 name = ga.base;
 },
 {
-name = _smart.hat;
-transform = "{1, 0, 0, 1, 591, 1355}";
-},
-{
 name = _smart.ho.ring;
-transform = "{0.769, 0, 0, 0.769, 464, -234}";
+transform = "{1, 0, 0, 1, 391, -474}";
 },
 {
 name = _smart.neck;
 transform = "{1, 0, 0, 1, 591, 1136}";
+},
+{
+name = _smart.hat;
+transform = "{1, 0, 0, 1, 591, 1355}";
 }
 );
 layerId = m006;
 userData = {
 _smart.hat = 1;
 _smart.ho.ring = 1;
-_smart.ho.ring.uniq = 1;
 _smart.neck = 1;
 };
 width = 993;
@@ -153390,7 +153641,7 @@ unicode = 134F;
 },
 {
 glyphname = "pa-ethiopic";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -153444,14 +153695,14 @@ name = pa.base;
 }
 );
 layerId = m006;
-width = 811;
+width = 788;
 }
 );
 unicode = 1350;
 },
 {
 glyphname = "pu-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -153547,14 +153798,14 @@ layerId = m006;
 userData = {
 _smart.hu = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1351;
 },
 {
 glyphname = "pi-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -153650,14 +153901,14 @@ layerId = m006;
 userData = {
 _smart.hi = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1352;
 },
 {
 glyphname = "paa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -153759,7 +154010,7 @@ userData = {
 _smart.haa.acute = 1;
 _smart.he.left.outer = 1;
 };
-width = 811;
+width = 788;
 }
 );
 leftMetricsKey = "pa-ethiopic";
@@ -153768,7 +154019,7 @@ unicode = 1353;
 },
 {
 glyphname = "pee-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -153864,14 +154115,14 @@ layerId = m006;
 userData = {
 _smart.hee = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1354;
 },
 {
 glyphname = "pe-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -153967,14 +154218,14 @@ layerId = m006;
 userData = {
 _smart.haa = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1355;
 },
 {
 glyphname = "po-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -154070,14 +154321,14 @@ layerId = m006;
 userData = {
 _smart.haa.acute = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1356;
 },
 {
 glyphname = "pwa-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -154173,7 +154424,7 @@ layerId = m006;
 userData = {
 _smart.hwa = 1;
 };
-width = 811;
+width = 788;
 }
 );
 unicode = 1357;
@@ -154313,7 +154564,7 @@ unicode = 1358;
 },
 {
 glyphname = "ha-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -154367,7 +154618,7 @@ name = ha.base.cap;
 }
 );
 layerId = m006;
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -154375,7 +154626,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "hu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -154477,13 +154728,13 @@ userData = {
 _smart.hu = 1;
 _smart.hu.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "hi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -154621,13 +154872,13 @@ _smart.haa.cap = 1;
 _smart.hi = 1;
 _smart.hi.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "haa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -154729,13 +154980,13 @@ userData = {
 _smart.haa = 1;
 _smart.haa.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "hee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -154837,13 +155088,13 @@ userData = {
 _smart.hee = 1;
 _smart.hee.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "he-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -154957,13 +155208,13 @@ _smart.he.left.inner = 1;
 _smart.he.left.inner.cap = 1;
 _smart.he.left.outer = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "ho-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -155065,13 +155316,13 @@ userData = {
 _smart.ho.ring = 1;
 _smart.ho.ring.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "hoa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -155215,13 +155466,13 @@ _smart.he.left.outer.cap = 1;
 _smart.ho.ring = 1;
 _smart.ho.ring.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "la-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -155275,13 +155526,13 @@ name = la.base.cap;
 }
 );
 layerId = m006;
-width = 1338;
+width = 1296;
 }
 );
 },
 {
 glyphname = "lu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -155377,7 +155628,7 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1338;
+width = 1296;
 }
 );
 leftMetricsKey = A;
@@ -155385,7 +155636,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "li-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -155487,7 +155738,7 @@ userData = {
 _smart.hi.cap = 1;
 _smart.hu.cap = 1;
 };
-width = 1338;
+width = 1296;
 }
 );
 leftMetricsKey = A;
@@ -155495,7 +155746,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "laa-ethiopic.liga";
-lastChange = "2020-12-17 19:17:47 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -155597,7 +155848,7 @@ userData = {
 _smart.haa = 1;
 _smart.hi = 1;
 };
-width = 1338;
+width = 1296;
 }
 );
 leftMetricsKey = A;
@@ -155605,7 +155856,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "lee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -155701,7 +155952,7 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1338;
+width = 1296;
 }
 );
 leftMetricsKey = A;
@@ -155709,7 +155960,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "le-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -155805,7 +156056,7 @@ layerId = m006;
 userData = {
 _smart.ho.ring.uniq.cap = 1;
 };
-width = 1338;
+width = 1296;
 }
 );
 leftMetricsKey = A;
@@ -155813,7 +156064,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "lo-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -155909,7 +156160,7 @@ layerId = m006;
 userData = {
 _smart.ho.ring.cap = 1;
 };
-width = 1338;
+width = 1296;
 }
 );
 leftMetricsKey = A;
@@ -155917,7 +156168,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "lwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -156013,14 +156264,14 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1338;
+width = 1296;
 }
 );
 leftMetricsKey = A;
 },
 {
 glyphname = "hha-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -156116,7 +156367,7 @@ layerId = m006;
 userData = {
 _smart.neck.hha.caps.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 leftMetricsKey = M;
@@ -156124,7 +156375,7 @@ rightMetricsKey = M;
 },
 {
 glyphname = "hhu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -156250,13 +156501,13 @@ userData = {
 _smart.hu.cap = 1;
 _smart.neck.hha.caps.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "hhi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -156382,13 +156633,13 @@ userData = {
 _smart.hi.cap = 1;
 _smart.neck.hha.caps.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "hhaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -156514,14 +156765,14 @@ userData = {
 _smart.haa.cap = 1;
 _smart.neck.haa.caps.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "hhee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -156647,13 +156898,13 @@ userData = {
 _smart.hee.cap = 1;
 _smart.neck.hha.caps.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "hhe-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -156779,14 +157030,14 @@ userData = {
 _smart.he.acute.top.cap = 1;
 _smart.neck.hha.caps.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "hho-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -156924,14 +157175,14 @@ _smart.ho.cap = 1;
 _smart.ho.caps.cap = 1;
 _smart.neck.hha.caps.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "hhwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -157057,14 +157308,14 @@ userData = {
 _smart.hwa.cap = 1;
 _smart.neck.hha.caps.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 leftMetricsKey = M;
 },
 {
 glyphname = "ma-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -157118,13 +157369,13 @@ name = ma.base.cap;
 }
 );
 layerId = m006;
-width = 1793;
+width = 1787;
 }
 );
 },
 {
 glyphname = "mu-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -157220,13 +157471,13 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1793;
+width = 1787;
 }
 );
 },
 {
 glyphname = "mi-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -157352,13 +157603,13 @@ userData = {
 _smart.haa.cap = 1;
 _smart.hi.cap = 1;
 };
-width = 1793;
+width = 1787;
 }
 );
 },
 {
 glyphname = "maa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -157454,13 +157705,13 @@ layerId = m006;
 userData = {
 _smart.haa.cap = 1;
 };
-width = 1793;
+width = 1787;
 }
 );
 },
 {
 glyphname = "mee-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -157556,13 +157807,13 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1793;
+width = 1787;
 }
 );
 },
 {
 glyphname = "me-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -157658,13 +157909,13 @@ layerId = m006;
 userData = {
 _smart.he.acute.bottom = 1;
 };
-width = 1793;
+width = 1787;
 }
 );
 },
 {
 glyphname = "mo-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -157760,13 +158011,13 @@ layerId = m006;
 userData = {
 _smart.ho.cap = 1;
 };
-width = 1793;
+width = 1787;
 }
 );
 },
 {
 glyphname = "mwa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -157862,13 +158113,13 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1793;
+width = 1787;
 }
 );
 },
 {
 glyphname = "sza-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 anchors = (
@@ -157958,7 +158209,7 @@ name = sa.base.cap;
 }
 );
 layerId = m006;
-width = 1791;
+width = 1817;
 }
 );
 leftMetricsKey = W;
@@ -157966,7 +158217,7 @@ rightMetricsKey = W;
 },
 {
 glyphname = "szu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -158062,14 +158313,14 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1791;
+width = 1817;
 }
 );
 leftMetricsKey = W;
 },
 {
 glyphname = "szi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -158195,14 +158446,14 @@ userData = {
 _smart.haa.cap = 1;
 _smart.hi.cap = 1;
 };
-width = 1791;
+width = 1817;
 }
 );
 leftMetricsKey = W;
 },
 {
 glyphname = "szaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 anchors = (
@@ -158334,14 +158585,14 @@ layerId = m006;
 userData = {
 _smart.haa.cap = 1;
 };
-width = 1791;
+width = 1817;
 }
 );
 leftMetricsKey = W;
 },
 {
 glyphname = "szee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -158437,7 +158688,7 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1791;
+width = 1817;
 }
 );
 leftMetricsKey = W;
@@ -158445,7 +158696,7 @@ rightMetricsKey = W;
 },
 {
 glyphname = "sze-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 anchors = (
@@ -158577,7 +158828,7 @@ layerId = m006;
 userData = {
 _smart.ho.cap = 1;
 };
-width = 1791;
+width = 1817;
 }
 );
 leftMetricsKey = W;
@@ -158693,7 +158944,7 @@ leftMetricsKey = W;
 },
 {
 glyphname = "szwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -158789,14 +159040,14 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1791;
+width = 1817;
 }
 );
 leftMetricsKey = W;
 },
 {
 glyphname = "ra-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -158850,7 +159101,7 @@ name = ra.base.cap;
 }
 );
 layerId = m006;
-width = 1109;
+width = 1102;
 }
 );
 leftMetricsKey = L;
@@ -158858,7 +159109,7 @@ rightMetricsKey = L;
 },
 {
 glyphname = "ru-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -158954,13 +159205,13 @@ layerId = m006;
 userData = {
 _smart.haa.cap = 1;
 };
-width = 1109;
+width = 1102;
 }
 );
 },
 {
 glyphname = "ri-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -159038,7 +159289,7 @@ transform = "{-1, 0, 0, 1, 1164, -896}";
 }
 );
 layerId = m006;
-width = 1109;
+width = 1102;
 }
 );
 leftMetricsKey = L;
@@ -159046,7 +159297,7 @@ rightMetricsKey = L;
 },
 {
 glyphname = "raa-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -159124,13 +159375,13 @@ transform = "{1, 0, 0, 1, 530, -876}";
 }
 );
 layerId = m006;
-width = 1109;
+width = 1102;
 }
 );
 },
 {
 glyphname = "ree-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -159226,13 +159477,13 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1109;
+width = 1102;
 }
 );
 },
 {
 glyphname = "re-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -159286,14 +159537,14 @@ name = na.base.cap;
 }
 );
 layerId = m006;
-width = 1095;
+width = 1078;
 }
 );
 leftMetricsKey = C;
 },
 {
 glyphname = "ro-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -159389,13 +159640,13 @@ layerId = m006;
 userData = {
 _smart.ho.ring.cap = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
 {
 glyphname = "rwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -159515,13 +159766,13 @@ layerId = m006;
 userData = {
 _smart.hat.left.cap = 1;
 };
-width = 1109;
+width = 1102;
 }
 );
 },
 {
 glyphname = "sa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -159617,7 +159868,7 @@ layerId = m006;
 userData = {
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -159625,7 +159876,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "su-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -159751,13 +160002,13 @@ userData = {
 _smart.hu.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "si-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -159883,14 +160134,14 @@ userData = {
 _smart.hi.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
 },
 {
 glyphname = "saa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -160016,7 +160267,7 @@ userData = {
 _smart.haa.cap = 1;
 _smart.neck.caps = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -160024,7 +160275,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "see-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -160150,14 +160401,14 @@ userData = {
 _smart.hee.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "se-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -160259,14 +160510,14 @@ userData = {
 _smart.he.acute.top = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "so-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -160392,14 +160643,14 @@ userData = {
 _smart.ho = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "swa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -160525,13 +160776,13 @@ userData = {
 _smart.hwa.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "sha-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -160657,14 +160908,14 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "shu-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -160820,13 +161071,13 @@ _smart.hat.caps.cap = 1;
 _smart.hu.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "shi-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -160982,13 +161233,13 @@ _smart.hat.caps.cap = 1;
 _smart.hi.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "shaa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -161144,14 +161395,14 @@ _smart.haa.cap = 1;
 _smart.hat.caps = 1;
 _smart.neck.caps = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "shee-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -161307,14 +161558,14 @@ _smart.hat.caps.cap = 1;
 _smart.hee.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "she-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -161446,14 +161697,14 @@ _smart.hat.caps.cap = 1;
 _smart.he.acute.top = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "sho-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -161609,14 +161860,14 @@ _smart.hat.caps.cap = 1;
 _smart.ho = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "shwa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -161772,14 +162023,14 @@ _smart.hat.caps.cap = 1;
 _smart.hwa.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
 },
 {
 glyphname = "qa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -161905,14 +162156,14 @@ userData = {
 _smart.haa.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "qu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -162068,13 +162319,13 @@ _smart.haa.cap = 1;
 _smart.hu.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -162230,13 +162481,13 @@ _smart.haa.cap = 1;
 _smart.hi.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -162362,13 +162613,13 @@ userData = {
 _smart.haa.acute.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -162494,13 +162745,13 @@ userData = {
 _smart.hee.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qe-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -162626,13 +162877,13 @@ userData = {
 _smart.haa.cap = 1;
 _smart.he.acute.top.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qo-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -162764,13 +163015,13 @@ _smart.haa.cap = 1;
 _smart.ho.ring.cap = 1;
 _smart.hwa.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qwaa-ethiopic.liga";
-lastChange = "2020-12-17 20:12:24 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -162896,13 +163147,13 @@ userData = {
 _smart.ho.ring.cap = 1;
 _smart.hwa.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qha-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -163058,13 +163309,13 @@ _smart.haa.cap = 1;
 _smart.hat.caps.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qhu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -163250,13 +163501,13 @@ _smart.hat.caps.cap = 1;
 _smart.hu.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qhi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -163442,13 +163693,13 @@ _smart.hat.caps.cap = 1;
 _smart.hi.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qhaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -163604,13 +163855,13 @@ _smart.haa.acute.cap = 1;
 _smart.hat.caps.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qhee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -163766,13 +164017,13 @@ _smart.hat.caps.cap = 1;
 _smart.hee.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qhe-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -163928,13 +164179,13 @@ _smart.haa.cap = 1;
 _smart.hat.caps.cap = 1;
 _smart.he.acute.top.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qho-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -164096,13 +164347,13 @@ _smart.hat.caps.cap = 1;
 _smart.ho.ring.cap = 1;
 _smart.hwa.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "qhwaa-ethiopic.liga";
-lastChange = "2020-12-17 20:12:24 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -164258,13 +164509,13 @@ _smart.hat.caps.cap = 1;
 _smart.ho.ring.cap = 1;
 _smart.hwa.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "ba-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -164318,7 +164569,7 @@ name = ba.base.cap;
 }
 );
 layerId = m006;
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -164326,7 +164577,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "bu-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -164422,13 +164673,13 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "bi-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -164524,13 +164775,13 @@ layerId = m006;
 userData = {
 _smart.hi.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "baa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -164632,14 +164883,14 @@ userData = {
 _smart.haa.cap = 1;
 _smart.haa.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "bee-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -164735,7 +164986,7 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -164743,7 +164994,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "be-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -164839,14 +165090,14 @@ layerId = m006;
 userData = {
 _smart.he.left.inner.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "bo-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -164942,7 +165193,7 @@ layerId = m006;
 userData = {
 _smart.ho.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -164950,7 +165201,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "bwa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -165046,7 +165297,7 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -165054,7 +165305,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "va-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -165150,7 +165401,7 @@ layerId = m006;
 userData = {
 _smart.hat.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -165158,7 +165409,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "vu-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -165284,14 +165535,14 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.hu.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
 },
 {
 glyphname = "vi-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -165417,14 +165668,14 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.hi.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
 },
 {
 glyphname = "vaa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -165556,7 +165807,7 @@ _smart.haa.cap = 1;
 _smart.haa.caps.cap = 1;
 _smart.hat.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -165564,7 +165815,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "vee-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -165690,7 +165941,7 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.hee.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -165698,7 +165949,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "ve-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -165824,14 +166075,14 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.he.left.inner.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "vo-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -165957,7 +166208,7 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.ho.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -165965,7 +166216,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "vwa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -166091,7 +166342,7 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.hwa.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -166099,7 +166350,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "ta-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -166195,7 +166446,7 @@ layerId = m006;
 userData = {
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -166203,7 +166454,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "tu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -166329,7 +166580,7 @@ userData = {
 _smart.hu.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -166337,7 +166588,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "ti-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -166463,7 +166714,7 @@ userData = {
 _smart.hi.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -166471,7 +166722,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "taa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -166597,7 +166848,7 @@ userData = {
 _smart.haa.acute.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -166605,7 +166856,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "tee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -166731,7 +166982,7 @@ userData = {
 _smart.hee.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -166739,7 +166990,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "te-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -166841,7 +167092,7 @@ userData = {
 _smart.he.acute.top.cap = 1;
 _smart.ho.ring.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = "T-24";
@@ -166849,7 +167100,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "to-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -166945,7 +167196,7 @@ layerId = m006;
 userData = {
 _smart.ho.ring.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -166953,7 +167204,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "twa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -167079,7 +167330,7 @@ userData = {
 _smart.hwa.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -167087,7 +167338,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "ca-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -167213,7 +167464,7 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -167221,7 +167472,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "cu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -167377,7 +167628,7 @@ _smart.hat.caps.cap = 1;
 _smart.hu.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -167385,7 +167636,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "ci-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -167541,7 +167792,7 @@ _smart.hat.caps.cap = 1;
 _smart.hi.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -167549,7 +167800,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "caa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -167705,7 +167956,7 @@ _smart.haa.acute.cap = 1;
 _smart.hat.caps.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -167713,7 +167964,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "cee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -167869,7 +168120,7 @@ _smart.hat.caps.cap = 1;
 _smart.hee.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -167877,7 +168128,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "ce-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -168009,7 +168260,7 @@ _smart.hat.caps.cap = 1;
 _smart.he.acute.top = 1;
 _smart.ho.ring.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -168017,7 +168268,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "co-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -168143,7 +168394,7 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.ho.ring.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -168151,7 +168402,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "cwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -168307,7 +168558,7 @@ _smart.hat.caps.cap = 1;
 _smart.hwa.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -168315,7 +168566,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "xa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -168441,13 +168692,13 @@ userData = {
 _smart.neck.left.caps.cap = 1;
 _smart.nose.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "xu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -168603,13 +168854,13 @@ _smart.hu.cap = 1;
 _smart.neck.left.caps.cap = 1;
 _smart.nose.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "xi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -168765,13 +169016,13 @@ _smart.hi.cap = 1;
 _smart.neck.left.caps.cap = 1;
 _smart.nose.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "xaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -168927,13 +169178,13 @@ _smart.haa.acute.cap = 1;
 _smart.neck.left.caps.cap = 1;
 _smart.nose.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "xee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -169089,13 +169340,13 @@ _smart.hee.cap = 1;
 _smart.neck.left.caps.cap = 1;
 _smart.nose.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "xe-ethiopic.liga";
-lastChange = "2020-12-18 00:29:58 +0000";
+lastChange = "2020-12-19 06:42:10 +0000";
 layers = (
 {
 components = (
@@ -169287,14 +169538,14 @@ userData = {
 _smart.neck.left.caps.cap = 1;
 _smart.nose.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 rightMetricsKey = N;
 },
 {
 glyphname = "xo-ethiopic.liga";
-lastChange = "2020-12-17 20:15:54 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -169420,7 +169671,7 @@ userData = {
 _smart.haa.cap = 1;
 _smart.nose.cap = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
@@ -169648,7 +169899,7 @@ width = 1048;
 },
 {
 glyphname = "na-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -169744,13 +169995,13 @@ layerId = m006;
 userData = {
 _smart.neck.left.caps.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "nu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -169876,13 +170127,13 @@ userData = {
 _smart.hu.cap = 1;
 _smart.neck.left.caps.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "ni-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -170008,13 +170259,13 @@ userData = {
 _smart.hi.cap = 1;
 _smart.neck.left.caps.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "naa-ethiopic.liga";
-lastChange = "2020-12-17 20:15:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -170110,13 +170361,13 @@ layerId = m006;
 userData = {
 _smart.haa.cap = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
 {
 glyphname = "nee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -170242,7 +170493,7 @@ userData = {
 _smart.hee.cap = 1;
 _smart.neck.left.caps.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
@@ -170393,7 +170644,7 @@ leftMetricsKey = X;
 },
 {
 glyphname = "no-ethiopic.liga";
-lastChange = "2020-12-17 20:15:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -170519,13 +170770,13 @@ userData = {
 _smart.haa = 1;
 _smart.ho.ring = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
 {
 glyphname = "nwa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -170621,13 +170872,13 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
 {
 glyphname = "nya-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -170753,13 +171004,13 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.neck.left.caps.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "nyu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -170915,13 +171166,13 @@ _smart.hat.caps.cap = 1;
 _smart.hu.cap = 1;
 _smart.neck.left.caps.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "nyi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -171077,13 +171328,13 @@ _smart.hat.caps.cap = 1;
 _smart.hi.cap = 1;
 _smart.neck.left.caps.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "nyaa-ethiopic.liga";
-lastChange = "2020-12-17 20:15:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -171209,13 +171460,13 @@ userData = {
 _smart.haa.cap = 1;
 _smart.hat.caps.cap = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
 {
 glyphname = "nyee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -171371,7 +171622,7 @@ _smart.hat.caps.cap = 1;
 _smart.hee.cap = 1;
 _smart.neck.left.caps.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
@@ -171559,7 +171810,7 @@ leftMetricsKey = X;
 },
 {
 glyphname = "nyo-ethiopic.liga";
-lastChange = "2020-12-17 20:15:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -171715,13 +171966,13 @@ _smart.haa = 1;
 _smart.hat.caps.cap = 1;
 _smart.ho.ring = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
 {
 glyphname = "nywa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -171847,13 +172098,13 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.hwa.cap = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
 {
 glyphname = "aGlottal-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -171907,7 +172158,7 @@ name = aGl.base.cap;
 }
 );
 layerId = m006;
-width = 1254;
+width = 1212;
 }
 );
 leftMetricsKey = A;
@@ -171915,7 +172166,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "uGlottal-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -172011,7 +172262,7 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1254;
+width = 1212;
 }
 );
 leftMetricsKey = A;
@@ -172019,7 +172270,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "iGlottal-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -172114,21 +172365,21 @@ name = aGl.base.cap;
 },
 {
 name = _smart.hi;
-transform = "{1, 0, 0, 1, 1254, 0}";
+transform = "{1, 0, 0, 1, 1212, 0}";
 }
 );
 layerId = m006;
 userData = {
 _smart.hi.cap = 1;
 };
-width = 1254;
+width = 1212;
 }
 );
 leftMetricsKey = A;
 },
 {
 glyphname = "aaGlottal-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -172224,7 +172475,7 @@ layerId = m006;
 userData = {
 _smart.haa.cap = 1;
 };
-width = 1254;
+width = 1212;
 }
 );
 leftMetricsKey = A;
@@ -172232,7 +172483,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "eeGlottal-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -172328,7 +172579,7 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1254;
+width = 1212;
 }
 );
 leftMetricsKey = A;
@@ -172336,7 +172587,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "eGlottal-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:28 +0000";
 layers = (
 {
 components = (
@@ -172456,14 +172707,14 @@ nodes = (
 );
 }
 );
-width = 1254;
+width = 1212;
 }
 );
 rightMetricsKey = A;
 },
 {
 glyphname = "oGlottal-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -172559,7 +172810,7 @@ layerId = m006;
 userData = {
 _smart.ho.cap = 1;
 };
-width = 1254;
+width = 1212;
 }
 );
 leftMetricsKey = A;
@@ -172567,7 +172818,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = "waGlottal-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -172663,14 +172914,14 @@ layerId = m006;
 userData = {
 _smart.hat.left.cap = 1;
 };
-width = 1254;
+width = 1212;
 }
 );
 rightMetricsKey = A;
 },
 {
 glyphname = "ka-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -172766,7 +173017,7 @@ layerId = m006;
 userData = {
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -172774,7 +173025,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "ku-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -172900,13 +173151,13 @@ userData = {
 _smart.hu.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "ki-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -173032,13 +173283,13 @@ userData = {
 _smart.hi.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "kaa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -173170,7 +173421,7 @@ _smart.haa.cap = 1;
 _smart.haa.caps.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -173178,7 +173429,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "kee-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -173304,14 +173555,14 @@ userData = {
 _smart.hee.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "ke-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -173437,7 +173688,7 @@ userData = {
 _smart.he.left.inner.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -173445,7 +173696,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "ko-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -173571,7 +173822,7 @@ userData = {
 _smart.ho.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -173579,7 +173830,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "kwaa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -173705,7 +173956,7 @@ userData = {
 _smart.hwa.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -173713,7 +173964,7 @@ rightMetricsKey = U;
 },
 {
 glyphname = "kxa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -173839,14 +174090,14 @@ userData = {
 _smart.hat.left.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "kxu-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -174002,13 +174253,13 @@ _smart.hat.left.cap = 1;
 _smart.hu.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "kxi-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -174164,13 +174415,13 @@ _smart.hat.left.cap = 1;
 _smart.hi.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 },
 {
 glyphname = "kxaa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -174332,14 +174583,14 @@ _smart.haa.caps.cap = 1;
 _smart.hat.left.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "kxee-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -174495,14 +174746,14 @@ _smart.hat.left.cap = 1;
 _smart.hee.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "kxe-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -174658,14 +174909,14 @@ _smart.hat.left.cap = 1;
 _smart.he.left.inner.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "kxo-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -174827,14 +175078,14 @@ _smart.hat.left.cap = 1;
 _smart.ho.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "kxwaa-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -174990,14 +175241,14 @@ _smart.hat.left.cap = 1;
 _smart.hwa.cap = 1;
 _smart.ka.caps.cap = 1;
 };
-width = 1348;
+width = 1328;
 }
 );
 rightMetricsKey = U;
 },
 {
 glyphname = "wa-ethiopic.liga";
-lastChange = "2020-12-17 20:12:14 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 anchors = (
@@ -175129,7 +175380,7 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 leftMetricsKey = O;
@@ -175137,7 +175388,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = "wu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -175233,13 +175484,13 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "wi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -175365,14 +175616,14 @@ userData = {
 _smart.haa.cap = 1;
 _smart.hi.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "waa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -175468,14 +175719,14 @@ layerId = m006;
 userData = {
 _smart.haa.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "wee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -175571,14 +175822,14 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "we-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -175674,13 +175925,13 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 },
 {
 glyphname = "wo-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -175776,14 +176027,14 @@ layerId = m006;
 userData = {
 _smart.haa.acute.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "woa-ethiopic.liga";
-lastChange = "2020-12-17 20:12:24 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -175879,14 +176130,14 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1898;
+width = 1892;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "aPharyngeal-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -175940,13 +176191,13 @@ name = oPh.base.cap;
 }
 );
 layerId = m006;
-width = 1412;
+width = 1406;
 }
 );
 },
 {
 glyphname = "uPharyngeal-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -176042,13 +176293,13 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 },
 {
 glyphname = "iPharyngeal-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -176174,14 +176425,14 @@ userData = {
 _smart.haa.cap = 1;
 _smart.hi.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "aaPharyngeal-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -176277,14 +176528,14 @@ layerId = m006;
 userData = {
 _smart.haa.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "eePharyngeal-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -176380,14 +176631,14 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "ePharyngeal-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -176483,14 +176734,14 @@ layerId = m006;
 userData = {
 _smart.neck.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "oPharyngeal-ethiopic.liga";
-lastChange = "2020-12-17 18:29:15 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -176586,14 +176837,14 @@ layerId = m006;
 userData = {
 _smart.haa.acute.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 rightMetricsKey = O;
 },
 {
 glyphname = "za-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 anchors = (
@@ -176683,7 +176934,7 @@ name = za.base.cap;
 }
 );
 layerId = m006;
-width = 1447;
+width = 1460;
 }
 );
 leftMetricsKey = H;
@@ -176691,7 +176942,7 @@ rightMetricsKey = H;
 },
 {
 glyphname = "zu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -176787,14 +177038,14 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 leftMetricsKey = H;
 },
 {
 glyphname = "zi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -176890,14 +177141,14 @@ layerId = m006;
 userData = {
 _smart.hi.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 leftMetricsKey = H;
 },
 {
 glyphname = "zaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -176993,7 +177244,7 @@ layerId = m006;
 userData = {
 _smart.haa.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 leftMetricsKey = H;
@@ -177001,7 +177252,7 @@ rightMetricsKey = H;
 },
 {
 glyphname = "zee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -177097,7 +177348,7 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 leftMetricsKey = H;
@@ -177105,7 +177356,7 @@ rightMetricsKey = H;
 },
 {
 glyphname = "ze-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -177201,14 +177452,14 @@ layerId = m006;
 userData = {
 _smart.he.acute.top = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 rightMetricsKey = H;
 },
 {
 glyphname = "zo-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -177304,7 +177555,7 @@ layerId = m006;
 userData = {
 _smart.ho.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 leftMetricsKey = H;
@@ -177312,7 +177563,7 @@ rightMetricsKey = H;
 },
 {
 glyphname = "zwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -177408,14 +177659,14 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 leftMetricsKey = H;
 },
 {
 glyphname = "zha-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -177511,13 +177762,13 @@ layerId = m006;
 userData = {
 _smart.zha.caps.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 },
 {
 glyphname = "zhu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -177643,13 +177894,13 @@ userData = {
 _smart.hu.cap = 1;
 _smart.zha.caps.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 },
 {
 glyphname = "zhi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -177775,13 +178026,13 @@ userData = {
 _smart.hi.cap = 1;
 _smart.zha.caps.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 },
 {
 glyphname = "zhaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -177907,13 +178158,13 @@ userData = {
 _smart.haa.cap = 1;
 _smart.zha.caps.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 },
 {
 glyphname = "zhee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -178039,13 +178290,13 @@ userData = {
 _smart.hee.cap = 1;
 _smart.zha.caps.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 },
 {
 glyphname = "zhe-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -178171,13 +178422,13 @@ userData = {
 _smart.he.acute.top = 1;
 _smart.zha.caps.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 },
 {
 glyphname = "zho-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -178303,13 +178554,13 @@ userData = {
 _smart.ho.cap = 1;
 _smart.zha.caps.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 },
 {
 glyphname = "zhwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -178435,13 +178686,13 @@ userData = {
 _smart.hwa.cap = 1;
 _smart.zha.caps.cap = 1;
 };
-width = 1447;
+width = 1460;
 }
 );
 },
 {
 glyphname = "ya-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -178495,7 +178746,7 @@ name = ya.base.cap;
 }
 );
 layerId = m006;
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -178503,7 +178754,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "yu-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:42:22 +0000";
 layers = (
 {
 components = (
@@ -178577,11 +178828,11 @@ name = ya.base.cap;
 },
 {
 name = acute;
-transform = "{0.70711, -0.70711, 0.70711, 0.70711, -582, -443}";
+transform = "{0.70711, -0.70711, 0.70711, 0.70711, -635, -405}";
 }
 );
 layerId = m006;
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -178589,7 +178840,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "yi-ethiopic.liga";
-lastChange = "2020-12-17 18:26:47 +0000";
+lastChange = "2020-12-19 06:42:44 +0000";
 layers = (
 {
 components = (
@@ -178683,15 +178934,15 @@ name = ya.base.cap;
 },
 {
 name = acute;
-transform = "{0.70711, -0.70711, 0.70711, 0.70711, -282, -493}";
+transform = "{0.70711, -0.70711, 0.70711, 0.70711, -563, -493}";
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, 400, -1040}";
+transform = "{1, 0, 0, 1, 206, -1040}";
 }
 );
 layerId = m006;
-width = 1542;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -178699,7 +178950,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "yaa-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -178777,14 +179028,14 @@ transform = "{1, 0, 0, 1, -180, -1530}";
 }
 );
 layerId = m006;
-width = 1321;
+width = 1292;
 }
 );
 rightMetricsKey = P;
 },
 {
 glyphname = "yee-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:42:58 +0000";
 layers = (
 {
 components = (
@@ -178864,11 +179115,11 @@ name = ya.base.cap;
 {
 alignment = -1;
 name = _smart.ho.ring;
-transform = "{1, 0, 0, 1, 1078, -700}";
+transform = "{1, 0, 0, 1, 900, -821}";
 }
 );
 layerId = m006;
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -178876,7 +179127,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "ye-ethiopic.liga";
-lastChange = "2020-12-17 18:32:38 +0000";
+lastChange = "2020-12-19 06:43:14 +0000";
 layers = (
 {
 components = (
@@ -179098,7 +179349,7 @@ nodes = (
 );
 }
 );
-width = 1383;
+width = 1354;
 }
 );
 leftMetricsKey = P;
@@ -179106,7 +179357,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "yo-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -179202,7 +179453,7 @@ layerId = m006;
 userData = {
 _smart.he.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -179210,7 +179461,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "yoa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -179336,13 +179587,13 @@ userData = {
 _smart.he.cap = 1;
 _smart.he.left.outer.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 },
 {
 glyphname = "da-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -179438,7 +179689,7 @@ layerId = m006;
 userData = {
 _smart.da.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -179446,7 +179697,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "du-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -179572,7 +179823,7 @@ userData = {
 _smart.da.caps.cap = 1;
 _smart.hu.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -179580,7 +179831,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "di-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -179706,7 +179957,7 @@ userData = {
 _smart.da.caps.cap = 1;
 _smart.hi.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -179714,7 +179965,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "daa-ethiopic.liga";
-lastChange = "2020-12-17 20:10:46 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -179840,7 +180091,7 @@ userData = {
 _smart.da.caps.cap = 1;
 _smart.haa.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -179848,7 +180099,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "dee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -179974,7 +180225,7 @@ userData = {
 _smart.da.caps.cap = 1;
 _smart.hee.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -179982,7 +180233,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "de-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -180108,7 +180359,7 @@ userData = {
 _smart.da.caps.cap = 1;
 _smart.he.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -180116,7 +180367,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "do-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -180242,7 +180493,7 @@ userData = {
 _smart.da.caps.cap = 1;
 _smart.ho.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -180250,7 +180501,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "dwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -180376,7 +180627,7 @@ userData = {
 _smart.da.caps.cap = 1;
 _smart.hwa.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -180384,7 +180635,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "dda-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -180510,7 +180761,7 @@ userData = {
 _smart.da.caps.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -180518,7 +180769,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "ddu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -180674,7 +180925,7 @@ _smart.da.caps.cap = 1;
 _smart.hu.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -180682,7 +180933,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "ddi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -180838,7 +181089,7 @@ _smart.da.caps.cap = 1;
 _smart.hi.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -180846,7 +181097,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "ddaa-ethiopic.liga";
-lastChange = "2020-12-17 20:10:46 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -181002,7 +181253,7 @@ _smart.da.caps.cap = 1;
 _smart.haa.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -181010,7 +181261,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "ddee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -181166,7 +181417,7 @@ _smart.da.caps.cap = 1;
 _smart.hee.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -181174,7 +181425,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "dde-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -181330,7 +181581,7 @@ _smart.da.caps.cap = 1;
 _smart.he.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -181338,7 +181589,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "ddo-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -181494,7 +181745,7 @@ _smart.da.caps.cap = 1;
 _smart.ho.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -181502,7 +181753,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "ddwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -181658,14 +181909,14 @@ _smart.da.caps.cap = 1;
 _smart.hwa.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
 },
 {
 glyphname = "ja-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -181821,7 +182072,7 @@ _smart.da.caps.cap = 1;
 _smart.hat.caps.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -181829,7 +182080,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "ju-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -182015,7 +182266,7 @@ _smart.hat.caps.cap = 1;
 _smart.hu.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -182023,7 +182274,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "ji-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -182209,14 +182460,14 @@ _smart.hat.caps.cap = 1;
 _smart.hi.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
 },
 {
 glyphname = "jaa-ethiopic.liga";
-lastChange = "2020-12-17 20:10:43 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -182402,7 +182653,7 @@ _smart.haa.cap = 1;
 _smart.hat.caps.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -182410,7 +182661,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "jee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -182596,7 +182847,7 @@ _smart.hat.caps.cap = 1;
 _smart.hee.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -182604,7 +182855,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "je-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -182790,14 +183041,14 @@ _smart.hat.caps.cap = 1;
 _smart.he.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
 },
 {
 glyphname = "jo-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -182983,7 +183234,7 @@ _smart.hat.caps.cap = 1;
 _smart.ho.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -182991,7 +183242,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "jwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -183177,7 +183428,7 @@ _smart.hat.caps.cap = 1;
 _smart.hwa.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -183185,7 +183436,7 @@ rightMetricsKey = P;
 },
 {
 glyphname = "ga-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -183257,13 +183508,13 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "gu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -183359,13 +183610,13 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "gi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -183461,13 +183712,13 @@ layerId = m006;
 userData = {
 _smart.hi.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "gaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -183563,13 +183814,13 @@ layerId = m006;
 userData = {
 _smart.haa.acute.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "gee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -183665,13 +183916,13 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "ge-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:48:41 +0000";
 layers = (
 {
 components = (
@@ -183681,7 +183932,7 @@ name = ga.base.cap;
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 270, 843}";
+transform = "{1, 0, 0, 1, 280, 753}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -183698,7 +183949,7 @@ name = ga.base.cap;
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 420, 977}";
+transform = "{1, 0, 0, 1, 470, 877}";
 }
 );
 layerId = m002;
@@ -183715,7 +183966,7 @@ name = ga.base.cap;
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 200, 1093}";
+transform = "{1, 0, 0, 1, 300, 1013}";
 }
 );
 layerId = m003;
@@ -183732,7 +183983,7 @@ name = ga.base.cap;
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 420, 977}";
+transform = "{1, 0, 0, 1, 610, 877}";
 }
 );
 layerId = m004;
@@ -183749,7 +184000,7 @@ name = ga.base.cap;
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 200, 1093}";
+transform = "{1, 0, 0, 1, 510, 1013}";
 }
 );
 layerId = m005;
@@ -183766,7 +184017,7 @@ name = ga.base.cap;
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 270, 843}";
+transform = "{1, 0, 0, 1, 430, 763}";
 }
 );
 layerId = m006;
@@ -183779,7 +184030,7 @@ width = 1048;
 },
 {
 glyphname = "go-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -183875,7 +184126,7 @@ layerId = m006;
 userData = {
 _smart.neck.caps = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
@@ -184023,7 +184274,7 @@ width = 1048;
 },
 {
 glyphname = "gga-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -184149,13 +184400,13 @@ userData = {
 _smart.hat.caps = 1;
 _smart.neck.caps = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "ggu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -184311,13 +184562,13 @@ _smart.hat.caps = 1;
 _smart.hu.cap = 1;
 _smart.neck.caps = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "ggi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -184473,13 +184724,13 @@ _smart.hat.caps = 1;
 _smart.hi.cap = 1;
 _smart.neck.caps = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "ggaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -184635,13 +184886,13 @@ _smart.haa.acute.cap = 1;
 _smart.hat.caps = 1;
 _smart.neck.caps = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "ggee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -184797,13 +185048,13 @@ _smart.hat.caps = 1;
 _smart.hee.cap = 1;
 _smart.neck.caps = 1;
 };
-width = 981;
+width = 995;
 }
 );
 },
 {
 glyphname = "gge-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:49:43 +0000";
 layers = (
 {
 components = (
@@ -184821,7 +185072,7 @@ transform = "{1, 0, 0, 1, 192, -4}";
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 231, 922}";
+transform = "{1, 0, 0, 1, 281, 752}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -184848,7 +185099,7 @@ transform = "{1, 0, 0, 1, 224, 26}";
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 392, 1002}";
+transform = "{1, 0, 0, 1, 462, 882}";
 }
 );
 layerId = m002;
@@ -184875,7 +185126,7 @@ transform = "{1, 0, 0, 1, 242, 11}";
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 220, 1083}";
+transform = "{1, 0, 0, 1, 280, 1013}";
 }
 );
 layerId = m003;
@@ -184902,7 +185153,7 @@ transform = "{1, 0, 0, 1, 268, 26}";
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 392, 1002}";
+transform = "{1, 0, 0, 1, 602, 872}";
 }
 );
 layerId = m004;
@@ -184929,7 +185180,7 @@ transform = "{1, 0, 0, 1, 224, 11}";
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 220, 1083}";
+transform = "{1, 0, 0, 1, 490, 1013}";
 }
 );
 layerId = m005;
@@ -184956,7 +185207,7 @@ transform = "{1, 0, 0, 1, 191, -4}";
 {
 alignment = -1;
 name = _smart.hee;
-transform = "{1, 0, 0, 1, 231, 922}";
+transform = "{1, 0, 0, 1, 431, 782}";
 }
 );
 layerId = m006;
@@ -185307,7 +185558,7 @@ width = 1048;
 },
 {
 glyphname = "tha-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -185361,13 +185612,13 @@ name = hha.base.cap;
 }
 );
 layerId = m006;
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "thu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -185463,13 +185714,13 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "thi-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -185565,13 +185816,13 @@ layerId = m006;
 userData = {
 _smart.hi.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "thaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -185667,14 +185918,14 @@ layerId = m006;
 userData = {
 _smart.haa.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "thee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -185770,14 +186021,14 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "the-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -185873,14 +186124,14 @@ layerId = m006;
 userData = {
 _smart.haa.acute.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "tho-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -185976,14 +186227,14 @@ layerId = m006;
 userData = {
 _smart.ho.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "thwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -186079,13 +186330,13 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "cha-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -186181,13 +186432,13 @@ layerId = m006;
 userData = {
 _smart.cha.caps.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "chu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -186313,13 +186564,13 @@ userData = {
 _smart.cha.caps.cap = 1;
 _smart.hu.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "chi-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -186445,13 +186696,13 @@ userData = {
 _smart.cha.caps.cap = 1;
 _smart.hi.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "chaa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -186577,14 +186828,14 @@ userData = {
 _smart.cha.caps.cap = 1;
 _smart.haa.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "chee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -186712,14 +186963,14 @@ userData = {
 _smart.cha.caps.cap = 1;
 _smart.hee.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "che-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -186845,14 +187096,14 @@ userData = {
 _smart.cha.caps.cap = 1;
 _smart.haa.acute.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "cho-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -186984,14 +187235,14 @@ _smart.cha.caps = 1;
 _smart.ho.cap = 1;
 _smart.ho.caps = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 rightMetricsKey = M;
 },
 {
 glyphname = "chwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -187117,13 +187368,13 @@ userData = {
 _smart.cha.caps.cap = 1;
 _smart.hwa.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 },
 {
 glyphname = "pha-ethiopic.liga";
-lastChange = "2020-12-17 18:27:39 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -187249,7 +187500,7 @@ userData = {
 _smart.hat.caps.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -187257,7 +187508,7 @@ rightMetricsKey = S;
 },
 {
 glyphname = "phu-ethiopic.liga";
-lastChange = "2020-12-17 18:27:39 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -187413,14 +187664,14 @@ _smart.hat.caps.cap = 1;
 _smart.hu.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
 },
 {
 glyphname = "phi-ethiopic.liga";
-lastChange = "2020-12-17 18:27:39 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -187576,14 +187827,14 @@ _smart.hat.caps.cap = 1;
 _smart.hi.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
 },
 {
 glyphname = "phaa-ethiopic.liga";
-lastChange = "2020-12-17 20:10:31 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -187745,7 +187996,7 @@ _smart.haa.caps.cap = 1;
 _smart.hat.caps.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -187753,7 +188004,7 @@ rightMetricsKey = S;
 },
 {
 glyphname = "phee-ethiopic.liga";
-lastChange = "2020-12-17 18:27:39 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -187909,7 +188160,7 @@ _smart.hat.caps.cap = 1;
 _smart.hee.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -187917,7 +188168,7 @@ rightMetricsKey = S;
 },
 {
 glyphname = "phe-ethiopic.liga";
-lastChange = "2020-12-17 18:27:39 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -188073,14 +188324,14 @@ _smart.hat.caps.cap = 1;
 _smart.he = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
 },
 {
 glyphname = "pho-ethiopic.liga";
-lastChange = "2020-12-17 20:23:20 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -188236,7 +188487,7 @@ _smart.hat.caps.cap = 1;
 _smart.ho.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -188244,7 +188495,7 @@ rightMetricsKey = S;
 },
 {
 glyphname = "phwa-ethiopic.liga";
-lastChange = "2020-12-17 20:12:01 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -188400,7 +188651,7 @@ _smart.hat.caps.cap = 1;
 _smart.hwa.cap = 1;
 _smart.neck.caps.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -188408,7 +188659,7 @@ rightMetricsKey = S;
 },
 {
 glyphname = "tsa-ethiopic.liga";
-lastChange = "2020-12-17 18:27:39 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -188462,7 +188713,7 @@ name = tsa.base.cap;
 }
 );
 layerId = m006;
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -188470,7 +188721,7 @@ rightMetricsKey = S;
 },
 {
 glyphname = "tsu-ethiopic.liga";
-lastChange = "2020-12-17 18:27:39 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -188566,14 +188817,14 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
 },
 {
 glyphname = "tsi-ethiopic.liga";
-lastChange = "2020-12-17 18:27:39 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -188669,14 +188920,14 @@ layerId = m006;
 userData = {
 _smart.hi.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
 },
 {
 glyphname = "tsaa-ethiopic.liga";
-lastChange = "2020-12-17 20:10:29 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -188778,7 +189029,7 @@ userData = {
 _smart.haa.cap = 1;
 _smart.haa.caps.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -188786,7 +189037,7 @@ rightMetricsKey = S;
 },
 {
 glyphname = "tsee-ethiopic.liga";
-lastChange = "2020-12-17 18:27:39 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -188882,7 +189133,7 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -188890,7 +189141,7 @@ rightMetricsKey = S;
 },
 {
 glyphname = "tse-ethiopic.liga";
-lastChange = "2020-12-17 18:27:39 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -188986,13 +189237,13 @@ layerId = m006;
 userData = {
 _smart.he = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 },
 {
 glyphname = "tso-ethiopic.liga";
-lastChange = "2020-12-17 20:24:21 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -189088,7 +189339,7 @@ layerId = m006;
 userData = {
 _smart.ho.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -189096,7 +189347,7 @@ rightMetricsKey = S;
 },
 {
 glyphname = "tswa-ethiopic.liga";
-lastChange = "2020-12-17 20:11:59 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -189192,7 +189443,7 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -189200,7 +189451,7 @@ rightMetricsKey = S;
 },
 {
 glyphname = "tza-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -189296,7 +189547,7 @@ layerId = m006;
 userData = {
 _smart.tsa.belt.caps.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 leftMetricsKey = O;
@@ -189304,7 +189555,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = "tzu-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -189430,14 +189681,14 @@ userData = {
 _smart.hu.cap = 1;
 _smart.tsa.belt.caps.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 leftMetricsKey = O;
 },
 {
 glyphname = "tzi-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -189593,7 +189844,7 @@ _smart.haa.cap = 1;
 _smart.hi.cap = 1;
 _smart.tsa.belt.caps.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 leftMetricsKey = O;
@@ -189601,7 +189852,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = "tzaa-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -189727,7 +189978,7 @@ userData = {
 _smart.haa.cap = 1;
 _smart.tsa.belt.caps.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 leftMetricsKey = O;
@@ -189735,7 +189986,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = "tzee-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -189861,7 +190112,7 @@ userData = {
 _smart.hee.cap = 1;
 _smart.tsa.belt.caps.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 leftMetricsKey = O;
@@ -189869,7 +190120,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = "tze-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -189995,7 +190246,7 @@ userData = {
 _smart.neck.cap = 1;
 _smart.tsa.belt.caps.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 leftMetricsKey = O;
@@ -190003,7 +190254,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = "tzo-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -190129,7 +190380,7 @@ userData = {
 _smart.haa.acute.cap = 1;
 _smart.tsa.belt.caps.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 leftMetricsKey = O;
@@ -190137,7 +190388,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = "tzoa-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -190263,7 +190514,7 @@ userData = {
 _smart.hwa.cap = 1;
 _smart.tsa.belt.caps.cap = 1;
 };
-width = 1412;
+width = 1406;
 }
 );
 leftMetricsKey = O;
@@ -190271,7 +190522,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = "fa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -190367,13 +190618,13 @@ layerId = m006;
 userData = {
 _smart.fa.cap = 1;
 };
-width = 1109;
+width = 1102;
 }
 );
 },
 {
 glyphname = "fu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -190499,7 +190750,7 @@ userData = {
 _smart.fa.cap = 1;
 _smart.haa.acute.cap = 1;
 };
-width = 1109;
+width = 1102;
 }
 );
 },
@@ -190673,7 +190924,7 @@ width = 1109;
 },
 {
 glyphname = "faa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -190799,13 +191050,13 @@ userData = {
 _smart.fa.cap = 1;
 _smart.haa.cap = 1;
 };
-width = 1109;
+width = 1102;
 }
 );
 },
 {
 glyphname = "fee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -190931,14 +191182,14 @@ userData = {
 _smart.fa = 1;
 _smart.hee.cap = 1;
 };
-width = 1109;
+width = 1102;
 }
 );
 leftMetricsKey = L;
 },
 {
 glyphname = "fe-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -191034,13 +191285,13 @@ layerId = m006;
 userData = {
 _smart.fa = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
 {
 glyphname = "fo-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -191166,13 +191417,13 @@ userData = {
 _smart.fa = 1;
 _smart.ho.ring.cap = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
 {
 glyphname = "fwa-ethiopic.liga";
-lastChange = "2020-12-17 18:27:38 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -191298,13 +191549,13 @@ userData = {
 _smart.fa = 1;
 _smart.hwa.cap = 1;
 };
-width = 1095;
+width = 1078;
 }
 );
 },
 {
 glyphname = "pa-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -191358,7 +191609,7 @@ name = pa.base.cap;
 }
 );
 layerId = m006;
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -191366,7 +191617,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "pu-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -191462,7 +191713,7 @@ layerId = m006;
 userData = {
 _smart.hu.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -191470,7 +191721,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "pi-ethiopic.liga";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -191566,7 +191817,7 @@ layerId = m006;
 userData = {
 _smart.hi.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -191574,7 +191825,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "paa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:41:15 +0000";
 layers = (
 {
 anchors = (
@@ -191748,7 +191999,7 @@ nodes = (
 userData = {
 _smart.haa.acute.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -191756,7 +192007,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "pee-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -191852,7 +192103,7 @@ layerId = m006;
 userData = {
 _smart.hee.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -191860,7 +192111,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "pe-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:41:01 +0000";
 layers = (
 {
 components = (
@@ -191998,7 +192249,7 @@ nodes = (
 userData = {
 _smart.haa = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -192006,7 +192257,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "po-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -192102,7 +192353,7 @@ layerId = m006;
 userData = {
 _smart.haa.acute.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -192110,7 +192361,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "pwa-ethiopic.liga";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:44 +0000";
 layers = (
 {
 components = (
@@ -192206,7 +192457,7 @@ layerId = m006;
 userData = {
 _smart.hwa.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -192214,7 +192465,7 @@ rightMetricsKey = T;
 },
 {
 glyphname = "one-ethiopic";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:38:40 +0000";
 layers = (
 {
 components = (
@@ -192298,7 +192549,7 @@ transform = "{1, 0, 0, 1, 100, 0}";
 }
 );
 layerId = m006;
-width = 1375;
+width = 1350;
 }
 );
 leftMetricsKey = six;
@@ -192307,7 +192558,7 @@ unicode = 1369;
 },
 {
 glyphname = "two-ethiopic";
-lastChange = "2020-12-17 18:27:42 +0000";
+lastChange = "2020-12-19 06:39:35 +0000";
 layers = (
 {
 components = (
@@ -192685,7 +192936,7 @@ nodes = (
 );
 }
 );
-width = 1362;
+width = 1337;
 }
 );
 leftMetricsKey = eight;
@@ -192833,7 +193084,7 @@ unicode = 136B;
 },
 {
 glyphname = "four-ethiopic";
-lastChange = "2020-12-17 18:27:47 +0000";
+lastChange = "2020-12-19 06:38:12 +0000";
 layers = (
 {
 components = (
@@ -193133,7 +193384,7 @@ nodes = (
 );
 }
 );
-width = 1318;
+width = 1293;
 }
 );
 leftMetricsKey = zero;
@@ -193142,7 +193393,7 @@ unicode = 136C;
 },
 {
 glyphname = "five-ethiopic";
-lastChange = "2020-12-17 18:27:52 +0000";
+lastChange = "2020-12-19 06:39:18 +0000";
 layers = (
 {
 components = (
@@ -193280,7 +193531,7 @@ nodes = (
 );
 }
 );
-width = 1238;
+width = 1213;
 }
 );
 leftMetricsKey = four;
@@ -193289,7 +193540,7 @@ unicode = 136D;
 },
 {
 glyphname = "six-ethiopic";
-lastChange = "2020-12-17 18:28:13 +0000";
+lastChange = "2020-12-19 06:39:49 +0000";
 layers = (
 {
 components = (
@@ -193398,7 +193649,7 @@ transform = "{1, 0, 0, 1, 62, 0}";
 }
 );
 layerId = m006;
-width = 1320;
+width = 1295;
 }
 );
 leftMetricsKey = seven;
@@ -193407,7 +193658,7 @@ unicode = 136E;
 },
 {
 glyphname = "seven-ethiopic";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:39:58 +0000";
 layers = (
 {
 components = (
@@ -193489,7 +193740,7 @@ transform = "{1, 0, 0, 1, 83, 0}";
 }
 );
 layerId = m006;
-width = 1295;
+width = 1270;
 }
 );
 leftMetricsKey = seven;
@@ -193498,7 +193749,7 @@ unicode = 136F;
 },
 {
 glyphname = "eight-ethiopic";
-lastChange = "2020-12-17 18:28:18 +0000";
+lastChange = "2020-12-19 06:40:07 +0000";
 layers = (
 {
 components = (
@@ -193690,7 +193941,7 @@ nodes = (
 );
 }
 );
-width = 1274;
+width = 1249;
 }
 );
 leftMetricsKey = seven;
@@ -193699,7 +193950,7 @@ unicode = 1370;
 },
 {
 glyphname = "nine-ethiopic";
-lastChange = "2020-12-17 18:28:24 +0000";
+lastChange = "2020-12-19 06:40:20 +0000";
 layers = (
 {
 components = (
@@ -194027,7 +194278,7 @@ nodes = (
 );
 }
 );
-width = 1318;
+width = 1293;
 }
 );
 leftMetricsKey = zero;
@@ -194422,7 +194673,7 @@ unicode = 1373;
 },
 {
 glyphname = "thirty-ethiopic";
-lastChange = "2020-12-17 18:28:30 +0000";
+lastChange = "2020-12-19 06:40:14 +0000";
 layers = (
 {
 components = (
@@ -194632,7 +194883,7 @@ nodes = (
 );
 }
 );
-width = 1292;
+width = 1267;
 }
 );
 leftMetricsKey = three;
@@ -195305,7 +195556,7 @@ unicode = 1378;
 },
 {
 glyphname = "eighty-ethiopic";
-lastChange = "2020-12-17 18:28:36 +0000";
+lastChange = "2020-12-19 06:40:26 +0000";
 layers = (
 {
 components = (
@@ -195409,7 +195660,7 @@ transform = "{1, 0, 0, 1, 460, 0}";
 }
 );
 layerId = m006;
-width = 1701;
+width = 1676;
 }
 );
 leftMetricsKey = one;
@@ -195418,7 +195669,7 @@ unicode = 1379;
 },
 {
 glyphname = "ninety-ethiopic";
-lastChange = "2020-12-17 18:28:42 +0000";
+lastChange = "2020-12-19 06:40:32 +0000";
 layers = (
 {
 components = (
@@ -195574,7 +195825,7 @@ nodes = (
 );
 }
 );
-width = 1292;
+width = 1267;
 }
 );
 leftMetricsKey = three;
@@ -195583,7 +195834,7 @@ unicode = 137A;
 },
 {
 glyphname = "hundred-ethiopic";
-lastChange = "2020-12-17 18:28:58 +0000";
+lastChange = "2020-12-19 06:40:39 +0000";
 layers = (
 {
 components = (
@@ -195883,7 +196134,7 @@ nodes = (
 );
 }
 );
-width = 1327;
+width = 1302;
 }
 );
 leftMetricsKey = six;
@@ -195892,7 +196143,7 @@ unicode = 137B;
 },
 {
 glyphname = "tenthousand-ethiopic";
-lastChange = "2020-12-17 18:29:09 +0000";
+lastChange = "2020-12-19 06:40:48 +0000";
 layers = (
 {
 components = (
@@ -195970,7 +196221,7 @@ transform = "{1, 0, 0, 1, 1010, 0}";
 }
 );
 layerId = m006;
-width = 2337;
+width = 2312;
 }
 );
 leftMetricsKey = six;
@@ -201993,17 +202244,17 @@ width = 1200;
 },
 {
 glyphname = "colon-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:51:27 +0000";
 layers = (
 {
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 90}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 21, 793}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -202024,11 +202275,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 140}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 21, 819}";
 }
 );
 layerId = m002;
@@ -202049,11 +202300,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 40}";
+transform = "{1, 0, 0, 1, 87, 172}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 913}";
+transform = "{1, 0, 0, 1, 76, 757}";
 }
 );
 layerId = m003;
@@ -202074,11 +202325,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 80, 120}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 211, 793}";
 }
 );
 layerId = m004;
@@ -202099,11 +202350,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 40}";
+transform = "{1, 0, 0, 1, 94, 218}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 913}";
+transform = "{1, 0, 0, 1, 234, 753}";
 }
 );
 layerId = m005;
@@ -202124,11 +202375,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 70, 98}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 211, 753}";
 }
 );
 layerId = m006;
@@ -202150,17 +202401,17 @@ unicode = 1365;
 },
 {
 glyphname = "comma-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:52:47 +0000";
 layers = (
 {
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 83}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 21, 553}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -202168,10 +202419,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"457 1272 LINE",
-"457 1439 LINE",
-"108 1439 LINE",
-"108 1272 LINE"
+"457 952 LINE",
+"457 1119 LINE",
+"108 1119 LINE",
+"108 952 LINE"
 );
 }
 );
@@ -202181,11 +202432,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 145}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 21, 582}";
 }
 );
 layerId = m002;
@@ -202193,10 +202444,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"437 1312 LINE",
-"437 1439 LINE",
-"98 1439 LINE",
-"98 1312 LINE"
+"437 902 LINE",
+"437 1029 LINE",
+"98 1029 LINE",
+"98 902 LINE"
 );
 }
 );
@@ -202210,7 +202461,7 @@ transform = "{1, 0, 0, 1, 20, 100}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 983}";
+transform = "{1, 0, 0, 1, 67, 571}";
 }
 );
 layerId = m003;
@@ -202218,10 +202469,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"447 1382 LINE",
-"447 1439 LINE",
-"128 1439 LINE",
-"128 1382 LINE"
+"417 882 LINE",
+"417 939 LINE",
+"98 939 LINE",
+"98 882 LINE"
 );
 }
 );
@@ -202231,11 +202482,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 159, 200}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 239, 627}";
 }
 );
 layerId = m004;
@@ -202243,10 +202494,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"478 1312 LINE",
-"500 1439 LINE",
-"161 1439 LINE",
-"139 1312 LINE"
+"538 932 LINE",
+"560 1059 LINE",
+"221 1059 LINE",
+"199 932 LINE"
 );
 }
 );
@@ -202256,11 +202507,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 100}";
+transform = "{1, 0, 0, 1, 128, 200}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 983}";
+transform = "{1, 0, 0, 1, 231, 683}";
 }
 );
 layerId = m005;
@@ -202268,10 +202519,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"500 1382 LINE",
-"510 1439 LINE",
-"191 1439 LINE",
-"181 1382 LINE"
+"490 972 LINE",
+"500 1029 LINE",
+"181 1029 LINE",
+"171 972 LINE"
 );
 }
 );
@@ -202281,11 +202532,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 78}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 159, 565}";
 }
 );
 layerId = m006;
@@ -202293,10 +202544,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"491 1272 LINE",
-"520 1439 LINE",
-"171 1439 LINE",
-"142 1272 LINE"
+"531 972 LINE",
+"560 1139 LINE",
+"211 1139 LINE",
+"182 972 LINE"
 );
 }
 );
@@ -203515,17 +203766,17 @@ unicode = 1362;
 },
 {
 glyphname = "prefacecolon-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:53:42 +0000";
 layers = (
 {
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, -72, 131}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, -81, 727}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -203546,11 +203797,11 @@ width = 730;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 182}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 241, 843}";
+transform = "{1, 0, 0, 1, 1, 769}";
 }
 );
 layerId = m002;
@@ -203571,11 +203822,11 @@ width = 730;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 292}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 251, 883}";
+transform = "{1, 0, 0, 1, 3, 827}";
 }
 );
 layerId = m003;
@@ -203596,11 +203847,11 @@ width = 730;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 67, 192}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 241, 843}";
+transform = "{1, 0, 0, 1, 176, 760}";
 }
 );
 layerId = m004;
@@ -203621,11 +203872,11 @@ width = 730;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 97, 296}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 251, 883}";
+transform = "{1, 0, 0, 1, 195, 779}";
 }
 );
 layerId = m005;
@@ -203646,11 +203897,11 @@ width = 730;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 126}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 122, 725}";
 }
 );
 layerId = m006;
@@ -203672,7 +203923,7 @@ unicode = 1366;
 },
 {
 glyphname = "question-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:54:51 +0000";
 layers = (
 {
 components = (
@@ -203682,7 +203933,7 @@ transform = "{1, 0, 0, 1, 20, 0}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, -22, 829}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -203711,11 +203962,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 37}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 21, 828}";
 }
 );
 layerId = m002;
@@ -203744,11 +203995,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 90, 20}";
+transform = "{1, 0, 0, 1, 50, 248}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 81, 903}";
+transform = "{1, 0, 0, 1, 44, 818}";
 }
 );
 layerId = m003;
@@ -203781,7 +204032,7 @@ transform = "{1, 0, 0, 1, 20, 0}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 203, 845}";
 }
 );
 layerId = m004;
@@ -203810,11 +204061,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 90, 20}";
+transform = "{1, 0, 0, 1, 120, 250}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 81, 903}";
+transform = "{1, 0, 0, 1, 260, 822}";
 }
 );
 layerId = m005;
@@ -203822,18 +204073,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"180 555 OFFCURVE",
-"209 579 OFFCURVE",
-"215 610 CURVE SMOOTH",
-"220 641 OFFCURVE",
-"200 666 OFFCURVE",
-"169 666 CURVE SMOOTH",
-"138 666 OFFCURVE",
-"109 641 OFFCURVE",
-"104 610 CURVE SMOOTH",
-"98 579 OFFCURVE",
-"118 555 OFFCURVE",
-"149 555 CURVE SMOOTH"
+"230 555 OFFCURVE",
+"259 579 OFFCURVE",
+"265 610 CURVE SMOOTH",
+"270 641 OFFCURVE",
+"250 666 OFFCURVE",
+"219 666 CURVE SMOOTH",
+"188 666 OFFCURVE",
+"159 641 OFFCURVE",
+"154 610 CURVE SMOOTH",
+"148 579 OFFCURVE",
+"168 555 OFFCURVE",
+"199 555 CURVE SMOOTH"
 );
 }
 );
@@ -203847,7 +204098,7 @@ transform = "{1, 0, 0, 1, 20, 0}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 225, 783}";
 }
 );
 layerId = m006;
@@ -203855,18 +204106,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"294 441 OFFCURVE",
-"360 497 OFFCURVE",
-"374 577 CURVE SMOOTH",
-"388 657 OFFCURVE",
-"342 714 OFFCURVE",
-"250 714 CURVE SMOOTH",
-"161 714 OFFCURVE",
-"92 657 OFFCURVE",
-"78 577 CURVE SMOOTH",
-"64 497 OFFCURVE",
-"111 441 OFFCURVE",
-"202 441 CURVE SMOOTH"
+"334 441 OFFCURVE",
+"400 497 OFFCURVE",
+"414 577 CURVE SMOOTH",
+"428 657 OFFCURVE",
+"382 714 OFFCURVE",
+"290 714 CURVE SMOOTH",
+"201 714 OFFCURVE",
+"132 657 OFFCURVE",
+"118 577 CURVE SMOOTH",
+"104 497 OFFCURVE",
+"151 441 OFFCURVE",
+"242 441 CURVE SMOOTH"
 );
 }
 );
@@ -203877,13 +204128,13 @@ unicode = 1367;
 },
 {
 glyphname = "sectionmark-ethiopic";
-lastChange = "2020-12-17 18:22:56 +0000";
+lastChange = "2020-12-19 06:56:02 +0000";
 layers = (
 {
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 325, 0}";
+transform = "{1, 0, 0, 1, 325, 156}";
 },
 {
 name = period;
@@ -203895,7 +204146,7 @@ transform = "{0, -1, 0.7823, 0, 870, 799}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 326, 883}";
+transform = "{1, 0, 0, 1, 326, 588}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -203905,19 +204156,19 @@ width = 1203;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 325, 0}";
+transform = "{1, 0, 0, 1, 325, 257}";
 },
 {
 name = period;
-transform = "{0, -1, 0.7823, 0, 179, 800}";
+transform = "{0, -1, 0.7823, 0, 247, 800}";
 },
 {
 name = period;
-transform = "{0, -1, 0.7823, 0, 870, 799}";
+transform = "{0, -1, 0.7823, 0, 818, 799}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 326, 883}";
+transform = "{1, 0, 0, 1, 326, 672}";
 }
 );
 layerId = m002;
@@ -203927,19 +204178,19 @@ width = 1203;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 325, 0}";
+transform = "{1, 0, 0, 1, 325, 360}";
 },
 {
 name = period;
-transform = "{0, -1, 0.7823, 0, 179, 800}";
+transform = "{0, -1, 0.7823, 0, 265, 800}";
 },
 {
 name = period;
-transform = "{0, -1, 0.7823, 0, 870, 799}";
+transform = "{0, -1, 0.7823, 0, 706, 799}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 326, 883}";
+transform = "{1, 0, 0, 1, 326, 719}";
 }
 );
 layerId = m003;
@@ -203949,19 +204200,19 @@ width = 1203;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 325, 0}";
+transform = "{1, 0, 0, 1, 478, 125}";
 },
 {
 name = period;
-transform = "{0, -1, 0.7823, 0, 179, 665}";
+transform = "{0, -1, 0.7823, 0, 274, 588}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 889, 377}";
+transform = "{1, 0, 0, 1, 768, 377}";
 },
 {
 name = period;
-transform = "{0, -1, 0.7823, 0, 632, 926}";
+transform = "{0, -1, 0.7823, 0, 559, 766}";
 }
 );
 layerId = m004;
@@ -203971,7 +204222,7 @@ width = 1203;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 325, 0}";
+transform = "{1, 0, 0, 1, 464, 232}";
 },
 {
 name = period;
@@ -203983,7 +204234,7 @@ transform = "{1, 0, 0, 1, 800, 390}";
 },
 {
 name = period;
-transform = "{0, -1, 0.7823, 0, 542, 799}";
+transform = "{0, -1, 0.7823, 0, 542, 613}";
 }
 );
 layerId = m005;
@@ -203993,19 +204244,19 @@ width = 1203;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 325, 0}";
+transform = "{1, 0, 0, 1, 445, 239}";
 },
 {
 name = period;
-transform = "{0, -1, 0.7823, 0, 179, 800}";
+transform = "{0, -1, 0.7823, 0, 179, 743}";
 },
 {
 name = period;
-transform = "{0, -1, 0.7823, 0, 870, 799}";
+transform = "{0, -1, 0.7823, 0, 786, 670}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 326, 883}";
+transform = "{1, 0, 0, 1, 485, 678}";
 }
 );
 layerId = m006;
@@ -204016,17 +204267,17 @@ unicode = 1360;
 },
 {
 glyphname = "semicolon-ethiopic";
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:57:43 +0000";
 layers = (
 {
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 21, 566}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 95}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -204034,19 +204285,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"488 1215 LINE",
-"488 1383 LINE",
-"128 1383 LINE",
-"128 1215 LINE"
+"488 975 LINE",
+"488 1143 LINE",
+"128 1143 LINE",
+"128 975 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"494 -272 LINE",
-"494 -84 LINE",
-"130 -84 LINE",
-"130 -272 LINE"
+"494 -172 LINE",
+"494 16 LINE",
+"130 16 LINE",
+"130 -172 LINE"
 );
 }
 );
@@ -204056,11 +204307,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 21, 644}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 217}";
 }
 );
 layerId = m002;
@@ -204068,19 +204319,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"428 1215 LINE",
-"428 1353 LINE",
-"98 1353 LINE",
-"98 1215 LINE"
+"428 945 LINE",
+"428 1083 LINE",
+"98 1083 LINE",
+"98 945 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"454 -312 LINE",
-"454 -174 LINE",
-"150 -174 LINE",
-"150 -312 LINE"
+"454 -42 LINE",
+"454 96 LINE",
+"150 96 LINE",
+"150 -42 LINE"
 );
 }
 );
@@ -204090,11 +204341,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 21, 638}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 20, 298}";
 }
 );
 layerId = m003;
@@ -204102,19 +204353,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"418 1215 LINE",
-"418 1273 LINE",
-"98 1273 LINE",
-"98 1215 LINE"
+"418 915 LINE",
+"418 973 LINE",
+"98 973 LINE",
+"98 915 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"414 -272 LINE",
-"414 -204 LINE",
-"90 -204 LINE",
-"90 -272 LINE"
+"414 48 LINE",
+"414 116 LINE",
+"90 116 LINE",
+"90 48 LINE"
 );
 }
 );
@@ -204124,11 +204375,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 201, 616}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 127, 178}";
 }
 );
 layerId = m004;
@@ -204136,19 +204387,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"451 1215 LINE",
-"476 1353 LINE",
-"146 1353 LINE",
-"121 1215 LINE"
+"541 995 LINE",
+"566 1133 LINE",
+"236 1133 LINE",
+"211 995 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"208 -312 LINE",
-"233 -174 LINE",
-"-71 -174 LINE",
-"-96 -312 LINE"
+"318 -62 LINE",
+"343 76 LINE",
+"39 76 LINE",
+"14 -62 LINE"
 );
 }
 );
@@ -204158,11 +204409,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 234, 692}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 142, 318}";
 }
 );
 layerId = m005;
@@ -204170,19 +204421,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"441 1215 LINE",
-"452 1273 LINE",
-"132 1273 LINE",
-"121 1215 LINE"
+"491 965 LINE",
+"502 1023 LINE",
+"182 1023 LINE",
+"171 965 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"175 -272 LINE",
-"187 -204 LINE",
-"-137 -204 LINE",
-"-149 -272 LINE"
+"335 118 LINE",
+"347 186 LINE",
+"23 186 LINE",
+"11 118 LINE"
 );
 }
 );
@@ -204192,11 +204443,11 @@ width = 556;
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 21, 883}";
+transform = "{1, 0, 0, 1, 164, 559}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 80, 128}";
 }
 );
 layerId = m006;
@@ -204204,19 +204455,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"511 1215 LINE",
-"541 1383 LINE",
-"181 1383 LINE",
-"151 1215 LINE"
+"511 935 LINE",
+"541 1103 LINE",
+"181 1103 LINE",
+"151 935 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"255 -272 LINE",
-"288 -84 LINE",
-"-76 -84 LINE",
-"-109 -272 LINE"
+"335 -142 LINE",
+"368 46 LINE",
+"4 46 LINE",
+"-29 -142 LINE"
 );
 }
 );
@@ -208972,7 +209223,7 @@ width = 0;
 },
 {
 glyphname = abesha.base;
-lastChange = "2020-12-18 07:54:55 +0000";
+lastChange = "2020-12-19 05:52:02 +0000";
 layers = (
 {
 anchors = (
@@ -208986,11 +209237,11 @@ position = "{977, -30}";
 },
 {
 name = hat.left;
-position = "{101, 1680}";
+position = "{111, 1680}";
 },
 {
 name = he.left.inner;
-position = "{122, 1758}";
+position = "{172, 1768}";
 },
 {
 name = hee;
@@ -209078,7 +209329,7 @@ position = "{138, 1570}";
 },
 {
 name = he.left.inner;
-position = "{125, 1689}";
+position = "{168, 1711}";
 },
 {
 name = hee;
@@ -209166,7 +209417,7 @@ position = "{187, 1590}";
 },
 {
 name = he.left.inner;
-position = "{282, 1721}";
+position = "{302, 1741}";
 },
 {
 name = hee;
@@ -209254,7 +209505,7 @@ position = "{188, 1660}";
 },
 {
 name = he.left.inner;
-position = "{297, 1766}";
+position = "{367, 1766}";
 },
 {
 name = hee;
@@ -209342,7 +209593,7 @@ position = "{187, 1580}";
 },
 {
 name = he.left.inner;
-position = "{281, 1723}";
+position = "{361, 1743}";
 },
 {
 name = hee;
@@ -209430,7 +209681,7 @@ position = "{206, 1680}";
 },
 {
 name = he.left.inner;
-position = "{211, 1798}";
+position = "{301, 1798}";
 },
 {
 name = hee;
@@ -210066,7 +210317,7 @@ rsb = 139;
 },
 {
 glyphname = ga.base;
-lastChange = "2020-12-18 03:48:04 +0000";
+lastChange = "2020-12-19 07:05:59 +0000";
 layers = (
 {
 anchors = (
@@ -210100,11 +210351,7 @@ position = "{772, 120}";
 },
 {
 name = ho.ring;
-position = "{433, 600}";
-},
-{
-name = ho.ring.uniq;
-position = "{58, 1252}";
+position = "{368, 609}";
 },
 {
 name = hu;
@@ -210193,7 +210440,7 @@ position = "{680, 110}";
 },
 {
 name = ho.ring;
-position = "{389, 693}";
+position = "{273, 696}";
 },
 {
 name = ho.ring.uniq;
@@ -210286,11 +210533,7 @@ position = "{609, 50}";
 },
 {
 name = ho.ring;
-position = "{390, 856}";
-},
-{
-name = ho.ring.uniq;
-position = "{-20, 1093}";
+position = "{320, 853}";
 },
 {
 name = hu;
@@ -210379,11 +210622,7 @@ position = "{619, 110}";
 },
 {
 name = ho.ring;
-position = "{456, 708}";
-},
-{
-name = ho.ring.uniq;
-position = "{173, 1422}";
+position = "{373, 704}";
 },
 {
 name = hu;
@@ -210472,11 +210711,7 @@ position = "{538, 50}";
 },
 {
 name = ho.ring;
-position = "{423, 855}";
-},
-{
-name = ho.ring.uniq;
-position = "{51, 1152}";
+position = "{368, 860}";
 },
 {
 name = hu;
@@ -210565,11 +210800,7 @@ position = "{721, 120}";
 },
 {
 name = ho.ring;
-position = "{476, 600}";
-},
-{
-name = ho.ring.uniq;
-position = "{207, 1252}";
+position = "{407, 610}";
 },
 {
 name = hu;
@@ -213666,7 +213897,7 @@ width = 1279;
 },
 {
 glyphname = pa.base;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:43:28 +0000";
 layers = (
 {
 anchors = (
@@ -214056,7 +214287,7 @@ nodes = (
 );
 }
 );
-width = 811;
+width = 788;
 }
 );
 rightMetricsKey = t;
@@ -215555,7 +215786,7 @@ rsb = 45;
 },
 {
 glyphname = wa.base;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 05:30:47 +0000";
 layers = (
 {
 anchors = (
@@ -215785,7 +216016,7 @@ nodes = (
 );
 }
 );
-width = 1655;
+width = 1690;
 },
 {
 anchors = (
@@ -216255,7 +216486,7 @@ rsb = 92;
 },
 {
 glyphname = ya.base;
-lastChange = "2020-12-19 03:53:15 +0000";
+lastChange = "2020-12-19 06:30:29 +0000";
 layers = (
 {
 anchors = (
@@ -216324,6 +216555,10 @@ name = ye;
 position = "{397, 13}";
 },
 {
+name = ye.extend;
+position = "{358.678, 5}";
+},
+{
 name = yee;
 position = "{494, 241}";
 },
@@ -216333,7 +216568,7 @@ position = "{204, 381}";
 },
 {
 name = yu;
-position = "{294, 285}";
+position = "{304, 225}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -216444,6 +216679,10 @@ name = ye;
 position = "{417, 64}";
 },
 {
+name = ye.extend;
+position = "{373, 5}";
+},
+{
 name = yee;
 position = "{429, 249}";
 },
@@ -216453,7 +216692,7 @@ position = "{218, 381}";
 },
 {
 name = yu;
-position = "{218, 335}";
+position = "{218, 285}";
 }
 );
 layerId = m002;
@@ -216564,6 +216803,10 @@ name = ye;
 position = "{479, 24}";
 },
 {
+name = ye.extend;
+position = "{378.41, 5}";
+},
+{
 name = yee;
 position = "{380, 280}";
 },
@@ -216573,7 +216816,7 @@ position = "{210, 381}";
 },
 {
 name = yu;
-position = "{380, 335}";
+position = "{380, 235}";
 }
 );
 layerId = m003;
@@ -216684,6 +216927,10 @@ name = ye;
 position = "{42, 74}";
 },
 {
+name = ye.extend;
+position = "{205, 1}";
+},
+{
 name = yee;
 position = "{303, 280}";
 },
@@ -216693,7 +216940,7 @@ position = "{220, 381}";
 },
 {
 name = yu;
-position = "{250, 305}";
+position = "{250, 225}";
 }
 );
 layerId = m004;
@@ -216804,6 +217051,10 @@ name = ye;
 position = "{90, 57}";
 },
 {
+name = ye.extend;
+position = "{377.456, 5}";
+},
+{
 name = yee;
 position = "{252, 321}";
 },
@@ -216813,7 +217064,7 @@ position = "{210, 381}";
 },
 {
 name = yu;
-position = "{210, 335}";
+position = "{210, 255}";
 }
 );
 layerId = m005;
@@ -216924,6 +217175,10 @@ name = ye;
 position = "{225, 13}";
 },
 {
+name = ye.extend;
+position = "{363.77, 5}";
+},
+{
 name = yee;
 position = "{362, 241}";
 },
@@ -216933,7 +217188,7 @@ position = "{97, 381}";
 },
 {
 name = yu;
-position = "{169, 285}";
+position = "{199, 245}";
 }
 );
 layerId = m006;
@@ -219943,7 +220198,7 @@ width = 0;
 },
 {
 glyphname = aGl.base.cap;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:43:37 +0000";
 layers = (
 {
 anchors = (
@@ -220285,7 +220540,7 @@ nodes = (
 );
 }
 );
-width = 1254;
+width = 1212;
 }
 );
 leftMetricsKey = A;
@@ -220293,7 +220548,7 @@ rightMetricsKey = A;
 },
 {
 glyphname = ba.base.cap;
-lastChange = "2020-12-17 18:27:03 +0000";
+lastChange = "2020-12-19 06:43:45 +0000";
 layers = (
 {
 anchors = (
@@ -220815,7 +221070,7 @@ nodes = (
 );
 }
 );
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -220827,7 +221082,7 @@ rsb = 139;
 },
 {
 glyphname = ga.base.cap;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:43:51 +0000";
 layers = (
 {
 anchors = (
@@ -221223,7 +221478,7 @@ nodes = (
 );
 }
 );
-width = 981;
+width = 995;
 }
 );
 leftMetricsKey = X;
@@ -221235,7 +221490,7 @@ rsb = 71;
 },
 {
 glyphname = ha.base.cap;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:43:57 +0000";
 layers = (
 {
 anchors = (
@@ -221589,7 +221844,7 @@ nodes = (
 );
 }
 );
-width = 1348;
+width = 1328;
 }
 );
 leftMetricsKey = U;
@@ -221601,7 +221856,7 @@ rsb = 141;
 },
 {
 glyphname = hha.base.cap;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:44:03 +0000";
 layers = (
 {
 anchors = (
@@ -222015,7 +222270,7 @@ nodes = (
 userData = {
 _smart.neck.hha.caps.cap = 1;
 };
-width = 1794;
+width = 1788;
 }
 );
 leftMetricsKey = M;
@@ -222023,7 +222278,7 @@ rightMetricsKey = M;
 },
 {
 glyphname = la.base.cap;
-lastChange = "2020-12-17 19:35:56 +0000";
+lastChange = "2020-12-19 06:44:11 +0000";
 layers = (
 {
 anchors = (
@@ -222317,7 +222572,7 @@ nodes = (
 );
 }
 );
-width = 1338;
+width = 1296;
 }
 );
 leftMetricsKey = A;
@@ -222329,7 +222584,7 @@ rsb = 137;
 },
 {
 glyphname = ma.base.cap;
-lastChange = "2020-12-17 18:27:09 +0000";
+lastChange = "2020-12-19 06:44:17 +0000";
 layers = (
 {
 anchors = (
@@ -222755,7 +223010,7 @@ nodes = (
 );
 }
 );
-width = 1793;
+width = 1787;
 }
 );
 leftMetricsKey = M;
@@ -222767,7 +223022,7 @@ rsb = 92;
 },
 {
 glyphname = na.base.cap;
-lastChange = "2020-12-17 20:15:54 +0000";
+lastChange = "2020-12-19 06:44:26 +0000";
 layers = (
 {
 anchors = (
@@ -223145,7 +223400,7 @@ nodes = (
 );
 }
 );
-width = 1095;
+width = 1078;
 }
 );
 leftMetricsKey = C;
@@ -223157,7 +223412,7 @@ rsb = 68;
 },
 {
 glyphname = oPh.base.cap;
-lastChange = "2020-12-17 18:27:24 +0000";
+lastChange = "2020-12-19 06:44:31 +0000";
 layers = (
 {
 anchors = (
@@ -223661,7 +223916,7 @@ nodes = (
 );
 }
 );
-width = 1412;
+width = 1406;
 }
 );
 leftMetricsKey = O;
@@ -223669,7 +223924,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = pa.base.cap;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:44:40 +0000";
 layers = (
 {
 anchors = (
@@ -224053,7 +224308,7 @@ nodes = (
 userData = {
 _smart.he.acute.top.cap = 1;
 };
-width = 1267;
+width = 1222;
 }
 );
 leftMetricsKey = T;
@@ -224065,7 +224320,7 @@ rsb = 71;
 },
 {
 glyphname = ra.base.cap;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:44:47 +0000";
 layers = (
 {
 anchors = (
@@ -224299,7 +224554,7 @@ nodes = (
 );
 }
 );
-width = 1109;
+width = 1102;
 }
 );
 leftMetricsKey = L;
@@ -224311,7 +224566,7 @@ rsb = 141;
 },
 {
 glyphname = sa.base.cap;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:44:52 +0000";
 layers = (
 {
 anchors = (
@@ -224659,7 +224914,7 @@ nodes = (
 );
 }
 );
-width = 1791;
+width = 1817;
 }
 );
 leftMetricsKey = W;
@@ -224671,7 +224926,7 @@ rsb = 48;
 },
 {
 glyphname = tsa.base.cap;
-lastChange = "2020-12-17 20:23:20 +0000";
+lastChange = "2020-12-19 06:44:57 +0000";
 layers = (
 {
 anchors = (
@@ -225253,7 +225508,7 @@ nodes = (
 );
 }
 );
-width = 1187;
+width = 1143;
 }
 );
 leftMetricsKey = S;
@@ -225393,7 +225648,7 @@ width = 1481;
 },
 {
 glyphname = wa.base.cap;
-lastChange = "2020-12-17 20:12:14 +0000";
+lastChange = "2020-12-19 06:45:02 +0000";
 layers = (
 {
 anchors = (
@@ -226107,7 +226362,7 @@ nodes = (
 );
 }
 );
-width = 1898;
+width = 1892;
 }
 );
 leftMetricsKey = O;
@@ -226115,7 +226370,7 @@ rightMetricsKey = O;
 },
 {
 glyphname = ya.base.cap;
-lastChange = "2020-12-17 20:10:43 +0000";
+lastChange = "2020-12-19 06:45:09 +0000";
 layers = (
 {
 anchors = (
@@ -226625,7 +226880,7 @@ nodes = (
 userData = {
 _smart.ho.caps.cap = 1;
 };
-width = 1321;
+width = 1292;
 }
 );
 leftMetricsKey = P;
@@ -226637,7 +226892,7 @@ rsb = 74;
 },
 {
 glyphname = za.base.cap;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:45:14 +0000";
 layers = (
 {
 anchors = (
@@ -226979,7 +227234,7 @@ nodes = (
 );
 }
 );
-width = 1447;
+width = 1460;
 }
 );
 leftMetricsKey = H;
@@ -229301,13 +229556,13 @@ width = 951;
 {
 export = 0;
 glyphname = _smart.yee;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:11:40 +0000";
 layers = (
 {
 anchors = (
 {
 name = _yee;
-position = "{-30, 336}";
+position = "{0, 441}";
 }
 );
 layerId = m002;
@@ -229315,35 +229570,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"307 134 OFFCURVE",
-"401 222 OFFCURVE",
-"401 338 CURVE SMOOTH",
-"401 453 OFFCURVE",
-"309 546 OFFCURVE",
-"186 546 CURVE SMOOTH",
-"63 546 OFFCURVE",
-"-29 453 OFFCURVE",
-"-29 338 CURVE SMOOTH",
-"-29 223 OFFCURVE",
-"63 134 OFFCURVE",
-"186 134 CURVE SMOOTH"
+"437 21 OFFCURVE",
+"542 124 OFFCURVE",
+"542 260 CURVE SMOOTH",
+"542 399 OFFCURVE",
+"434 505 OFFCURVE",
+"294 505 CURVE SMOOTH",
+"149 505 OFFCURVE",
+"39 397 OFFCURVE",
+"39 260 CURVE SMOOTH",
+"39 126 OFFCURVE",
+"145 21 OFFCURVE",
+"294 21 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"121 223 OFFCURVE",
-"70 275 OFFCURVE",
-"70 338 CURVE SMOOTH",
-"70 402 OFFCURVE",
-"119 456 OFFCURVE",
-"186 456 CURVE SMOOTH",
-"263 456 OFFCURVE",
-"301 398 OFFCURVE",
-"301 340 CURVE SMOOTH",
-"301 282 OFFCURVE",
-"263 223 OFFCURVE",
-"186 223 CURVE SMOOTH"
+"248 51 OFFCURVE",
+"160 102 OFFCURVE",
+"160 213 CURVE SMOOTH",
+"160 305 OFFCURVE",
+"236 387 OFFCURVE",
+"337 387 CURVE SMOOTH",
+"432 387 OFFCURVE",
+"505 310 OFFCURVE",
+"505 213 CURVE SMOOTH",
+"505 103 OFFCURVE",
+"420 42 OFFCURVE",
+"333 47 CURVE SMOOTH"
 );
 }
 );
@@ -229353,7 +229608,7 @@ width = 0;
 anchors = (
 {
 name = _yee;
-position = "{-26, 322}";
+position = "{-356, 322}";
 }
 );
 layerId = m003;
@@ -229361,35 +229616,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"241 152 OFFCURVE",
-"316 226 OFFCURVE",
-"316 322 CURVE SMOOTH",
-"316 418 OFFCURVE",
-"241 496 OFFCURVE",
-"145 496 CURVE SMOOTH",
-"52 496 OFFCURVE",
-"-26 422 OFFCURVE",
-"-26 322 CURVE SMOOTH",
-"-26 222 OFFCURVE",
-"53 152 OFFCURVE",
-"145 152 CURVE SMOOTH"
+"70 -79 OFFCURVE",
+"167 18 OFFCURVE",
+"167 142 CURVE SMOOTH",
+"167 267 OFFCURVE",
+"70 369 OFFCURVE",
+"-55 369 CURVE SMOOTH",
+"-176 369 OFFCURVE",
+"-277 272 OFFCURVE",
+"-277 142 CURVE SMOOTH",
+"-277 12 OFFCURVE",
+"-175 -79 OFFCURVE",
+"-55 -79 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"77 206 OFFCURVE",
-"28 253 OFFCURVE",
-"28 322 CURVE SMOOTH",
-"28 394 OFFCURVE",
-"77 442 OFFCURVE",
-"145 442 CURVE SMOOTH",
-"213 442 OFFCURVE",
-"262 394 OFFCURVE",
-"262 322 CURVE SMOOTH",
-"262 253 OFFCURVE",
-"213 206 OFFCURVE",
-"145 206 CURVE SMOOTH"
+"-158 -41 OFFCURVE",
+"-231 30 OFFCURVE",
+"-231 133 CURVE SMOOTH",
+"-231 241 OFFCURVE",
+"-158 313 OFFCURVE",
+"-56 313 CURVE SMOOTH",
+"46 313 OFFCURVE",
+"119 241 OFFCURVE",
+"119 133 CURVE SMOOTH",
+"119 30 OFFCURVE",
+"46 -41 OFFCURVE",
+"-56 -41 CURVE SMOOTH"
 );
 }
 );
@@ -229399,7 +229654,7 @@ width = 0;
 anchors = (
 {
 name = _yee;
-position = "{-52, 338}";
+position = "{-672, 338}";
 }
 );
 layerId = m004;
@@ -229407,35 +229662,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"249 134 OFFCURVE",
-"358 222 OFFCURVE",
-"378 338 CURVE SMOOTH",
-"399 453 OFFCURVE",
-"323 546 OFFCURVE",
-"200 546 CURVE SMOOTH",
-"77 546 OFFCURVE",
-"-31 453 OFFCURVE",
-"-52 338 CURVE SMOOTH",
-"-72 223 OFFCURVE",
-"5 134 OFFCURVE",
-"128 134 CURVE SMOOTH"
+"-230 -156 OFFCURVE",
+"-88 -37 OFFCURVE",
+"-61 120 CURVE SMOOTH",
+"-32 280 OFFCURVE",
+"-135 402 OFFCURVE",
+"-297 402 CURVE SMOOTH",
+"-464 402 OFFCURVE",
+"-612 277 OFFCURVE",
+"-640 120 CURVE SMOOTH",
+"-667 -35 OFFCURVE",
+"-566 -156 OFFCURVE",
+"-395 -156 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"78 223 OFFCURVE",
-"36 275 OFFCURVE",
-"47 338 CURVE SMOOTH",
-"59 402 OFFCURVE",
-"118 456 OFFCURVE",
-"184 456 CURVE SMOOTH",
-"261 456 OFFCURVE",
-"289 398 OFFCURVE",
-"279 340 CURVE SMOOTH",
-"269 282 OFFCURVE",
-"220 223 OFFCURVE",
-"143 223 CURVE SMOOTH"
+"-443 -126 OFFCURVE",
+"-533 -62 OFFCURVE",
+"-510 65 CURVE SMOOTH",
+"-492 171 OFFCURVE",
+"-387 266 OFFCURVE",
+"-271 266 CURVE SMOOTH",
+"-161 266 OFFCURVE",
+"-98 178 OFFCURVE",
+"-112 65 CURVE SMOOTH",
+"-125 -41 OFFCURVE",
+"-244 -125 OFFCURVE",
+"-345 -126 CURVE SMOOTH"
 );
 }
 );
@@ -229445,7 +229700,7 @@ width = 0;
 anchors = (
 {
 name = _yee;
-position = "{-39, 336}";
+position = "{-439, 336}";
 }
 );
 layerId = m005;
@@ -229453,35 +229708,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"185 182 OFFCURVE",
-"273 256 OFFCURVE",
-"290 352 CURVE SMOOTH",
-"307 448 OFFCURVE",
-"246 526 OFFCURVE",
-"150 526 CURVE SMOOTH",
-"56 526 OFFCURVE",
-"-34 452 OFFCURVE",
-"-52 352 CURVE SMOOTH",
-"-70 252 OFFCURVE",
-"-3 182 OFFCURVE",
-"89 182 CURVE SMOOTH"
+"-135 -79 OFFCURVE",
+"-21 18 OFFCURVE",
+"1 142 CURVE SMOOTH",
+"23 267 OFFCURVE",
+"-56 369 OFFCURVE",
+"-181 369 CURVE SMOOTH",
+"-302 369 OFFCURVE",
+"-420 272 OFFCURVE",
+"-443 142 CURVE SMOOTH",
+"-466 12 OFFCURVE",
+"-380 -79 OFFCURVE",
+"-260 -79 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"30 236 OFFCURVE",
-"-10 283 OFFCURVE",
-"2 352 CURVE SMOOTH",
-"15 424 OFFCURVE",
-"72 472 OFFCURVE",
-"140 472 CURVE SMOOTH",
-"208 472 OFFCURVE",
-"249 424 OFFCURVE",
-"236 352 CURVE SMOOTH",
-"224 283 OFFCURVE",
-"166 236 OFFCURVE",
-"98 236 CURVE SMOOTH"
+"-356 -41 OFFCURVE",
+"-416 30 OFFCURVE",
+"-398 133 CURVE SMOOTH",
+"-379 241 OFFCURVE",
+"-294 313 OFFCURVE",
+"-192 313 CURVE SMOOTH",
+"-90 313 OFFCURVE",
+"-29 241 OFFCURVE",
+"-48 133 CURVE SMOOTH",
+"-66 30 OFFCURVE",
+"-152 -41 OFFCURVE",
+"-254 -41 CURVE SMOOTH"
 );
 }
 );
@@ -229491,7 +229746,7 @@ width = 0;
 anchors = (
 {
 name = _yee;
-position = "{-40, 326}";
+position = "{-425, 265}";
 }
 );
 layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
@@ -229499,35 +229754,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"309 114 OFFCURVE",
-"405 202 OFFCURVE",
-"405 315 CURVE SMOOTH",
-"405 432 OFFCURVE",
-"305 520 OFFCURVE",
-"182 520 CURVE SMOOTH",
-"58 520 OFFCURVE",
-"-41 430 OFFCURVE",
-"-41 315 CURVE SMOOTH",
-"-41 204 OFFCURVE",
-"53 114 OFFCURVE",
-"182 114 CURVE SMOOTH"
+"95 -128 OFFCURVE",
+"225 -9 OFFCURVE",
+"225 144 CURVE SMOOTH",
+"225 303 OFFCURVE",
+"90 422 OFFCURVE",
+"-77 422 CURVE SMOOTH",
+"-245 422 OFFCURVE",
+"-379 300 OFFCURVE",
+"-379 144 CURVE SMOOTH",
+"-379 -6 OFFCURVE",
+"-252 -128 OFFCURVE",
+"-77 -128 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"115 208 OFFCURVE",
-"74 256 OFFCURVE",
-"74 315 CURVE SMOOTH",
-"74 376 OFFCURVE",
-"117 424 OFFCURVE",
-"182 424 CURVE SMOOTH",
-"247 424 OFFCURVE",
-"290 376 OFFCURVE",
-"290 315 CURVE SMOOTH",
-"290 256 OFFCURVE",
-"249 208 OFFCURVE",
-"182 208 CURVE SMOOTH"
+"-146 -86 OFFCURVE",
+"-219 -1 OFFCURVE",
+"-219 105 CURVE SMOOTH",
+"-219 213 OFFCURVE",
+"-143 298 OFFCURVE",
+"-27 298 CURVE SMOOTH",
+"89 298 OFFCURVE",
+"165 213 OFFCURVE",
+"165 105 CURVE SMOOTH",
+"165 -1 OFFCURVE",
+"92 -86 OFFCURVE",
+"-27 -86 CURVE SMOOTH"
 );
 }
 );
@@ -229537,7 +229792,7 @@ width = 0;
 anchors = (
 {
 name = _yee;
-position = "{-173, 326}";
+position = "{-569, 304}";
 }
 );
 layerId = m006;
@@ -229545,35 +229800,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"138 114 OFFCURVE",
-"250 202 OFFCURVE",
-"270 315 CURVE SMOOTH",
-"290 432 OFFCURVE",
-"206 520 OFFCURVE",
-"83 520 CURVE SMOOTH",
-"-41 520 OFFCURVE",
-"-156 430 OFFCURVE",
-"-176 315 CURVE SMOOTH",
-"-196 204 OFFCURVE",
-"-118 114 OFFCURVE",
-"11 114 CURVE SMOOTH"
+"-118 -128 OFFCURVE",
+"33 -9 OFFCURVE",
+"60 144 CURVE SMOOTH",
+"88 303 OFFCURVE",
+"-26 422 OFFCURVE",
+"-193 422 CURVE SMOOTH",
+"-361 422 OFFCURVE",
+"-517 300 OFFCURVE",
+"-544 144 CURVE SMOOTH",
+"-571 -6 OFFCURVE",
+"-465 -128 OFFCURVE",
+"-290 -128 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"-39 208 OFFCURVE",
-"-72 256 OFFCURVE",
-"-61 315 CURVE SMOOTH",
-"-50 376 OFFCURVE",
-"1 424 OFFCURVE",
-"66 424 CURVE SMOOTH",
-"131 424 OFFCURVE",
-"166 376 OFFCURVE",
-"155 315 CURVE SMOOTH",
-"144 256 OFFCURVE",
-"95 208 OFFCURVE",
-"28 208 CURVE SMOOTH"
+"-352 -86 OFFCURVE",
+"-410 -1 OFFCURVE",
+"-391 105 CURVE SMOOTH",
+"-372 213 OFFCURVE",
+"-281 298 OFFCURVE",
+"-165 298 CURVE SMOOTH",
+"-49 298 OFFCURVE",
+"12 213 OFFCURVE",
+"-7 105 CURVE SMOOTH",
+"-26 -1 OFFCURVE",
+"-114 -86 OFFCURVE",
+"-233 -86 CURVE SMOOTH"
 );
 }
 );
@@ -229584,7 +229839,7 @@ width = 0;
 {
 export = 0;
 glyphname = _smart.yu;
-lastChange = "2020-12-17 18:25:48 +0000";
+lastChange = "2020-12-19 06:33:30 +0000";
 layers = (
 {
 anchors = (
@@ -229598,10 +229853,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"610 596 LINE",
-"610 832 LINE",
-"147 832 LINE",
-"147 596 LINE"
+"610 656 LINE",
+"610 892 LINE",
+"147 892 LINE",
+"147 656 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"910 546 LINE",
+"910 782 LINE",
+"447 782 LINE",
+"447 546 LINE"
 );
 }
 );
@@ -229619,10 +229883,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"603 651 LINE",
-"603 802 LINE",
-"168 802 LINE",
-"168 651 LINE"
+"603 671 LINE",
+"603 822 LINE",
+"168 822 LINE",
+"168 671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"863 571 LINE",
+"863 722 LINE",
+"428 722 LINE",
+"428 571 LINE"
 );
 }
 );
@@ -229640,10 +229913,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"598 721 LINE",
-"598 775 LINE",
-"163 775 LINE",
-"163 721 LINE"
+"598 781 LINE",
+"598 835 LINE",
+"163 835 LINE",
+"163 781 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"898 691 LINE",
+"898 745 LINE",
+"463 745 LINE",
+"463 691 LINE"
 );
 }
 );
@@ -229661,10 +229943,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"527 651 LINE",
-"554 802 LINE",
-"119 802 LINE",
-"92 651 LINE"
+"527 741 LINE",
+"554 892 LINE",
+"119 892 LINE",
+"92 741 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"767 641 LINE",
+"794 792 LINE",
+"359 792 LINE",
+"332 641 LINE"
 );
 }
 );
@@ -229682,10 +229973,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"564 691 LINE",
-"574 745 LINE",
-"139 745 LINE",
-"129 691 LINE"
+"564 751 LINE",
+"574 805 LINE",
+"139 805 LINE",
+"129 751 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"794 651 LINE",
+"804 705 LINE",
+"369 705 LINE",
+"359 651 LINE"
 );
 }
 );
@@ -229703,10 +230003,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"524 596 LINE",
-"566 832 LINE",
-"103 832 LINE",
-"61 596 LINE"
+"524 606 LINE",
+"566 842 LINE",
+"103 842 LINE",
+"61 606 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"794 506 LINE",
+"836 742 LINE",
+"373 742 LINE",
+"331 506 LINE"
 );
 }
 );
@@ -229840,6 +230149,163 @@ nodes = (
 "-168 650 LINE",
 "-121 915 LINE",
 "-249 915 LINE"
+);
+}
+);
+width = 0;
+}
+);
+},
+{
+export = 0;
+glyphname = _smart.ye.extend;
+lastChange = "2020-12-19 06:27:42 +0000";
+layers = (
+{
+anchors = (
+{
+name = _haa.acute;
+position = "{436, -45}";
+},
+{
+name = _ye.extend;
+position = "{140, 0}";
+}
+);
+layerId = m002;
+paths = (
+{
+closed = 1;
+nodes = (
+"287 -290 LINE",
+"475 -290 LINE",
+"475 0 LINE",
+"287 0 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _haa.acute;
+position = "{337, -64}";
+},
+{
+name = _ye.extend;
+position = "{369, 0}";
+}
+);
+layerId = m003;
+paths = (
+{
+closed = 1;
+nodes = (
+"223 -290 LINE",
+"275 -290 LINE",
+"275 0 LINE",
+"223 0 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _haa.acute;
+position = "{172, -52}";
+},
+{
+name = _ye.extend;
+position = "{369, 0}";
+}
+);
+layerId = m006;
+paths = (
+{
+closed = 1;
+nodes = (
+"-39 -290 LINE",
+"236 -290 LINE",
+"288 0 LINE",
+"13 0 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _haa.acute;
+position = "{174, -64}";
+},
+{
+name = _ye.extend;
+position = "{369, 0}";
+}
+);
+layerId = m004;
+paths = (
+{
+closed = 1;
+nodes = (
+"-49 -290 LINE",
+"139 -290 LINE",
+"191 0 LINE",
+"3 0 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _haa.acute;
+position = "{231, -74}";
+},
+{
+name = _ye.extend;
+position = "{369, 0}";
+}
+);
+layerId = m005;
+paths = (
+{
+closed = 1;
+nodes = (
+"120 -290 LINE",
+"175 -290 LINE",
+"175 0 LINE",
+"120 0 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _haa.acute;
+position = "{203, -52}";
+},
+{
+name = _ye.extend;
+position = "{369, 0}";
+}
+);
+layerId = "A9B054E9-1A63-4AEF-9EE1-561B1DFE8422";
+paths = (
+{
+closed = 1;
+nodes = (
+"33 -290 LINE",
+"309 -290 LINE",
+"309 0 LINE",
+"33 0 LINE"
 );
 }
 );
