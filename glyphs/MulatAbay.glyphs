@@ -8,7 +8,10 @@ P,
 "/la.base/le-ethiopic",
 "/la.base/le-ethiopic",
 "/_smart.ho.ring.uniq/le-ethiopic",
-"/la.base/le-ethiopic"
+"/la.base/le-ethiopic",
+"0",
+"/ge-ethiopic",
+"/ya-ethiopic"
 );
 classes = (
 {
@@ -1377,12 +1380,10 @@ idotbelow.ccmp0
 name = "Axis Mappings";
 value = {
 wdth = {
-49 = 49;
-200 = 200;
+0 = 0;
 };
 wght = {
-100 = 100;
-700 = 700;
+100 = 700;
 };
 };
 },
@@ -1390,6 +1391,10 @@ wght = {
 name = fsType;
 value = (
 );
+},
+{
+name = "Variable Font Origin";
+value = m002;
 },
 {
 name = license;

@@ -1,81 +1,18 @@
- for the GlobalFontFamily fonts
+Mulat Abay is a Unicode typeface family that supports all languages that
+use the Latin script and Geez Scripts. For Apps that support Ligatures and OpenType features, It introduces Capitalization to the Geez (EThiopic)  based languages. The styles in Mulat Abay use accents to base glyphs to rethink how these characters are drawn. Visit https://mulat.org for more
 
-This file provides detailed information on the GlobalFontFamily Font Software.
-This information should be distributed along with the GlobalFontFamily fonts
-and any derivative works.
+This is the first release
+Documentation can be found at https://mulat.org
+To contribute to the project see https://github.com/fasilx/mulatAbay and open a pull request.
 
-Basic Font Information
-
-GlobalFontFamily is a Unicode typeface family that supports all languages that
-use the Latin script and its variants, and could be expanded to support other
-scripts.
-
-NewWorldFontFamily is based on the GlobalFontFamily and also supports Greek,
-Hebrew, Cyrillic and Armenian.
-
-More specifically, this release supports the following Unicode ranges...
-This release contains...
-Documentation can be found at...
-To contribute to the project...
-
-ChangeLog
-
-10 December 2010 (Fred Foobar) GlobalFontFamily-devel version 1.4
-- fix new build and testing system (bug #123456)
-
-1 August 2008 (Tom Parker) GlobalFontFamily version 1.2.1
-- Tweaked the smart font code (Branch merged with trunk version)
-- Provided improved build and debugging environment for smart behaviours
-
-7 February 2007 (Pat Johnson) NewWorldFontFamily Version 1.3
-- Added Greek and Cyrillic glyphs
-
-7 March 2006 (Fred Foobar) NewWorldFontFamily Version 1.2
-- Tweaked contextual behaviours
-
-1 Feb 2005 (Jane Doe) NewWorldFontFamily Version 1.1
-- Improved build script performance and verbosity
-- Extended the smart code documentation
-- Corrected minor typos in the documentation
-- Fixed position of combining inverted breve below (U+032F)
-- Added OpenType/Graphite smart code for Armenian
-- Added Armenian glyphs (U+0531 -> U+0587) 
-- Released as "NewWorldFontFamily"
-
-1 Jan 2005 (Joe Smith) GlobalFontFamily Version 1.0
-- Initial release
 
 Acknowledgements
 
-If you make modifications be sure to add your name (N), email (E), web-address
-(if you have one) (W) and description (D). This list is in alphabetical order.
+N: Fasil Fikreab
+E: fasil.fikreab@gmail.com
+W: http://mulat.org
 
-N: Jane Doe
-E: jane@university.edu
-W: http://art.university.edu/projects/fonts
-D: Contributor - Armenian glyphs and code
 
-N: Fred Foobar
-E: fred@foobar.org
-W: http://foobar.org
-D: Contributor - misc Graphite fixes
+mulat.org is a not-for-profit developer startup that promises to create software based learning tools for students in Ethiopia and Eritrea. 
 
-N: Pat Johnson
-E: pat@fontstudio.org
-W: http://pat.fontstudio.org
-D: Designer - Greek & Cyrillic glyphs based on Roman design
-
-N: Tom Parker
-E: tom@company.com
-W: http://www.company.com/tom/projects/fonts
-D: Engineer - original smart font code
-
-N: Joe Smith
-E: joe@fontstudio.org
-W: http://joe.fontstudio.org
-D: Designer - original Roman glyphs
-
-Fontstudio.org is an not-for-profit design group whose purpose is...
-Foobar.org is a distributed community of developers...
-Company.com is a small business who likes to support community designers...
-University.edu is a renowned educational institution with a strong design department...
+ 
